@@ -15,7 +15,7 @@
 - GitHub Enterprise - 为需要内部部署Github的企业准备了（GHE）[https://enterprise.github.com/home](https://enterprise.github.com/home)
 
 ##参考：
-《GitHub入门与实践》2015年7月1日 
+《[GitHub入门与实践](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B011LPUB4M)》2015年7月1日 
 
 - 大塚弘记 (作者), 支鹏浩 (译者), 刘斌 (译者)
 
@@ -57,5 +57,7 @@ GitHub 为我们提供了解决这些问题的机会和功能。
 4.包含GitHub的开发流程和辅助工具，适合需要引入GitHub的公司或团队直接使用
 
 ##作者简介
-###大塚弘记
+
+- 大塚弘记
+
 将敏捷软件开发导入开发现场的领军人物，以顾问身份就Web应用的开发及服务指导过多家企业和团队。曾为多家企业和团队导入GitHub，在建立一天之内多次部署的开发体制方面拥有丰富经验。
