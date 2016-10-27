@@ -1,5 +1,6 @@
 # Hello-World
 - 使用GitHub Flavored Markdown (GFM) 语法
+- 参考：图灵社区《Markdown语法》 [http://www.ituring.com.cn/article/775](http://www.ituring.com.cn/article/775)
 
 ##Github [https://github.com/](https://github.com/)
 - Github的吉祥物 The Octodex - GitHub Octodex [https://octodex.github.com/](https://octodex.github.com/)
