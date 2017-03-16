@@ -2,7 +2,7 @@
 - 使用GitHub Flavored Markdown (GFM) 语法
 - 参考：图灵社区《Markdown语法》 [http://www.ituring.com.cn/article/775](http://www.ituring.com.cn/article/775)
 
-##Github [https://github.com/](https://github.com/)
+## Github [https://github.com/](https://github.com/)
 - Github的吉祥物 The Octodex - GitHub Octodex [https://octodex.github.com/](https://octodex.github.com/)
 - Github上正在开发的知名软件 [https://github.com/trending](https://github.com/trending)
 - Github官方博客 [https://github.com/blog/broadcasts](https://github.com/blog/broadcasts)
@@ -14,8 +14,8 @@
 - Ace - The High Performance Code Editor for the Web [https://ace.c9.io/#nav=about](https://ace.c9.io/#nav=about) 
 - GitHub Enterprise - 为需要内部部署Github的企业准备了（GHE）[https://enterprise.github.com/home](https://enterprise.github.com/home)
 
-##参考：
-《[GitHub入门与实践](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B011LPUB4M)》2015年7月1日 （[中文PDF版](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/%E3%80%8AGitHub%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B(%20%5B%E6%97%A5%5D%20%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0%20)%20%E4%B8%AD%E6%96%87PDF%E7%89%88.pdf)）
+## 参考：
+ 《[GitHub入门与实践](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B011LPUB4M)》2015年7月1日 （[中文PDF版](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/%E3%80%8AGitHub%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B(%20%5B%E6%97%A5%5D%20%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0%20)%20%E4%B8%AD%E6%96%87PDF%E7%89%88.pdf)）
 - 大塚弘记 (作者), 支鹏浩 (译者), 刘斌 (译者)
 
 图灵社区 : 
@@ -27,7 +27,7 @@
 
 - github-book/fizzbuzz [https://github.com/github-book/fizzbuzz](https://github.com/github-book/fizzbuzz) 
 
-##编辑推荐
+## 编辑推荐
 
 与全世界程序员分享你的代码！
 
@@ -55,7 +55,7 @@ GitHub 为我们提供了解决这些问题的机会和功能。
 
 4.包含GitHub的开发流程和辅助工具，适合需要引入GitHub的公司或团队直接使用
 
-##作者简介
+## 作者简介
 
 - 大塚弘记
 
