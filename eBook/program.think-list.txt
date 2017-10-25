@@ -1,42 +1,41 @@
-¡¾±à³ÌËæÏë¡¿µÄ²©¿ÍÖ÷Õ¾µã (BlogSpot) https://program-think.blogspot.com/
-¡¾±à³ÌËæÏë¡¿ÊÕ²ØµÄµç×ÓÊéÇåµ¥£¨¶à¸öÑ§¿Æ£¬º¬ÏÂÔØÁ´½Ó£©https://github.com/programthink/books
+ã€ç¼–ç¨‹éšæƒ³ã€‘çš„åšå®¢ä¸»ç«™ç‚¹ (BlogSpot) https://program-think.blogspot.com/
+ã€ç¼–ç¨‹éšæƒ³ã€‘æ”¶è—çš„ç”µå­ä¹¦æ¸…å•ï¼ˆå¤šä¸ªå­¦ç§‘ï¼Œå«ä¸‹è½½é“¾æŽ¥ï¼‰https://github.com/programthink/books
 
-ÒÔÏÂÊÇ¡¾±à³ÌËæÏëµç×ÓÍ¼Êé¹Ý¡¿ËùÓÐÄ¿Â¼µÄ BT Sync ÃÜÔ¿¡£
+ä»¥ä¸‹æ˜¯ã€ç¼–ç¨‹éšæƒ³ç”µå­å›¾ä¹¦é¦†ã€‘æ‰€æœ‰ç›®å½•çš„ BT Sync å¯†é’¥ã€‚
 
-Í¨¹ýÒÔÏÂÃÜÔ¿£¬Äã¿ÉÒÔÓÃ BT Sync Í¬²½µ½Ã¿Ò»¸öÄ¿Â¼°üº¬µÄËùÓÐµç×ÓÊé¡£
+é€šè¿‡ä»¥ä¸‹å¯†é’¥ï¼Œä½ å¯ä»¥ç”¨ BT Sync åŒæ­¥åˆ°æ¯ä¸€ä¸ªç›®å½•åŒ…å«çš„æ‰€æœ‰ç”µå­ä¹¦ã€‚
 
-°³»áÊ±³£¸üÐÂ¡£Ã¿´Î¸üÐÂºó£¬BT Sync »á×Ô¶¯°ÑÐÂÔöµÄµç×ÓÊéÍ¬²½µ½ÄãµÄÓ²ÅÌ¡£
+ä¿ºä¼šæ—¶å¸¸æ›´æ–°ã€‚æ¯æ¬¡æ›´æ–°åŽï¼ŒBT Sync ä¼šè‡ªåŠ¨æŠŠæ–°å¢žçš„ç”µå­ä¹¦åŒæ­¥åˆ°ä½ çš„ç¡¬ç›˜ã€‚
 
 
-BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD    ÕþÖÎ
+BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD    æ”¿æ²»
 
-BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB    ÐÄÀíÑ§
+BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB    å¿ƒç†å­¦
 
-BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q    ÀúÊ·
+BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q    åŽ†å²
 
-B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX    ¾­¼Ã
+B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX    ç»æµŽ
 
-B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ    ¹ÜÀí
+B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ    ç®¡ç†
 
-BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6    Éç»áÑ§
+BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6    ç¤¾ä¼šå­¦
 
-BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK    ÎÄÒÕ
+BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK    æ–‡è‰º
 
-B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF    ÕÜÑ§
+B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF    å“²å­¦
 
-BMWWZALG4P56LREF47EE2WSWHZEM4E6BL    ¾üÊÂ
+BMWWZALG4P56LREF47EE2WSWHZEM4E6BL    å†›äº‹
 
 BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE    IT
 
 
 
-
-ÒÔÏÂÒ³ÃæÊÇ¡¾ËùÓÐ¡¿µç×ÓÊéµÄÇåµ¥¡£
-Çåµ¥ÖÐ°üº¬Ã¿±¾ÊéµÄ¡°ÖÐÎÄÃû¡¢Ó¢ÎÄÃû¡¢×÷Õß¡¢Ìí¼ÓÈÕÆÚ¡¢¼ò½é¡±¡£
+ä»¥ä¸‹é¡µé¢æ˜¯ã€æ‰€æœ‰ã€‘ç”µå­ä¹¦çš„æ¸…å•ã€‚
+æ¸…å•ä¸­åŒ…å«æ¯æœ¬ä¹¦çš„â€œä¸­æ–‡åã€è‹±æ–‡åã€ä½œè€…ã€æ·»åŠ æ—¥æœŸã€ç®€ä»‹â€ã€‚
 
 https://code.google.com/p/program-think/wiki/Books
 
-³ýÁËÉÏÃæ¡°µç×ÓÍ¼Êé¹Ý¡±ÄÇ¼¸¸öÄ¿Â¼£¬ÏÂÃæÕâ2¸öÄ¿Â¼£¬Äã¿ÉÄÜÒ²»á¸ÐÐËÈ¤¡£
+é™¤äº†ä¸Šé¢â€œç”µå­å›¾ä¹¦é¦†â€é‚£å‡ ä¸ªç›®å½•ï¼Œä¸‹é¢è¿™2ä¸ªç›®å½•ï¼Œä½ å¯èƒ½ä¹Ÿä¼šæ„Ÿå…´è¶£ã€‚
 
-BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    ·­Ç½Èí¼þ£¨°üº¬³£¼ûµÄ·­Ç½Èí¼þ£¬Ê±³£¸üÐÂ£©
-B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    ¡°²©¿ÍÀëÏßä¯ÀÀ¡±ÒÔ¼°¡°²©¿Íµç×ÓÊéÖÆ×÷½Å±¾¡±
+BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    ç¿»å¢™è½¯ä»¶ï¼ˆåŒ…å«å¸¸è§çš„ç¿»å¢™è½¯ä»¶ï¼Œæ—¶å¸¸æ›´æ–°ï¼‰
+B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    â€œåšå®¢ç¦»çº¿æµè§ˆâ€ä»¥åŠâ€œåšå®¢ç”µå­ä¹¦åˆ¶ä½œè„šæœ¬â€
