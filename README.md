@@ -27,7 +27,7 @@
 > 防录音安全解决方案  | [阅读链接](./Technical File(PDF)/安全技术解决方案/防录音安全解决方案.pdf)
 > Lantern 4.4.0 (20171031.191640) - readme  | [阅读链接](./Technical File(PDF)/ProgramThink/Lantern 4.4.0 (20171031.191640) - readme.txt)
 > BT Sync - eblog List  | [阅读链接](./Technical File(PDF)/ProgramThink/BT Sync - eblog List.txt)
-> BT sync 使用说明截图  | [图-1](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg)、[图-2](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg)、[图-3](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.jpg)、[图-4](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/4.jpg)
+> BT sync 使用说明截图  | [图-1](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg)、[图-2](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg)、[图-3](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.png)、[图-4](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/4.jpg)
 > 订阅《中国数字时代》  | [阅读链接](./Technical File(PDF)/ProgramThink/订阅《中国数字时代》.md)
 
 --------------------------------------------------------------------
