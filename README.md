@@ -156,7 +156,7 @@
     <tr>
         <td>025</td>
         <td>订阅《中国数字时代》</td>
-        <td><a href="./Technical File(PDF)/ProgramThink/订阅《中国数字时代》.md">阅读链接</a></td>
+        <td><a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/%E8%AE%A2%E9%98%85%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E3%80%8B.md">阅读链接</a></td>
 		<td> &nbsp </td>
     </tr>
 </table>
