@@ -251,8 +251,8 @@
 
 <table>  
     <tr><td><B>序号</B></td>
-        <td><B>书名</B></td>
-        <td><B>阅读链接</B></td>
+        <td><B>歌名</B></td>
+        <td><B>链接</B></td>
         <td><B>备注</B></td>
     </tr>    
     <tr>
