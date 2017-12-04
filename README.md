@@ -1,4 +1,4 @@
-# Hello-World [List](https://taoste.github.io/)
+# README : [List](https://taoste.github.io/Hello-World/)
 
 --------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 > github使用指南 | [阅读链接](./Technical File(PDF)/github使用指南.pdf)
 > 《GitHub入门与实践》( [日] 大塚弘记 ) 中文PDF版 | [阅读链接](./Technical File(PDF)/《GitHub入门与实践》( [日] 大塚弘记 ) 中文PDF版.pdf)
 >  一张图让你30分钟学会Python-20170512 | [阅读链接](./Technical File(PDF)/一张图让你30分钟学会Python-20170512.png)
-> 在Hexo中自动为Yilia主题增加版权声明  | [阅读链接](./Technical File(PDF)/在Hexo中自动为Yilia主题增加版权声明 _ (￣.pdf)
+> 在Hexo中自动为Yilia主题增加版权声明  | [阅读链接](./Technical File(PDF)/在Hexo中自动为Yilia主题增加版权声明%20_%20(￣.pdf)
 > 携程旅行网文档-携程外部漏洞报告处理流程 | [阅读链接](./Technical File(PDF)/携程旅行网文档-携程外部漏洞报告处理流程.pdf)
 > 电子世界-一种基于Microsoft Excel自动生成HTML表单及打印格式的方法  | [阅读链接](./Technical File(PDF)/电子世界-一种基于Microsoft Excel自动生成HTML表单及打印格式的方法 .pdf)
 > Iris使用详解—基础篇  | [阅读链接](./Technical File(PDF)/安全技术解决方案/Iris使用详解—基础篇.pdf)
