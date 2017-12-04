@@ -221,24 +221,29 @@
     </tr> 
     <tr>
         <td>009</td>
+        <td>《这些道理没有人告诉过你》</td>
+        <td><a href="./eBook/《这些道理没有人告诉过你》作者杨萃先%20.pdf">阅读链接</a></td>
+        <td>作者：杨萃先</td>	
+    <tr>
+        <td>010</td>
         <td>诗人、学者、战士——介绍闻一多及其手稿</td>
         <td><a href="./eBook/诗人、学者、战士——介绍闻一多及其手稿P020101123491278395003.pdf">阅读链接</a></td>
         <td> &nbsp </td>
     </tr> 
     <tr>
-        <td>010</td>
+        <td>011</td>
         <td>赫鲁晓夫：反对个人崇拜及其后果</td>
         <td><a href="./eBook/赫鲁晓夫：反对个人崇拜及其后果.pdf">阅读链接</a></td>
         <td> &nbsp </td>
     </tr> 
     <tr>
-        <td>011</td>
+        <td>012</td>
         <td>金瓶梅完整版(崇禎本).chm</td>
         <td><a href="./eBook/金瓶梅完整版(崇禎本).chm">下载链接</a></td>
         <td> &nbsp </td>
     </tr> 
     <tr>
-        <td>012</td>
+        <td>013</td>
         <td>金瓶梅（崇祯本）.mobi</td>
         <td><a href="./eBook/金瓶梅（崇祯本）.mobi">下载链接</a></td>
         <td> &nbsp </td>
