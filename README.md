@@ -1,4 +1,4 @@
-# README : [List](https://taoste.github.io/Hello-World/)
+# README :
 
 <hr> 
 
