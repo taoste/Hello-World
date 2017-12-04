@@ -172,7 +172,12 @@
 	<tr>
         <td>024</td>
         <td>BT sync 使用说明截图</td>
-        <td>[图-1](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg)、[图-2](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg)、[图-3](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.png)、[图-4](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/4.jpg">阅读链接</a></td>
+        <td>
+		<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg">[图-1]</a>、
+		<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg">[图-2]</a>、
+		<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.png">[图-3]</a>、
+		<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/4.jpg">[图-4]</a>
+		</td>
         <td> &nbsp </td>
     </tr>  
 	
@@ -282,6 +287,7 @@
     </tr>  	
 	
 </table>
+
 --------------------------------------------------------------------
 
 ./Music/那年夏天的歌/
