@@ -4,7 +4,7 @@
 
 ./Technical File(PDF)/
 > -- | --
-> 书名 | 阅读链接
+> *书名* | *阅读链接*
 > Python基础教程(crossin全60课) | [阅读链接](./Technical File(PDF)/Python基础教程(crossin全60课).pdf)
 > Python编程入门（第3版）- 高清扫描文字版，带详细书签 | [阅读链接](./Technical File(PDF)/Python编程入门（第3版）- 高清扫描文字版，带详细书签.pdf)
 > Python自动化运维：技术与最佳实践（刘天斯-著） | [阅读链接](./Technical File(PDF)/Python自动化运维：技术与最佳实践（刘天斯-著）.pdf)
@@ -12,7 +12,6 @@
 > github使用指南 | [阅读链接](./Technical File(PDF)/github使用指南.pdf)
 > 《GitHub入门与实践》( [日] 大塚弘记 ) 中文PDF版 | [阅读链接](./Technical File(PDF)/《GitHub入门与实践》( [日] 大塚弘记 ) 中文PDF版.pdf)
 >  一张图让你30分钟学会Python-20170512 | [阅读链接](./Technical File(PDF)/一张图让你30分钟学会Python-20170512.png)
-> 在Hexo中自动为Yilia主题增加版权声明  | [阅读链接](./Technical File(PDF)/在Hexo中自动为Yilia主题增加版权声明%20_%20(￣.pdf)
 > 携程旅行网文档-携程外部漏洞报告处理流程 | [阅读链接](./Technical File(PDF)/携程旅行网文档-携程外部漏洞报告处理流程.pdf)
 > 电子世界-一种基于Microsoft Excel自动生成HTML表单及打印格式的方法  | [阅读链接](./Technical File(PDF)/电子世界-一种基于Microsoft Excel自动生成HTML表单及打印格式的方法 .pdf)
 > Iris使用详解—基础篇  | [阅读链接](./Technical File(PDF)/安全技术解决方案/Iris使用详解—基础篇.pdf)
@@ -38,6 +37,7 @@
 
 ./eBook/
 > -- | --
+> *书名* | *阅读链接*
 > Gaobook20161115  | [阅读链接](./eBook/Gaobook20161115.pdf)
 > Heyday ：China 2013 year  | [阅读链接](./eBook/Heyday ：China 2013 year.pdf)
 > JianFeng2year.epub  | [阅读链接](./eBook/JianFeng2year.epub)
@@ -55,4 +55,5 @@
 
 ./Music/那年夏天的歌/
 > -- | --
+> *歌名* | *链接*
 > 群星-历史的伤口 |  [音乐](./Music/%E9%82%A3%E5%B9%B4%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%AD%8C/%E7%BE%A4%E6%98%9F-%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3.mp3) - [lrc歌词](./Music/%E9%82%A3%E5%B9%B4%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%AD%8C/%E7%BE%A4%E6%98%9F-%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3.lrc)
