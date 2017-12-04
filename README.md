@@ -17,7 +17,7 @@
 > Iris使用详解—基础篇  | [阅读链接](./Technical File(PDF)/安全技术解决方案/Iris使用详解—基础篇.pdf)
 > SAFE：个人安全之最佳习惯  | [阅读链接](./Technical File(PDF)/安全技术解决方案/SAFE：个人安全之最佳习惯.pdf)
 > UHV输电线路对中波导航台无线电信号的干扰  | [阅读链接](./Technical File(PDF)/安全技术解决方案/UHV输电线路对中波导航台无线电信号的干扰.pdf)
-> UHV输电线路对中波导航台无线电信号的干扰  | [阅读链接](./Technical File(PDF)/安全技术解决方案/fmchinac.pdf)
+> 中国调频广播电台频率表  | [阅读链接](./Technical File(PDF)/安全技术解决方案/fmchinac.pdf)
 > 《家居智能裝置防護》趨勢科技顧問總監李浩然20170421_03  | [阅读链接](./Technical File(PDF)/安全技术解决方案/《家居智能裝置防護》趨勢科技顧問總監李浩然20170421_03.pdf)
 > 《网络信息内容安全：VPN》讲义-张华平-2010  | [阅读链接](./Technical File(PDF)/安全技术解决方案/《网络信息内容安全：VPN》讲义-张华平-2010.pdf)
 > 《非法产销“间谍器材”乱象堪忧》- 南方法制报 2014年8月11日  | [阅读链接](./Technical File(PDF)/安全技术解决方案/《非法产销“间谍器材”乱象堪忧》- 南方法制报 2014年8月11日.pdf)
@@ -27,10 +27,7 @@
 > 防录音安全解决方案  | [阅读链接](./Technical File(PDF)/安全技术解决方案/防录音安全解决方案.pdf)
 > Lantern 4.4.0 (20171031.191640) - readme  | [阅读链接](./Technical File(PDF)/ProgramThink/Lantern 4.4.0 (20171031.191640) - readme.txt)
 > BT Sync - eblog List  | [阅读链接](./Technical File(PDF)/ProgramThink/BT Sync - eblog List.txt)
-> BT sync 使用说明截图-1  | [阅读链接](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg)
-> BT sync 使用说明截图-2  | [阅读链接](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg)
-> BT sync 使用说明截图-3  | [阅读链接](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.jpg)
-> BT sync 使用说明截图-4  | [阅读链接](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/4.jpg)
+> BT sync 使用说明截图  | [图-1](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg)、[图-2](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg)、[图-3](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.jpg)、[图-4](./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/4.jpg)
 > 订阅《中国数字时代》  | [阅读链接](./Technical File(PDF)/ProgramThink/订阅《中国数字时代》.md)
 
 --------------------------------------------------------------------
