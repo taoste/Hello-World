@@ -16,7 +16,7 @@
         <td>001</td>
         <td>Python基础教程</td>
         <td><a href="./Technical File(PDF)/Python基础教程(crossin全60课).pdf">阅读链接</a></td>
-        <td>(crossin全60课">阅读链接</a></td>
+        <td>(crossin全60课）</td>
     </tr>    
   
       <tr>
@@ -184,7 +184,7 @@
 	<tr>
         <td>025</td>
         <td>订阅《中国数字时代》</td>
-        <td><a href="./Technical File(PDF)/ProgramThink/订阅《中国数字时代》.md)
+        <td><a href="./Technical File(PDF)/ProgramThink/订阅《中国数字时代》.md">阅读链接</a></td>
    </td>
 
 </table>
@@ -287,7 +287,6 @@
     </tr>  	
 	
 </table>
-
 --------------------------------------------------------------------
 
 ./Music/那年夏天的歌/
