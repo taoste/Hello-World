@@ -186,7 +186,7 @@
     <tr>
         <td>003</td>
         <td>JianFeng2year.epub</td>
-        <td><a href="./eBook/JianFeng2year.epub">阅读链接</a></td>
+        <td><a href="./eBook/JianFeng2year.epub">下载链接</a></td>
         <td> &nbsp </td>
     </tr> 
     <tr>
@@ -210,7 +210,7 @@
      <tr>
         <td>007</td>
         <td>programthink-books-list.wiki</td>
-        <td><a href="./eBook/programthink-books-list.wiki">阅读链接</a></td>
+        <td><a href="./eBook/programthink-books-list.wiki">下载链接</a></td>
         <td> &nbsp </td>
     </tr> 
     <tr>
@@ -234,13 +234,13 @@
     <tr>
         <td>011</td>
         <td>金瓶梅完整版(崇禎本).chm</td>
-        <td><a href="./eBook/金瓶梅完整版(崇禎本).chm">阅读链接</a></td>
+        <td><a href="./eBook/金瓶梅完整版(崇禎本).chm">下载链接</a></td>
         <td> &nbsp </td>
     </tr> 
     <tr>
         <td>012</td>
         <td>金瓶梅（崇祯本）.mobi</td>
-        <td><a href="./eBook/金瓶梅（崇祯本）.mobi">阅读链接</a></td>
+        <td><a href="./eBook/金瓶梅（崇祯本）.mobi">下载链接</a></td>
         <td> &nbsp </td>
     </tr> 	
 </table>
