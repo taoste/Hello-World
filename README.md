@@ -15,6 +15,7 @@
 <hr> 
 
 ./Technical File(PDF)/
+
 <table>  
   <tr>
         <td><B>序号</B></td>
@@ -38,7 +39,7 @@
         <td><a href="./Technical File(PDF)/Python基础教程(crossin全60课).pdf">阅读链接</a></td>
         <td>(crossin全60课）</td>
     </tr>      
-   ?<tr>
+   <tr>
         <td>002</td>
         <td>Python编程入门（第3版）</td>
         <td> <a href="./Technical File(PDF)/Python编程入门（第3版）- 高清扫描文字版，带详细书签.pdf">阅读链接</a></td>
