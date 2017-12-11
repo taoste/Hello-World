@@ -22,7 +22,15 @@
         <td><B>书名</B></td>
         <td><B>阅读链接</B></td>
         <td><B>备注</B></td>
-    </tr>     
+    </tr> 	
+    <tr>
+        <td>000</td>
+        <td>技术干货博客</td>
+        <td><a href="../dirtysalt/">阅读链接</a></td>
+        <td>dirtysalt's homepage 
+	(<a href="https://dirtysalt.github.io/html/">原载</a>）
+	</td>
+    </tr>  
     <tr>
         <td>001</td>
         <td>Python基础教程</td>
