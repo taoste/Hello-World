@@ -15,7 +15,6 @@
 <hr> 
 
 ./Technical File(PDF)/
-
 <table>  
   <tr>
         <td><B>序号</B></td>
@@ -27,7 +26,7 @@
     <td>000</td>
     <td>技术干货博客</td>
         <td><a href="../dirtysalt/">阅读链接</a></td>
-        <td>dirtysalt's homepage 
+        <td>dirtysalt's
 	(<a href="https://dirtysalt.github.io/html/">原载</a>：
 	 <a href="https://dirtysalt.github.io/html/paste.html">Paste</a> | 
 	 <a href="https://dirtysalt.github.io/html/fun.html">Funny</a> ）
