@@ -28,7 +28,9 @@
         <td>技术干货博客</td>
         <td><a href="../dirtysalt/">阅读链接</a></td>
         <td>dirtysalt's homepage 
-	(<a href="https://dirtysalt.github.io/html/">原载</a>）
+	(<a href="https://dirtysalt.github.io/html/">原载</a>：
+	 <a href="https://dirtysalt.github.io/html/paste.html">Paste</a> | 
+	 <a href="https://dirtysalt.github.io/html/fun.html">Funny</a> ）
 	</td>
     </tr>  
     <tr>
@@ -113,10 +115,7 @@
         <td>015</td>
         <td>招商银行香港一卡通 - 业务介绍</td>
         <td><a href="./Technical File(PDF)/招商银行香港一卡通/cmb-hk-account.html">阅读链接</a></td>
-        <td>转载： 
-	    <a href="https://dirtysalt.github.io/html/paste.html">Paste</a> | 
-	    <a href="https://dirtysalt.github.io/html/fun.html">Funny</a>
-	</td>
+        <td> &nbsp </td>
     </tr>   	
     <tr>
         <td>016</td>
