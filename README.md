@@ -317,6 +317,7 @@
 
 ./images/
 <img src="https://github.com/taoste/Hello-World/blob/master/images/0.jpg?raw=true"/>
+<img src="https://github.com/taoste/Hello-World/master/Technical%20File(PDF)/产品经理常用工具总结.png?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/201702151452533692.jpg?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/201702151453082348.jpg?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/201703011020173137.jpg?raw=true"/>
