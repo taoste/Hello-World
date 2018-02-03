@@ -191,7 +191,7 @@
         <td>027</td>
         <td>订阅《中国数字时代》</td>
         <td><a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/%E8%AE%A2%E9%98%85%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E3%80%8B.md">阅读链接</a></td>
-		<td> &nbsp; </td>
+		<td> 中国数字时代 - <a href="https://github.com/taoste/Hello-World/tree/master/GFW/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95">免翻墙浏览器扩展</a></td>	   
     </tr>
 </table>
 
