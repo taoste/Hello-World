@@ -180,7 +180,7 @@
     <tr>
         <td>026</td>
         <td>BT sync 使用说明截图</td>
-	<td> &nbsp;&nbsp; </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp; </td>
         <td>图示：<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/1.jpg">[图-1]</a>、
 		<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/2.jpg">[图-2]</a>、
 		<a href="./Technical File(PDF)/ProgramThink/BTSync/1.4.111/BT sync 使用说明截图/3.png">[图-3]</a>、
