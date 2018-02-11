@@ -56,12 +56,11 @@
         <td>004</td>
         <td>IP地址管理与子网划分</td>
         <td><a href="./IP地址管理与子网划分/index.txt">阅读指南</a></td>
-    <td><a href="./IP地址管理与子网划分/前言.txt">前言</a>: 
-	    <a href="./IP地址管理与子网划分/01.PDF">1</a>、
-             <a href="./IP地址管理与子网划分/02.pdf">2</a>、
-	      <a href="./IP地址管理与子网划分/03.pdf">3</a>、
-	      <a href="./IP地址管理与子网划分/04.pdf">4</a>
-	    </td>
+    <td><a href="./IP地址管理与子网划分/前言.txt">前言</a>:
+	    <a href="./IP地址管理与子网划分/01.PDF">1</a>、
+	    <a href="./IP地址管理与子网划分/02.pdf">2</a>、
+	    <a href="./IP地址管理与子网划分/03.pdf">3</a>、
+	    <a href="./IP地址管理与子网划分/04.pdf">4</a></td>
     </tr>
     
   <tr>
