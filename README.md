@@ -345,6 +345,7 @@
 <img src="https://github.com/taoste/Hello-World/blob/master/images/201702151453082348.jpg?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/201703011020173137.jpg?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/201710271051568105.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/images/%E9%95%BF%E4%B8%89%E8%A7%92%E4%B8%80%E5%B0%8F%E6%97%B6%E7%BB%8F%E6%B5%8E%E5%9C%88.gif?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/胡适：不苟且.jpg?raw=true"/>
 
 </body>
