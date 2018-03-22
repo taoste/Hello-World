@@ -1,0 +1,45 @@
+请问windows10锁屏图片文件存放位置在哪 - Microsoft Community
+https://answers.microsoft.com/zh-hans/windows/forum/windows_10/%E8%AF%B7%E9%97%AEwindows10%E9%94%81%E5%B1%8F/b454cdb8-dae4-4d8e-8a51-4ed3f08c4c97
+
+提取Win10内置的锁屏壁纸的方法 | Windows 10 Pro
+https://www.windows10.pro/win10-built-in-lock-screen-wallpaper/
+
+-----------------------------------------------------------------------
+
+方法一：手动提取Win10聚焦锁屏壁纸
+
+
+Win10内置锁屏壁纸的路径：
+
+
+Win10 10049预览版及其后的版本：
+
+C:\Users\用户名\appdata\Local\Packages\Microsoft.Windows.ContentDeliveryManager_********\LocalState\Assets\
+
+Win10 10049预览版之前的版本：
+
+C:\Users\用户名\appdata\Local\Packages\Microsoft.ContentDeliveryManager_********\LocalState\Assets\
+
+注：这些壁纸都是Win10系统自动从微软服务器下载的，所以你会看到文件的时间并不一致，并且不同用户的壁纸也不一样。
+
+不过Assets目录下的这些壁纸文件默认都没有后缀名，只有一长串文件名。
+
+
+提取Win10内置的锁屏壁纸的方法
+
+
+你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：
+
+首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。
+
+然后以管理员身份运行命令提示符，输入以下命令：
+
+ren D:\Wallpaper\* *.jpg
+
+回车运行，即可为Wallpaper目录下的所有文件添加.jpg后缀名。这样这些壁纸图片就能够正常显示了。如图：
+
+提取Win10内置的锁屏壁纸的方法
+
+你会看到，一般每个画面有两张壁纸，一张为1920*1080分辨率的横屏桌面壁纸，一张为1080*1920分辨率的竖屏手机桌面壁纸。
+
+现在你就可以把这些图片用作其他电脑或手机的桌面壁纸了。
