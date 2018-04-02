@@ -1,0 +1,19 @@
+
+##ipconfig /flushdns 清除系统DNS缓存
+## notepad C:\Windows\System32\drivers\etc\hosts
+
+#草榴社區
+104.25.32.112 t66y.com
+#104.25.31.112 t66y.com
+#2400:CB00:2048:1::6819:1F70 t66y.com
+#2400:CB00:2048:1::6819:2070 t66y.com
+
+#佐拉 - 周曙光的个人网站
+#104.28.27.52 zuola.com
+104.28.26.52 zuola.com
+#2400:CB00:2048:1::681C:1B34 zuola.com
+#2400:CB00:2048:1::681C:1A34 zuola.com
+
+#黃花岡光復網
+##64.150.183.194 huanghuagang.org
+199.34.228.75 www.huanghuagang.org
