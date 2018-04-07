@@ -2,6 +2,8 @@
 ##ipconfig /flushdns 清除系统DNS缓存
 ## notepad C:\Windows\System32\drivers\etc\hosts
 
+204.79.197.217 onedrive.live.com
+
 #草榴社區
 104.25.32.112 t66y.com
 #104.25.31.112 t66y.com
