@@ -25,6 +25,7 @@ http://www.vpngate.net/cn/
 
 当你能翻墙之后，建议到它官网的如下网址，进行邮件订阅。
 http://www.vpngate.net/en/mail.aspx
+http://www.vpngate.net/cn/mail.aspx
 订阅之后，你的邮箱会自动收到“上述镜像网址”的每日更新。
 
 关于 VPN Gate 的更多介绍，请参见【编程随想的博客】的如下几篇博文
