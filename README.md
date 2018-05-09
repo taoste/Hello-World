@@ -10,7 +10,7 @@
 </head>
 <body>
 	
-# README : ( 短网址 go.choong.net/tool/ )
+# README : 
 
 <hr> 
 
