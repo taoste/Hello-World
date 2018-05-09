@@ -6,7 +6,7 @@
 
 赛风 | [下载安卓应用和 Windows 客户端](https://www.psiphon3.com/zh/download.html)
 
-赛风 | [Psiphon China](https://www.psiphontoday.com/zh/)   https://www.psiphontoday.com/zh/
+赛风 | [Psiphon China](https://www.psiphontoday.com/zh/) ( https://www.psiphontoday.com/zh/ )
 
 > “赛风”是老牌的翻墙工具，由加拿大多伦多大学和公民实验室联合开发。
 > 
