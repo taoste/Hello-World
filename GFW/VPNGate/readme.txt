@@ -20,6 +20,8 @@
 由于 VPN Gate 的安装包比较大，而且它的官网已经提供了上述【免翻墙镜像】。
 所以，俺就不在 BT Sync 中提供 VPN Gate 的安装包了。
 
+VPN Gate: 公共 VPN 中继服务器列表
+http://www.vpngate.net/cn/
 
 当你能翻墙之后，建议到它官网的如下网址，进行邮件订阅。
 http://www.vpngate.net/en/mail.aspx
