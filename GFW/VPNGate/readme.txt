@@ -25,6 +25,8 @@
 http://www.vpngate.net/en/mail.aspx
 订阅之后，你的邮箱会自动收到“上述镜像网址”的每日更新。
 
-关于 VPN Gate 的更多介绍，请参见俺的如下几篇博文
+关于 VPN Gate 的更多介绍，请参见【编程随想的博客】的如下几篇博文
 《“如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器》 
 https://program-think.blogspot.com/2013/04/gfw-vpngate.html
+
+编程随想的博客 https://program-think.blogspot.com/
