@@ -10,6 +10,20 @@
 
 https://www.psiphontoday.com/zh/
 
+> “赛风”是老牌的翻墙工具，由加拿大多伦多大学和公民实验室联合开发。
+
+> 赛风官方提供了自动回复邮箱 get@psiphon3.com （往该邮箱发送任意邮件，会收到自动回复，帮你获取赛风的可执行软件）
+
+> 早期的赛风2提供的是网页代理。从赛风3开始，推出了客户端软件，同时支持“VPN模式”和“SSH模式”。
+
+> 软件本身是“绿色软件”，无需安装，无需管理员权限。
+
+> 压缩包内仅有单个可执行文件，带有【数字签名】。
+
+> 为了保险起见，解压缩之后，验证一下数字签名。
+
+> 更详细的介绍，请参见【编程随想的博客】的博文《[“如何翻墙”系列：双管齐下的赛风3](https://program-think.blogspot.com/2011/10/gfw-psiphon.html
+)》
 
  [下载赛风](https://www.psiphon3.com/zh/download.html) - **赛风 | 下载安卓应用和 Windows 客户端** ( [备用仓库](https://github.com/taoste/Hello-World/tree/master/GFW/%E8%B5%9B%E9%A3%8E-psiphon3) )
  
