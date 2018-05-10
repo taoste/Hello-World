@@ -9,6 +9,8 @@ https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh
 （离线下载链接最后加上：?standalone=1）
 
 下载历史版本 https://dl.google.com/chrome/install/[版本号后两位]/chrome_installer.exe
+(要想下载历史版本 Chrome，必须先确定要下载的版本号，然后取版本号第二个小数点后的数字。比如4.0.266.0的下载地址就是：
+http://dl.google.com/chrome/install/266.0/chrome_installer.exe)
 
 适用于 Windows 10/8.1/8/7 ( 正体中文版： 32-bit / 64-bit )
 https://www.google.com/intl/zh-TW/chrome/
