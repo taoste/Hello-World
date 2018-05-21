@@ -1,7 +1,7 @@
 【编程随想】的博客主站点 (BlogSpot) https://program-think.blogspot.com/
 【编程随想】收藏的电子书清单（多个学科，含下载链接）https://github.com/programthink/books
 
-以下是【编程随想电子图书馆】所有目录的 BT Sync 密钥。
+🎦 以下是【编程随想电子图书馆】所有目录的 BT Sync 密钥。
 
 通过以下密钥，你可以用 BT Sync 同步到每一个目录包含的所有电子书。
 
