@@ -8,7 +8,7 @@ https://taoste.github.io/Hello-World/Music/那年夏天的歌/群星-历史的�
 https://taoste.github.io/Hello-World/Music/那年夏天的歌/王建房%20-%20在人间.mp3
 
 
-《那年夏天的歌》BT下载种子
+《群星-历史的伤口》BT下载种子
 
 ed2k://|file|%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3.wmv|15084615|326F8A72CC6C3436C55E07F3B7868A62|/
 
