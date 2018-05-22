@@ -5,7 +5,7 @@
 
 -------------------------------------------------------------------------------
 
-📕 [List](https://taoste.github.io/Hello-World/eBook/README.md) ：
+📕 [List](README.md) ：
 
 https://taoste.github.io/Hello-World/eBook/history.pdf
 
