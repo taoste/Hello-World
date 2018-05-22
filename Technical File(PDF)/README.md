@@ -1,7 +1,4 @@
-强烈推荐👍：《GitHub入门与实践》( [日] 大塚弘记 ) 
-
-阅读链接🔗：《[GitHub入门与实践](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《GitHub入门与实践》(%20%5B日%5D%20大塚弘记%20)%20中文PDF版.pdf)》中文PDF版
-
+强烈推荐👍：《[GitHub入门与实践](https://book.douban.com/subject/26462816/)》( [[日]大塚弘记](https://book.douban.com/subject_search?search_text=%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0) ) ISBN: 9787115394095  🔗[中文PDF版](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《GitHub入门与实践》(%20%5B日%5D%20大塚弘记%20)%20中文PDF版.pdf)
 
 -------------------------------------------------------------------------------
 
