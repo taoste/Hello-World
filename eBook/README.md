@@ -1,7 +1,7 @@
 
 《Ubuntu 系统菜鸟入门完全使用手册》 PDF 电子书教程下载 (四部汇总合集) | 异次元
 
-链接🔗：《[Ubuntu 菜鸟入门完全使用手册合集](https://www.iplaysoft.com/ubuntu-cai-niao-ru-men-pdf.html)》[异次元下载页面](https://dl.iplaysoft.com/files/1900.html) | [百度云网盘下载](https://pan.baidu.com/share/link?shareid=62475&uk=3758096603)
+链接🔗：《[Ubuntu 菜鸟入门完全使用手册合集](https://www.iplaysoft.com/ubuntu-cai-niao-ru-men-pdf.html)》 [异次元下载页面](https://dl.iplaysoft.com/files/1900.html) | [百度云网盘下载](https://pan.baidu.com/share/link?shareid=62475&uk=3758096603)
 
 -------------------------------------------------------------------------------
 
