@@ -4,6 +4,8 @@
 
 📕 [List](https://taoste.github.io/Hello-World/Technical%20File(PDF)/README.md) ：
 
+https://taoste.github.io/Hello-World/Technical%20File(PDF)/a7067.jpg	
+
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/tor%20[红宝书].pdf
 
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/github使用指南.pdf
