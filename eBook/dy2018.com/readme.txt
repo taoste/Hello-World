@@ -3,3 +3,5 @@
  🎧收藏列表：
 
 https://taoste.github.io/Hello-World/eBook/dy2018.com/《天才枪手》.pdf
+
+https://taoste.github.io/Hello-World/eBook/dy2018.com/《大空头》.pdf
