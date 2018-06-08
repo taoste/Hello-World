@@ -15,11 +15,23 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/2018-05-18.png
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/DongFang.pdf
+ 
+ https://taoste.github.io/Hello-World/eBook/yourchina/Jiaxing.pdf
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/cn_edu.png
+ 
+ https://taoste.github.io/Hello-World/eBook/yourchina/CCTV2.pdf
  
  https://taoste.github.io/Hello-World/eBook/yourchina/CN-SY.jpg
  
  https://taoste.github.io/Hello-World/eBook/yourchina/CPC.png	
+ 
+ https://taoste.github.io/Hello-World/eBook/yourchina/19s.pdf
+ 
+
+
+
  
 
  
