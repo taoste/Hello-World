@@ -13,6 +13,8 @@ https://taoste.github.io/Hello-World/eBook/注音符号学习.pdf
 
 https://taoste.github.io/Hello-World/eBook/audio_progchina.txt
 
+https://taoste.github.io/Hello-World/eBook/Marco%20Polettes.png
+
 https://taoste.github.io/Hello-World/eBook/program.think-list.txt
 
 https://taoste.github.io/Hello-World/eBook/Gaobook20161115.pdf
