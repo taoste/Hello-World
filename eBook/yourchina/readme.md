@@ -25,6 +25,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/cn_edu.png
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/large.jpg	
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/CCTV2.pdf
  
  https://taoste.github.io/Hello-World/eBook/yourchina/CN-SY.jpg
