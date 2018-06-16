@@ -4,11 +4,12 @@
 
 -------------------------------------------------------------------
 
-[**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) 适用于 Mac、PC 以及 Linux 的全新、快速浏览器 ( https://www.mozilla.org/zh-CN/firefox/ )
+[**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) ( https://www.mozilla.org/zh-CN/firefox/ )
+适用于 Mac、PC 以及 Linux 的全新、快速浏览器 
 
 👍 [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) 
 
-https://www.mozilla.org/zh-CN/firefox/new/ (👍点击： 高级安装选项和其他平台 )
+( https://www.mozilla.org/zh-CN/firefox/new/ ) (👍点击： 高级安装选项和其他平台 )
 
 Mozilla Firefox 网络浏览器 — [**下载本地化的 Firefox**](https://www.mozilla.org/zh-CN/firefox/all/) — Mozilla
 
