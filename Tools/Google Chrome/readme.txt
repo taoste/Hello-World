@@ -1,3 +1,6 @@
+歡迎使用 Chrome 
+chrome://welcome-win10/
+
 注：谷歌浏览器从v50开始不支持XP，WinXP用户请使用v49
 
 [Note] 🚀 谷歌 Google 系列 · Issue #9 · taoste/taoste.github.io
