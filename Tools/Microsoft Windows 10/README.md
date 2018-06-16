@@ -9,4 +9,6 @@
 
 **Microsoft 官网** : [**面向使用辅助技术的客户的 Windows 10 免费升级优惠**](https://www.microsoft.com/zh-cn/accessibility/windows10upgrade) -  (  活动已过期 )
 
+---------------------------------------------------------------------------------------------------------
 
+[Note] Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
