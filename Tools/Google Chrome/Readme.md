@@ -8,7 +8,7 @@
 
 官方网站：https://www.google.com/intl/zh-TW/chrome/ (👍 正体中文版 ,可靠更新 )
 
-官方网站：https://www.google.com/intl/zh-CN/chrome/ (👎 简体中文版 ,不更新 )
+官方网站：https://www.google.com/intl/zh-CN/chrome/ (👎 简体中文版 ,不定更新 )
  
  Windows/Mac/Linux:离线下载和安装Chrome - Google Chrome帮助
 https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh-Hans
