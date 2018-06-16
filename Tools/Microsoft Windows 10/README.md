@@ -27,6 +27,8 @@
 > 
 > 运行：**ncpa.cpl**，**网络连接** （ C:\WINDOWS\system32\ncpa.cpl ）
 > 
+> 运行：**desk.cpl**，**显示属性** ( C:\WINDOWS\system32\desk.cpl )
+> 
 > 运行：**inetcpl.cpl**，**IE设置** ( C:\WINDOWS\system32\inetcpl.cpl )
 > 
 > 更多：
