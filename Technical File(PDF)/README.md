@@ -33,3 +33,13 @@ https://taoste.github.io/Hello-World/Technical%20File(PDF)/Python编程入门（
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/Flash开启指引（Chrome谷歌浏览器%20%26%20Safari浏览器%20%20-%20开启⽅法）.pdf
 
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/电子世界-一种基于Microsoft%20Excel自动生成HTML表单及打印格式的方法%20.pdf
+
+📕 [Photo](https://taoste.github.io/Hello-World/Technical%20File(PDF)/README.md) ：
+
+<img src="https://github.com/taoste/Hello-World/blob/master/GFW/近视眼的成因.jpg?raw=true"/>
+
+<img src="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/小苹果-%20带蓝牙数码调音台4路7路家用K歌唱吧会议舞台用USB带幻像.jpg?raw=true"/>
+
+<img src="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/微信运营必会武器---最新版V4----工具篇.jpg?raw=true"/>
+
+<img src="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/羽毛球场---示意图.jpg?raw=true"/>
