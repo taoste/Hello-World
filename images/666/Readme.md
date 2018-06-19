@@ -2,6 +2,7 @@
 
 <img src="https://github.com/taoste/Hello-World/blob/master/images/666/googles-new-logo-5078286822539264.2-hp.gif?raw=true"/>	
 <img src="https://github.com/taoste/Hello-World/blob/master/images/666/OGB-INSIDER-BLOGS-GoogleLogox2-Animated.jpg?raw=true"/>	
+<img src="https://github.com/taoste/Hello-World/blob/master/images/666/30s.gif?raw=true"/>
 <p><img src="https://github.com/taoste/Hello-World/blob/master/images/666/【发型师】也许这就是鬼斧神工吧.gif?raw=true"/>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/666/weixiaoshuo.png?raw=true"/></p>
 <img src="https://github.com/taoste/Hello-World/blob/master/images/666/siben.jpg?raw=true"/></p>
