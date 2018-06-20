@@ -35,3 +35,5 @@ https://taoste.github.io/Hello-World/eBook/Heyday%20：China%202013%20year.pdf
 
 https://taoste.github.io/Hello-World/eBook/《这些道理没有人告诉过你》作者杨萃先%20.pdf
 
+https://taoste.github.io/Hello-World/eBook/《图解服务的细节029：餐馆店长如何带队伍》.pdf
+
