@@ -18,3 +18,5 @@
 
 - [时间PPT模板](https://wenku.baidu.com/view/860c18170b4e767f5acfce47.html?sxts=1529738573080)（免下载券）_百度文库
 
+- [如何系统地学习PPT并在短时间内精通？](http://whuhan2013.github.io/blog/2016/05/18/ppt-make-learn/) - [良有以也](http://whuhan2013.github.io/)
+
