@@ -20,3 +20,4 @@
 
 - [如何系统地学习PPT并在短时间内精通？](http://whuhan2013.github.io/blog/2016/05/18/ppt-make-learn/) - [良有以也](http://whuhan2013.github.io/)
 
+- [微软放大招，字幕组在颤抖：演讲也能实时翻译了](http://www.360doc.com/content/17/0717/22/848059_672177775.shtml)
