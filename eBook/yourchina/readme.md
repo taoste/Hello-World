@@ -23,6 +23,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/Jiaxing.pdf
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/131826.png
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/cn_edu.png
  
  https://taoste.github.io/Hello-World/eBook/yourchina/large.jpg	
