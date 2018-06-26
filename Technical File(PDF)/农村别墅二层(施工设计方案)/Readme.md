@@ -22,6 +22,6 @@
 
 **效果图预览**：
 
-<img src="https://taoste.github.io/Hello-World/Technical%20File(PDF)/农村别墅二层(施工设计方案)/效果图1.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Technical%20File(PDF)/%E5%86%9C%E6%9D%91%E5%88%AB%E5%A2%85%E4%BA%8C%E5%B1%82(%E6%96%BD%E5%B7%A5%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88)/%E6%95%88%E6%9E%9C%E5%9B%BE1.jpg?raw=true"/>
 
-<img src="https://taoste.github.io/Hello-World/Technical%20File(PDF)/农村别墅二层(施工设计方案)/效果图2.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Technical%20File(PDF)/%E5%86%9C%E6%9D%91%E5%88%AB%E5%A2%85%E4%BA%8C%E5%B1%82(%E6%96%BD%E5%B7%A5%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88)/%E6%95%88%E6%9E%9C%E5%9B%BE2.jpg?raw=true"/>
