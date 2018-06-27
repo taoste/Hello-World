@@ -1,6 +1,6 @@
-( 短网址 go.choong.net/BTSync )
+( 便捷好记的短网址： [go.choong.net/BTSync](http://go.choong.net/BTSync) )
 
-BT SYNC ( 又名：BitTorrent Sync  / Resilio Sync ) 
+**BT SYNC** ( 曾又名：BitTorrent Sync  / 现名：Resilio Sync ) 
 
 - **使用方法**：
 
