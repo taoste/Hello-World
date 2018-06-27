@@ -2,6 +2,8 @@
 
 **BT SYNC** ( 曾又名：BitTorrent Sync  / 现名：Resilio Sync ) 
 
+<img src="https://img.iplaysoft.com/wp-content/uploads/2013/btsync/btsync.png?raw=true"/>
+
 - **使用方法**：
 
 1.下载软件（绿色免安装，无需管理员权限即可使用） 
