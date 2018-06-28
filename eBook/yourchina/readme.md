@@ -39,7 +39,7 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/19s.pdf
  
- https://taoste.github.io/Hello-World/eBook/yourchina/333.pdf
+ https://taoste.github.io/Hello-World/eBook/yourchina/333.jpg
  
  https://taoste.github.io/Hello-World/eBook/yourchina/xz.png	
  
