@@ -14,7 +14,13 @@
 
 > ```Browser\Chrome\User Data\Default\Extensions\bdglbbcbmgnimogcmcdenggkpdmihlga\1.7.13_0 ```
 
+(备注：C:\Users\。。\AppData\Local\Google\Chrome\User Data\Default\Extensions)
+
 记得先备份书签！
+
+> 该**扩展程序**目前已更名：**Bookmark Scanner**
+> 访问Chrome网上应用商店可以获取：
+>  https://chrome.google.com/webstore/detail/bookmark-scanner/ijpiaohplcljdpbgiaggdipdogjlejko
 
 下面，我来具体说一下用法，先选择首选项，可以根据自己的需求来选择，建议默认方式
 
