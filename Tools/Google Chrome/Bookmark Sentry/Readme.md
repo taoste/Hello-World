@@ -11,7 +11,7 @@
 
 汉化包用法：放入下面的路径解压覆盖即可。
 
-> Browser\Chrome\User Data\Default\Extensions\bdglbbcbmgnimogcmcdenggkpdmihlga\1.7.13_0 
+> ```Browser\Chrome\User Data\Default\Extensions\bdglbbcbmgnimogcmcdenggkpdmihlga\1.7.13_0 ```
 
 记得先备份书签！
 
