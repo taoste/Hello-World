@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------------
 
 
-- **[界面清爽无广告的「迅雷内部版」，支持汤不热(Tumblr)下载](https://www.appinn.com/xunlei-minnnnni/)** - 小众软件 ( [行者无疆](https://www.appinn.com/author/zhymster/) on 2018/02/25 11:01:26.)
+- **[界面清爽无广告的「迅雷内部版」，支持汤不热(Tumblr)下载](https://www.appinn.com/xunlei-minnnnni/)** - [小众软件](https://www.appinn.com/) ( [行者无疆](https://www.appinn.com/author/zhymster/) on 2018/02/25 11:01:26.)
 
 > 现在大家提到迅雷，简直就是臃肿的代名词，其实伦家也清爽过，虽然现在……
 > 
@@ -24,3 +24,39 @@
 > 但是它也有一个缺点，就是不支持磁力链和 BT（支持迅雷链接），不然就完美啦！大家喜欢的可以把它当做普通的下载工具来用吧！
 > 
 >  **下载链接: https://pan.baidu.com/s/1smfetpN ( 密码: std4 )**
+
+-------------------------------------------------------------------------
+
+- **[如何「批量复制」网页中的迅雷链接？](https://www.appinn.com/jaeger-export-thunder-url/)** - [小众软件](https://www.appinn.com/) 
+( [青小蛙](https://www.appinn.com/author/qingwa/) on 2017/05/18 9:48:58. )
+
+来自网友 @elisir 的问题：
+
+> 因为喜欢迅雷极速版的相对干净无打扰，一直在用极速版而不用迅雷9。
+> 但在一些网站下载时，由于网站没有提供批量复制功能，而迅雷批量复制总是提示“检测到你的电脑上还没有安装迅雷软件”，只能手动一条条复制。😓
+> 
+> 求推荐一个能批量复制网页中迅雷链接的工具，或者能有什么办法解决这个问题。
+
+青小蛙首先想到了用 [Greasemonkey](http://www.appinn.com/tag/greasemonkey/) 脚本来解决问题，没想到还挺简单，脚本叫做：
+
+嗅探迅雷链接 Jaeger
+
+<img src="https://img3.appinn.com/images/201705/2016-09-22_23-15.png?raw=true"/>
+
+[在这里安装 Jaeger](https://greasyfork.org/nb/scripts/23421-%E5%97%85%E6%8E%A2%E8%BF%85%E9%9B%B7%E9%93%BE%E6%8E%A5-jaeger)，安装脚本后，只需要使用快捷键 alt(option) + x 即可呼出上图这个界面，里面是批量的迅雷下载链接。
+
+然后就可以复制，粘贴，下载了。祝你们玩的愉快。
+
+另外，你需要在浏览器上首先安装 Greasemonkey：
+
+Chrome：[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 或 [Violent monkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
+Firefox：[Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 或 [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+Safari：[Tampermonkey](http://tampermonkey.net/?browser=safari)
+Microsoft Edge：[Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
+Opera：[Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/)
+Maxthon：[Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
+Dolphin：[Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
+UC：[Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.uc)
+Qupzilla：（不需要额外软件）
+
+-------------------------------------------------------------------------
