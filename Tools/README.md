@@ -7,6 +7,8 @@
 
 - [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) 
 
+- [万彩办公大师 | 办公必备绿色小工具百宝箱，只有12M，值得安装](https://github.com/taoste/Hello-World/tree/master/Tools/OfficeBox)
+
 -------------------------------------------------------------------
 
 备注：
