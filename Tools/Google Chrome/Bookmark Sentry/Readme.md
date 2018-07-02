@@ -1,7 +1,7 @@
 
 - **[如何批量整理 Chrome 的书签 – Bookmark Sentry](https://www.appinn.com/bookmark-sentry-for-chrome/)** - [小众软件](https://www.appinn.com/)
 
-> [行者无疆](https://www.appinn.com/author/zhymster/) on 2018/04/24 16:26:09.
+（ [行者无疆](https://www.appinn.com/author/zhymster/) on 2018/04/24 16:26:09. ）
 
 
 > 浏览器用的时间久了，难免会积累许多书签，如何整理是一个让人头疼的问题，不过，现在有了 Bookmark Sentry “书签哨兵”，一切难题都迎刃而解。@[Appinn](https://www.appinn.com/)
