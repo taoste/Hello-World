@@ -1,14 +1,15 @@
+**万彩办公大师小工具箱**
+
+万彩办公大师在线/离线版下载地址(请用电脑打开官网): www.wofficebox.com
 
 
+- [OfficeBox官方绿色版.v3.0.6正式版](http://files.wofficebox.com/officebox/download/OfficeBox%E5%AE%98%E6%96%B9%E7%BB%BF%E8%89%B2%E7%89%88.zip) | 更新时间：2018年01月25日
 
-
-[OfficeBox官方绿色版.v3.0.6正式版](http://files.wofficebox.com/officebox/download/OfficeBox%E5%AE%98%E6%96%B9%E7%BB%BF%E8%89%B2%E7%89%88.zip) | 更新时间：2018年01月25日
-
-OfficeBox全套离线包（311M）下载 (适合U盘携带无网络办公用户) | [万彩办公大师【官方】离线打包版.zip_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1c2Trpuw#list/path=%2F )
+- [万彩办公大师【官方】离线打包版.zip](https://pan.baidu.com/s/1c2Trpuw#list/path=%2F) ( OfficeBox全套离线包（311M）下载 (适合U盘携带无网络办公用户) | 百度网盘-分享无限制/免费高速下载 )
 
 -----------------------------------------------------------------------------------
 
-[万彩办公大师 | 办公必备绿色小工具百宝箱，只有12M，值得安装](https://www.appinn.com/wofficebox-2/) - [小众软件](https://www.appinn.com/)
+- [万彩办公大师 | 办公必备绿色小工具百宝箱，只有12M，值得安装](https://www.appinn.com/wofficebox-2/) - [小众软件](https://www.appinn.com/)
 
 
 作为职场人士，总会使用到一些小工具软件。但有时候你明明只是想用个小功能，却要安装一个体积比较大的软件，这样积累下来，电脑就装了很多大型软件；又或者，你找到的小工具，安装上的时候总是莫名其妙的捆绑了其他软件，还带有广告，最可怕的是，不知道会不会把病毒也装上了。
