@@ -4,6 +4,8 @@
 
 ------------------------------------------------------------------------------
 
+> 与本主题标签(tag): [**Download**](https://www.appinn.com/tag/download/), [**下载工具**](https://www.appinn.com/tag/%e4%b8%8b%e8%bd%bd%e5%b7%a5%e5%85%b7/), [**去广告**](https://www.appinn.com/tag/%e5%8e%bb%e5%b9%bf%e5%91%8a/), [**迅雷**](https://www.appinn.com/tag/%e8%bf%85%e9%9b%b7/) 相关的文章
+
 
 - **[界面清爽无广告的「迅雷内部版」，支持汤不热(Tumblr)下载](https://www.appinn.com/xunlei-minnnnni/)** - [小众软件](https://www.appinn.com/) ( [行者无疆](https://www.appinn.com/author/zhymster/) on 2018/02/25 11:01:26.)
 
@@ -24,6 +26,10 @@
 > 但是它也有一个缺点，就是不支持磁力链和 BT（支持迅雷链接），不然就完美啦！大家喜欢的可以把它当做普通的下载工具来用吧！
 > 
 >  **下载链接: https://pan.baidu.com/s/1smfetpN ( 密码: std4 )**
+
+-------------------------------------------------------------------------
+
+- **[小迅雷 – 使用「迅雷云加速平台」的第三方极简下载工具 [Win]](https://www.appinn.com/small-xunlei/)** - [小众软件](https://www.appinn.com/) ( [青小蛙](https://www.appinn.com/author/qingwa/) on 2017/11/30 16:49:06. )
 
 -------------------------------------------------------------------------
 
