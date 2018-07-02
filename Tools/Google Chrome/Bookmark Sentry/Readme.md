@@ -7,7 +7,7 @@
 
 <img src="https://img3.appinn.com/images/201804/26491-2aa28742ff2900c2.png?raw=true"/>
 
-首先，Chrome 商店里已经没有这款扩展了，需要的可以从这里下载，百度网盘，这里还有一个汉化包，百度网盘。
+首先，**Chrome 商店里已经没有这款扩展了，需要的可以从这里下载（[百度网盘](https://pan.baidu.com/s/1gfInGFh) ，这里还有一个汉化包（[百度网盘](https://pan.baidu.com/s/1cc0zeu)。**
 
 汉化包用法：放入下面的路径解压覆盖即可。
 
