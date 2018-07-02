@@ -3,6 +3,8 @@
 
 - [同步神器BTSync](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)
 
+- [百度网盘不限速下载器（PanDownload）](https://github.com/taoste/Hello-World/tree/master/Tools/PanDownload）
+
 - [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) 
 
 - [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) 
