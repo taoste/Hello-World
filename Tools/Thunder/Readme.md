@@ -50,13 +50,21 @@
 另外，你需要在浏览器上首先安装 Greasemonkey：
 
 Chrome：[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 或 [Violent monkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
+
 Firefox：[Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) 或 [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+
 Safari：[Tampermonkey](http://tampermonkey.net/?browser=safari)
+
 Microsoft Edge：[Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
+
 Opera：[Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/)
+
 Maxthon：[Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
+
 Dolphin：[Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
+
 UC：[Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.uc)
+
 Qupzilla：（不需要额外软件）
 
 -------------------------------------------------------------------------
