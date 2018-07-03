@@ -65,3 +65,25 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 
 - [YouTube 视频](https://www.youtube.com/?hl=zh-CN) 
 https://www.youtube.com/?hl=zh-CN
+
+-------------------------------------------
+
+- [**快抖-看抖音视频**](https://chrome.google.com/webstore/detail/%E5%BF%AB%E6%8A%96-%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/encpgafgennbokknanpcnkandmnneohp?hl=zh-CN) - Chrome 网上应用店
+
+> 可以在电脑浏览器刷抖音视频
+> 可以在电脑浏览器刷抖音视频
+> 后面会考虑增加火山、美拍、快手等短视频
+> 
+> - 更新日志：
+> - 2018年7月2日，把快抖迁移到快音视，网页端拥有更多视频
+> - 2018年6月5日，修复bug
+> - 2018年5月5日 更新快抖 logo，优化播放页面体验
+
+> 其他信息
+> 版本： 1.0.0.7
+> 最后更新日期： 2018年7月1日
+> 大小： 195KiB
+> 语言： 中文 (简体)
+
+-------------------------------------------
+
