@@ -2,21 +2,52 @@
 > - Adobe After Effects 图形视频处理软件(简称：Ae) ,着重于特效功能
 
 
-最近积累了一些背景音乐，大家可以听听看
+最近积累了一些**背景音乐**，大家可以听听看
 
-链接：https://pan.baidu.com/s/1gfu6ORh 
-
-密码：hiey
-
+> 链接：https://pan.baidu.com/s/1gfu6ORh 
+> 密码：hiey
 
 
-加速转场和精分对话练习素材下载地址：
+**加速转场**和**精分对话**练习素材下载地址：
 
-链接：http://pan.baidu.com/s/1jIKOyKQ 
+> 链接：http://pan.baidu.com/s/1jIKOyKQ 
+> 密码：uaug
 
-密码：uaug
+5个G的音效素材包（326个品类四万种**音效**）：
+
+> 链接：http://pan.baidu.com/s/1eSMXVV0
+> 密码：eh2n
 
 
+嫌大的话小六六也挑了几十个**转场音**：
+
+> 链接：http://pan.baidu.com/s/1eSesCdc
+> 密码：7aoo
+
+-  在装软件之前一定要看破解教程：
+
+**破解软件及教程（2017版可以选择cc版本进行破解）**
+
+> 链接：http://pan.baidu.com/s/1i5aie37 
+> 密码：vox9
+
+
+**media encoder安装包**
+
+> 链接：http://pan.baidu.com/s/1c2uBdpI 
+> 密码：yb84
+
+
+**ae安装包**
+
+> 链接：http://pan.baidu.com/s/1bo3ks5x 
+> 密码：h4xe
+
+
+**pr安装包**
+
+> 链接：http://pan.baidu.com/s/1gfF3GHX 
+> 密码：mplr
 
 ----------------------------------------------
 
