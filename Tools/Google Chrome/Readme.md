@@ -72,7 +72,10 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 
 - [**快抖**](https://chrome.google.com/webstore/detail/%E5%BF%AB%E6%8A%96-%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/encpgafgennbokknanpcnkandmnneohp?hl=zh-CN) - 看[**抖音视频**](https://www.douyin.com/) - Chrome 网上应用店
 
-[**快音视-全网短视频集合**](https://kuaiyinshi.com/#video-pannel) ( https://kuaiyinshi.com/ )
+> [**抖音官网**](https://www.douyin.com/) ( https://www.douyin.com/ ) 
+ 
+> [**快音视-全网短视频集合**](https://kuaiyinshi.com/#video-pannel) ( https://kuaiyinshi.com/ )
+
 
 > 可以在电脑浏览器刷抖音视频
 > 可以在电脑浏览器刷抖音视频
