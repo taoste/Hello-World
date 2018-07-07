@@ -41,6 +41,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/333.jpg
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/222.png
+
  https://taoste.github.io/Hello-World/eBook/yourchina/xz.png	
  
  https://taoste.github.io/Hello-World/eBook/yourchina/a.jpg
