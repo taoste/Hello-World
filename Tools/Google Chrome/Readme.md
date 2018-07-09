@@ -70,6 +70,8 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 
 -------------------------------------------
 
+- [Flash Player](https://chrome.google.com/webstore/detail/flash-player/bmimdmkleccdoghpgdhaahkelfhjfhgm?hl=zh-CN) - Chrome 网上应用店
+
 - [**快抖**](https://chrome.google.com/webstore/detail/%E5%BF%AB%E6%8A%96-%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/encpgafgennbokknanpcnkandmnneohp?hl=zh-CN) - 看[**抖音视频**](https://www.douyin.com/) - Chrome 网上应用店
 
 > [**抖音官网**](https://www.douyin.com/) ( https://www.douyin.com/ ) 
