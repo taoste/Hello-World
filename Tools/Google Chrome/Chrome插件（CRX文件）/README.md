@@ -61,6 +61,28 @@ ID： efaejpgmekdkcngpbghnpcmbpbngoclc
 ID： ndjpnladcallmjemlbaebfadecfhkepb
 检查视图： background/background.html
 
+
+- chrome浏览器商店打不开，gmail邮箱打不开的问题 -请用[**谷歌访问助手加速**](http://www.ggfwzs.com/)
+
+
+- [ ] 10. [**谷歌上网助手**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店
+
+>  https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
+
+> 等谷歌产品
+> 简单易用的《谷歌上网助手》，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
+>
+>《谷歌上网助手》一键安装，无需其他配置，即可访问谷歌。
+>
+>使用本插件可以免费上：
+>
+>  - google.com     谷歌搜索
+>  - mail.google.com   gmail邮箱
+>  - chrome商店访问
+> 
+>版本： 1.4.3
+>最后更新日期： 2018年6月30日
+
  ---------------------------------------------
  
 - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户脚本大全 ( 油猴官网 https://greasyfork.org/zh-CN )
