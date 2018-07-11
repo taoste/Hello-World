@@ -22,4 +22,4 @@
 
 > 2. [科·学·上·网·工·具 与 V·P·N 服务推荐 - 口碑不错的国内外优秀稳定网络加·速·器收集](https://www.iplaysoft.com/fq.html)  | [异次元软件下载](https://www.iplaysoft.com/)
 
-> 3. [翻·墙·利·器："**赛·风**"（Psiphon3）](https://github.com/taoste/Hello-World/tree/master/GFW/%E8%B5%9B%E9%A3%8E-psiphon3) - 适用于 Windows 和移动设备的无审查互联网访问 |  ["**赛·风** 官网](https://www.psiphon3.com/zh/index.html)
+> 3. [翻·墙·利·器："**赛·风**"（Psiphon3）](https://github.com/taoste/Hello-World/tree/master/GFW/%E8%B5%9B%E9%A3%8E-psiphon3) - [适用于 Windows 和移动设备的无审查互联网访问](https://taoste.github.io/Hello-World/GFW/赛风-psiphon3/psiphon3（Web-download）.pdf) |  [**赛·风** 官网](https://www.psiphon3.com/zh/index.html)
