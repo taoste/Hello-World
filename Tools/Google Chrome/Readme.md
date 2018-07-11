@@ -68,6 +68,9 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 
 - [**免费在线 YouTube 下载器：SaveFrom**](https://zh.savefrom.net/) - 下载 YouTube 视频、Facebook 等等！ ( https://zh.savefrom.net/ )
 
+- [**登录Google和YouTube的两个小插件教程**](https://blog.csdn.net/Yong_Qi2015/article/details/79205358) - [**CSDN博客**](https://blog.csdn.net/)
+
+
 -------------------------------------------
 
 - [Flash Player](https://chrome.google.com/webstore/detail/flash-player/bmimdmkleccdoghpgdhaahkelfhjfhgm?hl=zh-CN) - Chrome 网上应用店
