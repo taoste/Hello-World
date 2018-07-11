@@ -62,6 +62,14 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 检查视图： background/background.html
 
  ---------------------------------------------
+ 
+- [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户脚本大全 ( 油猴官网 https://greasyfork.org/zh-CN )
+
+1.[Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
+> 少数派: [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解](https://zhuanlan.zhihu.com/p/28869740) - [知乎](https://www.zhihu.com/)
+
+---------------------------------------------
+
 
  其它：
 >1. **如何备份Chrome已安装的扩展程序？**
