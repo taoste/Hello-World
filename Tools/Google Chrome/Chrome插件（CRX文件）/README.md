@@ -69,6 +69,8 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 >  https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
 
+ 更多同类型：Chrome 网上应用店 - [**谷歌访问助手**](https://chrome.google.com/webstore/search/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B?hl=zh-CN&_category=extensions)
+
 > 等谷歌产品
 > 简单易用的《谷歌上网助手》，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 >
@@ -84,6 +86,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 >最后更新日期： 2018年6月30日
 
  ---------------------------------------------
+ 
  
 - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户脚本大全 ( 油猴官网 https://greasyfork.org/zh-CN )
 
