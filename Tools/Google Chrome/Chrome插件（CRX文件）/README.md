@@ -62,12 +62,11 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - 检查视图： background/background.html
 
 
-- chrome浏览器商店打不开，gmail邮箱打不开的问题 -请用[**谷歌访问助手加速**](http://www.ggfwzs.com/)
-
-
 - [ ] 10. [**谷歌上网助手**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店
 
 >  提供方：http://www.ggfwzs.com/ ( [安装使用教程](http://www.ggfwzs.com/ff/chrome/index.html) )
+
+> - chrome浏览器商店打不开，gmail邮箱打不开的问题 -请用[**谷歌访问助手加速**](http://www.ggfwzs.com/)
 
 > - 更多同类型：Chrome 网上应用店 - [**谷歌访问助手**](https://chrome.google.com/webstore/search/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B?hl=zh-CN&_category=extensions)
 
