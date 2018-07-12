@@ -62,13 +62,13 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - 检查视图： background/background.html
 
 
-- [ ] 10. [**谷歌上网助手**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店
+- [ ] 10. [**谷歌访问助手**](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
 
 >  提供方：http://www.ggfwzs.com/ ( [安装使用教程](http://www.ggfwzs.com/ff/chrome/index.html) )
 
-> - chrome浏览器商店打不开，gmail邮箱打不开的问题 -请用[**谷歌访问助手加速**](http://www.ggfwzs.com/)
+> - chrome浏览器商店打不开，gmail邮箱打不开的问题 -请用[**谷歌上网助手（注册收费）**](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN)
 
-> - 更多同类型：Chrome 网上应用店 - [**谷歌访问助手**](https://chrome.google.com/webstore/search/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B?hl=zh-CN&_category=extensions)
+> - 更多同类型：Chrome 网上应用店 - [**谷歌上网助手**](https://chrome.google.com/webstore/search/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B?hl=zh-CN&_category=extensions)
 
 > 专门为科研、外贸、跨境电商、海淘人员、开发人员服务的上网加速工具，chrome内核浏览器专用!可以解决chrome扩展无法自动更新的问题，同时可
 以访问谷歌google搜索，gmail邮箱，google+等谷歌产品
