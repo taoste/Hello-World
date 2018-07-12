@@ -86,15 +86,19 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 >最后更新日期： 2018年6月30日
 
 - [ ] 11. [**MPAA 电影评级**](https://chrome.google.com/webstore/detail/mpaa-%E7%94%B5%E5%BD%B1%E8%AF%84%E7%BA%A7/dnjigceoecdajpgbjemglmhhboleipfg) - Chrome 网上应用店
+
 > 提供方：https://old-panda.com
-> 在豆瓣、知乎电影页面显示该片的 mpaa 评级
+
+> - 在豆瓣、知乎电影页面显示该片的 mpaa 评级
+
 <img src="https://pic1.zhimg.com/80/v2-392dd79a7d1e0ec6c81026c6c6e6ed68_hd.jpg?raw=true"/>
+
 >
-> MPAA，美国电影协会的简称，全球最权威的电影评级网站。
+>  MPAA，美国电影协会的简称，全球最权威的电影评级网站。
 >
-> 这款插件的作用也很简单：在用户搜索豆瓣电影和知乎电影时，同时在详情页显示该电影在MPAA中的评级，并且对每种评级标准都作了注释说明。
+>  这款插件的作用也很简单：在用户搜索豆瓣电影和知乎电影时，同时在详情页显示该电影在MPAA中的评级，并且对每种评级标准都作了注释说明。
 >
-> 适合哪种人群观看，某种人群应该在何种条件下观看，都能轻松得知。
+>  适合哪种人群观看，某种人群应该在何种条件下观看，都能轻松得知。
 
  ---------------------------------------------
  
