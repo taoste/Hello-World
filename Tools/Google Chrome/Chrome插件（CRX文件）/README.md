@@ -89,7 +89,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 > 提供方：https://old-panda.com
 
-> - 在豆瓣、知乎电影页面显示该片的 mpaa 评级
+> - 在豆瓣、知乎电影页面显示该片的 mpaa 评级 。([备注说明](https://zhuanlan.zhihu.com/p/39334329))
 
 <img src="https://pic1.zhimg.com/80/v2-392dd79a7d1e0ec6c81026c6c6e6ed68_hd.jpg?raw=true"/>
 
@@ -100,6 +100,11 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 >
 >  适合哪种人群观看，某种人群应该在何种条件下观看，都能轻松得知。
 
+- [ ] 11. [**douban Plus**](https://chrome.google.com/webstore/detail/douban-plus/immcnbkcmdmhnaklnemeeaadpfphcfmd） - Chrome 网上应用店
+
+<img src="https://pic4.zhimg.com/80/v2-8a7619afdde23756fc6d6f814fd9344f_hd.jpg?raw=true"/>
+
+> - 给大家推荐一款能够让MPAA锦上添花的辅助工具:**douban plus**,该扩展能够与MPAA良好兼容，同时在右侧显示当前电影的下载链接，让离线党再也不用百度搜索“电影名+ed2k”了。当然你也可以从以上二者选其一，只是douban plus唯一的缺点是对于分级没有注释说明，因此对它不够了解的朋友来说，安装MPAA也是有必要的。
  ---------------------------------------------
  
  
