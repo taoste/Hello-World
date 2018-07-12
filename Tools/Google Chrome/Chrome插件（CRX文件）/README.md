@@ -67,11 +67,13 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 - [ ] 10. [**谷歌上网助手**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店
 
->  https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
+>  提供方：http://www.ggfwzs.com/ ( [安装使用教程](http://www.ggfwzs.com/ff/chrome/index.html) )
 
 > - 更多同类型：Chrome 网上应用店 - [**谷歌访问助手**](https://chrome.google.com/webstore/search/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B?hl=zh-CN&_category=extensions)
 
-> 等谷歌产品
+> 专门为科研、外贸、跨境电商、海淘人员、开发人员服务的上网加速工具，chrome内核浏览器专用!可以解决chrome扩展无法自动更新的问题，同时可
+以访问谷歌google搜索，gmail邮箱，google+等谷歌产品
+>
 > 简单易用的《谷歌上网助手》，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 >
 >《谷歌上网助手》一键安装，无需其他配置，即可访问谷歌。
