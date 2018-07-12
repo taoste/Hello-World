@@ -23,6 +23,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/2018-05-18.png
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/20082018.jpg
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/DongFang.pdf
  
  https://taoste.github.io/Hello-World/eBook/yourchina/Jiaxing.pdf
@@ -44,6 +46,8 @@
  https://taoste.github.io/Hello-World/eBook/yourchina/Net.png	
  
  https://taoste.github.io/Hello-World/eBook/yourchina/19s.pdf
+ 
+ https://taoste.github.io/Hello-World/eBook/yourchina/917.jpg
  
  https://taoste.github.io/Hello-World/eBook/yourchina/333.jpg
  
