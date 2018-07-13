@@ -27,6 +27,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/DongFang.pdf
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/longrich.jpg
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/Jiaxing.pdf
  
  https://taoste.github.io/Hello-World/eBook/yourchina/131826.png
