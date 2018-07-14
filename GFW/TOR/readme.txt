@@ -16,3 +16,21 @@ https://program-think.blogspot.com/2014/10/gfw-tor-meek.html
 https://program-think.blogspot.com/2013/11/tor-faq.html
 《“如何翻墙”系列：戴“套”翻墻的方法》
 https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html
+
+--------------------------------------------------------------------------------
+
+Deep Web（深网/网络公海）
+
+Tor - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Tor
+
+DuckDuckGo搜索引擎-暗网服务(3g2upl4pq6kufc4m.onion/)
+
+Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
+明网的地址(https://thehiddenwiki.org/ )
+
+
+
+【Tor暗网导航】
+wikitjerrta4qgz4.onion/
+zqktlwi4fecvo6ri.onion/wiki/
