@@ -1,4 +1,5 @@
 - [**极客下载**](http://jikexiazai.cn/) : 
+
 [下载喜马拉雅音频](http://jikexiazai.cn/xmlyxz.html)（[帮助](http://jikexiazai.cn/xmly_help.html)） | 
 [下载微信公众号音频](http://jikexiazai.cn/wxxz.html)（[帮助](http://jikexiazai.cn/wxxz_help.html)） | 
 [下载网易公开课视频](http://jikexiazai.cn/gkkxz.html)（[帮助](http://jikexiazai.cn/wygkk_help.html) ） | 
@@ -11,8 +12,8 @@
 
 商业财经 2017-01-13 更新 热度6.7w
 
-<p><img src="http://photocdn.sohu.com/20140116/Img393627065.jpg?raw=true"/>
-<img src="http://img1.gtimg.com/v/pics/hv1/164/14/934/60737084.png?raw=true"/></p>
+<p><img src="https://camo.githubusercontent.com/1514f0472b316e36c0b45fddd831ff67e98ffe9b/687474703a2f2f70686f746f63646e2e736f68752e636f6d2f32303134303131362f496d673339333632373036352e6a70673f7261773d74727565?raw=true"/>
+<img src="https://camo.githubusercontent.com/0c395bc697f9c81fa1900bb42b3f1a2690b0161a/687474703a2f2f696d67312e6774696d672e636f6d2f762f706963732f6876312f3136342f31342f3933342f36303733373038342e706e673f7261773d74727565?raw=true"/></p>
 
 - 下载顺序:
 ```
@@ -62,7 +63,7 @@ rename wKgDtFRJ72CQihS-AUiaa3pxKsw218.mp3 "10_吴晓波：历代经济变革得�
 rename wKgDtFRJ7_exVU8PAZRIRLHBPnc261.mp3 "11_吴晓波：历代经济变革得失11陈云变法.mp3"
 rename wKgDs1RJ7_LgXvRgAcF-MKxXD2o170.mp3 "12_吴晓波：历代经济变革得失12改革开放.mp3"
 ```
-<img src="http://ww4.sinaimg.cn/large/5e8cb366jw1ebo2h9ficij20fa0bcjt7.jpg?raw=true"/>
+<img src="https://camo.githubusercontent.com/4a6c4bfe904fe4b20cd3318c9f50b3403b1360c9/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f35653863623336366a773165626f326839666963696a323066613062636a74372e6a70673f7261773d74727565?raw=true"/>
 
 -----------------------------------------------------------
 
