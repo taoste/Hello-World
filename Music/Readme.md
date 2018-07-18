@@ -42,3 +42,10 @@
 - [庄妮-中国梦 - 广场舞版.mp3](https://taoste.github.io/Hello-World/Music/庄妮-中国梦%20-%20广场舞版.mp3)
 
 - [周迅 - 寂寞- 越人歌(《夜宴》插曲).mp3](https://taoste.github.io/Hello-World/Music/%E5%91%A8%E8%BF%85%20-%20%E5%AF%82%E5%AF%9E%20-%20%E8%B6%8A%E4%BA%BA%E6%AD%8C(%E3%80%8A%E5%A4%9C%E5%AE%B4%E3%80%8B%E6%8F%92%E6%9B%B2).mp3)
+
+💗 专辑：
+
+-  [〖心静意禅〗心经（多人协作合集）](https://www.ximalaya.com/yinyue/4185135/15009543)_[音乐下载](http://audio.xmcdn.com/group7/M09/56/90/wKgDX1chvMODcIzYAUlSM09gag0469.mp3) - [喜马拉雅FM](https://www.ximalaya.com/)
+
+- 《[吴晓波：历代经济变革得失](https://www.ximalaya.com/shangye/291242/)》_[音乐下载](https://github.com/taoste/Hello-World/tree/master/Music/%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E5%8E%86%E4%BB%A3%E7%BB%8F%E6%B5%8E%E5%8F%98%E9%9D%A9%E5%BE%97%E5%A4%B1)_商界财经-[喜马拉雅FM](https://www.ximalaya.com/)
+
