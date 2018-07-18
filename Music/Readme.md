@@ -45,7 +45,7 @@
 
 💗 专辑：
 
--  [〖心静意禅〗心经（多人协作合集）](https://www.ximalaya.com/yinyue/4185135/15009543)_[音乐下载](http://audio.xmcdn.com/group7/M09/56/90/wKgDX1chvMODcIzYAUlSM09gag0469.mp3) - [喜马拉雅FM](https://www.ximalaya.com/)
+-  [〖心静意禅〗心经（多人协作合集）](https://www.ximalaya.com/yinyue/4185135/15009543) _ [音乐下载](http://audio.xmcdn.com/group7/M09/56/90/wKgDX1chvMODcIzYAUlSM09gag0469.mp3) - [喜马拉雅FM](https://www.ximalaya.com/)
 
-- 《[吴晓波：历代经济变革得失](https://www.ximalaya.com/shangye/291242/)》_[音乐下载](https://github.com/taoste/Hello-World/tree/master/Music/%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E5%8E%86%E4%BB%A3%E7%BB%8F%E6%B5%8E%E5%8F%98%E9%9D%A9%E5%BE%97%E5%A4%B1)_商界财经-[喜马拉雅FM](https://www.ximalaya.com/)
+- 《[吴晓波：历代经济变革得失](https://www.ximalaya.com/shangye/291242/)》 _ [音乐下载](https://github.com/taoste/Hello-World/tree/master/Music/%E5%90%B4%E6%99%93%E6%B3%A2%EF%BC%9A%E5%8E%86%E4%BB%A3%E7%BB%8F%E6%B5%8E%E5%8F%98%E9%9D%A9%E5%BE%97%E5%A4%B1) _ 商界财经 - [喜马拉雅FM](https://www.ximalaya.com/)
 
