@@ -1,11 +1,21 @@
   - 音频：35集系列节目《**[百年沧桑话中国](https://www.bbc.com/zhongwen/simp/multimedia/2011/06/110627_list_audio_progchina)**》
 
-BBC中文网推出35集大型系列节目《**[百年沧桑话中国](https://www.bbc.com/zhongwen/simp/multimedia/2011/06/110627_list_audio_progchina)**》，
+**BBC中文网推出35集大型系列节目《[百年沧桑话中国](https://www.bbc.com/zhongwen/simp/multimedia/2011/06/110627_list_audio_progchina)》，
 通过中国与海外众多历史见证人的回忆和专家学者的观察评论，
 以及大量的历史音响档案，回顾中国一百年来的历史变迁。
--- 2011年 6月 27日
+-- 2011年 6月 27日**
 
-[点击收听音频](http://www.bbc.com/zhongwen/simp/multimedia/2011/06/110627_list_audio_progchina) : (自备梯子，科学上网)
+[点击收听音频](http://www.bbc.com/zhongwen/simp/multimedia/2011/06/110627_list_audio_progchina)  (自备梯子，科学上网)
+
+-----------------------------------------------------------------------
+
+- 音频下载：[BBC中文网系列节目《百年沧桑话中国》](https://www.bbc.com/zhongwen/simp/institutional/2011/09/111111_20th_century_china#orb-banner) 
+
+**BBC中文网特别推出35集大型系列节目《百年沧桑话中国》，欢迎网友下载。**
+
+这部系列首播于20世纪末，是为迎接千禧之年而做。我们邀请听众通过中国与海外众多历史见证人的回忆和专家学者的观察评论，以及大量的历史音响档案，回顾中国在20世纪的历史变迁。
+
+这套节目一共35集， 欢迎下载收听。
 
 [第1集：20世纪初叶的中国](http://wsodprogrf.bbc.co.uk/zhongwen/simp/dps/2011/06/track1_110617_cd1_prog1_au_bb.mp3)
 (http://wsodprogrf.bbc.co.uk/zhongwen/simp/dps/2011/06/track1_110617_cd1_prog1_au_bb.mp3)
