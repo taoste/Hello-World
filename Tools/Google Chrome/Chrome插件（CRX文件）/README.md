@@ -109,7 +109,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 - [ ] 13. [**MaoXian Web Clippe**](https://chrome.google.com/webstore/detail/maoxian-web-clipper/kjahokgdcbohofgdidndeiaigkehdjdc?hl=zh-CN) - Chrome 网上应用店
 
->  提供方：[由mika提供](https://mika-cn.github.io/maoxian-web-clipper/index-zh-CN.html) ( [Chrome](https://chrome.google.com/webstore/detail/maoxian-web-clipper/kjahokgdcbohofgdidndeiaigkehdjdc?hl=zh-CN) / [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/maoxian-web-clipper/)) (@[小众软件](https://faxian.appinn.com/8764) )
+>  提供方：[MaoXian Web Clipper](https://mika-cn.github.io/maoxian-web-clipper/index-zh-CN.html) / [由mika提供](https://github.com/mika-cn/mika-cn.github.io/) ( [Chrome](https://chrome.google.com/webstore/detail/maoxian-web-clipper/kjahokgdcbohofgdidndeiaigkehdjdc?hl=zh-CN) / [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/maoxian-web-clipper/)) (@[小众软件](https://faxian.appinn.com/8764) )
 
 >  一个简洁的浏览器扩展，让你看到想收藏的内容，可以直接裁剪保存下到，以避免网站挂了，网址失效，图片失效等问题。
 
