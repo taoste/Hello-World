@@ -101,13 +101,13 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 >
 >  适合哪种人群观看，某种人群应该在何种条件下观看，都能轻松得知。
 
-- [ ] 11. [**douban Plus**](https://chrome.google.com/webstore/detail/douban-plus/immcnbkcmdmhnaklnemeeaadpfphcfmd) - Chrome 网上应用店
+- [ ] 12. [**douban Plus**](https://chrome.google.com/webstore/detail/douban-plus/immcnbkcmdmhnaklnemeeaadpfphcfmd) - Chrome 网上应用店
 
 <img src="https://pic4.zhimg.com/80/v2-8a7619afdde23756fc6d6f814fd9344f_hd.jpg?raw=true"/>
 
 > - 给大家推荐一款能够让MPAA锦上添花的辅助工具:**douban plus**,该扩展能够与MPAA良好兼容，同时在右侧显示当前电影的下载链接，让离线党再也不用百度搜索“电影名+ed2k”了。当然你也可以从以上二者选其一，只是douban plus唯一的缺点是对于分级没有注释说明，因此对它不够了解的朋友来说，安装MPAA也是有必要的。
 
-- [ ] 12. [**MaoXian Web Clippe**](https://chrome.google.com/webstore/detail/maoxian-web-clipper/kjahokgdcbohofgdidndeiaigkehdjdc?hl=zh-CN) - Chrome 网上应用店
+- [ ] 13. [**MaoXian Web Clippe**](https://chrome.google.com/webstore/detail/maoxian-web-clipper/kjahokgdcbohofgdidndeiaigkehdjdc?hl=zh-CN) - Chrome 网上应用店
 
 >  提供方：[由mika提供](https://mika-cn.github.io/maoxian-web-clipper/index-zh-CN.html) ( [Chrome](https://chrome.google.com/webstore/detail/maoxian-web-clipper/kjahokgdcbohofgdidndeiaigkehdjdc?hl=zh-CN) / [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/maoxian-web-clipper/)) (@[小众软件](https://faxian.appinn.com/8764) )
 
