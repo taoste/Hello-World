@@ -15,7 +15,7 @@
 - GitHub Enterprise - 为需要内部部署Github的企业准备了（GHE）[https://enterprise.github.com/home](https://enterprise.github.com/home)
 
 ## 参考：
- 《[GitHub入门与实践](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B011LPUB4M)》2015年7月1日 [[中文PDF版](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/%E3%80%8AGitHub%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B(%20%5B%E6%97%A5%5D%20%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0%20)%20%E4%B8%AD%E6%96%87PDF%E7%89%88.pdf) （_github site:.jb51.net_）]
+ 《[GitHub入门与实践](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B011LPUB4M)》2015年7月1日 [[中文PDF版](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/%E3%80%8AGitHub%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B(%20%5B%E6%97%A5%5D%20%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0%20)%20%E4%B8%AD%E6%96%87PDF%E7%89%88.pdf) （_[github site:.jb51.net](https://cn.bing.com/search?q=github+site%3A.jb51.net)_）]
 - 大塚弘记 (作者), 支鹏浩 (译者), 刘斌 (译者)
 
 图灵社区 : 
