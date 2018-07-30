@@ -49,7 +49,9 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/CPC.png	
  
- https://taoste.github.io/Hello-World/eBook/yourchina/Net.png	
+ https://taoste.github.io/Hello-World/eBook/yourchina/Net.png
+
+ https://taoste.github.io/Hello-World/eBook/yourchina/smy.png
  
  https://taoste.github.io/Hello-World/eBook/yourchina/19s.pdf
  
@@ -69,6 +71,4 @@
 
  https://taoste.github.io/Hello-World/eBook/yourchina/0.png
 
- 
-
- 
+  
