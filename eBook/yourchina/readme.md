@@ -67,6 +67,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/mz.jpg
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/sh.jpg
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/47.jpg
 
  https://taoste.github.io/Hello-World/eBook/yourchina/a.jpg
