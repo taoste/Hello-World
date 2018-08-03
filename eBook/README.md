@@ -11,6 +11,8 @@ https://taoste.github.io/Hello-World/eBook/Zuola.pdf
 
 https://taoste.github.io/Hello-World/eBook/history.pdf
 
+https://taoste.github.io/Hello-World/eBook/交易的艺术.pdf
+
 https://taoste.github.io/Hello-World/eBook/注音符号学习.pdf
 
 https://taoste.github.io/Hello-World/eBook/audio_progchina.txt
