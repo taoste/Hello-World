@@ -45,7 +45,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >  专门为科研、外贸、跨境电商、海淘人员、开发人员服务的上网加速工具，chrome内核浏览器专用!可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌产品
 >  简单易用的《谷歌上网助手》，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 
-**推荐1👍《谷歌上网助手》一键安装，无需其他配置，即可访问谷歌。**
+**推荐1👍《谷歌上网助手（Ghelper）》一键安装，无需其他配置，即可访问谷歌。**
 
 >  使用本插件可以免费上：（全网翻墙）
 >   - google.com     谷歌搜索
@@ -64,7 +64,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >  插进中心搜索：谷歌上网助手 插件下载（无需翻墙）：https://www.lanzous.com/i1k4njc 
 
 
-- **推荐2👍[Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
+- [**Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
 
    https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN
 
@@ -73,7 +73,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 > 等谷歌产品
 > 简单易用的《谷歌访问助手》,为chrome扩展用户量身打造，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 
-《谷歌访问助手》一键安装，无需其他配置，即可访问谷歌。
+**推荐2👍《谷歌访问助手（ggfwzs）》一键安装，无需其他配置，即可访问谷歌。**
 
 使用本插件可以免费上：
 
