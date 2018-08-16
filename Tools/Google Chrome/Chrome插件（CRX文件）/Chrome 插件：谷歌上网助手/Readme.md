@@ -1,97 +1,57 @@
+**Readmeï¼šChrome æ’ä»¶ï¼šè°·æ­Œä¸Šç½‘åŠ©æ‰‹**
+
 -------------------------------------------
 
+**æŽ¨è1ðŸ‘ã€Šè°·æ­Œä¸Šç½‘åŠ©æ‰‹ï¼ˆGhelperï¼‰ã€‹ä¸€é”®å®‰è£…ï¼Œæ— éœ€å…¶ä»–é…ç½®ï¼Œå³å¯è®¿é—®è°·æ­Œï¼ˆéœ€æ³¨å†Œ/æ— é™å…è´¹ä½¿ç”¨æ–¹æ³•é™„åŽï¼‰ã€‚**
 
-**ÍÆ¼ö1??¡¶¹È¸èÉÏÍøÖúÊÖ£¨Ghelper£©¡·Ò»¼ü°²×°£¬ÎÞÐèÆäËûÅäÖÃ£¬¼´¿É·ÃÎÊ¹È¸è £¨ [¹È¸èÉÏÍøÖúÊÖ£¨Ðè×¢²á/ÎÞÏÞÃâ·ÑÊ¹ÓÃ·½·¨¸½ºó£©] £©¡£**
+- [x] 10. [**Chrome æ’ä»¶ï¼šè°·æ­Œä¸Šç½‘åŠ©æ‰‹ï¼ˆGhelperï¼‰**](https://chrome.google.com/webstore/detail/è°·æ­Œä¸Šç½‘åŠ©æ‰‹/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome ç½‘ä¸Šåº”ç”¨åº—
 
+https://chrome.google.com/webstore/detail/è°·æ­Œä¸Šç½‘åŠ©æ‰‹/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
 
-- [x] 10. [**Chrome ²å¼þ£º¹È¸èÉÏÍøÖúÊÖ£¨Ghelper£©**](https://chrome.google.com/webstore/detail/¹È¸èÉÏÍøÖúÊÖ/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome ÍøÉÏÓ¦ÓÃµê
+>  ä¸“é—¨ä¸ºç§‘ç ”ã€å¤–è´¸ã€è·¨å¢ƒç”µå•†ã€æµ·æ·˜äººå‘˜ã€å¼€å‘äººå‘˜æœåŠ¡çš„ä¸Šç½‘åŠ é€Ÿå·¥å…·ï¼Œchromeå†…æ ¸æµè§ˆå™¨ä¸“ç”¨!å¯ä»¥è§£å†³chromeæ‰©å±•æ— æ³•è‡ªåŠ¨æ›´æ–°çš„é—®é¢˜ï¼ŒåŒæ—¶å¯ä»¥è®¿é—®è°·æ­Œgoogleæœç´¢ï¼Œgmailé‚®ç®±ï¼Œgoogle+ç­‰è°·æ­Œäº§å“
+>  ç®€å•æ˜“ç”¨çš„ã€Šè°·æ­Œä¸Šç½‘åŠ©æ‰‹ã€‹ï¼Œå¯ä»¥è§£å†³chromeæ‰©å±•æ— æ³•è‡ªåŠ¨æ›´æ–°çš„é—®é¢˜ï¼ŒåŒæ—¶å¯ä»¥è®¿é—®è°·æ­Œgoogleæœç´¢ï¼Œgmailé‚®ç®±ï¼Œgoogle+ç­‰è°·æ­ŒæœåŠ¡ã€‚
 
+>  ä½¿ç”¨æœ¬æ’ä»¶å¯ä»¥å…è´¹ä¸Šï¼šï¼ˆå…¨ç½‘ç¿»å¢™ï¼‰
+>   - google.com     è°·æ­Œæœç´¢
+>   - mail.google.com   gmailé‚®ç®±
+>   - chromeå•†åº—è®¿é—®
 
-
-https://chrome.google.com/webstore/detail/¹È¸èÉÏÍøÖúÊÖ/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
-
-
-
->  ×¨ÃÅÎª¿ÆÑÐ¡¢ÍâÃ³¡¢¿ç¾³µçÉÌ¡¢º£ÌÔÈËÔ±¡¢¿ª·¢ÈËÔ±·þÎñµÄÉÏÍø¼ÓËÙ¹¤¾ß£¬chromeÄÚºËä¯ÀÀÆ÷×¨ÓÃ!¿ÉÒÔ½â¾öchromeÀ©Õ¹ÎÞ·¨×Ô¶¯¸üÐÂµÄÎÊÌâ£¬Í¬Ê±¿ÉÒÔ·ÃÎÊ¹È¸ègoogleËÑË÷£¬gmailÓÊÏä£¬google+µÈ¹È¸è²úÆ·
-
->  ¼òµ¥Ò×ÓÃµÄ¡¶¹È¸èÉÏÍøÖúÊÖ¡·£¬¿ÉÒÔ½â¾öchromeÀ©Õ¹ÎÞ·¨×Ô¶¯¸üÐÂµÄÎÊÌâ£¬Í¬Ê±¿ÉÒÔ·ÃÎÊ¹È¸ègoogleËÑË÷£¬gmailÓÊÏä£¬google+µÈ¹È¸è·þÎñ¡£
-
-
->  Ê¹ÓÃ±¾²å¼þ¿ÉÒÔÃâ·ÑÉÏ£º£¨È«Íø·­Ç½£©
-
->   - google.com     ¹È¸èËÑË÷
-
->   - mail.google.com   gmailÓÊÏä
-
->   - chromeÉÌµê·ÃÎÊ
-
-
-
->   **¿ª·¢Õß**
-
+>   **å¼€å‘è€…**
 > 
-
->  Ìá¹©·½£º**Google Helper ¹ÙÍø** http://googlehelper.net/ [¹ÙÍøÏÂÔØ](http://googlehelper.net/download/Ghelper_1.4.3.beta.zip)
-
->   µç×ÓÓÊ¼þµØÖ·£ºghelperinfo@gmail.com
-
+>  æä¾›æ–¹ï¼š**Google Helper å®˜ç½‘** http://googlehelper.net/ [å®˜ç½‘ä¸‹è½½](http://googlehelper.net/download/Ghelper_1.4.3.beta.zip)
+>   ç”µå­é‚®ä»¶åœ°å€ï¼šghelperinfo@gmail.com
 >   
->   **°æ±¾ÐÅÏ¢**£º 1.4.3  (×îºó¸üÐÂÈÕÆÚ£º 2018Äê6ÔÂ30ÈÕ) ´óÐ¡£º 205KiB
+>   **ç‰ˆæœ¬ä¿¡æ¯**ï¼š 1.4.3  (æœ€åŽæ›´æ–°æ—¥æœŸï¼š 2018å¹´6æœˆ30æ—¥) å¤§å°ï¼š 205KiB
   
-
-
->   **²ÎÔÄ**£º[YoutubeÊÓÆµ½²½â](https://youtu.be/tgWeLcMg7TM)
-
->
-
->   **¡¾¹È¸èÉÏÍøÖúÊÖ-ÅäºÏVIP×¢²áÊ¹ÓÃ¡¿??10·ÖÖÓÓÊÏäÍøÖ·£ºhttp://www.bccto.me/  (ÓÃÓÚÎÞÏÞ¶à´Î/ÁÙÊ±×¢²á3ÌìVIPÊ¹ÓÃÈ¨ÏÞ)**
-
+>   **å‚é˜…**ï¼š[Youtubeè§†é¢‘è®²è§£](https://youtu.be/tgWeLcMg7TM)
+>  
+>   **ã€è°·æ­Œä¸Šç½‘åŠ©æ‰‹-é…åˆVIPæ³¨å†Œä½¿ç”¨ã€‘ðŸ‘10åˆ†é’Ÿé‚®ç®±ç½‘å€ï¼šhttp://www.bccto.me/  (ç”¨äºŽæ— é™å¤šæ¬¡/ä¸´æ—¶æ³¨å†Œ3å¤©VIPä½¿ç”¨æƒé™)**
 > 
-
->   ä¯ÀÀÆ÷ÏÂÔØ£¨ÎÞÐè·­Ç½£©£ºhttps://www.lanzous.com/i1k549e 
-
+>   æµè§ˆå™¨ä¸‹è½½ï¼ˆæ— éœ€ç¿»å¢™ï¼‰ï¼šhttps://www.lanzous.com/i1k549e 
 >   
+>   æ’è¿›ä¸­å¿ƒæœç´¢ï¼šè°·æ­Œä¸Šç½‘åŠ©æ‰‹ æ’ä»¶ä¸‹è½½ï¼ˆæ— éœ€ç¿»å¢™ï¼‰ï¼šhttps://www.lanzous.com/i1k4njc 
 
->   ²å½øÖÐÐÄËÑË÷£º¹È¸èÉÏÍøÖúÊÖ ²å¼þÏÂÔØ£¨ÎÞÐè·­Ç½£©£ºhttps://www.lanzous.com/i1k4njc 
-
+ **æŽ¨è2ðŸ‘ã€Šè°·æ­Œè®¿é—®åŠ©æ‰‹ï¼ˆggfwzsï¼‰ã€‹ä¸€é”®å®‰è£…ï¼Œæ— éœ€å…¶ä»–é…ç½®ï¼Œå³å¯è®¿é—®è°·æ­Œã€‚**
  
+- **æ›´å¤šåŒç±»åž‹ï¼š**[**Chrome æ’ä»¶ï¼šè°·æ­Œè®¿é—®åŠ©æ‰‹ï¼ˆggfwzsï¼‰**](https://chrome.google.com/webstore/detail/è°·æ­Œè®¿é—®åŠ©æ‰‹/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome ç½‘ä¸Šåº”ç”¨åº—
 
-**ÍÆ¼ö2??¡¶¹È¸è·ÃÎÊÖúÊÖ£¨ggfwzs£©¡·Ò»¼ü°²×°£¬ÎÞÐèÆäËûÅäÖÃ£¬¼´¿É·ÃÎÊ¹È¸è¡£*
- 
+>     https://chrome.google.com/webstore/detail/è°·æ­Œè®¿é—®åŠ©æ‰‹/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN
 
+>  chromeæµè§ˆå™¨å•†åº—æ‰“ä¸å¼€ï¼Œgmailé‚®ç®±æ‰“ä¸å¼€çš„é—®é¢˜ -è¯·ç”¨[**è°·æ­Œè®¿é—®åŠ©æ‰‹åŠ é€Ÿ**](http://www.ggfwzs.com/)
 
-- **¸ü¶àÍ¬ÀàÐÍ£º** *[**Chrome ²å¼þ£º¹È¸è·ÃÎÊÖúÊÖ£¨ggfwzs£©**](https://chrome.google.com/webstore/detail/¹È¸è·ÃÎÊÖúÊÖ/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome ÍøÉÏÓ¦ÓÃµê
-
-
-
->     https://chrome.google.com/webstore/detail/¹È¸è·ÃÎÊÖúÊÖ/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN
+> ç­‰è°·æ­Œäº§å“
+> ç®€å•æ˜“ç”¨çš„ã€Šè°·æ­Œè®¿é—®åŠ©æ‰‹ã€‹,ä¸ºchromeæ‰©å±•ç”¨æˆ·é‡èº«æ‰“é€ ï¼Œå¯ä»¥è§£å†³chromeæ‰©å±•æ— æ³•è‡ªåŠ¨æ›´æ–°çš„é—®é¢˜ï¼ŒåŒæ—¶å¯ä»¥è®¿é—®è°·æ­Œgoogleæœç´¢ï¼Œgmailé‚®ç®±ï¼Œgoogle+ç­‰è°·æ­ŒæœåŠ¡ã€‚
 
 
 
->  chromeä¯ÀÀÆ÷ÉÌµê´ò²»¿ª£¬gmailÓÊÏä´ò²»¿ªµÄÎÊÌâ -ÇëÓÃ[**¹È¸è·ÃÎÊÖúÊÖ¼ÓËÙ**](http://www.ggfwzs.com/)
+ä½¿ç”¨æœ¬æ’ä»¶å¯ä»¥å…è´¹ä¸Šï¼š
 
+>  - google.com     è°·æ­Œæœç´¢
+>  - mail.google.com   gmailé‚®ç®±
+>  - chromeå•†åº—è®¿é—®
 
-> µÈ¹È¸è²úÆ·
-
-> ¼òµ¥Ò×ÓÃµÄ¡¶¹È¸è·ÃÎÊÖúÊÖ¡·,ÎªchromeÀ©Õ¹ÓÃ»§Á¿Éí´òÔì£¬¿ÉÒÔ½â¾öchromeÀ©Õ¹ÎÞ·¨×Ô¶¯¸üÐÂµÄÎÊÌâ£¬Í¬Ê±¿ÉÒÔ·ÃÎÊ¹È¸ègoogleËÑË÷£¬gmailÓÊÏä£¬google+µÈ¹È¸è·þÎñ¡£
-
-
-
-Ê¹ÓÃ±¾²å¼þ¿ÉÒÔÃâ·ÑÉÏ£º
-
-
->  - google.com     ¹È¸èËÑË÷
-
->  - mail.google.com   gmailÓÊÏä
-
->  - chromeÉÌµê·ÃÎÊ
-
-
->  Ìá¹©·½£ºhttp://www.ggfwzs.com/ ( [°²×°Ê¹ÓÃ½Ì³Ì](http://www.ggfwzs.com/ff/chrome/index.html) )
-
+>  æä¾›æ–¹ï¼šhttp://www.ggfwzs.com/ ( [å®‰è£…ä½¿ç”¨æ•™ç¨‹](http://www.ggfwzs.com/ff/chrome/index.html) )
 >   
-
->   **°æ±¾°æ±¾**£º 2.3.0 (×îºó¸üÐÂÈÕÆÚ£º 2018Äê3ÔÂ12ÈÕ)  ´óÐ¡£º 106KiB
-
+>   **ç‰ˆæœ¬ç‰ˆæœ¬**ï¼š 2.3.0 (æœ€åŽæ›´æ–°æ—¥æœŸï¼š 2018å¹´3æœˆ12æ—¥)  å¤§å°ï¼š 106KiB
 
 -------------------------------------------
