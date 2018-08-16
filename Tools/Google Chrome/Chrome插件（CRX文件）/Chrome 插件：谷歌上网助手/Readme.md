@@ -26,7 +26,9 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >   **参阅**：[Youtube视频讲解](https://youtu.be/tgWeLcMg7TM)
 >  
 >   **【谷歌上网助手-配合VIP注册使用】👍10分钟邮箱网址：http://www.bccto.me/  (用于无限多次/临时注册3天VIP使用权限)**
-> 
+>  
+>   【谷歌上网助手】设置中心 chrome-extension://nonmafimegllfoonjgplbabhmgfanaka/settings.html
+>  
 >   浏览器下载（无需翻墙）：https://www.lanzous.com/i1k549e 
 >   
 >   插进中心搜索：谷歌上网助手 插件下载（无需翻墙）：https://www.lanzous.com/i1k4njc 
