@@ -94,7 +94,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
  **推荐2👍《谷歌访问助手（ggfwzs）》一键安装，无需其他配置，即可访问谷歌。**
  
-- **更多同类型：** *[**Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
+- **更多同类型：**[**Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
 
 >     https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN
 
