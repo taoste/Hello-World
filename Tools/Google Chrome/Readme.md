@@ -45,18 +45,18 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >  专门为科研、外贸、跨境电商、海淘人员、开发人员服务的上网加速工具，chrome内核浏览器专用!可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌产品
 >  简单易用的《谷歌上网助手》，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 
-**推荐👍《谷歌上网助手》一键安装，无需其他配置，即可访问谷歌。**
+**推荐1👍《谷歌上网助手》一键安装，无需其他配置，即可访问谷歌。**
 
 >  使用本插件可以免费上：（全网翻墙）
 >   - google.com     谷歌搜索
 >   - mail.google.com   gmail邮箱
 >   - chrome商店访问
 
-**开发者**
-电子邮件地址：ghelperinfo@gmail.com
-**Google Helper 官网** http://googlehelper.net/ [官网下载](http://googlehelper.net/download/Ghelper_1.4.3.beta.zip)
-**版本信息**： 1.4.3
-最后更新日期： 2018年6月30日
+>   **开发者**
+>   电子邮件地址：ghelperinfo@gmail.com
+>   **Google Helper 官网** http://googlehelper.net/ [官网下载](http://googlehelper.net/download/Ghelper_1.4.3.beta.zip)
+>   **版本信息**： 1.4.3
+>   最后更新日期： 2018年6月30日
 
 >  【谷歌上网助手-配合VIP注册使用】10分钟邮箱网址：http://www.bccto.me/  (用于无限多次/临时注册3天VIP使用权限)
 >  参阅：[Youtube视频讲解]（https://youtu.be/tgWeLcMg7TM）
@@ -64,7 +64,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >  插进中心搜索：谷歌上网助手 插件下载（无需翻墙）：https://www.lanzous.com/i1k4njc 
 
 
-- [**Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
+- **推荐2👍[Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
 
    https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN
 
