@@ -33,7 +33,7 @@
 > 
 > 运行：**inetcpl.cpl**，**IE设置** ( C:\WINDOWS\system32\inetcpl.cpl )
 > 
-> 更多：
+> 更多： （微软官网：[Windows 中的键盘快捷方式 - Windows Help](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts) ）
 > 
 > joy.cpl，游戏控制器设置
 > 
