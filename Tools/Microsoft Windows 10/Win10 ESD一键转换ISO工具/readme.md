@@ -32,7 +32,7 @@ slmgr.vbs -dlv
 
 【[参考](https://ppundsh.github.io/posts/87f1/)】[引用](https://github.com/ppundsh/ppundsh.github.io/blob/master/posts/87f1/index.html)：
 
-[Windows 10 各版本](https://www.zhihu.com/question/33657445) 产品密钥:
+[Windows 10](https://zh.wikipedia.org/wiki/Windows_10%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8) [各版本](https://www.zhihu.com/question/33657445) 产品密钥:
 
 <table>
 <thead>
