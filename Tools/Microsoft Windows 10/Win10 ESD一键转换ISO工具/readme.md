@@ -7,6 +7,8 @@ Win10专业版激活密钥：　　W269N-WFGWX-YVC9B-4J6C9-T83GX
 Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG9
 
 　　（ 由于激活密钥不能保证100%激活，推荐使用[Win10激活工具](http://www.xitongzhijia.net/zt/78039.html)。）
+  
+------------------------------------------------------------------------
 
 **引用：**[【Win10激活工具】N66U 全改造，KMS Server、ARIA2、SWAP、SSR Server、SSH 安全](https://ppundsh.github.io/posts/87f1/) | [Flymia 凡事用心之事](https://ppundsh.github.io/)
 
