@@ -12,7 +12,7 @@ Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG
 
 **引用：**[【Win10激活工具】N66U 全改造，KMS Server、ARIA2、SWAP、SSR Server、SSH 安全](https://ppundsh.github.io/posts/87f1/) | [Flymia 凡事用心之事](https://ppundsh.github.io/)
 
-Windows启动 [来源3]（https://ppundsh.github.io/posts/87f1/#fn:3）
+Windows启动 [来源3]（https://ppundsh.github.io/posts/87f1/#fn:3 ）
 
 用系统管理员许可权输入以下命令：
 
