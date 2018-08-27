@@ -29,3 +29,56 @@ slmgr.vbs -ato
 slmgr.vbs -dlv
 ```
 <img src="https://camo.githubusercontent.com/fb8fedc644d61c58ce8b617d4f673893396bd1da/68747470733a2f2f692e696d6775722e636f6d2f756a785a3951462e706e673f7261773d74727565?raw=true"/>
+
+【[参考](https://ppundsh.github.io/posts/87f1/)】[引用](https://github.com/ppundsh/ppundsh.github.io/blob/master/posts/87f1/index.html)：
+
+<table>
+<thead>
+<tr>
+<th>Windows 10 作業系統版本</th>
+<th>KMS 客戶端設定金鑰</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Windows 10 專業版</td>
+<td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+</tr>
+<tr>
+<td>Windows 10 Professional N</td>
+<td>MH37W-N47XK-V7XM9-C7227-GCQG9</td>
+</tr>
+<tr>
+<td>Windows 10 企業版</td>
+<td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
+</tr>
+<tr>
+<td>Windows 10 企業 N</td>
+<td>DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4</td>
+</tr>
+<tr>
+<td>Windows 10 教育</td>
+<td>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</td>
+</tr>
+<tr>
+<td>Windows 10 教育 N</td>
+<td>2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</td>
+</tr>
+<tr>
+<td>Windows 10 企業版 2015 LTSB</td>
+<td>WNMTR-4C88C-JK8YV-HQ7T2-76DF9</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise 2015 LTSB N</td>
+<td>2F77B-TNFGY-69QQF-B8YKP-D69TJ</td>
+</tr>
+<tr>
+<td>Windows 10 企業 2016 LTSB</td>
+<td>DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ</td>
+</tr>
+<tr>
+<td>Windows 10 企業 2016 LTSB N</td>
+<td>QFFDN-GRT3P-VKWWX-X7T3R-8B639</td>
+</tr>
+</tbody>
+</table>
