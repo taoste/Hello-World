@@ -1,6 +1,32 @@
 - **[所有国家国旗emoji](http://flagpedia.asia/index) | 国家旗帜**
 http://flagpedia.asia/index
 
+> Code代码：
+
+```
+<nav id="languages"><ul class="clearfix">
+	<li><a lang="cs" title="Státní vlajky všech zemí světa" href="http://www.statnivlajky.cz/">Česky</a></li>
+	<li><a lang="en" title="Flags of all countries" href="http://flagpedia.net/">English</a></li>
+	<li><a lang="de" title="Flaggen aller Länder" href="http://www.welt-flaggen.de/">Deutsch</a></li>
+	<li><a lang="fr" title="Drapeaux des pays du monde" href="http://www.drapeauxdespays.fr/">Français</a></li>
+	<li><a lang="it" title="Bandiere del Mondo" href="http://www.bandiere-mondo.it/">Italiano</a></li>
+	<li><a lang="es" title="Banderas de todos los países" href="http://www.banderas-mundo.es/">Español</a></li>
+	<li><a lang="ru" title="флаги стран мира" href="http://www.flagistrany.ru/">Русский</a></li>
+	<li><a lang="sk" title="Štátne vlajky všetkých krajín sveta" href="http://www.statnevlajky.sk/">Slovensky</a></li>
+	<li><a lang="pl" title="Flagi państw świata" href="http://www.flagi-panstw.pl/">Polski</a></li>
+	<li><a lang="pt" title="Bandeiras de todos os países" href="http://www.bandeirasnacionais.com/">Português</a></li>
+	<li class="current"><a lang="zh" title="世界上所有国家的国旗" href="/">中国的</a></li>
+	<li><a lang="ja" title="すべての国の国旗" href="/ja/">日本の</a></li>
+	<li><a lang="tr" title="Tüm ülkelerin bayrakları" href="http://www.bayraklar.info/">Türk</a></li>
+	<li><a lang="no" title="Verdens flagg" href="http://www.verdensflagg.no/">Norsk</a></li>
+	<li><a lang="sv" title="All världens flaggor" href="http://www.flaggorvarlden.se/">Svenska</a></li>
+	<li><a lang="hu" title="Zászlók az összes ország" href="http://www.nemzetizaszlok.hu/">Magyar</a></li>
+	<li><a lang="nl" title="Nationale vlaggen van alle landen van de wereld" href="http://flagpedia.net/nl/">Dutch</a></li>
+	<li><a lang="da" title="Nationale flag i alle lande i verden" href="http://flagpedia.net/da/">Dansk</a></li>
+	<li><a lang="fi" title="Kansallisia lippuja kaikkien maailman maiden" href="http://flagpedia.net/fi/">Suomi</a></li>
+	<li><a lang="he" title="דגלים לאומי של כל מדינות העולם" href="/he/">עברית</a></li>
+</ul></nav>
+```
 ----------------------------------------------------------------------------
 
 **<img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/cn.png?raw=true"/>[中华人民共和国(PRC)国旗emoji | 国家旗帜](http://flagpedia.asia/the-people-s-republic-of-china)**
