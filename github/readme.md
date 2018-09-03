@@ -22,3 +22,6 @@ https://github.com/tencent
 
 ---------------------------------------------------------------------------------
 
+- 其他GitHub个人用户：
+
+》 [JimmyLv](https://github.com/JimmyLv/jimmylv.github.io)
