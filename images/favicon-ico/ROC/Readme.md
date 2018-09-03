@@ -1,7 +1,6 @@
 
 **<img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/tw.png?raw=true"/>[中華民國(ROC)国旗emoji | 国家旗帜](http://flagpedia.asia/the-republic-of-china)**
 
-
 > <img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/tw.png?raw=true"/> 标志下载
 - [一个小图标](http://flagpedia.asia/data/flags/mini/tw.png) (PNG, 30x20 px, 0.2 kB)
 - [经典解析](http://flagpedia.asia/data/flags/normal/tw.png) (PNG, 550x367 px, 4 kB)
@@ -36,3 +35,8 @@
 - 电话区号 : +886
 - 国家域名 : .tw
 
+----------------------------------------------------------------------------
+
+- [File:Lang-zht.png](https://zh.wikipedia.org/wiki/File:Lang-zht.png) - 维基百科，自由的百科全书
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Lang-zht.png?raw=true"/>
