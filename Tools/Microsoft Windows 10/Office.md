@@ -42,9 +42,9 @@ Hi，我是Office君。(微信号：msminiassistant)
 
 ————————————————————————— 
 
-<a data-miniprogram-appid="d3gyMTk4YTVmMmQ3Nzk3MmI1" data-miniprogram-path="cGFnZXMvaW5kZXgvaW5kZXguaHRtbA==" href="#">传图识字智能创作</a>
+<a data-miniprogram-appid="d3gyMTk4YTVmMmQ3Nzk3MmI1" data-miniprogram-path="cGFnZXMvaW5kZXgvaW5kZXguaHRtbA==" href="#">🔗 传图识字智能创作</a>
 
-<a data-miniprogram-appid="d3g2MjRhMmJjMjE4OThhZGI5" data-miniprogram-path="cGFnZXMvZG9jdW1lbnRzL2RvY3VtZW50cy5odG1s" href="#">让你的文档会说话</a>
+<a data-miniprogram-appid="d3g2MjRhMmJjMjE4OThhZGI5" data-miniprogram-path="cGFnZXMvZG9jdW1lbnRzL2RvY3VtZW50cy5odG1s" href="#">🔗 让你的文档会说话</a>
 
 <a href='https://dragongate.partner.office365.cn/sl/l/ivIpxt'> 📝  智能推荐精品模板</a>
 
