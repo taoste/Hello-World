@@ -105,7 +105,7 @@
 
 - **【如何在Windows10系统“关机选项”菜单中添加“休眠”选项】**
 
-方法/步骤：
+方法/步骤：( **微软官网说明**：[关闭电脑，或使其进入睡眠或休眠状态 - Windows Help](https://support.microsoft.com/zh-cn/help/13770/windows-shut-down-sleep-hibernate-your-pc) )
 > 1.点击Windows10系统【搜索图标】并在搜索框内输入“控制面板”并按回车。 ↓
 > 
 > 2.在右上方【查看方式】选择大图标或小图标，并找到【电源选项】，单击【电源选项】。 ↓
