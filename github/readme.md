@@ -1,5 +1,7 @@
 - **收集整理日常发现的好资源、前端资源汇总** ：
-( 参阅并感谢：@[poetries](https://github.com/poetries/mywiki)、)
+( 参阅并感谢：@[poetries](https://github.com/poetries/mywiki)、
+@[niezhiyang](https://github.com/niezhiyang/open_source_team)、
+)
 
 ---------------------------------------------------------------------------------
 
