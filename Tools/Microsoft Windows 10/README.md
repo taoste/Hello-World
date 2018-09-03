@@ -86,7 +86,7 @@
 
 **Windows 10 / UWP** :
 
-- [] [U盘 – 移动存储管理应用](https://www.microsoft.com/zh-cn/p/usb-flash-drive/9pdfklqwtn71?activetab=pivot%3aoverviewtab) - Microsoft Store zh-CN
+- [U盘 – 移动存储管理应用](https://www.microsoft.com/zh-cn/p/usb-flash-drive/9pdfklqwtn71?activetab=pivot%3aoverviewtab) - Microsoft Store zh-CN
 
 > 程序提供方： [智呈科技-西部AI先行者](http://www.zeecent.com/)  （@[发现小众](https://faxian.appinn.com/8742) ）
 
@@ -107,8 +107,11 @@
 
 方法/步骤：
 > 1.点击Windows10系统【搜索图标】并在搜索框内输入“控制面板”并按回车。 ↓
+> 
 > 2.在右上方【查看方式】选择大图标或小图标，并找到【电源选项】，单击【电源选项】。 ↓
+> 
 > 3.找到左侧链接选项中的【选择电源按钮的功能】，并单击。 ↓
+> 
 > 4.找到【更改当前不可用的设置】单击，单击后向下找到【休眠】并勾选，最后保存修改。 ↓
 
 其他：
