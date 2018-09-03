@@ -37,7 +37,7 @@ http://flagpedia.asia/index
 
 **<img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/tw.png?raw=true"/>[中華民國(ROC)国旗emoji | 国家旗帜](http://flagpedia.asia/the-republic-of-china)**
 
-<img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/tw (2560x1707).png?raw=true"/>
+<img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/tw (550x367).png?raw=true"/>
 
 > <img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico/ROC/tw.png?raw=true"/> 标志下载
 - [一个小图标](http://flagpedia.asia/data/flags/mini/tw.png) (PNG, 30x20 px, 0.2 kB)
