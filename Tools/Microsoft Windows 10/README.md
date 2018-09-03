@@ -11,6 +11,10 @@
 
 **Microsoft 官网** : [**面向使用辅助技术的客户的 Windows 10 免费升级优惠**](https://www.microsoft.com/zh-cn/accessibility/windows10upgrade) -  (  活动已过期 )
 
+
+
+- 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
+
 ---------------------------------------------------------------------------------------------------------
 
 - [Note] Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
