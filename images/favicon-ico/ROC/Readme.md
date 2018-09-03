@@ -4,6 +4,10 @@ http://flagpedia.asia/index
 > Code代码：
 
 ```
+<div class="cleaner"></div>
+
+<hr />
+
 <nav id="languages"><ul class="clearfix">
 	<li><a lang="cs" title="Státní vlajky všech zemí světa" href="http://www.statnivlajky.cz/">Česky</a></li>
 	<li><a lang="en" title="Flags of all countries" href="http://flagpedia.net/">English</a></li>
@@ -26,6 +30,10 @@ http://flagpedia.asia/index
 	<li><a lang="fi" title="Kansallisia lippuja kaikkien maailman maiden" href="http://flagpedia.net/fi/">Suomi</a></li>
 	<li><a lang="he" title="דגלים לאומי של כל מדינות העולם" href="/he/">עברית</a></li>
 </ul></nav>
+
+</div>
+
+<hr />
 ```
 ----------------------------------------------------------------------------
 
