@@ -1,4 +1,4 @@
-百度网盘不限速下载器 | [http://pandownload.com/ PanDownload官网]
+百度网盘不限速下载器 | [PanDownload官网](http://pandownload.com/) 
 
 PanDownload 一款第三方百度网盘下载工具，采用了Aria 2技术，
 
@@ -15,7 +15,9 @@ PanDownload 第三方百度网盘下载工具，不限速！
 ---------------------------------------------------------------
 
 【下载地址】
+
 本地下载 http://pandownload.com/2.0.1
+
 网盘下载 https://www.lanzous.com/i1s35uh
 
 【更新日志】
