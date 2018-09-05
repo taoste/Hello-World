@@ -54,3 +54,24 @@ Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
 【Tor暗网导航】
 wikitjerrta4qgz4.onion/
 zqktlwi4fecvo6ri.onion/wiki/
+
+
+Facebook Tor
+https://zh-cn.facebookcorewwwi.onion/
+
+--------------------------------------------------------------------------------
+
+关于 Tor
+about:tor
+
+Tor Browser 7.5 is released（Tue, 23 Jan 2018）
+Tor Browser for Windows
+Version 7.5 - Windows 10, 8, 7, Vista, and XP
+https://www.torproject.org/download/download-easy.html.en
+https://www.torproject.org/dist/torbrowser//7.5/torbrowser-install-7.5_zh-CN.exe
+
+更新 Tor Browser
+about:tbupdate?https%3A%2F%2Fblog.torproject.org%2Ftor-browser-75-released
+about:tbupdate?https%3A%2F%2Fblog.torproject.org%2Ftor-browser-7010-released
+https://blog.torproject.org/tor-browser-75-released
+
