@@ -39,24 +39,32 @@
 
 Deep Web（深网/网络公海）
 
+
 Tor - 维基百科，自由的百科全书
+
 
 https://zh.wikipedia.org/wiki/Tor
 
+
 DuckDuckGo搜索引擎-暗网服务(3g2upl4pq6kufc4m.onion/)
 
+
 Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
+
 
 明网的地址(https://thehiddenwiki.org/ )
 
 
 
 【Tor暗网导航】
+
 wikitjerrta4qgz4.onion/
+
 zqktlwi4fecvo6ri.onion/wiki/
 
 
 Facebook Tor
+
 https://zh-cn.facebookcorewwwi.onion/
 
 --------------------------------------------------------------------------------
@@ -65,13 +73,22 @@ https://zh-cn.facebookcorewwwi.onion/
 about:tor
 
 Tor Browser 7.5 is released（Tue, 23 Jan 2018）
+
 Tor Browser for Windows
+
 Version 7.5 - Windows 10, 8, 7, Vista, and XP
+
 https://www.torproject.org/download/download-easy.html.en
+
 https://www.torproject.org/dist/torbrowser//7.5/torbrowser-install-7.5_zh-CN.exe
 
+
+
 更新 Tor Browser
+
 about:tbupdate?https%3A%2F%2Fblog.torproject.org%2Ftor-browser-75-released
+
 about:tbupdate?https%3A%2F%2Fblog.torproject.org%2Ftor-browser-7010-released
+
 https://blog.torproject.org/tor-browser-75-released
 
