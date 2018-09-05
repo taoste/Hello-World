@@ -46,13 +46,13 @@ Tor - 维基百科，自由的百科全书
 https://zh.wikipedia.org/wiki/Tor
 
 
-DuckDuckGo搜索引擎-暗网服务(3g2upl4pq6kufc4m.onion/)
+DuckDuckGo搜索引擎-暗网服务( https://3g2upl4pq6kufc4m.onion/?kad=zh_CN )
 
 
 Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
 
 
-明网的地址(https://thehiddenwiki.org/ )
+明网的地址( https://thehiddenwiki.org/ )
 
 
 
@@ -62,10 +62,8 @@ wikitjerrta4qgz4.onion/
 
 zqktlwi4fecvo6ri.onion/wiki/
 
+Facebook Tor ( https://zh-cn.facebookcorewwwi.onion/ )
 
-Facebook Tor
-
-https://zh-cn.facebookcorewwwi.onion/
 
 --------------------------------------------------------------------------------
 
