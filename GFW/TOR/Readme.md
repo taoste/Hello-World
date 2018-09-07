@@ -1,6 +1,7 @@
 <p>
 <img src="https://taoste.github.io/Hello-World/GFW/TOR/Tor-Logo.01.png?raw=true"/>
 <img src="https://taoste.github.io/Hello-World/GFW/TOR/Tor-Logo.02.png?raw=true"/>
+<img src="https://taoste.github.io/Hello-World/GFW/TOR/ICON(.rsrc)/36.ico?raw=true"/>
 </p>
 
 “TOR”是老牌的翻墙工具，并且是“开源项目”。
