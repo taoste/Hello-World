@@ -1,6 +1,6 @@
 **隐币**-无封锁无金融限制的加密货币 ( https://yin.bi/ )
 
-**[阅读白皮书](https://s3.amazonaws.com/yinbi/Yinbi_Whitepaper_v1.0.pdf)**
+点击》**[阅读白皮书](https://s3.amazonaws.com/yinbi/Yinbi_Whitepaper_v1.0.pdf)**
 (白皮书**中文版**即将发布)
 
 - ***隐币是什么？**
