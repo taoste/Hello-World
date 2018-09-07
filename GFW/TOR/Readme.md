@@ -87,6 +87,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 > 
 > **欢迎使用 Tor Browser**
 > 现在即可自由地匿名访问互联网。
+>
 > [**测试 Tor 网络设置**](https://check.torproject.org/?lang=zh_CN)
 > 使用[**DuckDuckGo**](https://duckduckgo.com/)安全搜索。
 
@@ -138,13 +139,18 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 - [报告 Bug](https://trac.torproject.org/projects/tor/newticket?component=BridgeDB&keywords=bridgedb-reportbug&cc=isis&owner=isis)   ·    [源代码](https://gitweb.torproject.org/bridgedb.git)   ·    [更改日志](https://gitweb.torproject.org/bridgedb.git/tree/CHANGELOG)   ·    [联系方式](help@rt.torproject.org)   ·    [公共密匙](https://bridges.torproject.org/keys)
 
 ★ **暗网（the Dark Web） | 深网「the Deep Web 」**：
-
+>
 > Tor隐藏服务的例子（在非Tor的浏览器输入.onion网址是无意义的）：
+>
 > Tor隐藏维基 ( http://zqktlwi4fecvo6ri.onion/ )：列出常用的隐藏网站，以及关于使用隐藏服务的技巧和注意事项。也有明网的地址( https://thehiddenwiki.org/ )，可使用一般浏览器访问 。
+>
 > SIGAINT：暗网最老牌，标榜隐私与安全，广受资安人士信赖的电子邮件服务。
+>
 > DuckDuckGo：主要运作在明网的搜索引擎，标榜隐私、不记录用户信息和搜索历史（相反地，Google, Yahoo, Bing, 蕃薯藤等等都会记录），也提供暗网服务( https://3g2upl4pq6kufc4m.onion/?kad=zh_CN )，让用户更彻底地匿名化。
+>
 > Facebook虽然禁止Tor用户注册账号，却提供了.onion的隐藏服务，供已注册的用户连接。(   https://zh-cn.facebookcorewwwi.onion/  )
- 
+>
+
 参考:
 > 0. 匿名搜索：[Hidden Service位于DuckDuckGo](https://duckduckgo.com/?q=Hidden+Service&t=h_&ia=web)
 > 1. [如何创建一个 Tor .onion 网站[更新]](http://www.labazhou.net/2015/03/how-to-create-a-tor-onion-site/) – **腊八粥** – 一个关于计算机、极客、阅读和写作的英文文章的翻译网站
@@ -164,6 +170,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 > 14. [如何安全的使用Tor网络](http://www.freebuf.com/news/topnews/72741.html) - FreeBuf.COM | 关注黑客与极客
 > 15. [揭秘暗网中的Tor网络连接](http://www.freebuf.com/articles/web/109330.html) - FreeBuf.COM | 关注黑客与极客
 > 16. 编程随想：
+>
 > ![image](https://lh6.googleusercontent.com/a7N4tjDCF1j0nxZxNNtrhfHFXZGaqwiTvSEyboG4T1KauK1STBymmnXOz_Zonar_qAXlfvt5heWj92wuD0RWORWiWk7OVMS4SbidexZyXDCK3vM_youSRWE6d6cp)
 > 
 >  》[如何翻墙](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)（传说中的翻墙入门教程，不定期更新）@ 编程随想的博客
@@ -182,11 +189,11 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 
 ☆ **推荐暗网资源**（Chinese / 中国語）：（更多 | [**匿名服务列表**](https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8) ）
 >
->     [ Tor中文资源](http://ir5eqhlec4j6n2pz.onion) -- Tor中文博客 2014年11月上线
+>     [Tor中文资源](http://ir5eqhlec4j6n2pz.onion) -- Tor中文博客 2014年11月上线
 >
 >     [Tor中文交流论坛](http://s36gxb6xjm662juk.onion/) --  Tor中文交流论坛 2015年2月上线
 >
->  1. Facebook虽然禁止Tor用户注册账号，却提供了.onion的隐藏服务，供已注册的用户连接。(   https://zh-cn.facebookcorewwwi.onion/ )
+>   1. Facebook虽然禁止Tor用户注册账号，却提供了.onion的隐藏服务，供已注册的用户连接。(   https://zh-cn.facebookcorewwwi.onion/ )
 >
 
 ☆ [SecureDrop](https://securedrop.org/)：开源的维基解密式的匿名信息提交系统 | 新闻自由基金会管理的开源举报人提交系统。  ( https://securedrop.org/ ) （[Github](https://github.com/freedomofpress/securedrop/) 、Tor[.onion](https://secrdrop5wyphb5x.onion)）
