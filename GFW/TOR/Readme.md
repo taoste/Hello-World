@@ -128,6 +128,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 
 - 网桥中继帮助
 > 如果 Tor 网络无法连接，可能是因为互联网服务提供商 (ISP) 或其他机构对 Tor 进行了封锁。通常，使用 Tor 网桥可以解决这种问题。网桥指未公开的网络中继，更难于封锁。您可以使用集成的网桥，也可以以下列方式获取一些网桥并手动输入：
+>
 >  **1.网页方式**
 > 使用浏览器访问 https://bridges.torproject.org
 > 
@@ -163,21 +164,30 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 > 14. [如何安全的使用Tor网络](http://www.freebuf.com/news/topnews/72741.html) - FreeBuf.COM | 关注黑客与极客
 > 15. [揭秘暗网中的Tor网络连接](http://www.freebuf.com/articles/web/109330.html) - FreeBuf.COM | 关注黑客与极客
 > 16. 编程随想：
-
-![image](https://lh6.googleusercontent.com/a7N4tjDCF1j0nxZxNNtrhfHFXZGaqwiTvSEyboG4T1KauK1STBymmnXOz_Zonar_qAXlfvt5heWj92wuD0RWORWiWk7OVMS4SbidexZyXDCK3vM_youSRWE6d6cp)
+> ![image](https://lh6.googleusercontent.com/a7N4tjDCF1j0nxZxNNtrhfHFXZGaqwiTvSEyboG4T1KauK1STBymmnXOz_Zonar_qAXlfvt5heWj92wuD0RWORWiWk7OVMS4SbidexZyXDCK3vM_youSRWE6d6cp)
 > 
 >  》[如何翻墙](https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html)（传说中的翻墙入门教程，不定期更新）@ 编程随想的博客
+>
 >  》[获取翻墙软件方法大全](https://program-think.blogspot.com/2011/03/how-to-get-gfw-tools.html)（教你在无法翻墙的情况下拿到翻墙软件）@ 编程随想的博客
+>
 >  》[“如何翻墙”系列：关于 TOR 的常见问题解答](https://program-think.blogspot.com/2013/11/tor-faq.html) @ 编程随想的博客  
+>
 >  》[“如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理](https://program-think.blogspot.com/2014/10/gfw-tor-meek.html) @ 编程随想的博客   
+>
 >  》[“如何翻墙”系列：戴“套”翻墻的方法](https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html ) @ 编程随想的博客  
+>
 >  》[多台电脑如何共享翻墙通道](https://program-think.blogspot.com/2013/01/cross-host-use-gfw-tool.html ) @ 编程随想的博客  
+>
 >  》[如何隐藏你的踪迹，避免跨省追捕（系列）](https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html ) @ 编程随想的博客  
 
 ☆ **推荐暗网资源**（Chinese / 中国語）：（更多 | [**匿名服务列表**](https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8) ）
+>
 >     [ Tor中文资源](http://ir5eqhlec4j6n2pz.onion) -- Tor中文博客 2014年11月上线
+>
 >     [Tor中文交流论坛](http://s36gxb6xjm662juk.onion/) --  Tor中文交流论坛 2015年2月上线
+>
 >  1. Facebook虽然禁止Tor用户注册账号，却提供了.onion的隐藏服务，供已注册的用户连接。(   https://zh-cn.facebookcorewwwi.onion/ )
+>
 
 ☆ [SecureDrop](https://securedrop.org/)：开源的维基解密式的匿名信息提交系统 | 新闻自由基金会管理的开源举报人提交系统。  ( https://securedrop.org/ ) （[Github](https://github.com/freedomofpress/securedrop/) 、Tor[.onion](https://secrdrop5wyphb5x.onion)）
 
