@@ -70,9 +70,13 @@ Facebook Tor ( https://zh-cn.facebookcorewwwi.onion/ )
 <img src="https://www.torproject.org/images/tor-logo.jpg"/>
 
 - [**Tor匿名网络**](https://check.torproject.org/?lang=zh_CN) (Start Tor Browser 浏览器)
+
 [测试 Tor 网络设置](https://check.torproject.org/?lang=zh_CN):  https://check.torproject.org/?lang=zh_CN
+
 关于Tor:  view-source:**about:tor**  (Tor@[维基百科](https://zh.wikipedia.org/wiki/Tor))
+
 Tor Browser 更新日志：view-source:**about:tbupdate**
+
 Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.html.en)（[Github下载](https://github.com/TheTorProject/gettorbrowser)） 周三 , 2018年9月5日 （最新版 [Tor Browser v 8.0](https://www.torproject.org/dist/torbrowser//8.0/torbrowser-install-win64-8.0_zh-CN.exe)  --  September 5 2018） (Tor Browser v8.0 [说明](https://blog.torproject.org/new-release-tor-browser-80))
 
 > **关于Tor:**  ( view-source:**about:tor**  )
