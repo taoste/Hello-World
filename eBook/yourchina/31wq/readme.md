@@ -4,7 +4,7 @@
 
 （2018年9月7日凌晨4時許，位於浙江金華市浦江縣潘宅鎮麗水源的神麗峽景區內有民眾發現一名年輕女子吊死在樹上。） 
 
-- 《[【转帖】P2P受害者标本：上吊自杀者王倩（墙内已删）](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://t66y.com/htm_data/7/1809/3269998.html)》图文来自以下互联网。
+- 《[【转帖】P2P受害者：上吊自杀者王倩（墙内已删）](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://t66y.com/htm_data/7/1809/3269998.html)》图文来自以下互联网。
 
 谷歌搜索关键词（翻墙访问）：王倩 P2P （微博搜索、微信搜索、百度已删除相关信息……）
 > 
