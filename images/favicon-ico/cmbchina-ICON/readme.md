@@ -1,6 +1,6 @@
 **招商银行官方网站 -- [一网通主页](https://www.cmbchina.com/) / [招商銀行香港分行](https://hk.cmbchina.com/)**
 
-- [网上个人银行（专业版）转账、汇款到账时间及收费标准](https://www.cmbchina.com/PersonalBank/GB/Page/standfee.htm)
+- [网上个人银行（专业版）转账、汇款到账时间及收费标准](https://www.cmbchina.com/PersonalBank/GB/Page/standfee.htm) - [升级专业版100%中奖](https://www.cmbchina.com/personal/common.aspx?parentid=pbank&pageid=0730smdl)
 
 - [招商銀行香港分行 -- 證券業務](https://hk.cmbchina.com/Securities/)
 
