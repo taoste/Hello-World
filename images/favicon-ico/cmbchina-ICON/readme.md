@@ -1,3 +1,11 @@
+**招商银行官方网站 -- [一网通主页](https://www.cmbchina.com/) / [招商銀行香港分行](https://hk.cmbchina.com/)**
+
+- [网上个人银行（专业版）转账、汇款到账时间及收费标准](http://www.cmbchina.com/PersonalBank/GB/Page/standfee.htm)
+
+- [招商銀行香港分行 -- 證券業務](https://hk.cmbchina.com/Securities/)
+
+----------------------------------
+
 分辨率：128*128 （1.ico）
 
 <img src="https://github.com/taoste/Hello-World/blob/master/images/favicon-ico//cmbchina-ICON/1.ico?raw=true"/>
