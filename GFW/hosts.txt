@@ -10,6 +10,16 @@
 #2400:CB00:2048:1::6819:1F70 t66y.com
 #2400:CB00:2048:1::6819:2070 t66y.com
 
+
+206.125.164.82 sex.com
+##64.150.183.194 huanghuagang.org
+199.34.228.75 huanghuagang.org
+204.79.197.217 onedrive.live.com
+
+218.254.1.15 2xiangzi.blogspot.com
+218.254.1.15 program-think.blogspot.com
+218.254.1.15 kids.youtube.com
+
 #佐拉 - 周曙光的个人网站
 #104.28.27.52 zuola.com
 104.28.26.52 zuola.com
@@ -36,16 +46,7 @@
 127.0.0.1 practivate.adobe.com
 127.0.0.1 activate.adobe.com
 
-104.25.32.112 t66y.com
-206.125.164.82 sex.com
-##64.150.183.194 huanghuagang.org
-199.34.228.75 huanghuagang.org
-204.79.197.217 onedrive.live.com
 
-104.28.26.52 www.zuola.com
-218.254.1.15 2xiangzi.blogspot.com
-218.254.1.15 program-think.blogspot.com
-218.254.1.15 kids.youtube.com
 ##ipconfig /flushdns 清除系统DNS缓存
 ## notepad C:\Windows\System32\drivers\etc\hosts
 
