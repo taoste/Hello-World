@@ -23,7 +23,7 @@ Telegram - 匿名聊天软件：
 >
 > 这个群组與IRC頻道 #wikipedia-zh 連線及三个QQ群（群号：57217140）（群号：41992671）（群號：642442608）同步。
 
-> **【中国数字时代】**telegram交流群/ 群聊地址：（已改为私密群），
+> **【中国数字时代】** Telegram交流群/ 群聊地址：（已改为私密群），
 > 
 > 消息推送：http://t.me/cdtchinesefeed （Telegram FAQ http://telegram-cn.org/faq.html）
 
