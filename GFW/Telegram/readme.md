@@ -1,3 +1,16 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      Telegram 群、频道、机器人 - 汇总分享              # 标题 
+subtitle:    #副标题
+date:       2018-04-24              # 时间
+author:     聪聪                    # 作者
+header-img:     #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - Telegram
+
+---
+
 - **Telegram Web** （网页版 -  官方在线版）https://web.telegram.org/ 
 
 Telegram - 匿名聊天软件：    
@@ -22,18 +35,6 @@ Telegram - 匿名聊天软件：
 > 
 > ②官方政治群：https://t.me/neihanzhengzhi 
 
----
-layout:     post                    # 使用的布局（不需要改）
-title:      Telegram 群、频道、机器人 - 汇总分享              # 标题 
-subtitle:    #副标题
-date:       2018-04-24              # 时间
-author:     聪聪                    # 作者
-header-img:     #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - Telegram
-
----
 
 感谢：@[聪聪](https://github.com/congcong0806/congcong0806.github.io/blob/master/_posts/2018-04-24-Telegram.md) 
 
