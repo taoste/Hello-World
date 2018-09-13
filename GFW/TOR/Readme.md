@@ -168,7 +168,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 >
 >     [Tor中文交流论坛](http://s36gxb6xjm662juk.onion/) --  （ Tor中文交流论坛 2015年2月上线 )
 > 
->     [暗网交易市场](http://lei6ezsexd4iq2tm.onion/index.php) --  （ 中文暗网市场交易网站 )
+>     [暗网交易市场](http://deepbbs3x2owgof4.onion/) --  （ 中文暗网市场交易网站 )
 >
 
 - **Deep Web（深网/网络公海）**
