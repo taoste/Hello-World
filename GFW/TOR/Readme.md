@@ -48,7 +48,8 @@
 
 关于Tor:  view-source:**about:tor**  (Tor@[维基百科](https://zh.wikipedia.org/wiki/Tor))
 
-[**Tor 浏览器用户手册（官方中文版）**](https://tb-manual.torproject.org/zh-CN/) ( https://tb-manual.torproject.org/zh-CN/ )
+- [Title](https://taoste.github.io/Hello-World/GFW/TOR/tb-manual/index.html) : [**Tor 浏览器用户手册（官方中文版）**](https://tb-manual.torproject.org/zh-CN/) ( https://tb-manual.torproject.org/zh-CN/ )
+
 
 Tor Browser 更新日志：view-source:**about:tbupdate**
 
