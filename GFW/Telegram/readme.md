@@ -3,7 +3,7 @@ layout:     post                    # 使用的布局（不需要改）
 title:      Telegram 群、频道、机器人 - 汇总分享              # 标题 
 subtitle:    #副标题
 date:       2018-04-24              # 时间
-author:     [聪聪](https://github.com/congcong0806/congcong0806.github.io/blob/master/_posts/2018-04-24-Telegram.md)                      # 作者
+author:     聪聪                    # 作者
 header-img:     #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -11,7 +11,33 @@ tags:                               #标签
 
 ---
 
-##### 群组 Group
+感谢：@[聪聪](https://github.com/congcong0806/congcong0806.github.io/blob/master/_posts/2018-04-24-Telegram.md) 
+
+- **Telegram Web （网页版 -  官方在线版）https://web.telegram.org/ **
+
+Telegram - 匿名聊天软件：    
+
+加入电报简体中文版 （ https://telegram.me/Tele_zh_CN ）
+
+> **维基百科:[Telegram交流群](https://zh.wikipedia.org/wiki/Wikipedia:Telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)**
+>
+> 新中文维基百科Telegram公共群组 https://t.me/wikipedia_zh_n ，
+>
+> 这个群组與IRC頻道 #wikipedia-zh 連線及三个QQ群（群号：57217140）（群号：41992671）（群號：642442608）同步。
+
+> **【中国数字时代】**telegram交流群/ 群聊地址：（已改为私密群），
+> 
+> 消息推送：http://t.me/cdtchinesefeed （Telegram FAQ http://telegram-cn.org/faq.html）
+
+> **【内涵段子】** Telegram: Contact @duanzige( https://t.me/duanzige )
+> 
+> 段友之家，滴～滴滴
+> 
+> ①内涵段子看段子官方频道：https://t.me/duanzizhijia
+> 
+> ②官方政治群：https://t.me/neihanzhengzhi 
+
+##### ♥ 群组列表 Group ：
 ###### 软件
 - 印象笔记用户群：<https://t.me/yinxiangbiji>
 - 落格输入法：<https://t.me/joinchat/DGZalT6pMAHNNg8JyfPLXw>
