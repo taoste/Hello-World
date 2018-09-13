@@ -21,7 +21,7 @@
 199.34.228.75 www.huanghuagang.org
 
 
-
+#屏蔽
 127.0.0.1                   activate.adobe.com
 127.0.0.1                   practivate.adobe.com
 127.0.0.1                   lmlicenses.wip4.adobe.com
