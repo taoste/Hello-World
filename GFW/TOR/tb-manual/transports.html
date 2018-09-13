@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>可插拔传输</title>
+<link rel="stylesheet" type="text/css" href="zh-cn.css">
+<script type="text/javascript" src="jquery.js"></script><script type="text/javascript" src="jquery.syntax.js"></script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body lang="zh-cn" dir="ltr"><div class="page" role="main">
+<div class="header"></div>
+<div class="body">
+<div class="hgroup"><h1 class="title"><span class="title">可插拔传输</span></h1></div>
+<div class="region">
+<div class="contents"><p class="p">可插拔传输层 是一种洋葱路由用来伪装其传输的数据信号之特殊工具，当您的网络服务供应商或所处的网络环境会过滤阻挡通往洋葱路由网络的连接时，此工具即可发挥其功用。</p></div>
+<div id="types" class="sect"><div class="inner">
+<div class="hgroup"><h2 class="title"><span class="title">可插拔传输的类型</span></h2></div>
+<div class="region"><div class="contents">
+<p class="p">目前有六种可插拔传输可用，更多机制正在开发。</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-style: solid;">
+<tr>
+<td><p class="p">obfs3</p></td>
+<td style="border-left-style: solid;"><p class="p">
+      obfs3 makes Tor traffic look random, so that it does not look
+      like Tor or any other protocol. While still included by default, 
+      it is reccomended to use obfs4 instead, as it has several security
+      improvements over obfs3.
+      </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">obfs4</p></td>
+<td style="border-top-style: solid;border-left-style: solid;"><p class="p">obfs4 可以像 obfs3 一样让洋葱路由所发送的网络信号看起来像是随机乱数一般，并且还可以避免网络过滤监控机制利用网段扫描法找出网桥的地址，因此相较之下 obfs4 网桥更难以被网络监控过滤机制阻挡。</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Scramblesuit</p></td>
+<td style="border-top-style: solid;border-left-style: solid;"><p class="p">ScrambleSuit 类似 obfs4，但使用了不同的网桥。</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">FTE</p></td>
+<td style="border-top-style: solid;border-left-style: solid;"><p class="p">FTE（变形加密）可将 Tor 的网络传输乔装打扮为普通网络（HTTP）数据。</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">meek</p></td>
+<td style="border-top-style: solid;border-left-style: solid;"><p class="p">这些 可插拔传输层 都可以让您在使用洋葱路由来上网时，在网络上传输的数据信号看起来就像是在浏览普通网站一样，meek-amazon 可以让您的网络信号看起来像是在访问亚马逊网络服务一样；meek-azure 则可以让您的网络信号看起来像是正在使用微软的网络云端服务一般；而 meek-google 会让您的网络信号看起来像是在使用谷歌搜索引擎一样。</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">
+      Snowflake
+      </p></td>
+<td style="border-top-style: solid;border-left-style: solid;"><p class="p">
+      Snowflake is an improvement upon Flashproxy. It sends your traffic 
+      through WebRTC, a peer-to-peer protocol with built-in NAT punching.
+      </p></td>
+</tr>
+</table></div></div></div>
+</div></div>
+</div></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="footer"><div class="sect about ui-expander" role="contentinfo">
+<div class="yelp-data yelp-data-ui-expander" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="hgroup"><h2><span class="title">关于</span></h2></div>
+<div class="region"><div class="contents">
+<div class="copyrights">
+<div class="copyright">© 2016 YF</div>
+<div class="copyright">© 2016 danfong</div>
+<div class="copyright">© 2016 naruto861214</div>
+<div class="copyright">© 2016 Vel</div>
+<div class="copyright">© 2016 Agustín Wu</div>
+<div class="copyright">© 2016 Chinrur Yang</div>
+<div class="copyright">© 2016 LNDDYL</div>
+<div class="copyright">© 2017 Mingye Wang (Arthur2e5)</div>
+</div>
+<div class="aboutblurb translators">
+<div class="title"><span class="title">翻译者</span></div>
+<ul class="credits">
+<li>YF</li>
+<li>danfong</li>
+<li>naruto861214</li>
+<li>Vel</li>
+<li>Agustín Wu</li>
+<li>Chinrur Yang</li>
+<li>LNDDYL</li>
+<li>Mingye Wang (Arthur2e5)</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div></div>
+</div></body>
+</html>
