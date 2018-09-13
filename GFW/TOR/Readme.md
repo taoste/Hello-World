@@ -38,35 +38,7 @@
 
 --------------------------------------------------------------------------------
 
-Deep Web（深网/网络公海）
 
-
-Tor - 维基百科，自由的百科全书
-
-
-https://zh.wikipedia.org/wiki/Tor
-
-
-DuckDuckGo搜索引擎-暗网服务( https://3g2upl4pq6kufc4m.onion/?kad=zh_CN )
-
-
-Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
-
-
-明网的地址( https://thehiddenwiki.org/ )
-
-
-
-【Tor暗网导航】
-
-wikitjerrta4qgz4.onion/
-
-zqktlwi4fecvo6ri.onion/wiki/
-
-Facebook Tor ( https://zh-cn.facebookcorewwwi.onion/ )
-
-
---------------------------------------------------------------------------------
 
 <img src="https://www.torproject.org/images/tor-logo.jpg"/>
 
@@ -192,12 +164,33 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 
 ☆ **推荐暗网资源**（Chinese / 中国語）：（更多 | [**匿名服务列表**](https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8) ）
 >
->     [Tor中文资源](http://ir5eqhlec4j6n2pz.onion) -- Tor中文博客 2014年11月上线
+>     [Tor中文资源](http://ir5eqhlec4j6n2pz.onion) -- （ Tor中文博客 2014年11月上线 )
 >
->     [Tor中文交流论坛](http://s36gxb6xjm662juk.onion/) --  Tor中文交流论坛 2015年2月上线
+>     [Tor中文交流论坛](http://s36gxb6xjm662juk.onion/) --  （ Tor中文交流论坛 2015年2月上线 )
+> 
+>     [暗网交易市场](http://lei6ezsexd4iq2tm.onion/index.php) --  （ 中文暗网市场交易网站 )
 >
+
+- **Deep Web（深网/网络公海）**
+
+>  
+>  Tor - 维基百科，自由的百科全书 ( https://zh.wikipedia.org/wiki/Tor )
+>  
+>  DuckDuckGo搜索引擎-暗网服务( https://3g2upl4pq6kufc4m.onion/?kad=zh_CN )
+>  
+>  Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
+>   明网的地址( https://thehiddenwiki.org/ )
+>  
 >   1. Facebook虽然禁止Tor用户注册账号，却提供了.onion的隐藏服务，供已注册的用户连接。(   https://zh-cn.facebookcorewwwi.onion/ )
->
+> 
+
+- **【Tor暗网导航】**
+
+>  
+>  wikitjerrta4qgz4.onion/
+>  
+>  zqktlwi4fecvo6ri.onion/wiki/
+>  
 
 ☆ [SecureDrop](https://securedrop.org/)：开源的维基解密式的匿名信息提交系统 | 新闻自由基金会管理的开源举报人提交系统。  ( https://securedrop.org/ ) （[Github](https://github.com/freedomofpress/securedrop/) 、Tor[.onion](https://secrdrop5wyphb5x.onion)）
 
