@@ -39,5 +39,5 @@ https://taoste.github.io/Hello-World/eBook/《这些道理没有人告诉过你�
 
 https://taoste.github.io/Hello-World/eBook/《图解服务的细节029：餐馆店长如何带队伍》.pdf
 
-https://taoste.github.io/Hello-World/eBook/约翰·格雷：男人来自火星，女人来自金星 (扫描版).pdf	
+https://taoste.github.io/Hello-World/eBook/约翰·格雷：男人来自火星，女人来自金星%20(扫描版).pdf	
 
