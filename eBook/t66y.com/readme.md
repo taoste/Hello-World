@@ -7,11 +7,11 @@
 
 - [**uTorrent 官网（中文版）**](https://www.utorrent.com/intl/zh_cn/downloads/win) - Windows 
 
-BT下载工具：**uTorrent 最新版** v3.5.4.44590 （ 官网下载 / [备份下载](https://github.com/taoste/Hello-World/blob/master/Tools/uTorrent_v3.5.4.44590.exe?raw=true) ）
+BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载](https://www.utorrent.com/intl/zh_cn/downloads/complete/track/stable/os/win) / [备份下载](https://github.com/taoste/Hello-World/blob/master/Tools/uTorrent_v3.5.4.44590.exe?raw=true) ）
 
 > 文件大小：2.85 MB
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8nGDJHhHd57heEjLGZw3RhL3haiEg_dItsuNLbxbtlTs7mG5fQ?raw=true"/>
+<img src="https://i02picsos.sogoucdn.com/5e3ace9c75bf88f2?raw=true"/>
 
 【简介】
 >
