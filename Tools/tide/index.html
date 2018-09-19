@@ -1,0 +1,408 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>潮汐 - 睡眠、专注、放松与冥想</title>
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+  <meta name="description" content="潮汐是一款大自然声音主题的身心健康应用，在快速繁复的日常生活中，帮你保持专注、减压放松、睡得更好。通过我们提供的自然声音场景，配合「专注」与「睡眠」两大功能模块，从快节奏的当下抽离，进入另一个平和安静的时空——减少焦虑与压力、保持专注不分心、获得更好的睡眠。">
+  <meta name="keywords" content="潮汐,番茄钟,睡眠,专注,番茄工作法,白噪音,冥想,心流">
+  <meta name="screen-orientation" content="portrait">
+  <meta name="x5-orientation" content="portrait">
+  <script src="plugin/is-c7d6cbe925.min.js"></script>
+  <script src="plugin/zepto-a1f2a5af43.min.js"></script>
+  <script src="plugin/scrollreveal-5deb4348d6.min.js"></script>
+  <script src="plugin/swiper-536e7e8546.min.js"></script>
+  <script type="text/javascript">
+    var doc = document,
+      win = window,
+      isMobile = is.mobile(),
+      isAndroid = isMobile && is.android(),
+      isIos = isMobile && !isAndroid && is.ios(),
+      isTablet = !isMobile && is.tablet(),
+      isWechat = (isMobile || isTablet) && navigator.userAgent.toLowerCase().match(/MicroMessenger/i) ==
+        "micromessenger",
+      isDesktop = !isMobile && !isTablet && is.desktop(),
+      isPortrait = win.orientation == 90 || win.orientation == -90,
+      isLandscape = (win.orientation == 180 || win.orientation == 0) || !win.orientation,
+      isIPSE = isIos && (screen.height == 568 && screen.width == 320),
+      isIP8 = isIos && (screen.height == 667 && screen.width == 375),
+      isIP8P = isIos && (screen.height == 736 && screen.width == 414),
+      isIPX = isIos && (screen.height == 812 && screen.width == 375)
+
+    if (isMobile && isPortrait) {
+      var viewportContent = 'width=device-width';
+      doc.getElementById('viewport').setAttribute('content', viewportContent);
+    }
+    var sr = ScrollReveal({
+      distance: '48px',
+      scale: 1,
+      duration: 600,
+      easing: 'ease-out',
+      mobile: isMobile,
+      viewOffset: { top: 80, right: 0, bottom: 0, left: 0 }
+    });
+  </script>
+  <script src="plugin/init-48b12d5aad.js"></script>
+  <link rel="stylesheet" href="plugin/swiper-fcda5a915c.min.css">
+  <link rel="stylesheet" href="plugin/animate-04df46418b.min.css">
+  <link rel="stylesheet" href="plugin/tide-6550c1a422.css">
+
+</head>
+
+<body class="zhcn" lang="zhcn">
+<!-- trace:src/index.html -->
+  <script type="text/javascript">
+    doc.body.className += ' ' + (isMobile ? 'mobile' : isTablet ? 'tablet' : isDesktop ? 'desktop' : 'unknow');
+    doc.body.className += ' ' + (isAndroid ? 'android' : isIos ? 'ios' : '');
+    doc.body.className += ' ' + (isWechat ? 'wechat' : '');
+    doc.body.className += ' ' + (isPortrait ? 'portrait' : 'landscape');
+    doc.body.className += ' ' + (isIPSE ? 'iphoneSE' : '');
+    doc.body.className += ' ' + (isIP8 ? 'iphone8' : '');
+    doc.body.className += ' ' + (isIP8P ? 'iphone8P' : '');
+    doc.body.className += ' ' + (isIPX ? 'iphoneX' : '');
+  </script>
+
+  <div class="body-container">
+
+    <div id="header" class="width-guard">
+      <div class="container">
+       <!--[if http://localhost:8080]> <a id="logo" href="./"><![endif]-->
+		<a id="logo" href="https://tide.moreless.io/">
+          <img src="plugin/logo-032041ab87.png" />
+        </a>
+        <div class="follows">
+          <a class="follows-item follows-1 wechat">
+            <img src="plugin/wechat-db00cdfbb4.svg">
+          </a>
+          <a class="follows-item follows-2 weibo" target="_blank" href="https://weibo.com/tideapp">
+            <img src="plugin/weibo-1db1b6134c.svg">
+          </a>
+          <a class="follows-item follows-3 facebook" target="_blank" href="https://www.facebook.com/Tide-App-565143603823069/">
+            <img src="plugin/facebook-41ad3012a3.svg">
+          </a>
+          <a class="follows-item follows-4 instagram" target="_blank" href="https://www.instagram.com/thetideful/">
+            <img src="plugin/instagram-3ead4ceea9.svg">
+          </a>
+          <a class="follows-item follows-5 twitter" target="_blank" href="https://twitter.com/Tide75241609">
+            <img src="plugin/twitter-52b2933a04.svg">
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div id="landing" class="width-guard">
+      <div class="container">
+        <img class="desktop-phone ld-sr" src="plugin/web_screen_1-606919a9c0.png" />
+        <div class="content">
+          <h2 class="slogan">和大自然一起，平静身心。</h2>
+          <h2 class="slogan-mobile">  和大自然一起，
+  平静身心。</h2>
+          <p class="desc">
+            <b>睡眠 · 专注 · 放松 · 冥想
+App Store 2017 年度精选</b>
+          </p>
+          <div class="db-btns">
+            <a class="appstore-btn dl-btn" href="https://itunes.apple.com/cn/app/tide/id1077776989" data-href="http://a.app.qq.com/o/simple.jsp?pkgname=io.moreless.tide">
+              <img src="plugin/appstore-23e3299605.png">
+              <b>App Store</b>
+            </a>
+            <a class="google-play-btn dl-btn" href="https://play.google.com/store/apps/details?id=io.moreless.tide" data-href="http://a.app.qq.com/o/simple.jsp?pkgname=io.moreless.tide">
+              <img src="plugin/google-play-b82d3a00a2.png">
+              <b>Google Play</b>
+            </a>
+            <a class="android-btn dl-btn" href="http://pics.tide.moreless.io/site/tide.apk" data-href="http://a.app.qq.com/o/simple.jsp?pkgname=io.moreless.tide">
+              <img src="plugin/android-5595f24367.png">
+              <b>Android版</b>
+            </a>
+            <a id="showDownloadQrcode" class="qrcode-btn ia-btn">
+              <img src="plugin/qrcode-cb8e713d46.png">
+            </a>
+          </div>
+        </div>
+        <p class="remark">支持 iPhone、Android、iPad 与 iPad Pro
+iOS 版本：2.0.6，Android 版本：1.3.0</p>
+        <img class="mobile-phone ld-sr" src="plugin/mobile_screen_1-52ade34322.png" />
+      </div>
+      <script type="text/javascript">
+        sr.reveal('.ld-sr', {
+          duration: 600,
+          delay: 300,
+          easing: 'ease-out',
+          beforeReveal: function () {
+            $('#landing').addClass('animated');
+          }
+        });
+      </script>
+    </div>
+
+    <div class="width-guard">
+      <div class="container features">
+        <div class="feature">
+          <img src="plugin/icon_focus-99fb51172e.png" srcset="plugin/icon_focus@2x-6412ed52e2.png" />
+          <h4>专注</h4>
+        </div>
+        <div class="feature">
+          <img src="plugin/icon_sleep-91eef93ed4.png" srcset="plugin/icon_sleep@2x-a4d328a37b.png" />
+          <h4>睡眠</h4>
+        </div>
+        <div class="feature">
+          <img src="plugin/icon_nap-9f2833e2ed.png" srcset="plugin/icon_nap@2x-7b4ab807e8.png" />
+          <h4>小憩</h4>
+        </div>
+      </div>
+    </div>
+
+    <div id="modules" class="width-guard">
+      <div id="block-1" class="container waitting4show">
+        <div class="b1-sr">
+          <img class="desktop-phone" src="plugin/web_screen_2-d8d595f442.png" />
+        </div>
+        <div class="content">
+          <h2 class="slogan b1-sr">睡眠与小憩，
+和万物声音一起入眠。</h2>
+          <h2 class="slogan-mobile b1-sr">睡眠与小憩，
+和万物声音一起入眠。</h2>
+          <p class="desc b1-sr">精选助眠的自然声音，从午后到深夜，和这个星球一起睡去。不止助眠，我们更提供睡眠监测、轻唤醒与柔美闹钟功能。今晚，在淅沥雨声中睡去，明早在声声鸟鸣中醒来。</p>
+        </div>
+        <div class="b1-sr">
+          <img class="mobile-phone" src="plugin/mobile_screen_2-83e6991394.png" />
+        </div>
+        <script type="text/javascript">sr.reveal('.b1-sr', 200);</script>
+      </div>
+
+      <div id="block-2" class="container waitting4show">
+        <div class="b2-sr">
+          <img class="desktop-phone" src="plugin/web_screen_3-8c02b0770f.png" />
+        </div>
+        <div class="content b2-sr">
+          <h2 class="slogan b2-sr">自然计时器，
+遇见心流体验。</h2>
+          <h2 class="slogan-mobile b2-sr">自然计时器，
+遇见心流体验。</h2>
+          <p class="desc b2-sr">得益于将白噪音（自然声音）与番茄工作法结合的创新设计，我们为你打造了一种沉浸创造的全新方式。专注半小时、休息 5 分钟，使用潮汐专注计时器安排时间，可以有效提升效率、打败拖延症。</p>
+        </div>
+        <div class="b2-sr">
+          <img class="mobile-phone" src="plugin/mobile_screen_3-a2f618ce36.png" />
+        </div>
+        <script type="text/javascript">sr.reveal('.b2-sr', 200);</script>
+      </div>
+
+      <div id="block-3" class="container waitting4show">
+        <div class="b3-sr">
+          <div id="sleep-market">
+            <img src="plugin/web_screen_4-ec70ae62a2.jpg" />
+          </div>
+          <img class="desktop-phone" src="plugin/web_screen_4_model-308f713f10.png" />
+        </div>
+        <div class="content">
+          <h2 class="slogan b3-sr">森林、海边或是雨天，
+把大自然装进你口袋。</h2>
+          <h2 class="slogan-mobile b3-sr">森林、海边或是雨天，
+把大自然装进你口袋。</h2>
+          <p class="desc b3-sr">总有那么一瞬间，希望时空穿梭真实地存在着。能将千里之外的自己投射回山间竹林的沙沙作响，海边温暖的浪花拍打，林间鸟儿的叽喳鸣唱。今天，潮汐让这一切成为现实：一整个大自然，尽在囊中。</p>
+        </div>
+        <div class="mobile-phone b3-sr">
+          <div id="sleep-market-mobile">
+            <img src="plugin/mobile_screen_4-f17f722b98.jpg" />
+          </div>
+          <img class="mobile-phone" src="plugin/mobile_screen_4_model-c05ebad642.png" />
+        </div>
+        <script type="text/javascript">sr.reveal('.b3-sr', {
+            duration: 200,
+            afterReveal: function () {
+              $('#sleep-market, #sleep-market-mobile').addClass('animated');
+            }
+          });</script>
+      </div>
+
+      <div id="block-4" class="container waitting4show">
+        <div class="b4-sr">
+          <img class="desktop-phone" src="plugin/web_screen_5-9a2ea55c3e.png" />
+        </div>
+        <div class="content">
+          <h2 class="slogan b4-sr">每日灵感格言，
+给时光以生命。</h2>
+          <h2 class="slogan-mobile b4-sr">每日灵感格言，
+给时光以生命。</h2>
+          <p class="desc b4-sr">尽管日常忙碌庸常，但诗歌、美丽、浪漫与爱情，这些才是我们生活的意义。每天一个灵感格言，用仪式感开启平静的身心体验。</p>
+        </div>
+        <div class="b4-sr">
+          <img class="mobile-phone" src="plugin/mobile_screen_5-350937038a.png" />
+        </div>
+        <script type="text/javascript">sr.reveal('.b4-sr', 200);</script>
+      </div>
+
+      <div id="night-sky" class="bg-wrapper">
+        <img id="night-sky-desktop-img" src="plugin/web_bg-23dc73ac6f.jpg">
+        <img id="night-sky-mobile-img" src="plugin/mobile_bg-32f5eb6f87.jpg">
+      </div>
+      <div id="bubble-galaxy" class="bg-wrapper width-guard">
+        <div class="container">
+          <img id="bubble-galaxy-desktop-img" src="plugin/web_nature_circle-981b6addf3.png">
+          <img id="bubble-galaxy-mobile-img" src="plugin/mobile_nature_circle-85ead87e4d.png">
+        </div>
+      </div>
+    </div>
+
+    <div id="auto-display" class="width-guard">
+      <div class="container swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div>
+              <b class="autoplay-desc">“潮汐 2.0 极简风未减，让人感觉像是进入另一个世界，没有一丝浮躁的世界。”</b>
+              <b class="autoplay-title">《今日 App》，App Store</b>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div>
+              <b class="autoplay-desc">“潮汐素雅而安静的界面也是我想打开它的理由之一。”</b>
+              <b class="autoplay-title">《少数派》</b>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div>
+              <b class="autoplay-desc">“听着潮汐的声音，莫名地就静下心来，专注于手边的事项。”</b>
+              <b class="autoplay-title">《流动日报》</b>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div>
+              <b class="autoplay-desc">“潮汐兼顾了「专注」与「减压」，让想要「快」的忙碌人们，同时获得了「慢」的内心平静。”</b>
+              <b class="autoplay-title">《电脑玩物》</b>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div>
+              <b class="autoplay-desc">“我相信潮汐的忠实用户，一定是一些有共同特质的人：生活规律，简单自然，有自己的精神世界，重视内在感受。”</b>
+              <b class="autoplay-title">大米</b>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div>
+              <b class="autoplay-desc">“让人静心安眠，对失恋的人有奇效。”</b>
+              <b class="autoplay-title">徐文海</b>
+            </div>
+          </div>
+        </div>
+        <img class="swiper-prev" src="plugin/arrow_left-662f78bd89.svg" />
+        <img class="swiper-next" src="plugin/arrow_right-070dd676c5.svg" />
+      </div>
+    </div>
+
+    <div id="support" class="width-gurad">
+      <div class="container">
+        <img id="sub-logo" src="plugin/logo-4b3b1b16be.png" />
+        <div class="hot-link">
+          <div class="hot-link-block">
+            <span>产品</span>
+            <ul class="products">
+              <li>
+                <a href="https://itunes.apple.com/app/apple-store/id1077776989?pt=117751781&ct=website&mt=8" data-href="http://a.app.qq.com/o/simple.jsp?pkgname=io.moreless.tide">
+                  潮汐 for iPhone
+                </a>
+              </li>
+              <li>
+                <a href="https://play.google.com/store/apps/details?id=io.moreless.tide" data-href="http://a.app.qq.com/o/simple.jsp?pkgname=io.moreless.tide">
+                  潮汐 for Android
+                </a>
+              </li>
+              <li>
+                <a href="https://itunes.apple.com/app/apple-store/id1077776989?pt=117751781&ct=website&mt=8" data-href="http://a.app.qq.com/o/simple.jsp?pkgname=io.moreless.tide">
+                  潮汐 for iPad
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!-- <div class="hot-link-block">
+            <span>Support</span>
+            <ul>
+              <li>
+                <a>FAQ</a>
+              </li>
+              <li>
+                <a>Contact</a>
+              </li>
+            </ul>
+          </div>
+          <div class="hot-link-block">
+            <span>Company</span>
+            <ul>
+              <li>
+                <a>About</a>
+              </li>
+              <li>
+                <a>Press Kit</a>
+              </li>
+              <li>
+                <a>Privacy Policy</a>
+              </li>
+            </ul>
+          </div> -->
+          <div class="hot-link-block">
+            <span>Language</span>
+            <ul>
+              <li>
+                <a href="/en">English</a>
+              </li>
+              <li>
+                <a href="/zh-cn">简体中文</a>
+              </li>
+              <li>
+                <a href="/zh-tw">繁体中文</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="footer" class="width-guard">
+      <div class="container">
+        <div class="follows">
+          <a class="follows-item follows-1 wechat">
+            <img src="plugin/wechat-db00cdfbb4.svg">
+          </a>
+          <a class="follows-item follows-2 weibo" target="_blank" href="https://weibo.com/tideapp">
+            <img src="plugin/weibo-1db1b6134c.svg">
+          </a>
+          <a class="follows-item follows-3 facebook" target="_blank" href="https://www.facebook.com/Tide-App-565143603823069/">
+            <img src="plugin/facebook-41ad3012a3.svg">
+          </a>
+          <a class="follows-item follows-4 instagram" target="_blank" href="https://www.instagram.com/thetideful/">
+            <img src="plugin/instagram-3ead4ceea9.svg">
+          </a>
+          <a class="follows-item follows-5 twitter" target="_blank" href="https://twitter.com/Tide75241609">
+            <img src="plugin/twitter-52b2933a04.svg">
+          </a>
+        </div>
+        <p>© 2018 Tide. All Rights Reserved. </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="qrcode-wrapper qrcode-download-wrapper" id="download-qrcode">
+    <div class="cover"></div>
+    <div class="content">
+      <img class="qrcode" src="plugin/download-qrcode-36a10c624f.png" />
+      <div class="desc">
+        <p>打开微信扫描下载</p>
+      </div>
+      <img class="close-qrcode" src="plugin/weixin_close-fc73d8d583.png">
+    </div>
+  </div>
+
+  <div class="qrcode-wrapper qrcode-wechat-wrapper" id="wechat-qrcode">
+    <div class="cover"></div>
+    <div class="content">
+      <img class="qrcode" src="plugin/qrcode-cadabf6da4.jpg" />
+      <div class="desc">
+        <p>打开微信扫描关注</p>
+      </div>
+      <img class="close-qrcode" src="plugin/weixin_close-fc73d8d583.png">
+    </div>
+  </div>
+</body>
+
+</html>
