@@ -6,10 +6,9 @@
 
 睡眠 · 专注 · 放松 · 冥想
 
+--------------------------------------------
 
-HTML <audio> autoplay 属性
-  
-http://www.w3school.com.cn/tags/att_audio_autoplay.asp
+》 [HTML <audio> autoplay 属性](http://www.w3school.com.cn/tags/att_audio_autoplay.asp) ：
   
   <audio controls="controls" autoplay="autoplay">
 <source src="preset_focus_ocean.mp3" type="audio/mpeg" alt="冥想大海的声音">
