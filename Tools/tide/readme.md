@@ -1,10 +1,8 @@
 - [Title](https://taoste.github.io/Hello-World/Tools/tide/index.html) : [**潮汐**](https://tide.moreless.io/) - 睡眠、专注、放松与冥想 ( https://tide.moreless.io/ )
 
+> 和大自然一起，平静身心。
 
-
-和大自然一起，平静身心。
-
-睡眠 · 专注 · 放松 · 冥想
+> 睡眠 · 专注 · 放松 · 冥想
 
 --------------------------------------------
 
