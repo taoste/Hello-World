@@ -1,32 +1,36 @@
-- [**È«Íø¶ÌÊÓÆµ½âÎöÈ¥Ë®Ó¡¿ìÊÖ¡¢¶¶Òô¡¢»ðÉ½¡¢Æ¤Æ¤Ïº¡¢Î¢ÊÓµÈµÈ**](https://mxwzhs.com/?c=index&m=app&app_id=33)
+- [**å…¨ç½‘çŸ­è§†é¢‘è§£æžåŽ»æ°´å°å¿«æ‰‹ã€æŠ–éŸ³ã€ç«å±±ã€çš®çš®è™¾ã€å¾®è§†ç­‰ç­‰**](https://mxwzhs.com/?c=index&m=app&app_id=33)
 
-**¶ÌÊÓÆµ½âÎöÈ«ÍøÈ¥Ë®Ó¡**
+**çŸ­è§†é¢‘è§£æžå…¨ç½‘åŽ»æ°´å°**
 
-(¸üÐÂÊ±¼ä£º2018-09-25)
+(æ›´æ–°æ—¶é—´ï¼š2018-09-25)
 
-ÏµÍ³£ºAndroid 2.3.0-8.0
+ç³»ç»Ÿï¼šAndroid 2.3.0-8.0
 
-°æ±¾£º1.2.4
+ç‰ˆæœ¬ï¼š1.2.4
 
-´óÐ¡£º7.63MB
+å¤§å°ï¼š7.63MB
 
-·ÖÀà£º ÊµÓÃ¹¤¾ß
+åˆ†ç±»ï¼š å®žç”¨å·¥å…·
+
+ä¸‹è½½ ï¼šï¼ˆ [ç½‘ç›˜ä¸‹è½½](https://vip.d0.baidupan.com/file/?BmBaZAEwUmNVXAQ8VmNXOwY5V28DvwaEUMdbtVa3VvgA5Fe7CuFV51axANEGsVHQA8gH5wLYBa9VtVXuVJlRuAahWosBtVKkVZIEulalV/UGulfMA8wGKlA2Wy1WYVZxAGZXaQo7VWRWXwA/BjZRbQNsBzICbAUyVWFVZVQwUXYGYFp+AWFSPlU7BGNWMldvBm9XZQN6BnRQJ1tgVjhWZwAxVzgKeFUxVjkAeQZgUWUDdgcxAjsFMlVmVTdUPlFgBjJaPwFlUjNVNwRkVjNXMgZqV2IDagZnUGJbaFY8Vm4AYlc2CmNVMFY0ADMGZlFiAzsHLAI8BXdVOVV1VH1RIAZyWjABbVIzVTAEZVY6V2EGbldlA2UGM1BxWylWY1Y6AGVXZgpqVTBWNQBlBmpRYANqBzUCawU3VWVVfVQmUX4=) / [**å¤‡ä»½ä¸‹è½½**](https://github.com/taoste/Hello-World/raw/master/Tools/apk/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90(%E5%85%A8%E7%BD%91%E5%8E%BB%E6%B0%B4%E5%8D%B0)/%E3%80%90%E8%BD%AF%E4%BB%B6%E6%B1%87%E3%80%91%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.apk)
 
 
+> ä¸»è¦åŠŸèƒ½ï¼š
 
-> Ö÷Òª¹¦ÄÜ£º
+å…¨ç½‘çŸ­è§†é¢‘æ— æ°´å°ä¸‹è½½ï¼Œè§†é¢‘ä¸€é”®md5å€¼ä¿®æ”¹ï¼Œè§†é¢‘é•œåƒåè½¬ï¼Œæå–éŸ³ä¹ï¼Œ
+æ¶ˆé™¤éŸ³ä¹ï¼Œè§†é¢‘å€’æ”¾ï¼Œè§†é¢‘è£å‰ªï¼Œè§†é¢‘ç¼–è¾‘ï¼Œè¿™äº›åŠŸèƒ½éƒ½é™æ—¶å…è´¹ä½¿ç”¨
 
-È«Íø¶ÌÊÓÆµÎÞË®Ó¡ÏÂÔØ£¬ÊÓÆµÒ»¼ümd5ÖµÐÞ¸Ä£¬ÊÓÆµ¾µÏñ·´×ª£¬ÌáÈ¡ÒôÀÖ£¬
-Ïû³ýÒôÀÖ£¬ÊÓÆµµ¹·Å£¬ÊÓÆµ²Ã¼ô£¬ÊÓÆµ±à¼­£¬ÕâÐ©¹¦ÄÜ¶¼ÏÞÊ±Ãâ·ÑÊ¹ÓÃ
+
+> [ã€è½¯ä»¶æ±‡ã€‘å…¨ç½‘è§†é¢‘è§£æž.apk](https://www.lanzous.com/i1yguri)
+> 
+> æ–‡ä»¶åå­—ï¼šã€è½¯ä»¶æ±‡ã€‘å…¨ç½‘è§†é¢‘è§£æž.apk
+> 
+> æ–‡ä»¶å¤§å°ï¼š8.4 M
+> 
+> æ–‡ä»¶æ‰€å±žï¼šè‹¥æƒœifpity
+> 
+> è¿è¡Œç³»ç»Ÿï¼šAndroid/YunOS
+> 
+> ä¸‹è½½ ï¼šï¼ˆ [ç½‘ç›˜ä¸‹è½½](https://vip.d0.baidupan.com/file/?BmBaZAEwUmNVXAQ8VmNXOwY5V28DvwaEUMdbtVa3VvgA5Fe7CuFV51axANEGsVHQA8gH5wLYBa9VtVXuVJlRuAahWosBtVKkVZIEulalV/UGulfMA8wGKlA2Wy1WYVZxAGZXaQo7VWRWXwA/BjZRbQNsBzICbAUyVWFVZVQwUXYGYFp+AWFSPlU7BGNWMldvBm9XZQN6BnRQJ1tgVjhWZwAxVzgKeFUxVjkAeQZgUWUDdgcxAjsFMlVmVTdUPlFgBjJaPwFlUjNVNwRkVjNXMgZqV2IDagZnUGJbaFY8Vm4AYlc2CmNVMFY0ADMGZlFiAzsHLAI8BXdVOVV1VH1RIAZyWjABbVIzVTAEZVY6V2EGbldlA2UGM1BxWylWY1Y6AGVXZgpqVTBWNQBlBmpRYANqBzUCawU3VWVVfVQmUX4=) / [**å¤‡ä»½ä¸‹è½½**](https://github.com/taoste/Hello-World/raw/master/Tools/apk/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90(%E5%85%A8%E7%BD%91%E5%8E%BB%E6%B0%B4%E5%8D%B0)/%E3%80%90%E8%BD%AF%E4%BB%B6%E6%B1%87%E3%80%91%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.apk)
 
 -------------------------------------------------------------------
-
-¡¾Èí¼þ»ã¡¿È«ÍøÊÓÆµ½âÎö.apk
-https://www.lanzous.com/i1yguri
-
-ÎÄ¼þÃû×Ö£º¡¾Èí¼þ»ã¡¿È«ÍøÊÓÆµ½âÎö.apk
-ÎÄ¼þ´óÐ¡£º8.4 M
-ÎÄ¼þËùÊô£ºÈôÏ§ifpity
-ÔËÐÐÏµÍ³£ºAndroid/YunOS
-ÎÄ¼þÃèÊö£º
-https://vip.d0.baidupan.com/file/?BmBaZAEwUmNVXAQ8VmNXOwY5V28DvwaEUMdbtVa3VvgA5Fe7CuFV51axANEGsVHQA8gH5wLYBa9VtVXuVJlRuAahWosBtVKkVZIEulalV/UGulfMA8wGKlA2Wy1WYVZxAGZXaQo7VWRWXwA/BjZRbQNsBzICbAUyVWFVZVQwUXYGYFp+AWFSPlU7BGNWMldvBm9XZQN6BnRQJ1tgVjhWZwAxVzgKeFUxVjkAeQZgUWUDdgcxAjsFMlVmVTdUPlFgBjJaPwFlUjNVNwRkVjNXMgZqV2IDagZnUGJbaFY8Vm4AYlc2CmNVMFY0ADMGZlFiAzsHLAI8BXdVOVV1VH1RIAZyWjABbVIzVTAEZVY6V2EGbldlA2UGM1BxWylWY1Y6AGVXZgpqVTBWNQBlBmpRYANqBzUCawU3VWVVfVQmUX4=
