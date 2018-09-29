@@ -3,6 +3,7 @@
 
 <embed src="https://v.yinyuetai.com/video/2818346" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
+[爱的故事(上集)-孙耀威 | MP3下载,歌词下载](https://www.xiami.com/song/49498) - [虾米音乐](https://www.xiami.com/)
 
 > [爱的故事（上集）](https://zh.wikipedia.org/wiki/愛的故事（上集）) - 维基百科，自由的百科全书
 > 
