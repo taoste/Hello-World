@@ -7,7 +7,7 @@
 [**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) ( https://www.mozilla.org/zh-CN/firefox/ )
 适用于 Mac、PC 以及 Linux 的全新、快速浏览器 
 
-👍 [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版Firefox Quantum「量子火狐」
+👍 [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 Firefox Quantum「火狐量子浏览器」 
 
 ( https://www.mozilla.org/zh-CN/firefox/new/ ) (👍点击： 高级安装选项和其他平台 )
 
