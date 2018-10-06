@@ -63,6 +63,7 @@ BBcode: [url=%U]%T[/url] , Markdown: [%T](%U) ]
 这个扩展会将网页背景中刺眼的白色替换为橄榄色、淡黄色、护眼绿色以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力
 
 - [x]  [LastPass](https://addons.mozilla.org/zh-CN/firefox/addon/lastpass-password-manager/) |（ 官方网站 | [lastpass.com/zh](https://www.lastpass.com/zh) ）密码管理器、自动填表、随机密码生成器和安全数字钱包应用程序
+
 **LastPass** 是一款让您的上网浏览更便捷更安全的免费在线密码管理器和表单过滤器。LastPass以插件的形式支持IE和Firefox（Opera, Safari, Chrome, iPhone,Opera 通过书签小工具形式支持），它允许您从任何主流的密码存储器导入和导出密码，捕获其它管理器无法捕获的密码包括很多AJAX表单。它也允许您轻松地创建强大的密码。您的敏感信息在上传之前已在本地计算机上加密，因此就算是LastPass的员工也无法得到密码信息。一次性密码和屏幕键盘帮助保护您的主密码。
 
 
