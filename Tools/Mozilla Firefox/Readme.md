@@ -47,7 +47,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 [★精选扩展★](https://addons.mozilla.org/zh-CN/firefox/search/?featured=true&type=extension)
 
-- [x] [**ChatZilla**](https://addons.mozilla.org/firefox/addon/chatzilla/) （官方网站 | [chatzilla.hacksrus.com](http://chatzilla.hacksrus.com/) ）是Mozilla浏览器下的IRC客户端程序，基于JavaScript和XUL语言编写的。（@[维基百科](https://zh.wikipedia.org/wiki/ChatZilla)）
+- [x] [**ChatZilla**](https://addons.mozilla.org/firefox/addon/chatzilla/) （官方网站 | [chatzilla.hacksrus.com](http://chatzilla.hacksrus.com/) ）是Mozilla浏览器下的IRC客户端程序，基于JavaScript和XUL语言编写的。（@[维基百科](https://zh.wikipedia.org/wiki/ChatZilla)）( **提示：不兼容 Firefox Quantum** )
 
 - [x]  [**HTTPS Everywhere**](https://addons.mozilla.org/zh-CN/firefox/addon/https-everywhere/?src=ss) - 是电子前哨基金会（EFF）的免费浏览器插件，它可以强制网页使用“HTTPS”的方式加密访问，避免被不良宽带商和中间人篡改。
 
