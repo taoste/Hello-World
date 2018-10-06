@@ -23,7 +23,8 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 [默认情况下，Firefox 会共享数据，以： — Mozilla](https://www.mozilla.org/zh-CN/privacy/firefox/)
 
+-------------------------------------------------------------------
 
-引用：
+> 引用：
 - [FireFox Quantum 火狐量子浏览器中文版 - 性能狂飙的全新版本！(免费开源 / 跨平台)](https://www.iplaysoft.com/firefox.html) | [异次元软件下载](https://www.iplaysoft.com/)
 
