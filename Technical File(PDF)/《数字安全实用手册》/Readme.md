@@ -22,6 +22,8 @@
 > **引用：**
 
 -  [RSDL monitor](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fpracticaldigitalprotection.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=RSDLmonitor&tw_p=followbutton) ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) ) 的 **Twitter**
+> 
+> Monitors China's secret prisons known as Residential Surveillance at a Designated Location (RSDL). 提供关于中国实施强迫失踪的资讯，也被叫做指定居所监视居住 (RSDL).  · http://RSDLmonitor.com 
 
 > **Twitter** : [**RSDL monitor**](https://twitter.com/intent/user?screen_name=RSDLmonitor) ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) )   [上午1:56 - 2018年10月1日](https://twitter.com/RSDLmonitor/status/1046700246003306496)  
 >  
