@@ -17,6 +17,10 @@
 
 - 介绍 ( [PDF 在线阅览](http://practicaldigitalprotection.com/pdfs/Behaviour%20Based%20Cybersecurity%20(CN).pdf) / [本地备份](https://taoste.github.io/Hello-World/Technical%20File(PDF)/%E3%80%8A%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C%E3%80%8B/Behaviour%20Based%20Cybersecurity%20(CN).pdf) )
 
+> 感谢其他网友提供下载：
+> 
+> 《[数字安全手册](https://github.com/Alvin9999/new-pac/wiki/%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C)》 · [Alvin9999](https://github.com/Alvin9999/) / [new-pac](https://github.com/Alvin9999/new-pac)  Wiki:[自由上网方法](https://github.com/Alvin9999/new-pac/wiki) · [GitHub](https://github.com/)
+
 -----------------------------------------
 
 > **引用：**
