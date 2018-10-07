@@ -24,5 +24,4 @@
 >  [**RSDL monitor**](https://twitter.com/intent/user?screen_name=RSDLmonitor) @RSDLmonitor
 >  
 >  那位掌掴义工的 @[CCTV](https://twitter.com/CCTV) 记者确实恶劣，但与一些和警方合作操纵电视认罪的CCTV记者相比，即是小巫见大巫。因为这些记者的行为剥夺了当事人获得公平审判的权利。想了解CCTV所参与的真正恐怖行径，请参见我们的报告  [https://t.co/spRm4J4OPl](https://rsdlmonitor.com/zh/%e6%8f%ad%e9%9c%b2%e4%b8%ad%e5%9b%bd%e5%bc%ba%e8%bf%ab%e7%94%b5%e8%a7%86%e8%ae%a4%e7%bd%aa%e5%b9%95%e5%90%8e%e7%9a%84%e6%9c%80%e6%96%b0%e4%b8%ad%e6%96%87%e6%8a%a5%e5%91%8a%e5%8f%91%e5%b8%83/)...
->  
->  [上午1:56 - 2018年10月1日](https://twitter.com/RSDLmonitor/status/1046700246003306496) 
+( [上午1:56 - 2018年10月1日](https://twitter.com/RSDLmonitor/status/1046700246003306496) )
