@@ -1,5 +1,9 @@
 《**数字安全实用手册**》[官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
 
+> RSDL monitor ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) ) 的 **Twitter**
+
+-----------------------------------------
+
 > 数字安全实用手册是一本为处于敌对环境中面临风险的人们提高安全和保障的全面自学式手册。
 >
 > 本手册指出所面临的风险并给予解决方案。与大部分的手册不同的是，本手册专注于行为上的问题和步骤，而技术上的解决方案为次要。
