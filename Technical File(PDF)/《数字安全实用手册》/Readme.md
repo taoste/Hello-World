@@ -25,7 +25,9 @@
 
 > **Twitter** : [**RSDL monitor**](https://twitter.com/intent/user?screen_name=RSDLmonitor) ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) )   [上午1:56 - 2018年10月1日](https://twitter.com/RSDLmonitor/status/1046700246003306496)  
 >  
->  那位掌掴义工的 @[CCTV](https://twitter.com/CCTV) 记者确实恶劣，但与一些和警方合作操纵电视认罪的CCTV记者相比，即是小巫见大巫。因为这些记者的行为剥夺了当事人获得公平审判的权利。想了解CCTV所参与的真正恐怖行径，请参见我们的报告  [https://t.co/spRm4J4OPl](https://rsdlmonitor.com/zh/%e6%8f%ad%e9%9c%b2%e4%b8%ad%e5%9b%bd%e5%bc%ba%e8%bf%ab%e7%94%b5%e8%a7%86%e8%ae%a4%e7%bd%aa%e5%b9%95%e5%90%8e%e7%9a%84%e6%9c%80%e6%96%b0%e4%b8%ad%e6%96%87%e6%8a%a5%e5%91%8a%e5%8f%91%e5%b8%83/)...
+>  那位掌掴义工的 @[CCTV](https://twitter.com/CCTV) 记者确实恶劣，但与一些和警方合作操纵电视认罪的CCTV记者相比，即是小巫见大巫。因为这些记者的行为剥夺了当事人获得公平审判的权利。想了解CCTV所参与的真正恐怖行径，请参见我们的报告  [https://t.co/spRm4J4OPl](https://rsdlmonitor.com/zh/%e6%8f%ad%e9%9c%b2%e4%b8%ad%e5%9b%bd%e5%bc%ba%e8%bf%ab%e7%94%b5%e8%a7%86%e8%ae%a4%e7%bd%aa%e5%b9%95%e5%90%8e%e7%9a%84%e6%9c%80%e6%96%b0%e4%b8%ad%e6%96%87%e6%8a%a5%e5%91%8a%e5%8f%91%e5%b8%83/)... 
+( [请在此下载新闻稿](https://rsdlmonitor.com/wp-content/uploads/2018/06/Press-Release-CN.pdf)
+ / [请在此下载中文报告：剧本和策划：中国强迫电视认罪的幕后](https://rsdlmonitor.com/wp-content/uploads/2018/06/%E5%89%A7%E6%9C%AC%E5%92%8C%E7%AD%96%E5%88%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BC%BA%E8%BF%AB%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E7%9A%84%E5%B9%95%E5%90%8E.pdf) )
 
 
 > **Twitter** : RJason Ng ( @[jason5ng32](https://twitter.com/jason5ng32))
