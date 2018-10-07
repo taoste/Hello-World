@@ -1,4 +1,4 @@
-[Title](https://go.choong.net/digi/) : 《**数字安全实用手册**》[官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
+[Title](https://go.choong.net/digi/) : 《**数字安全实用手册**》 - [官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
 
 -----------------------------------------
 
