@@ -1,7 +1,5 @@
 《**数字安全实用手册**》[官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
 
-> [RSDL monitor](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fpracticaldigitalprotection.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=RSDLmonitor&tw_p=followbutton) ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) ) 的 **Twitter**
-
 -----------------------------------------
 
 > 数字安全实用手册是一本为处于敌对环境中面临风险的人们提高安全和保障的全面自学式手册。
@@ -18,3 +16,11 @@
 - 手册( OSX+iPhone ：[在线阅览](http://practicaldigitalprotection.com/pdfs/Practical%20Digital%20Protection%20(CN)%20(OSX+iPhone).pdf) / [本地备份](https://taoste.github.io/Hello-World/Technical%20File(PDF)/%E3%80%8A%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C%E3%80%8B/Practical%20Digital%20Protection%20(CN)%20(OSX+iPhone).pdf) )
 
 - 介绍 ( [PDF 在线阅览](http://practicaldigitalprotection.com/pdfs/Behaviour%20Based%20Cybersecurity%20(CN).pdf) / [本地备份](https://taoste.github.io/Hello-World/Technical%20File(PDF)/%E3%80%8A%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C%E3%80%8B/Behaviour%20Based%20Cybersecurity%20(CN).pdf) )
+
+-----------------------------------------
+
+-  [RSDL monitor](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fpracticaldigitalprotection.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=RSDLmonitor&tw_p=followbutton) ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) ) 的 **Twitter**
+
+>  [**RSDL monitor**](https://twitter.com/intent/user?screen_name=RSDLmonitor) @RSDLmonitor
+>  那位掌掴义工的 @[CCTV](https://twitter.com/CCTV) 记者确实恶劣，但与一些和警方合作操纵电视认罪的CCTV记者相比，即是小巫见大巫。因为这些记者的行为剥夺了当事人获得公平审判的权利。想了解CCTV所参与的真正恐怖行径，请参见我们的报告 rsdlmonitor.com/zh/%e6%8f%ad%e…
+>  [上午1:56 - 2018年10月1日](https://twitter.com/RSDLmonitor/status/1046700246003306496) 
