@@ -1,6 +1,6 @@
 《**数字安全实用手册**》[官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
 
-> RSDL monitor ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) ) 的 **Twitter**
+> [RSDL monitor](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fpracticaldigitalprotection.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=RSDLmonitor&tw_p=followbutton) ( @[RSDLmonitor](https://twitter.com/RSDLmonitor) ) 的 **Twitter**
 
 -----------------------------------------
 
