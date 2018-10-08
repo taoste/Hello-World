@@ -1,10 +1,23 @@
-- [网易云音乐PC端，正版音乐缓存下载](https://www.zhihu.com/question/40678992) - 知乎
+- [**网易云音乐PC端，正版音乐缓存下载**](https://www.zhihu.com/question/40678992) - 知乎
 
 > 网易云音乐-电脑客户端缓存文件地址：
 > 
 > C:\Users\Administrator\AppData\Local\Netease\CloudMusic\Cache\Cache
 > 
 > 进入缓存目录，更改缓存的音乐UC后缀为MP3后缀格式。
+> 
+
+- [**极客下载**](http://jikexiazai.cn/) : 
+
+> [下载喜马拉雅音频](http://jikexiazai.cn/xmlyxz.html)（[帮助](http://jikexiazai.cn/xmly_help.html)）  
+> 
+> [下载微信公众号音频](http://jikexiazai.cn/wxxz.html)（[帮助](http://jikexiazai.cn/wxxz_help.html)） 
+> 
+> [下载网易公开课视频](http://jikexiazai.cn/gkkxz.html)（[帮助](http://jikexiazai.cn/wygkk_help.html) ） 
+> 
+> [下载美拍短视频](http://jikexiazai.cn/mpxz.html)（[帮助](http://jikexiazai.cn/mpxz_help.html)）  
+> 
+[下载蜻蜓FM音频](http://jikexiazai.cn/qtfm.html)（[帮助](http://jikexiazai.cn/qtfm_help.html) ） 
 > 
 
 -------------------------------------------------------------------
