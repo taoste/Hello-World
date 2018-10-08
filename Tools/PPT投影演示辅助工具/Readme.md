@@ -2,6 +2,8 @@
 
 - PPTTimer ( PPT播放提示钟 )
 
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/PPT投影演示辅助工具/PPTTimer/截图.jpg?raw=true"/>
+
 - ZoomIt v4.5(投影演示辅助工具)
 
 > 【图示】*ZoomIt基本功能与快捷键操作*(思维导图)
