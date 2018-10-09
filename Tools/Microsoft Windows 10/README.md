@@ -134,9 +134,9 @@
 
 > 在SendTo文件夹的空白处按鼠标右键，
 > 
->     **Win 2000 / Win XP**系统下路径为C:\Documents and Settings\用户名\SendTo;
+>     Win2000 / WinXP系统下路径为C:\Documents and Settings\用户名\SendTo;
 > 
->     **Vista/Win7/Win10**系统下路径为 C:\Users\用户名\AppData\Roaming\Microsoft\Windows\SendTo;
+>     Vista/Win7/Win10系统下路径为 C:\Users\用户名\AppData\Roaming\Microsoft\Windows\SendTo;
 > 
 > (注意：由于文件都是隐藏属性，所以需要在“**文件夹选项**”中打开“**显示所有文件和文件夹**”，才能看到相应的目录)
 > 
