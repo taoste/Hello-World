@@ -134,7 +134,7 @@
 
 > 在SendTo文件夹的空白处按鼠标右键，
 > 
->     Win2000 / WinXP系统下路径为C:\Documents and Settings\用户名\SendTo;
+>     Win2000 / WinXP系统下路径为 C:\Documents and Settings\用户名\SendTo;
 > 
 >     Vista/Win7/Win10系统下路径为 C:\Users\用户名\AppData\Roaming\Microsoft\Windows\SendTo;
 > 
