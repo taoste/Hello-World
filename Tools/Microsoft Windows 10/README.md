@@ -170,3 +170,19 @@
 >       regsvr32 sendmail.dll
 > 
 >  注意： regsvr32 /n /i:U shell32.dll 可能会提示出错，不理会它。
+
+---------------------------------------------------------------------------------------------------------
+
+- [修复 Windows 更新错误](https://support.microsoft.com/zh-cn/help/10164):**运行 Windows 更新疑难解答程序**
+
+>    [微软官方：Windows Update疑难解答修复工具（修复Windows 更新错误）](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/WindowsUpdate.diagcab)
+
+方法如下：
+
+> 下载 ﻿Windows 更新疑难解答，然后在弹出窗口中选择“打开”或“保存”。
+
+> 注意:
+>
+>        如果选择“保存”，下载完成后你需要转到下载疑难解答程序的文件夹，然后双击 WindowsUpdate.diagcab 文件以运行疑难解答程序。
+>
+>         选择“下一步”，然后按照向导中的步骤查找并修复 Windows 更新问题。
