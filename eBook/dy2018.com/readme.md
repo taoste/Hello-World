@@ -2,13 +2,13 @@
 
  🎧收藏列表：
 
-- [《天才枪手》.pdf](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/dy2018.com/《天才枪手》.pdf)
+- [《天才枪手》.pdf](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/《天才枪手》.pdf)
 
-- [《大空头》.pdf](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/dy2018.com/《大空头》.pdf)
+- [《大空头》.pdf](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/《大空头》.pdf)
 
-- [《人间至味是清欢》.md](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/dy2018.com/《人间至味是清欢》.md)
+- [《人间至味是清欢》.md](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/《人间至味是清欢》.md)
 
-- [2018《天盛长歌》.md](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/dy2018.com/2018《天盛长歌》.md)
+- [2018《天盛长歌》.md](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/2018《天盛长歌》.md)
 
 🎧BT下载文件（.torrent）：
 
