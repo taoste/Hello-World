@@ -15,7 +15,7 @@
 
 - 手册( OSX+iPhone ：[在线阅览](http://practicaldigitalprotection.com/pdfs/Practical%20Digital%20Protection%20(CN)%20(OSX+iPhone).pdf) / [本地备份](https://taoste.github.io/Hello-World/Technical%20File(PDF)/%E3%80%8A%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C%E3%80%8B/Practical%20Digital%20Protection%20(CN)%20(OSX+iPhone).pdf) )
 
-- 介绍 ( [PDF 在线阅览](http://practicaldigitalprotection.com/pdfs/Behaviour%20Based%20Cybersecurity%20(CN).pdf) / [本地备份](https://taoste.github.io/Hello-World/Technical%20File(PDF)/%E3%80%8A%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C%E3%80%8B/Behaviour%20Based%20Cybersecurity%20(CN).pdf) )
+- 介绍 ( [PDF 在线阅览](http://practicaldigitalprotection.com/pdfs/Behaviour%20Based%20Cybersecurity%20(CN).pdf) / [本地备份](https://taoste.github.io/Hello-World/Technical%20File(PDF)/%E3%80%8A%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C%E3%80%8B/Behaviour%20Based%20Cybersecurity%20(CN).pdf) )这是简化版入门手册，整理自以上完整版的《数字安全实用手册》
 
 > 感谢其他网友提供下载：
 > 
