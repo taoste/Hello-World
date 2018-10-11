@@ -2,13 +2,13 @@
 
 --------------------------------------------------------------------------
 
-[CCleaner](https://www.ccleaner.com/ccleaner/download)是一款免费的系统优化和隐私保护工具。
+[**CCleaner**](https://www.ccleaner.com/ccleaner/download)是一款免费的系统优化和隐私保护工具。
 
 CCleaner的主要用来清除Windows系统不再使用的垃圾文件，以腾出更多硬盘空间。
 
-它的 另一大功能是清除使用者的上网记录.CCleaner的体积小，运行速度极快，可以对临时文件夹、历史记录、回收站等进行垃圾清理，
+它的 另一大功能是清除使用者的上网记录.CCleaner的体积小，运行速度极快，可以对临时文件夹、历史记录、回收站等进行垃圾清理，并可对注册表进行垃圾项扫描、清理。
 
-并可对注册表进行垃圾项扫描、清理。附带软件卸载功能。
+附带软件卸载功能。
 
 支持清理IE、Chrome、Firefox、Microsoft Edge等主流浏览器，支持清理Photoshop、Adobe Reader、Office临时或缓存文件。
 
