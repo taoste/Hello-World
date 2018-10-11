@@ -15,7 +15,7 @@
 
 > 3，在Windows开始按钮搜索栏中，键入“cmd”，确定并进入，输入e: 回车，一直cd，最终找到存放.tdl分段原始文件目录，再输入命令“copy /b *.tdl guo.mp4”对这些*．tdl文件进行合并（文件名可自行设置），很快就可以得到一个MP4格式的视频文件。
 
-<img src="https://img-blog.csdn.net/20170517160532838?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ3VvbXV0aWFuOTEx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center?raw=true"/>
+<img src="https://img-blog.csdn.net/20170517160532838?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ3VvbXV0aWFuOTEx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center"/>
 
 
 经测试这个MP4文件是普通视频文件，可正常播放。
