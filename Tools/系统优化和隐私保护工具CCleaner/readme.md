@@ -39,27 +39,50 @@ CCleaner v5.47.6716下载地址：
 免费版：https://download.ccleaner.com/ccsetup547.exe
 
 专业版下载：（激活方法：1.断网2.用户名：任意，注册码：C2YW-XZT7-A4SE-UD89-YZPC）
+
 https://download.ccleaner.com/ccsetup547pro.exe
+
 附上专业版在线激活码：
+
 注册名称:gerard saves
+
 密钥:C8MQ-AIYE-P6XH-6XAI-S7QC
 
 专业版注册步骤：
-注册名称：Registered User      密钥：CBB4-FJN4-EPC6-G5P6-QT4C
+
+注册名称：Registered User      
+
+密钥：CBB4-FJN4-EPC6-G5P6-QT4C
 
 首先断开你的网络；
 打开CCleaner–选项–关于–升级专业版，输入上述注册名称和密钥，不包含汉字及冒号；
-断网的情况下点击注册，几秒钟后即成功注册；
-商业版和技术员版下载：
-[商业版] Business Edition：https://download.ccleaner.com/be/ccsetup547_be.exe
-[技术员版] Technician Edition：https://download.ccleaner.com/te/ccsetup547_te.exe
-注意：
-务必断网激活，否则无法注册成功；
-专业版及免费版使用同一个安装包，通过内置的注册程序可直接升级至专业版；
-通过本方法注册的专业版不可在线升级！否则会提示密钥无效；
-免费版和专业版一般用起来区别不大。
-使用提醒：CCleaner目前增加了开机自启动和垃圾监控功能，如果你不希望使用这两项功能请在“选项”—“设置”—取消勾选“系统启动时自动运行CCleaner”，监控功能在“选项”—“设置”—“监控”里，取消勾选三个选项即可。
 
-注意：CCleaner默认设置会清理所有应用程序，包括你的浏览器Cookies，所以如果不想被清理Cookies的话，请在“清洁器”—“Windows、应用程序”里将Cooikes的选项取消勾选。
+断网的情况下点击注册，几秒钟后即成功注册；
+
+商业版和技术员版下载：
+
+[商业版] Business Edition：https://download.ccleaner.com/be/ccsetup547_be.exe
+
+[技术员版] Technician Edition：https://download.ccleaner.com/te/ccsetup547_te.exe
+
+注意：
+
+务必断网激活，否则无法注册成功；
+
+专业版及免费版使用同一个安装包，通过内置的注册程序可直接升级至专业版；
+
+通过本方法注册的专业版不可在线升级！否则会提示密钥无效；
+
+免费版和专业版一般用起来区别不大。
+
+使用提醒：CCleaner目前增加了开机自启动和垃圾监控功能，
+
+如果你不希望使用这两项功能请在“选项”—“设置”—取消勾选“系统启动时自动运行CCleaner”，
+
+监控功能在“选项”—“设置”—“监控”里，取消勾选三个选项即可。
+
+注意：CCleaner默认设置会清理所有应用程序，包括你的浏览器Cookies，
+
+所以如果不想被清理Cookies的话，请在“清洁器”—“Windows、应用程序”里将Cooikes的选项取消勾选。
 
 最后再送上个注册机：http://pan.baidu.com/s/1bPz1cM 密码：1x8y
