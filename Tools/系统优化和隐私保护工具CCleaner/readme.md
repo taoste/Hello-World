@@ -43,7 +43,7 @@ CCleaner5.43.6522( 2018年9月20日):更新内容：
 > CCleaner v5.47.6716下载地址：
 > 免费版：https://download.ccleaner.com/ccsetup547.exe
 > 
-> 专业版下载：（激活方法：1.断网2.用户名：任意，注册码：C2YW-XZT7-A4SE-UD89-YZPC）
+> 专业版[**Professional Edition**]下载：（激活方法：1.断网2.用户名：任意，注册码：C2YW-XZT7-A4SE-UD89-YZPC）
 > 
 > https://download.ccleaner.com/ccsetup547pro.exe
 > 
