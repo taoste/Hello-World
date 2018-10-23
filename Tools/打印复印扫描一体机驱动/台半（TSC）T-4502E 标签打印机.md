@@ -13,5 +13,8 @@ TSC打印纸张跳张、位置有偏移_常见问题 barcodesh.com/service-
 
 【腾讯视频】https://v.qq.com/x/page/t0386tsxoq3.html    
                                                      
-若无法自助解决，请咨询在线技术客服，驱动软件请至上海登元官网www.barcodesh.com“下载中心”
-服务热线：021-67676
+若无法自助解决，请咨询在线技术客服，驱动软件请至上海登元官网 [www.barcodesh.com](http://www.barcodesh.com/) : “下载中心”
+
+咨询电话：400-6999-503
+
+服务热线：021-67676808
