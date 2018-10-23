@@ -1,5 +1,5 @@
 ﻿【松下官网】Panasonic KX-MB2138CN 网络共享打印一体机驱动（ [MFS2100_105_CHS](http://prosystem.panasonic.cn/OA/download.html?act=search) ）
-
+| [松下电器(中国)有限公司](http://pro.panasonic.cn/product/detail.html?pid=2245)
 
 - [驱动程序](http://prosystem.panasonic.cn/inc/download.ashx?n=/upload/bangong/1/KX-MB2138CN/KX-MB2138CN%20Windows%E9%A9%B1%E5%8A%A8.zip) 
 
