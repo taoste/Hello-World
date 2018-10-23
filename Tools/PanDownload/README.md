@@ -16,15 +16,35 @@ PanDownload 第三方百度网盘下载工具，不限速！
 
 【下载地址】
 
-本地下载 http://pandownload.com/2.0.1
+本地下载 http://pandownload.com/2.0.4
 
-网盘下载 https://www.lanzous.com/i1s35uh
+网盘下载 https://www.lanzous.com/i24ls9e
 
 【更新日志】
 
 ```
-v2.0.1
-更新时间: 2018-09-01
+
+v[2.0.4](http://pandownload.com/2.0.4)
+更新时间: [2018-10-17](https://www.lanzous.com/i24ls9e)
+更新内容:
+
+修复分享链接无法下载的问题（需登录账号）
+支持开机启动
+修复部分bug
+
+----------
+
+v2.0.3
+更新时间: 2018-09-29
+更新内容:
+
+新增资源搜索功能
+优化使用体验及bug修复
+
+----------
+
+v[2.0.1](http://pandownload.com/2.0.1)
+更新时间: [2018-09-01](https://www.lanzous.com/i1s35uh)
 更新内容:
 
 全新界面
