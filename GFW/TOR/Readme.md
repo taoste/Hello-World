@@ -53,7 +53,7 @@
 
 Tor Browser 更新日志：view-source:**about:tbupdate**
 
-Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.html.en)（[Github下载](https://github.com/TheTorProject/gettorbrowser)） 周三 , 2018年9月5日 （最新版 Tor Browser v 8.0 :[32bit](https://www.torproject.org/dist/torbrowser//8.0/torbrowser-install-8.0_zh-CN.exe) / [64bit](https://www.torproject.org/dist/torbrowser//8.0/torbrowser-install-win64-8.0_zh-CN.exe)  --  September 5 2018） (Tor Browser v8.0 [说明](https://blog.torproject.org/new-release-tor-browser-80))
+Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.html.en)（[Github下载](https://github.com/TheTorProject/gettorbrowser)） 周二 , 2018年10月23日 （最新版 Tor Browser v 8.0.3 :[32bit](https://www.torproject.org/dist/torbrowser//8.0.3/torbrowser-install-8.0.3_zh-CN.exe) / [64bit](https://www.torproject.org/dist/torbrowser//8.0.3/torbrowser-install-win64-8.0.3_zh-CN.exe)  --  Tuesday，23 Oct 2018） (Tor Browser v8.0.3 [说明](https://blog.torproject.org/new-release-tor-browser-80))
 
 > **关于Tor:**  ( view-source:**about:tor**  )
 > 
