@@ -1,0 +1,28 @@
+wordpress网站实现禁止别人复制内容的方法 | 仰观苍穹思心宇
+https://helongquan.github.io/2017/03/23/wordpress网站实现禁止别人复制内容的方法/
+
+wordpress网站实现禁止别人复制内容的方法 2017-03-23
+把下面代码放到footer.php里即可，可以放在<?php wp_footer(); ?>标签后面，其他地方貌似也可以。
+
+<script type="text/Javascript">
+ <!--
+ document.oncontextmenu=function(e){return false;};
+ document.onselectstart=function(e){return false;};
+ //-->
+ </script>
+ <style>
+ body{
+ -moz-user-select:none;
+ }
+ </style>
+ <SCRIPT LANGUAGE=javascript><!--
+ if (top.location != self.location)top.location=self.location;
+ // --></SCRIPT>
+ <noscript><iframe src=*.html></iframe></noscript>
+此代码实现：
+
+1、禁止鼠标左键选取内容。
+2、禁止鼠标右键复制功能。
+3、禁止使用ctrl键，无法复制。
+
+然后保存，刷新页面就额可以实现了。这里可以在其他的网站程序里进行测试，包括静态的网站程序。
