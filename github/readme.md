@@ -25,9 +25,9 @@
 
 - 钱途互联前端团队  | guangzhou
 > https://github.com/frontui
-frontui文档说明 
+- frontui文档说明 
 > http://frontui.github.io/document/
-fed博客 (Frontpay FED | 钱沿支付前端团队)
+- fed博客 (Frontpay FED | 钱沿支付前端团队)
 > http://frontui.github.io/blog
 
 ---------------------------------------------------------------------------------
