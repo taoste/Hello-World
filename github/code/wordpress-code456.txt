@@ -1,0 +1,52 @@
+html文件调用静态的html文件的几种方法 | 仰观苍穹思心宇
+https://helongquan.github.io/2017/03/23/html文件调用静态的html文件的几种方法/
+
+--------------------------------------------------------------
+
+html文件调用静态的html文件的几种方法 2017-03-23
+建网站有好多时候在每一个网页都要使用同一的重复的地方！
+
+如每页的导航条、版权信息等！
+
+这些修改时都是要统一修改的…而如果照每页每页的修改的话简直是很吃不消。
+
+而这些在asp以及cgi、php等中可以使用include、require 等之类的调用。
+
+而绝大多数不支持程序的HTML静态空间或者大家不会编程的怎么办……
+
+呵！现在就告诉大家一条在html网页中也可以实用文件调用的超级简短代码…
+
+<!–webbot bot=”Include” U-Include=”../文件名.htm” TAG=”BODY” –>
+呵…快适用到你的网页中吧！！让你的网站建起来更快更容易！！
+
+而且而且这条代码可以远程调用噢！！！很多网站采用Shtml页面include外部文件
+
+例如：
+
+index.shtml页面代码
+
+<!--#include file=”head.htm”-->
+head.htm页面代码
+
+<div style=”background:#FF0000;”><h1>静态页面也可以包含文件</h1></div>
+这里我还找到了另外一种方案：仅仅通过用jQuery和纯htm的解决方案来实现：需要四个文件（index.html、header.html、footer.html、jquery-3.2.0.min.js）
+
+<html>
+<head>
+<title></title>
+<script src="jquery-3.2.0.min.js" type="text/javascript"></script>
+<script>
+$(document).ready(function () {
+$("#header").load("header.html");
+$("#footer").load("footer.html");
+});
+</script> 
+</head>
+<body>
+<div id="header"></div>
+content
+<div id="footer"></div>
+</body>
+</html>
+
+亲测可用，这里需要放在服务器上，本地搭建一个服务器也行，直接运行就行了。这两种都有各自的优势，有的人不想用.shtml的可以用后面这种方法，而有的不想加载jquery文件的，可以用前者。
