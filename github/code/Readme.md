@@ -3,3 +3,8 @@
 > https://github.com/helongquan/helongquan.github.io
 
 > https://helongquan.github.io
+
+-----------------------------------------------------------------
+
+PSD 交付规范 
+> http://changyou.github.io/frontend-style/standard/project/psd.html
