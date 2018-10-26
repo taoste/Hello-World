@@ -7,24 +7,24 @@
 ---------------------------------------------------------------------------------
 
 - Baidu（百度）   |  Beijing, China http://www.baidu.com
-https://github.com/baidu
+> https://github.com/baidu
 
 ---------------------------------------------------------------------------------
 
 - Alibaba （阿里巴巴）  | Hangzhou, China http://www.alibaba.com
-https://github.com/alibaba
+> https://github.com/alibaba
 - AntV team （蚂蚁金服 - 体验技术部 - 数据可视化） https://github.com/antvis
-   AntV http://antvis.github.io/
+>    AntV http://antvis.github.io/
 
 ---------------------------------------------------------------------------------
 
 - Tencent （腾讯） | Shenzhen, China https://opensource.tencent.com
-https://github.com/tencent
+> https://github.com/tencent
 
 ---------------------------------------------------------------------------------
 
 - 钱途互联前端团队(Frontpay FED | 钱沿支付前端团队)  | guangzhou
-https://github.com/frontui
+> https://github.com/frontui
 
 ---------------------------------------------------------------------------------
 - 其他GitHub个人用户：
