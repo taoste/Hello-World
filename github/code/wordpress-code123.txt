@@ -1,0 +1,76 @@
+wordpress网站如何允许特定的国家特定的语言访问 | 仰观苍穹思心宇
+https://helongquan.github.io/2017/03/23/wordpress网站如何允许特定的国家特定的语言访问/
+-----------------------------------------------------------
+wordpress网站如何允许特定的国家特定的语言访问 2017-03-23
+wordpress网站如何允许特定的国家特定的语言访问呢？排除政治原因之外，一个很普遍的需求是外贸网站，为了不让国内的竞争对手盗取自己网站的数据（文字、图片，视频）,而做的一个策略。这里我们可以使用淘宝的IP接口来实现，进行判断。
+
+利用淘宝的IP接口来判断IP，是否是国内的ip，是国内（CN）的就不允许访问。
+
+$ip = $_SERVER['REMOTE_ADDR'];
+$content = file_get_contents(‘http://ip.taobao.com/service/getIpInfo.php?ip='.$ip);
+$banned = json_decode(trim($content), true);
+$lan = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE']);
+if((!empty($banned['data']['country_id']) && $banned['data']['country_id'] == ‘CN') || strstr($lan, ‘zh'))
+{
+header(“HTTP/1.0 404 Not Found”);
+echo ‘HTTP/1.0 404 Not Found';
+exit;
+}
+可以直接放在wordpress根目录的index.php文件的前面，具体如下：
+
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+
+// IP判断，不是国内的就可以访问
+$ip = $_SERVER['REMOTE_ADDR'];
+$content = file_get_contents('http://ip.taobao.com/service/getIpInfo.php?ip='.$ip);
+$banned = json_decode(trim($content), true);
+$lan = strtolower($_SERVER['HTTP_ACCEPT_LANGUAGE']);
+if((!empty($banned['data']['country_id']) && $banned['data']['country_id'] == 'CN') || strstr($lan, 'zh'))
+{
+header("HTTP/1.0 404 Not Found");
+echo '你没有权限访问这个网址';
+exit;
+}
+//IP判断结束
+define('WP_USE_THEMES', true);
+
+/** Loads the WordPress Environment and Template */
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+同时发现一篇好文章：http://luhuang.sinaapp.com/redis-setnx/ 《Redis 来限制高并发 php代码实例》
+
+Redis本质上也是一种键值数据库的，但它在保持键值数据库简单快捷特点的同时，又吸收了部分关系数据库的优点。从而使它的位置处于关系数据库和键值数据库之间。Redis不仅能保存Strings类型的数据，还能保存Lists类型（有序）和Sets类型（无序）的数据，而且还能完成排序（SORT） 等高级功能，在实现INCR，SETNX等功能的时候，保证了其操作的原子性，除此以外，还支持主从复制等功能。
+Redis 来限制高并发
+php代码实例
+
+$redis->setnx(‘lock:hot_items', true)尝试创建一个key作为”锁”.若key已存在,setnx不会做任何动作且返回值为false,所以只有一个客户端会返回true值进入if语句更新缓存. 
+$redis = new redis();
+$redis_key = ‘lock:hot_items';
+$clock_expire_time = $redis->get($redis_key);
+if(!empty($clock_expire_time) && time() > intval($clock_expire_time))
+{
+//解除当前Redis锁
+$redis->delete($redis_key);
+}
+
+if($redis->setnx($redis_key, time() + 3) !== true)
+{
+echo ‘高并发有冲突';
+}
+
+//操作你的代码, 同一时刻就一个人访问该代码了
+
+//解除当前Redis锁
+$redis->delete($redis_key);
+今天的分享到此结束。有关更多的wordpress的技术探讨，可以加我QQ（791447771），大家一起进步。
