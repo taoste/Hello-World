@@ -1,0 +1,2 @@
+采用php的方式对页面进行加密 | 仰观苍穹思心宇
+https://helongquan.github.io/2018/09/28/%E9%87%87%E7%94%A8php%E7%9A%84%E6%96%B9%E5%BC%8F%E5%AF%B9%E9%A1%B5%E9%9D%A2%E8%BF%9B%E8%A1%8C%E5%8A%A0%E5%AF%86/
