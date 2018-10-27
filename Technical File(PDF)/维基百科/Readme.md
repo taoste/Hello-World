@@ -8,5 +8,9 @@ https://zh.wikipedia.org/wiki/Wikipedia:使用教學材料庫
 File:[Editing Wikipedia brochure ZH-CN.pdf](https://zh.wikipedia.org/wiki/File:Editing_Wikipedia_brochure_ZH-CN.pdf) - 维基百科，自由的百科全书
 
 
+- 《[维基共享资源文件上传实用提示](https://taoste.github.io/Hello-World/Technical%20File(PDF)/维基百科/Licensing_tutorial_zh.svg)》
 
+File:[Licensing tutorial zh.svg](https://zh.wikipedia.org/wiki/File:Licensing_tutorial_zh.svg) - 维基百科，自由的百科全书
+
+https://upload.wikimedia.org/wikipedia/commons/2/24/Licensing_tutorial_zh.svg
 
