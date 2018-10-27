@@ -1,4 +1,4 @@
-- 维基百科:使用教学材料库 - 维基百科，自由的百科全书
+- 维基百科:[**使用教学材料库**](https://zh.wikipedia.org/wiki/Wikipedia:使用教學材料庫) - 维基百科，自由的百科全书
 
 https://zh.wikipedia.org/wiki/Wikipedia:使用教學材料庫
 
