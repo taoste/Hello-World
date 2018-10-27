@@ -1,5 +1,7 @@
 - [**Wikipedia | 维基百科**](https://www.wikipedia.org/)  （ https://zh.wikipedia.org/ ）
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/150px-Wikipedia-logo-v2.svg.png">
+
 > [**维基百科**](https://zh.wikipedia.org/wiki/维基百科)（英语：Wikipedia，聆听i/ˌwɪkᵻˈpiːdiə/ 或 聆听i/ˌwɪkiˈpiːdiə/）是一个网络百科全书项目，特点是自由内容、自由编辑。它目前是全球网络上最大且最受大众欢迎的参考工具书，名列全球十大最受欢迎的网站。维基百科目前由非营利组织维基媒体基金会负责营运。Wikipedia是一个混成词，分别取自于网站核心技术“Wiki”以及英文中百科全书之意的“encyclopedia”。
 
 ---------------------------------------------------------------
