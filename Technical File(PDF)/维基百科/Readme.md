@@ -10,7 +10,7 @@ https://zh.wikipedia.org/wiki/Wikipedia:使用教學材料庫
 
 - [中文維基百科教學頻道](https://www.youtube.com/channel/UCr2qWVVeQwIp5-CPimUj4cg) - YouTube
 
-> **说明**
+> **说明** :
 
 本頻道暫時以個人名義運作，與維基基金會沒有直接關係。主要目的是希望瀏覽者可從影片中學到編輯技巧。
 
