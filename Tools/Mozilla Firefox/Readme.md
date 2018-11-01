@@ -56,8 +56,10 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x]  [**NoScript**](https://addons.mozilla.org/zh-CN/firefox/addon/noscript/?src=hp-dl-mostpopular)  - 顾名思义可屏蔽网页上的各类跟踪脚本代码，给访客最干净清爽的浏览体验。
  
 - [x]  [复制链接/标签名称和地址](https://addons.mozilla.org/zh-CN/firefox/addon/copy-linktab-name-and-url/?src=search) - Copy the name and URL of a link or a Tab. (复制链接或标签页的名称和地址)
-[ 格式. %T = 链接文本, %U = 链接地址 
-BBcode: [url=%U]%T[/url] , Markdown: [%T](%U) ]
+> 格式. %T = 链接文本, %U = 链接地址 
+> BBcode: [url=%U]%T[/url] , 
+> Markdown: [%T](%U) 
+> Firefox：%T %U 
 
 - [x]  [护眼扩展](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/?src=search)
 这个扩展会将网页背景中刺眼的白色替换为橄榄色、淡黄色、护眼绿色以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力
