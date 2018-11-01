@@ -25,7 +25,7 @@
 - USBWebserver 官网 – Download USBWebserver
 > http://www.usbwebserver.net/webserver/
 
-- USBWebServer 中文版 - 绿色便携一键安装搭建 PHP/MySQL 网站服务器环境工具 | 异次元软件下载
+- USBWebServer 中文版 - 绿色便携一键安装搭建 PHP/MySQL 网站服务器环境搭建工具 | 异次元软件下载
 > https://www.iplaysoft.com/usbwebserver.html
 
 - **USBWebserver 使用介绍**：http://www.iplaysoft.com/usbwebserver.html
