@@ -58,7 +58,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x]  [复制链接/标签名称和地址](https://addons.mozilla.org/zh-CN/firefox/addon/copy-linktab-name-and-url/?src=search) - Copy the name and URL of a link or a Tab. (复制链接或标签页的名称和地址)
 > 格式. %T = 链接文本, %U = 链接地址 
 > BBcode: [url=%U]%T[/url] , 
-> Markdown: [%T](%U) 
+> Markdown: [ %T ] ( %U ) ,
 > Firefox：%T %U 
 
 - [x]  [护眼扩展](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/?src=search)
