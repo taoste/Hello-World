@@ -15,6 +15,8 @@
 
 - [**USBWebServer 中文版 - 绿色便携一键安装搭建 PHP/MySQL 网站服务器环境工具**](https://github.com/taoste/Hello-World/tree/master/Tools/WebServer%20Tools/)
 
+- [迅捷PDF编辑器（破解版）](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/)
+
 -------------------------------------------------------------------
 
 备注：
