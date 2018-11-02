@@ -81,17 +81,11 @@ Adobe After EffectsCS6-CC2018系列版本
 Adobe After Effects CS6
 https://pan.baidu.com/s/1PIJCtq70nqKchCZbNNzQKQ 密码：1g55
 
-
-
 Adobe After Effects CC
 https://pan.baidu.com/s/19Rm-zZnxOmQAP5Ys4Wc4Tw 密码：y2bz
 
-
-
 Adobe After Effects CC 2015
 https://pan.baidu.com/s/1G09KFT1hOgtE12gOSZ8lgA 密码：4b2m
-
-
 
 Adobe After Effects CC 2017
 https://pan.baidu.com/s/1DVABcPnbnX3VVy3s8fe5BA 密码：mhos
