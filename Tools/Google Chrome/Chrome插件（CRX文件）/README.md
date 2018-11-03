@@ -1,5 +1,5 @@
 ﻿[谷歌 Google 系列](https://www.google.com/?hl=zh-cn) | [Chrome](https://www.google.com/chrome/browser/desktop/index.html) [网上应用店](https://www.google.com/chrome/webstore/) - [扩展程序](https://chrome.google.com/webstore/category/extensions) (chrome://extensions/)
-扩展程序和应用的键盘快捷键设置 （ chrome://extensions/configureCommands ）
+扩展程序和应用的**键盘快捷键设置** 请在插件管理页最下方右边进入。（ 直接设置地址： chrome://extensions/configureCommands ）
 [更多>>>](https://github.com/taoste/taoste.github.io/issues/9#issue-208351775)
 
 - [ ] 1. **OneTab** 
