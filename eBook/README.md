@@ -7,6 +7,8 @@
 
 📕 [List](README.md) ：
 
+https://taoste.github.io/Hello-World/eBook/1949.pdf
+
 https://taoste.github.io/Hello-World/eBook/Zuola.pdf
 
 https://taoste.github.io/Hello-World/eBook/history.pdf
