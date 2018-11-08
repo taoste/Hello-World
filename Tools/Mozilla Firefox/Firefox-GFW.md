@@ -52,6 +52,7 @@
 >  
 >  [**Github上GFWlist的项目**](https://github.com/gfwlist/gfwlist)
    
+GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 --------------------------------------------
 
