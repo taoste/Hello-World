@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-- [**Proxy SwitchyOmega**](https://www.switchyomega.com/) - 轻松快捷的管理和切换多个代理设置 ( https://www.switchyomega.com/ )
+-  **推荐👍《[Proxy SwitchyOmega](https://www.switchyomega.com/)》 - 轻松快捷的管理和切换多个代理设置 ( https://www.switchyomega.com/ )**
 
 
 > [**Chrome**](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 和[**Firefox**](https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/) 浏览器上的代理扩展程序，可以轻松快捷的管理和切换多个代理设置。
