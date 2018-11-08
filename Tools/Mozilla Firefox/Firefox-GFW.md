@@ -26,6 +26,30 @@
 
 --------------------------------------------
 
+- [**AutoProxy官方网站**](http://autoproxy.org/) -  自定义规则分组
+@[维基百科](https://zh.wikipedia.org/wiki/AutoProxy) 
+
+> AutoProxy是一款适用于Mozilla Firefox的附加组件，能够在加载资源时自动判断是否使用代理服务器。AutoProxy派生于Adblock Plus，因此继承了其很多特性，包括十分接近的过滤器语法。本扩展组件目前的开发已陷入停顿。
+>  
+>  派生作品:
+>  
+>  [**gfwList**](https://github.com/gfwlist/gfwlist) ( https://github.com/gfwlist/gfwlist )
+>  fwList是由AutoProxy官方维护，由众多网民收集整理的一个中国大陆防火长城的屏蔽列表。此列表非中国官方列表，故可能有遗漏、错误部分。由于GoogleCode于2016年1月25日关闭，因此该项目已转移至Github源代码托管平台。
+>  
+>  [**AutoProxy2PAC**](https://autoproxy.org/zh-CN/node/73) ( https://autoproxy.org/zh-CN/node/73 )
+>  AutoProxy2PAC可以通过gfwList自动生成PAC文件，可以让非Firefox用户获得简单的AutoProxy功能（自动匹配、无法设置规则、无法快速切换模式），使Internet Explorer、Google Chrome等浏览器用户享受此扩展的便利。
+>  Chrome扩展Switchy!也支持AutoProxy的列表格式并可以自动生成PAC并进行一定程度的自定义，但是目前仍有一些Bug。
+>  
+> 外部链接:
+>  [**AutoProxy官方网站**](http://autoproxy.org/)
+>  [**AutoProxy - Firefox附加组件**](https://addons.mozilla.org/firefox/addon/11009/)
+>  [**AutoProxy2PAC**](https://web.archive.org/web/20100608130250/http://autoproxy2pac.appspot.com/)
+>  [**Github上AutoProxy的项目**](https://github.com/agunchan/autoproxy)
+>  [**Github上GFWlist的项目**](https://github.com/gfwlist/gfwlist)
+   
+
+--------------------------------------------
+
 - [**火狐firefox一键翻墙包**](https://github.com/bannedbook/fanqiang/wiki/火狐firefox一键翻墙包) · bannedbook/fanqiang Wiki · GitHub
 > FirefoxFQ，火狐firefox一键翻墙包
 > 
