@@ -125,7 +125,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 > 
 > 如有任何问题，请[右键]点击图标，并在菜单中选择“反馈问题”，以便开发人员及时解决。
 > 
-> 隐私政策： https://github.com/FelisCatus/SwitchyOmega/wiki/Privacy#%E4%B8%AD%E6%96%87
+> 隐私政策： https://github.com/FelisCatus/SwitchyOmega/wiki/Privacy#中文
 > 
 > 2.x 版本新功能：
 > * 自动检测未加载的元素，并可通过弹出菜单一键设置使用代理。
