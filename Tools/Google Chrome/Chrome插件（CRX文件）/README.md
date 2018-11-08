@@ -115,6 +115,14 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >   
 >   **版本版本**： 2.3.0 (最后更新日期： 2018年3月12日)  大小： 106KiB
 
+
+-  **推荐3👍《[Proxy SwitchyOmega](https://www.switchyomega.com/)》** - 轻松快捷的管理和切换多个代理设置 ( https://www.switchyomega.com/ )
+
+
+> [**Chrome**](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN) 和[**Firefox**](https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/) 浏览器上的代理扩展程序，可以轻松快捷的管理和切换多个代理设置。
+> 
+> 备用下载地址： https://github.com/FelisCatus/SwitchyOmega/releases
+
 -------------------------------------------
 
 - [ ] 11. [**MPAA 电影评级**](https://chrome.google.com/webstore/detail/mpaa-%E7%94%B5%E5%BD%B1%E8%AF%84%E7%BA%A7/dnjigceoecdajpgbjemglmhhboleipfg) - Chrome 网上应用店
