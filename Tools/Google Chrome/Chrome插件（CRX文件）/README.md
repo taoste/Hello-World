@@ -137,6 +137,9 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 > * 许多错误修复以及改进。测试更充分。
 > 
 > **特别提醒**：由于浏览器限制，同一时间只能有一个扩展控制代理设置，一般来说会优先后安装的扩展。冲突中若SwitchyOmega获得了优先权，则可以切换到“系统代理”模式，从而把优先权归还给其他扩展，从而解决问题。如果此扩展的配置被其他代理相关、或者去广告相关的扩展覆盖，则问题无法解决，只能通过重装SwitchyOmega来提高优先权。
+
+- [强大代理扩展插件SwitchyOmega使用教程 火狐/Chrome适用](https://ssr.tools/150)-SSR中文网
+
 -------------------------------------------
 
 - [ ] 11. [**MPAA 电影评级**](https://chrome.google.com/webstore/detail/mpaa-%E7%94%B5%E5%BD%B1%E8%AF%84%E7%BA%A7/dnjigceoecdajpgbjemglmhhboleipfg) - Chrome 网上应用店
