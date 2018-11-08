@@ -41,10 +41,15 @@
 >  Chrome扩展Switchy!也支持AutoProxy的列表格式并可以自动生成PAC并进行一定程度的自定义，但是目前仍有一些Bug。
 >  
 > 外部链接:
+>  
 >  [**AutoProxy官方网站**](http://autoproxy.org/)
+>  
 >  [**AutoProxy - Firefox附加组件**](https://addons.mozilla.org/firefox/addon/11009/)
+>  
 >  [**AutoProxy2PAC**](https://web.archive.org/web/20100608130250/http://autoproxy2pac.appspot.com/)
+>  
 >  [**Github上AutoProxy的项目**](https://github.com/agunchan/autoproxy)
+>  
 >  [**Github上GFWlist的项目**](https://github.com/gfwlist/gfwlist)
    
 
