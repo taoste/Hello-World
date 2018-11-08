@@ -65,7 +65,7 @@ GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gf
 
 --------------------------------------------
 
--[强大代理扩展插件SwitchyOmega使用教程 火狐/Chrome适用](https://ssr.tools/150)-SSR中文网
+- [强大代理扩展插件SwitchyOmega使用教程 火狐/Chrome适用](https://ssr.tools/150)-SSR中文网
 
 --------------------------------------------
 
