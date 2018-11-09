@@ -6,7 +6,9 @@ Chrome插件：[Anything to QRcode](https://chrome.google.com/webstore/detail/an
 
 > 通过右键菜单或地址栏按钮将当前页面地址、选中的文本、链接、图片地址等文本内容生成二维码，也可以解析页面中的二维码图片，完全离线可用，不依赖任何远程文件和服务，内存占用小，界面简洁 :-)
 
-引用：[Anything to QRcode - 二维码图片生成器/解析解码工具 (浏览器扩展插件)](https://www.iplaysoft.com/anything-to-qrcode.html) | [异次元软件下载](https://www.iplaysoft.com/)
+引用：
+[Anything to QRcode - 二维码图片生成器/解析解码工具 (浏览器扩展插件)](https://www.iplaysoft.com/anything-to-qrcode.html) | [异次元软件下载](https://www.iplaysoft.com/)
+
 ---------------------------------------------
 香港的iPhone ： HeyWire免费国际短信应用程序
 
@@ -5677,3 +5679,4 @@ http://tv.sohu.com/20110718/n313763090.shtml
 
 
 ---------------------------------------------
+<img src="https://github.com/taoste/Hello-World/blob/master/eBook/G+/sm.png?raw=true"/>
