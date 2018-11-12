@@ -1,5 +1,5 @@
 
-[ ] *YouTube** - [**光復之聲**](https://www.youtube.com/channel/UCksrcNLRwfTBILli9-SpAjQ):
+**YouTube** - [**光復之聲**](https://www.youtube.com/channel/UCksrcNLRwfTBILli9-SpAjQ):
  
 > 统计信息 ( 2018年3月27日注册 )
 >
