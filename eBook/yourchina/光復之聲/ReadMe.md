@@ -1,0 +1,5 @@
+﻿光復之聲:
+
+- [《**重慶公交墜江事件--因為集體沈默所以集體沈沒**》 九零後看世界第1期 光復之聲20181104](https://www.youtube.com/watch?v=vY5g2Jud8IM&list=PLzax2FpS3GJsRjaZhMZ3qJzzODuIyXysR&index=6) - YouTube （ [备用地址](
+https://r2---sn-i3beln7d.googlevideo.com/videoplayback?signature=6532044C88CF57F02966626B2BCA57F2F4D8D418.3979D3C1D91BF66D2F4489AC037F3757B9799536&lmt=1541322705128650&ipbits=0&key=cms1&itag=18&mime=video%2Fmp4&dur=490.080&c=WEB&ratebypass=yes&clen=26368413&source=youtube&sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,ratebypass,requiressl,source&id=o-ADcEBpHj2D8yUrnIFhmCQoMUzt4Xr-ldrOadNTisOrcu&ei=DzzpW_npGcrUyQXA44G4Dg&ip=176.192.49.198&fvip=2&requiressl=yes&pl=19&expire=1542033519&txp=5431432&gir=yes&video_id=vY5g2Jud8IM&title=《重慶公交墜江事件--因為集體沈默所以集體沈沒》+九零後看世界第1期+光復之聲20181104&rm=sn-oxuctoxu-n8ve7k,sn-oxuctoxu-n8vl7l,sn-n8vdkez&fexp=23763603&req_id=63052618f0cca3ee&redirect_counter=3&cms_redirect=yes&ipbypass=yes&mip=219.76.153.166&mm=30&mn=sn-i3beln7d&ms=nxu&mt=1542011855&mv=m
+) ）
