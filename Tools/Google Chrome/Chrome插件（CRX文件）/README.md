@@ -64,6 +64,28 @@ ID： efaejpgmekdkcngpbghnpcmbpbngoclc
 ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - 检查视图： background/background.html
 
+- [ ] 10. **Anything to QRcode （网址生成的二维码）** 
+
+> - 通过右键菜单或地址栏按钮将当前页面地址、选中的文本、链接、图片地址等文本内容生成二维码，也可以解析页面中的二维码图片，完全离线可用，不依赖任何远程文件和服务，内存占用小，界面简洁 :-)
+
+> - [详细信息](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf?hl=zh-cn)
+> - ID： calkaljlpglgogjfcidhlmmlgjnpmnmf
+ 
+> === 2018.7.9 更新 v1.2.7 ===
+> 可以在设置页面中修改生成二维码的尺寸了
+> 
+> === 2016.11.11 更新 v1.1.2 ===
+> 修复某些情况下右键菜单消失的问题
+> 
+> === 2016.5.12 更新 v1.1.1 ===
+> 解决解码中文出现乱码的问题
+> 
+> === 更新 v1.1.0 ===
+> 在解码结果处增加一个复制按钮
+> 
+> === 更新 v1.0.8 ===
+> 修复淘宝某些页面遮挡二维码的问题
+
 -------------------------------------------
 
 **推荐1👍《谷歌上网助手（Ghelper）》一键安装，无需其他配置，即可访问谷歌（需注册/无限免费使用方法附后）。**
