@@ -24,6 +24,10 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 [默认情况下，Firefox 会共享数据，以： — Mozilla](https://www.mozilla.org/zh-CN/privacy/firefox/)
 
+- [安装 Flash 插件](https://support.mozilla.org/zh-CN/kb/安装%20Flash%20插件) | [Firefox 帮助](https://support.mozilla.org/zh-CN/)
+
+> 很多网站都需要Adobe Flash Player 插件显示视频和游戏。这篇文章讲解如何在Firefox 中安装Flash 插件。
+
 -------------------------------------------------------------------
 
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
