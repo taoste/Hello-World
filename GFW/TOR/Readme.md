@@ -59,7 +59,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 > 
 > Tor选项设置（about:preferences）
 > 启动Tor Browser时主页显示为：
-> https://3g2upl4pq6kufc4m.onion/?kad=zh_CN|https://twitter.com/login?lang=zh-cn
+> [https://3g2upl4pq6kufc4m.onion/?kad=zh_CN](https://3g2upl4pq6kufc4m.onion/?kad=zh_CN|https://thehiddenwiki.org/|https://twitter.com/zhanglifan?lang=zh-cn|https://zh-cn.facebookcorewwwi.onion/)
 > 
 > **欢迎使用 Tor Browser**
 > 现在即可自由地匿名访问互联网。
