@@ -38,6 +38,8 @@
 
 -------------------------------------------------
 
+<p><a href="https://github.com/taoste/taoste.github.io/issues/1" title="[Note] : 🛡️ 科学上网 / hosts · Issue #1 · taoste/taoste.github.io"><img src="https://img.shields.io/badge/苦撑-待变-brightgreen.svg"/></a></p>
+
 hosts所在文件夹：
 > Windows 系统hosts位于 **C:\Windows\System32\drivers\etc\hosts**
 > 
@@ -78,3 +80,37 @@ hosts所在文件夹：
 > 里面包含Windows & Mac 、Android & Linux请对号入座。
 > 另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）
 > **注意**：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！
+
+-----------------------------------------------------
+
+[Ping查询](https://www.ipip.net/ping.php) （**最专业的 IP 地址库**_IPIP.NET）全球唯一一个基于BGP/ASN数据分析处理而得来的IP库
+
+强大的IP 地址归属地查询 （**bgp.he.net**）
+参考：
+1. [https://bgp.he.net/dns/zuola.com](https://bgp.he.net/dns/t66y.com)
+[t66y](https://bgp.he.net/dns/sex.com) dns: 104.25.32.112 , 104.25.31.112
+[pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
+[huanghuagang](https://bgp.he.net/dns/huanghuagang.org) dns: 199.34.228.75
+
+2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
+[View on GitHub](https://github.com/bitbeans/SimpleDnsCrypt)
+[Download .zip (Source)](https://github.com/bitbeans/SimpleDnsCrypt/zipball/master) 
+[Download .msi (Installer)](https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.4.2/SimpleDNSCrypt.msi) 
+
+3. [t66y.com](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://t66y.com/) - [Bing必应在线翻译](https://www.bing.com/translator/?mkt=zh-CN)
+[https://www.bing.com/translator/](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://program-think.blogspot.com/)
+
+-----
+
+<p><a href="https://github.com/taoste/taoste.github.io/issues/1" title="[Note] : 🛡️ 科学上网 / hosts · Issue #1 · taoste/taoste.github.io"><img src="https://img.shields.io/badge/苦撑-待变-brightgreen.svg"/></a></p>
+
+[互联网档案馆](https://archive.org/) - @[维基百科](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)词条 （ https://archive.org/ ）
+
+- **眼看他起朱楼，眼看他宴宾客，眼看他楼塌了。**
+--作者：孔尚任 · 清代《[桃花扇/餘韻](https://zh.wikisource.org/zh/%E6%A1%83%E8%8A%B1%E6%89%87/%E9%A4%98%E9%9F%BB) 》- 维基文库，自由的图书馆
+
+>**参阅**：[防火长城](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)（GFW，俗称：功夫网，网络防火墙），本质是假借保护国家网络信息安全的名义，实施网络内容的审查、封锁和屏蔽，限制言论自由、剥夺公民知情权、表达权和通过媒体对公共权力监督权，实现网络闭关锁国、保护贪腐的技术手段 。……其形就如同网络小说《[鬼吹灯](https://zh.wikipedia.org/wiki/%E9%AC%BC%E5%90%B9%E7%81%AF)》中的“鬼遮眼/鬼打墙”。那么，翻墙就是“守正辟邪”，推墙就是“除魔卫道”。
+北京邮电大学原校长：@[方滨兴](https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4) 是其始作俑者，被网民称为“中国互联网防火墙（GFW）之父”。
+
+翻越防火长城，你可以到达世界上的每一个角落。
+Across the Great Firewall , you can reach every corner in the world .
