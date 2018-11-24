@@ -1,4 +1,4 @@
-# 首先感谢 [Google Hosts](https://github.com/googlehosts/hosts) 组织提供本 [hosts](https://github.com/googlehosts/hosts/blob/master/hosts-files/hosts)
+# 鸣谢 [Google Hosts](https://github.com/googlehosts/hosts) 组织提供本 [hosts](https://github.com/googlehosts/hosts/blob/master/hosts-files/hosts)
 [![doodle]][doodle-story]
 
 [doodle]: https://www.google.com/logos/doodles/2018/googles-20th-birthday-6342583134453760-2xa.gif "Google 生日快乐!"
