@@ -1,0 +1,9 @@
+本批处理仅适用于windows系统
+
+双击自动替换hosts批处理...
+
+win7/win8/win10右键以管理员身份运行,XP用户双击运行
+
+就可以自动把文件夹下的hosts文件替换到系统
+
+C:\Windows\System32\drivers\etc目录下了
