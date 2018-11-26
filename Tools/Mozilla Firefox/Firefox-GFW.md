@@ -3,6 +3,9 @@
 
 **Firefox GFW 翻墙**:
 
+-  **[Firefox](https://lvii.gitbooks.io/outman/content/firefox.html
+) · 科学上网漫游指南**
+
 --------------------------------------------
 
 -  **推荐👍《[Proxy SwitchyOmega](https://www.switchyomega.com/)》 - 轻松快捷的管理和切换多个代理设置 ( https://www.switchyomega.com/ )**
