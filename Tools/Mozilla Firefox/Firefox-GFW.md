@@ -30,9 +30,7 @@
 > 
 > **特别提醒**：由于浏览器限制，同一时间只能有一个扩展控制代理设置，一般来说会优先后安装的扩展。冲突中若SwitchyOmega获得了优先权，则可以切换到“系统代理”模式，从而把优先权归还给其他扩展，从而解决问题。如果此扩展的配置被其他代理相关、或者去广告相关的扩展覆盖，则问题无法解决，只能通过重装SwitchyOmega来提高优先权。
 
-> **SwitchyOmega 选项(文件备份-[在线恢复](https://github.com/taoste/Hello-World/raw/master/Tools/Mozilla%20Firefox/OmegaOptions.bak)**)
->  
->  [**Lantern v2.2.5 无限流量**](https://github.com/taoste/Hello-World/tree/master/GFW/Lantern)（具体破解方法为：主要是令 lantern 一直保持在 2.2.5 版本不变。破解“限制500M流量之后限速”问题的具体方法）
+> **SwitchyOmega 选项(文件备份-[在线恢复](https://github.com/taoste/Hello-World/raw/master/Tools/Mozilla%20Firefox/OmegaOptions.bak)**)  +  [**Lantern(蓝灯) v2.2.5 无限流量翻墙**](https://github.com/taoste/Hello-World/tree/master/GFW/Lantern)（具体破解方法为：主要是令 lantern 一直保持在 2.2.5 版本不变。破解“限制500M流量之后限速”问题的具体方法）
 
 --------------------------------------------
 
