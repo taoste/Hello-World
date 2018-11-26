@@ -4,7 +4,7 @@
 **Firefox GFW 翻墙**:
 
 -  **[Firefox](https://lvii.gitbooks.io/outman/content/firefox.html
-) · 科学上网漫游指南**
+) · [科学上网漫游指南](https://lvii.gitbooks.io/outman/content/)**
 
 --------------------------------------------
 
