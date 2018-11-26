@@ -18,3 +18,7 @@ https://program-think.blogspot.com/2015/08/gfw-lantern.html
 
 - [参阅](RRS.md) ：[Lantern 重置流量 无限使用 内附赠免费SSR](https://t66y.com/htm_data/7/1809/3277866.html) - 技術討論區 | 草榴社區 - t66y.com
 
+--------------------------------------------------------------
+
+- [**论如何科学的上网**](https://cniter.github.io/posts/df943c4f.html) | [Shaun's Space](https://cniter.github.io/)  
+> （具体破解方法为：主要是令 lantern 一直保持在 2.2.5 版本不变。破解“限制500M流量之后限速”问题的具体方法）
