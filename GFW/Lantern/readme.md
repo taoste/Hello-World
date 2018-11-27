@@ -1,3 +1,10 @@
+- 🔄 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
+[Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
+
+[Note] 🛡️ [科学上网 系列 · Issue #1](https://github.com/taoste/taoste.github.io/issues/1) 
+
+-------------------------------------------------------------------
+
 “Lantern”是一款新兴的翻墙工具。“蓝灯”是它的中文名。
 
 它的特色是：开源并且跨平台（Windows、Linux、Mac OS）。
