@@ -119,6 +119,8 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 > **SwitchyOmega 选项(文件备份-[在线恢复](https://github.com/taoste/Hello-World/raw/master/Tools/Mozilla%20Firefox/OmegaOptions.bak)**)  +  [**Lantern(蓝灯) v2.2.5 无限流量翻墙**](https://github.com/taoste/Hello-World/tree/master/GFW/Lantern)（具体破解方法为：主要是令 lantern 一直保持在 2.2.5 版本不变。破解“限制500M流量之后限速”问题的具体方法）
 
+- [强大代理扩展插件SwitchyOmega使用教程 火狐/Chrome适用](https://ssr.tools/150) - [SSR中文网](https://ssr.tools/) | 让上网更科学
+
 --------------------------------------------
 
 - [**YouTube 视频**](https://www.youtube.com/?hl=zh-CN) 
