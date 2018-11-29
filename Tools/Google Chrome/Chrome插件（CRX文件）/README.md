@@ -1,7 +1,7 @@
 - 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
 [Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
 
-[谷歌 Google 系列](https://www.google.com/?hl=zh-cn) | [Chrome](https://www.google.com/chrome/browser/desktop/index.html) [网上应用店](https://www.google.com/chrome/webstore/) - [扩展程序](https://chrome.google.com/webstore/category/extensions) (chrome://extensions/)
+[谷歌 Google 系列](https://www.google.com/?hl=zh-cn) | [Chrome](https://www.google.com/chrome/browser/desktop/index.html) [网上应用店](https://www.google.com/chrome/webstore/) - [主题背景](https://chrome.google.com/webstore/category/themes?hl=zh-cn)（[themes](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome/Chrome%E6%8F%92%E4%BB%B6%EF%BC%88CRX%E6%96%87%E4%BB%B6%EF%BC%89/themes.md):[**Space**](https://chrome.google.com/webstore/detail/space/hepnfgiockihbakjbhonkinpagbkaobo?hl=zh-cn)） / [扩展程序](https://chrome.google.com/webstore/category/extensions) (chrome://extensions/)
 扩展程序和应用的**键盘快捷键设置** 请在插件管理页最下方右边进入。（ 直接设置地址： chrome://extensions/configureCommands ）
 [更多>>>](https://github.com/taoste/taoste.github.io/issues/9#issue-208351775)
 
