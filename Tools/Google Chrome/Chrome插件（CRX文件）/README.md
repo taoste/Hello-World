@@ -5,7 +5,7 @@
 扩展程序和应用的**键盘快捷键设置** 请在插件管理页最下方右边进入。（ 直接设置地址： chrome://extensions/configureCommands ）
 [更多>>>](https://github.com/taoste/taoste.github.io/issues/9#issue-208351775)
 
-- [ ] 0. **扩展管理** - [开发者工具](https://chrome.google.com/webstore/category/ext/11-web-development?hl=zh-cn)
+- [ ] 0. **扩展管理** - [开发者工具](https://chrome.google.com/webstore/category/ext/11-web-development?hl=zh-cn)(推荐：[开发工具箱](https://chrome.google.com/webstore/detail/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%AE%B1/mflanociobpenleccopmoanpdbcjcanm/related?hl=zh-cn))
 > - 管理chrome插件，在需要某扩展的时候快速启用，不需要的时候禁用掉，回收所占资源。比chrome自带的扩展程序也简单方便且快速。你可以通过 “扩展管理” 来方便的启用、禁用和删除你的插件。(无需进入chrome 自带的 “扩展程序” 页。)
 > - [详细信息](https://chrome.google.com/webstore/detail/extmanager/bgejgfcdaicmfbfphchgcdgnpnbcondb?hl=zh-cn) 
 > - [选项](chrome://extensions/?id=bgejgfcdaicmfbfphchgcdgnpnbcondb)
