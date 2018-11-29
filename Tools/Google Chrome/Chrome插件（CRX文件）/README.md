@@ -9,7 +9,7 @@
 > - 管理chrome插件，在需要某扩展的时候快速启用，不需要的时候禁用掉，回收所占资源。比chrome自带的扩展程序也简单方便且快速。你可以通过 “扩展管理” 来方便的启用、禁用和删除你的插件。(无需进入chrome 自带的 “扩展程序” 页。)
 > - [详细信息](https://chrome.google.com/webstore/detail/extmanager/bgejgfcdaicmfbfphchgcdgnpnbcondb?hl=zh-cn) 
 > - [选项](chrome://extensions/?id=bgejgfcdaicmfbfphchgcdgnpnbcondb)
-> - ID：bgejgfcdaicmfbfphchgcdgnpnbcondb
+   ID：bgejgfcdaicmfbfphchgcdgnpnbcondb
 
 > - 支持文字列表、大图标列表、小图标列表多种排列方式，适合不同扩展数量的人群。
 > 
