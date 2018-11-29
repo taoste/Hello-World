@@ -1,5 +1,5 @@
 - 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
-[Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
+[🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
 
 [Note] 🔄 [Mozilla Firefox 系列 · Issue #12](https://github.com/taoste/taoste.github.io/issues/12) 
 
@@ -92,9 +92,14 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [ ] [简悦](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/?src=search)  - SimpRead / 让你瞬间进入沉浸式阅读的扩展，Chrome 好评率 99% 的扩展现已来到了 Firefox！
 
 - [ ] [豆芽儿](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)  -  更加稳定的新服务终于上线啦！向大家隆重介绍 - 豆芽儿
-- 为了确保服务稳定性，最终形态是浏览器插件，支持[Chrome](https://chrome.google.com/webstore/detail/%E8%B1%86%E8%8A%BD%E5%84%BF/jgcdgedbgieagjgkapngahcmbokhkpnn)和[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)，在浏览任何一个豆瓣影视页面时都能一键关注该影视作品；
+- 为了确保服务稳定性，最终形态是浏览器插件，支持[Chrome](https://chrome.google.com/webstore/detail/%E8%B1%86%E8%8A%BD%E5%84%BF/jgcdgedbgieagjgkapngahcmbokhkpnn)和[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)，在浏览任何一个豆瓣影视页面时都能一键关注该影视作品；
 - 邮件推送资（ zi ）讯（ yuan ）信息，网络上已有的资（ zi ）讯（ yuan ），即时推送（第一次关注需要确认邮件地址）；
 - 尚未在网络上发布的资（ zi ）讯（ yuan ），会在发布后第一时间推送；
+
+- [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
+
+> - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
+> - 提供方：https://www.infinitynewtab.com
 
 - [ ] [AutoProxy](https://addons.mozilla.org/zh-CN/firefox/addon/autoproxy/) - 科学上网智能切换代理规则插件
 你要翻墙对吗？你想让它聪明点：该翻墙时才翻，不要所有的网站都用代理，对吗？你还想让它再聪明一点：该不该翻墙它自己知道，不用什么事都要你跟它讲，对吗？ AutoProxy 就是为您设计的：）
