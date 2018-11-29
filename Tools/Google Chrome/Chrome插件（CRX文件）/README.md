@@ -5,9 +5,19 @@
 扩展程序和应用的**键盘快捷键设置** 请在插件管理页最下方右边进入。（ 直接设置地址： chrome://extensions/configureCommands ）
 [更多>>>](https://github.com/taoste/taoste.github.io/issues/9#issue-208351775)
 
+- [ ] 0. **扩展管理** - [开发者工具](https://chrome.google.com/webstore/category/ext/11-web-development?hl=zh-cn)
+> - 管理chrome插件，在需要某扩展的时候快速启用，不需要的时候禁用掉，回收所占资源。比chrome自带的扩展程序也简单方便且快速。你可以通过 “扩展管理” 来方便的启用、禁用和删除你的插件。(无需进入chrome 自带的 “扩展程序” 页。)
+> - [详细信息](https://chrome.google.com/webstore/detail/extmanager/bgejgfcdaicmfbfphchgcdgnpnbcondb?hl=zh-cn) 
+> - [选项](chrome://extensions/?id=bgejgfcdaicmfbfphchgcdgnpnbcondb)
+> - ID：bgejgfcdaicmfbfphchgcdgnpnbcondb
+
+> - 支持文字列表、大图标列表、小图标列表多种排列方式，适合不同扩展数量的人群。
+> 
+> - 能很方便的打开系统功能，如下载页、历史记录页、扩展程序页、插件页、chrome设置页、搜索引擎设置页、清除浏览器缓存页、内容设置页、字体和编码设置页、语言设置页、重置浏览器设置页等众多快捷方式。
+
 - [ ] 1. **OneTab** 
 > - 节省高达95％的内存，并减轻标签页混乱现象
-> - [详细信息](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) 
+> - [详细信息](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn) 
 > - [选项](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/options.html)
 ID：chphlpgkkbolifaimnlloiipkdnihall
 
