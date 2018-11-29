@@ -1,5 +1,5 @@
 - 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
-[Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
+[🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
 
 [谷歌 Google 系列](https://www.google.com/?hl=zh-cn) | [Chrome](https://www.google.com/chrome/browser/desktop/index.html) [网上应用店](https://www.google.com/chrome/webstore/) - [主题背景](https://chrome.google.com/webstore/category/themes?hl=zh-cn)（[themes](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome/Chrome%E6%8F%92%E4%BB%B6%EF%BC%88CRX%E6%96%87%E4%BB%B6%EF%BC%89/themes.md):[**Space**](https://chrome.google.com/webstore/detail/space/hepnfgiockihbakjbhonkinpagbkaobo?hl=zh-cn)） / [扩展程序](https://chrome.google.com/webstore/category/extensions) (chrome://extensions/)
 扩展程序和应用的**键盘快捷键设置** 请在插件管理页最下方右边进入。（ 直接设置地址： chrome://extensions/configureCommands ）
@@ -96,7 +96,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > === 更新 v1.0.8 ===
 > 修复淘宝某些页面遮挡二维码的问题
 
-- [ ] 11. **Infinity 新标签页(Pro)** 
+- [ ] 11. **Infinity 新标签页(Pro)** （ [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
 
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
 
