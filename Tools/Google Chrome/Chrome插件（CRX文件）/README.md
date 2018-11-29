@@ -96,6 +96,13 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > === 更新 v1.0.8 ===
 > 修复淘宝某些页面遮挡二维码的问题
 
+- [ ] 11. **Infinity 新标签页(Pro)** 
+
+> - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
+
+> - [详细信息](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn)
+> - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
+
 -------------------------------------------
 
 **推荐1👍《谷歌上网助手（Ghelper）》一键安装，无需其他配置，即可访问谷歌（需注册/无限免费使用方法附后）。**
