@@ -97,9 +97,10 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - 尚未在网络上发布的资（ zi ）讯（ yuan ），会在发布后第一时间推送；
 
 - [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
-
+> - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
+) （ 提供方：https://www.infinitynewtab.com ）
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
-> - 提供方：https://www.infinitynewtab.com
+
 
 - [ ] [AutoProxy](https://addons.mozilla.org/zh-CN/firefox/addon/autoproxy/) - 科学上网智能切换代理规则插件
 你要翻墙对吗？你想让它聪明点：该翻墙时才翻，不要所有的网站都用代理，对吗？你还想让它再聪明一点：该不该翻墙它自己知道，不用什么事都要你跟它讲，对吗？ AutoProxy 就是为您设计的：）
