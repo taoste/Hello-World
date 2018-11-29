@@ -102,6 +102,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 > - [详细信息](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn)
 > - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
+> - 提供方：https://www.infinitynewtab.com
 
 -------------------------------------------
 
