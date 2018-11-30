@@ -1,7 +1,7 @@
 📹 [**2018年国产7.2分喜剧片《邪不压正》HD国语中字**](https://www.dy2018.com/i/100262.html)_电影天堂
 -------------------------------
 
-<img src="https://img.diannao1.com/d/file/html/gndy/dyzz/2018-11-23/162dea44d69ed76f704f8ec87f4f33ff.jpg"/>
+<img src="https://camo.githubusercontent.com/c1b8b882e61a62522e606a4a80971f247acdb0b2/68747470733a2f2f696d672e6469616e6e616f312e636f6d2f642f66696c652f68746d6c2f676e64792f64797a7a2f323031382d31312d32332f31363264656134346436396564373666373034663865633837663466333366662e6a7067"/>
 
 ◎译　　名　Hidden Man/侠隐
 
@@ -62,7 +62,7 @@
 　　本片根据张北海的小说《侠隐》改编。
 
 ◎影片截图
-<img src="https://img.diannao1.com/d/file/html/gndy/dyzz/2018-11-23/a75daebc3e0739ce5f51779eab32941d.jpg"/>
+<img src="https://camo.githubusercontent.com/2b6c4cbe8b402e63abdc12c749d4fd90f958abec/68747470733a2f2f696d672e6469616e6e616f312e636f6d2f642f66696c652f68746d6c2f676e64792f64797a7a2f323031382d31312d32332f61373564616562633365303733396365356635313737396561623332393431642e6a7067"/>
 
 (**转载**：[2018年国产7.2分喜剧片《邪不压正》HD国语中字](https://www.dy2018.com/i/100262.html)_电影天堂)
 
