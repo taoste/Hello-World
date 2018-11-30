@@ -67,6 +67,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 > Firefox：%T %U 
 
 - [x] [**OneTab**](https://addons.mozilla.org/zh-CN/firefox/addon/onetab/) （支持 [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/onetab/)）
+> - 作者： [OneTab Team](https://addons.mozilla.org/zh-CN/firefox/user/10945418/)（ 提供方：  https://www.one-tab.com/ ）
 > - 节省高达95％的内存，并减轻标签页混乱现象
 > - 标签页太多了？将您的标签页转换成一个列表，加快Firefox浏览器运行速度
 > - OneTab现在提供简体中文版！
