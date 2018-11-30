@@ -15,7 +15,7 @@
 > 
 > - 能很方便的打开系统功能，如下载页、历史记录页、扩展程序页、插件页、chrome设置页、搜索引擎设置页、清除浏览器缓存页、内容设置页、字体和编码设置页、语言设置页、重置浏览器设置页等众多快捷方式。
 
-- [ ] 1. **OneTab** （支持 [Chrome]((https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/onetab/)）
+- [ ] 1. **OneTab** （支持 [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/onetab/)）
 
 > - 节省高达95％的内存，并减轻标签页混乱现象
 > - [详细信息](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn) 
