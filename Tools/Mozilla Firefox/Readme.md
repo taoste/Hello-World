@@ -101,6 +101,9 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 ) （ 提供方：https://www.infinitynewtab.com ）
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
 
+- [x] [**Hoxx VPN Proxy**](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search) – 下载 🦊 Firefox 扩展（zh-CN）
+
+- [ ] [**SetupVPN Lifetime Free VPN**](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/?src=search) – 下载 🦊 Firefox 扩展（zh-CN）
 
 - [ ] [AutoProxy](https://addons.mozilla.org/zh-CN/firefox/addon/autoproxy/) - 科学上网智能切换代理规则插件
 你要翻墙对吗？你想让它聪明点：该翻墙时才翻，不要所有的网站都用代理，对吗？你还想让它再聪明一点：该不该翻墙它自己知道，不用什么事都要你跟它讲，对吗？ AutoProxy 就是为您设计的：）
