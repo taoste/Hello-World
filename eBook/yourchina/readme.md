@@ -37,6 +37,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/2018-05-18.png
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/2018-11.png
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/20082018.jpg
  
  https://taoste.github.io/Hello-World/eBook/yourchina/DongFang.pdf
