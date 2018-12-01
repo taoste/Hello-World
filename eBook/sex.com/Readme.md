@@ -35,3 +35,8 @@
 
 > 1430121.jpg（JPEG 图像，1215x2160 像素） - 缩放 (30%)  https://www.yuoimg.com/u/20181115/1430121.jpg
 > 14301210.JPG（JPEG 图像，1184x1371 像素）  https://www.yuoimg.com/u/20181115/14301210.JPG
+
+- [和初恋在宾馆啪啪啪[10P]](https://t66y.com/htm_data/16/1812/3358138.html) - 達蓋爾的旗幟 | 草榴社區 - t66y.com  
+
+> 18433030.jpg（JPEG 图像，640x958 像素） - 缩放 (68%)  https://www.x6img.com/u/20181201/18433030.jpg
+> 18432767.jpg（JPEG 图像，640x958 像素） - 缩放 (68%)  https://www.x6img.com/u/20181201/18432767.jpg
