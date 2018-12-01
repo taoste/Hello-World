@@ -27,3 +27,5 @@
 20172072.jpg（JPEG 图像，300x451 像素）  https://images.sex.com/images/pinporn/2018/11/04/300/20172072.jpg
 
 20180259.gif（GIF 图像，300x186 像素）  https://images.sex.com/images/pinporn/2018/11/06/300/20180259.gif
+
+- [[原创]小情人结婚前夕，我去帮忙布置婚房，我说我什么都没干你信吗？[23P] - 達蓋爾的旗幟 | 草榴社區 - t66y.com]（https://t66y.com/htm_data/16/1812/3341207.html）
