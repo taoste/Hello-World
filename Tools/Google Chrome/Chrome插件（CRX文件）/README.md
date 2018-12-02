@@ -17,7 +17,12 @@
 
 - [ ] 1. **OneTab** （支持 [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/onetab/)）
 > - （ 提供方：  https://www.one-tab.com/ ）
-> - 节省高达95％的内存，并减轻标签页混乱现象
+> - 节省高达95％的内存，并减轻标签页混乱现象：
+>     
+>     1).OneTab官方主打的是第一个功能,宣传口号是节省高达95％的内存，并减轻标签页混乱现象, 本质是通过关闭繁多的标签页,让浏览器占用内存变少, 个人认为,OneTab相当于重新定义了浏览器的历史记录, 确实是很不错创意。
+>     
+>     2).OneTab第二个功能,是我个人比较喜欢的, 如果别人问你一些比较简单的问题, 你可以打开几个和问题答案相关的网页, 然后一键分享给别人, 让他们自己去看, 也算是授人以鱼不如授人以渔了
+> 
 > - [详细信息](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn) 
 > - [选项](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/options.html)
 ID：chphlpgkkbolifaimnlloiipkdnihall
