@@ -25,7 +25,9 @@ ID：chphlpgkkbolifaimnlloiipkdnihall
 >    
 >    1).[解放你的内存，但是需要重载，Chrome & Firefox 插件【**OneTab**】](https://www.ifanr.com/261924) - @[爱范儿](https://www.ifanr.com/)
 >    
->    2).[Toby – 终于可以放心把没看完的标签页全关了[Chrome]](https://www.appinn.com/toby-manage-your-tabs-for-chrome/) - @[小众软件](https://www.appinn.com/)
+>    2).[OneTab一键分享Chrome当前打开的所有标签页](https://cloud.tencent.com/developer/article/1192832) - 云+社区 - 腾讯云
+>    
+>    3).[Toby – 终于可以放心把没看完的标签页全关了[Chrome]](https://www.appinn.com/toby-manage-your-tabs-for-chrome/) - @[小众软件](https://www.appinn.com/)
  
 - [ ] 2. **Save to Pocket(稍后读)** 
 > - Chrome 版 Pocket 扩展件－－保存文章、视频等的最佳方式
