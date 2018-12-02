@@ -21,6 +21,7 @@
 > - [详细信息](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn) 
 > - [选项](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/options.html)
 ID：chphlpgkkbolifaimnlloiipkdnihall
+> - 引申阅读：[解放你的内存，但是需要重载，Chrome & Firefox 插件【**OneTab**】](https://www.ifanr.com/261924) | @[爱范儿](https://www.ifanr.com/)
 
 - [ ] 2. **Save to Pocket(稍后读)** 
 > - Chrome 版 Pocket 扩展件－－保存文章、视频等的最佳方式
