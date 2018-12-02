@@ -16,13 +16,22 @@ PanDownload 第三方百度网盘下载工具，不限速！
 
 【下载地址】
 
-本地下载 http://pandownload.com/2.0.4
+本地下载 http://pandownload.com/2.0.5
 
-网盘下载 https://www.lanzous.com/i24ls9e
+网盘下载 https://www.lanzous.com/i2dwx4j
 
 【更新日志】
 
 ```
+v[2.0.5](http://pandownload.com/2.0.5)
+更新时间: [2018-11-16](https://www.lanzous.com/i2dwx4j)
+更新内容:
+
+    支持HTTP/HTTPS下载
+    新增文件清理功能
+    新增提取码查询功能
+    
+----------
 
 v[2.0.4](http://pandownload.com/2.0.4)
 更新时间: [2018-10-17](https://www.lanzous.com/i24ls9e)
