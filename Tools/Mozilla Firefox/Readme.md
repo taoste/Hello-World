@@ -28,6 +28,26 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 > 很多网站都需要Adobe Flash Player 插件显示视频和游戏。这篇文章讲解如何在Firefox 中安装Flash 插件。
 
+- [为 Firefox 启用 Flash Player](https://helpx.adobe.com/cn/flash-player/kb/enabling-flash-player-firefox.html)
+
+> Windows
+
+>     1.选择“Firefox”>“工具”>“附加组件”。
+>     2.选择“工具”>“附加组件”
+>     3.打开“附加组件”对话框。
+> 
+>     4.选择“插件”。
+> 
+>     5.在附加组件列表中，查找 Shockwave Flash（Flash Player 的另一名称）并检查显示在插件名称右侧的状态。
+>     检查 Shockwave Flash 的状态
+>     Shockwave Flash 已停用。
+> 
+>     6.选择“总是激活”。
+>     选择“总是激活”
+>     启用插件。
+> 
+>     7. 关闭对话框。
+
 -------------------------------------------------------------------
 
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
