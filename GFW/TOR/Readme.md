@@ -179,7 +179,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 >  
 >  DuckDuckGo搜索引擎-暗网服务( https://3g2upl4pq6kufc4m.onion/?kad=zh_CN )
 >  
->  Tor隐藏维基 (zqktlwi4fecvo6ri.onion/)
+>  Tor隐藏维基 (https://zqktlwi4fecvo6ri.onion/)
 >   明网的地址( https://thehiddenwiki.org/ )
 >  
 >   1. Facebook虽然禁止Tor用户注册账号，却提供了.onion的隐藏服务，供已注册的用户连接。(   https://zh-cn.facebookcorewwwi.onion/ )
@@ -212,8 +212,8 @@ Tor最新版 - [官网下载](https://www.torproject.org/download/download-easy.
 > 2009年4月17日《[对海盗湾一审败诉的感想](https://www.ruanyifeng.com/blog/2009/04/some_thoughts_on_the_pirate_bay_guilty.html)》 - [阮一峰的网络日志](https://www.ruanyifeng.com/)  
 
 - 【[**维基解密**](https://www.wikileaks.org/)】
-> 
 > 官方网站 https://www.wikileaks.org/ (推出时间	2006年10月4日)
+>  @[Twitter](https://twitter.com/wikileaks?lang=zh-cn) / @[Facebook](https://zh-cn.facebook.com/wikileaks)
 > 
 > 维基解密（又称维基揭密或维基泄密；英语：WikiLeaks），是透过协助知情人让组织、企业、政府在阳光下运作的、无国界非营利的互联网媒体。
 > 
