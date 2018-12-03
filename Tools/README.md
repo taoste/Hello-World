@@ -1,7 +1,7 @@
 
 💗 [Tools-导航]() :
 
-- [同步神器BTSync](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)  |  [[BitTorrent & P2P工具专辑](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7)] >>
+- [同步神器**BTSync**(BitTorrent Sync / 现名：Resilio Sync) —— "不仅是文件同步利器，而且是【分布式】网盘"](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)   |  [[BitTorrent & P2P工具专辑](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7)] >>
 
 - [PanDownload - 百度网盘不限速下载器](https://github.com/taoste/Hello-World/tree/master/Tools/PanDownload)
 
