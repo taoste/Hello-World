@@ -1,4 +1,4 @@
-[] 【[**海盜灣**](https://thepiratebay.org)】
+- 【[**海盜灣**](https://thepiratebay.org)】
 > 
 > 官方网站  https://thepiratebay.org
 > 
