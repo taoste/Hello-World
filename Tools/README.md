@@ -1,7 +1,7 @@
 
 💗 [Tools-导航]() :
 
-- [同步神器BTSync](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)
+- [同步神器BTSync](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync) |  [BT/P2P工具专辑]（https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7）>>
 
 - [PanDownload - 百度网盘不限速下载器](https://github.com/taoste/Hello-World/tree/master/Tools/PanDownload)
 
