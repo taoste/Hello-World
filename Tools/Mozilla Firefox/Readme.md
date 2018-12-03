@@ -122,6 +122,8 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [ ] [IE Tab](https://addons.mozilla.org/zh-CN/firefox/addon/ie-tab/) - 完美的解决IE兼容性问题
 
 - [ ] [简悦](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/?src=search)  - SimpRead / 让你瞬间进入沉浸式阅读的扩展，Chrome 好评率 99% 的扩展现已来到了 Firefox！
+> - 创建者： [Kenshin Wang <kenshin@ksria.com>](http://ksria.com/simpread/)/ 主页 [ksria.com/simpread/](http://ksria.com/simpread/) （ [更新日志](http://ksria.com/simpread/changelog.html) @[Github 源码](https://github.com/kenshin/simpread) ）
+> - 管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/options.html
 
 - [ ] [豆芽儿](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)  -  更加稳定的新服务终于上线啦！向大家隆重介绍 - 豆芽儿
 - 为了确保服务稳定性，最终形态是浏览器插件，支持[Chrome](https://chrome.google.com/webstore/detail/%E8%B1%86%E8%8A%BD%E5%84%BF/jgcdgedbgieagjgkapngahcmbokhkpnn)和[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)，在浏览任何一个豆瓣影视页面时都能一键关注该影视作品；
