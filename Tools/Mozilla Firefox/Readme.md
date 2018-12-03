@@ -121,7 +121,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 - [ ] [IE Tab](https://addons.mozilla.org/zh-CN/firefox/addon/ie-tab/) - 完美的解决IE兼容性问题
 
-- [ ] [简悦](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/?src=search)  - SimpRead / 让你瞬间进入沉浸式阅读的扩展，Chrome 好评率 99% 的扩展现已来到了 Firefox！
+- [ ] [简悦](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/?src=search)  - SimpRead / 让你瞬间进入沉浸式阅读的扩展，Chrome 好评率 99% 的扩展现已来到了 Firefox！ （支持 [Chrome](https://chrome.google.com/webstore/detail/简悦-simpread/ijllcpnolfcooahcekpamkbidhejabll?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/) ）
 > - 创建者： [Kenshin Wang <kenshin@ksria.com>](http://ksria.com/simpread/)/ 主页 [ksria.com/simpread/](http://ksria.com/simpread/) （ [更新日志](http://ksria.com/simpread/changelog.html) @[Github 源码](https://github.com/kenshin/simpread) ）
 > - 管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/options.html
 
