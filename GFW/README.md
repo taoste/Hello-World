@@ -13,7 +13,7 @@
 
 -------------------------------------------------------------------
 
- 💗  P2P工具 ：[“棱镜杀手”**比特信(Bitmessage)--去中心P2P加密通信软件**](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7) 
+ 💗  P2P工具 ：[“棱镜杀手”**比特信(Bitmessage)--去中心P2P加密通信软件**](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7) / [同步神器**BTSync**( 曾又名：BitTorrent Sync / 现名：Resilio Sync ) —— "不仅是文件同步利器，而且是【分布式】网盘"](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync) 
  
 【笔记.导航】Study Notepad :
 
