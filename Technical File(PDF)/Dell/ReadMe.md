@@ -27,3 +27,5 @@
 > *) 修正了打开Acronis Disk Director 12 ISO映像存在的错误
 > 
 > *) 一些小的改进和错误修正
+> 
+> [UltraISO v9.7.1.3519 官方零售版及注册机](https://whitewolf.space/ultraiso-key/) - 小白狼の窝
