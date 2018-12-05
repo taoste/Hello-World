@@ -1,0 +1,156 @@
+Dell PERC S100/S300 Controller
+Device Driver for Windows Server 2008 x64 
+Version: 2.0.0-0162
+
+TABLE OF CONTENTS
+=================
+
+1.0  Introduction
+2.0  Install Instructions
+     3.1  Installing the Driver During Operating System Installation
+     3.2  Updating an Existing Windows Driver
+     3.3  Driver Update using Dell Update Package (DUP)
+3.0  Fixes or Enhancements in this Release
+4.0  Additional Information
+5.0  Known Issues
+
+
+1.0 Introduction
+================
+
+This is the driver for following family of RAID Controller(s):
+ 
+    PERC S100 Controllers
+    PERC s300 Controllers
+
+
+
+2.0 Install Instructions
+========================
+
+Copy the files from the package to a media device supported by the system.
+Windows 2008 supports floppies, USB keys, CD & DVD drives.
+
+2.1 Installing the Driver during Operating System Installation
+--------------------------------------------------------------
+
+1. Boot the system using the Microsoft Windows CD.
+2. Follow the screen instructions until you reach the 
+	"Where do you want to install Windows?" section.
+
+3. Insert the CD-ROM, DVD, USB flash drive, or floppy disk that
+   contains the driver files.
+
+4. At the Load Driver sub-screen, click Browse.
+   Select the directory that has the controller driver files. Click OK.
+5. At the Select the driver to be installed window, select Dell PERC
+   appropriate Controller... Click Next to load the driver files.
+
+6. After the driver loads you will return to the "Where do you want to 
+   install Windows?" screen (partitions can be configured on this screen), 
+   press "Next" again to continue the installation process as usual.
+
+
+2.2 Updating an Existing Windows Driver
+---------------------------------------
+
+Perform the following steps to update the Windows driver for the RAID adapter
+already installed on your system.
+
+NOTE: It is important that you idle your system before you update the driver.
+
+1. Press "Start" > "Control Panel" > "System and Maintenance" > "System".
+   The "View basic information about your computer" screen displays.
+2. Click on the "Device Manger" link on the left.
+   The "Device Manger" window opens
+4. Click "Storage controller" 
+5. Double-click the RAID controller for which the driver has to be updated.
+   The following steps(from Step 6 through 11 ) have to be performed for both the
+   a) Dell PERC S100 S300 Configuration Device
+   b) Dell PERC S100 S300 Controller
+   seen in the Storage Controller option.
+6. Click the "Driver" tab and click on "Update Driver..." button.
+   The screen for the Upgrade Device Driver Wizard displays.
+7. Insert the appropriate media (driver diskette/USB key/CD/DVD).
+8. Click "Browse my computer for driver software"
+9. Click "Let me pick from a list of device drivers on my computer"
+10.Click the "Have Disk" button and browse to the appropriate location.
+11.Select the RAID controller and click "Next"
+12.The new driver will be uploaded, close all windows and restart your 
+   computer for the changes to take effect.
+
+2.3  Driver Update using Dell Update Package (DUP)
+--------------------------------------------------
+
+A Dell Update Package (DUP) is a self-contained executable in a standard 
+Dell package format and each Update Package is designed to update a single 
+component on your system. 
+
+    DUP Download 
+    ------------
+
+1. Click the Download Now link to download the file. 
+2. When the File Download window appears, click Save to save the file to 
+   your hard drive. 
+
+    Driver Update 
+    -------------
+
+1. Browse to the location where you downloaded the file and double-click 
+   the new file. 
+2. Read over the release information presented in the dialog window. 
+3. Download and install any prerequisites identified in the dialog window 
+   before proceeding. 
+4. Click the Install button. 
+5. Follow the remaining prompts to perform the update.
+
+   Silent Driver Update
+   --------------------
+
+Execute the DUP from the command line (or script) as follow
+
+	 DRVR_WIN_Rxxxxxx.exe s l=filename r
+
+   Where s  Executes the update silently without user intervention.
+          r  Reboots the system, if required, after performing the update.
+          l=filename  Appends logged messages to a specified ASCII file; 
+                         creates a new file if one does not exist.
+
+For more command line options type
+
+	 DRVR_WIN_Rxxxxxx.exe 
+
+or consult the Dell Update Package User's Guide.
+
+
+
+3.0 Fixes or Enhancements in this Release 
+=========================================
+- Background Array Scan
+
+- Boot to RD1000 Tape
+
+- Consistency Check startup on existing virtual disks after a new virtual disk is created
+
+- Default VD cache policy is changed to "No caching"
+
+- Support for CougarPoint chipset for S100
+
+- New System support for S300:  Coaster, Diamas and Skipper, Slinky
+
+- UEFI boot enablement
+
+
+4.0 Additional Information
+==========================
+
+
+
+5.0 Known Issues
+================
+
+
+
+
+
+
