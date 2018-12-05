@@ -1,0 +1,53 @@
+#
+#                      TXTSETUP.OEM 
+#
+# Copyright (c) 2002-2008, Ciprico Inc. All rights reserved.
+#  
+# DriverVer = "01/10/2011",2.0.11009.1
+# (2.0.0-0162)
+
+#-----------------------------------------------------------------------------
+[Disks] 
+disk1 = "Dell PERC S100 S300 Controller 32 Bit",\bcraid,\
+
+#-----------------------------------------------------------------------------
+[Defaults] 
+SCSI = DELL_SATA_VST
+
+#-----------------------------------------------------------------------------
+[SCSI]
+DELL_SATA_VST = "Dell PERC S100 S300 Controller 32 Bit [storport]"
+
+#-----------------------------------------------------------------------------
+[Files.SCSI.DELL_SATA_VST] 
+inf 	= disk1, bcraid.inf
+driver 	= disk1, bcraid.sys, bcraid_VST
+driver 	= disk1, bccfg.sys, bccfg
+catalog = disk1, bcraid.cat
+
+#-----------------------------------------------------------------------------
+[HardwareIds.SCSI.DELL_SATA_VST]
+id   = "PCI\VEN_1028&DEV_0016&subsys_1F241028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3A25&subsys_020F1028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3A25&subsys_028D1028", "bcraid"
+id   = "PCI\VEN_8086&DEV_1C04&subsys_04DE1028", "bcraid"
+id   = "PCI\VEN_8086&DEV_1C04&subsys_04DD1028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B24&subsys_02A51028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B25&subsys_02A51028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3A25&subsys_02F11028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B24&subsys_02A61028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B25&subsys_02A61028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B24&subsys_02A41028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B25&subsys_02A41028", "bcraid"
+id   = "PCI\VEN_8086&DEV_2925&subsys_02101028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B24&subsys_02A31028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3B25&subsys_02A31028", "bcraid"
+id   = "PCI\VEN_8086&DEV_3A25&subsys_028C1028", "bcraid"
+
+#-----------------------------------------------------------------------------
+[Config.bcraid_VST]
+value = parameters\PnpInterface, 5, REG_DWORD, 1
+value = "Parameters\Device", "NumberOfRequests", REG_DWORD, 254
+value = "Parameters\Device", "DriverParameter", REG_SZ, "VST"
+value = "", Tag, REG_DWORD, 1
+

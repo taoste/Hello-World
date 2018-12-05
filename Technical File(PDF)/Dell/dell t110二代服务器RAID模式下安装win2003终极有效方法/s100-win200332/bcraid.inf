@@ -1,0 +1,152 @@
+;-----------------------------------------------------------------------------
+;
+; bcraid.inf = Installation for Dell PERC S100 S300 device driver
+;
+; Copyright (c) 2002-2008 Ciprico Inc.  All rights reserved.
+; Copyright (c) 2008-2009 Dot Hill Systems Corp.  All rights reserved.
+;
+;-----------------------------------------------------------------------------
+; - This version supports Windows XP and later operating systems.
+; - Class and ClassGUID specify the type of driver and must match
+;     (see $DDKPATH/inc/api/devguid.h).
+; - Driver provided by Dell Inc. for PERC S100 S300 2.0 software.
+;   (2.0.0-0162)
+;-----------------------------------------------------------------------------
+
+
+;-----------------------------------------------------------------------------
+[Version]
+Signature = "$Windows NT$"
+Class = SCSIAdapter
+ClassGUID = {4D36E97B-E325-11CE-BFC1-08002BE10318}
+Provider = %DELL%
+CatalogFile = bcraid.cat
+DriverVer = 01/10/2011,2.0.0.0162
+PnpLockDown = 0
+DriverPackageDisplayName = %bcraid_Desc%
+DriverPackageType = PlugAndPlay
+
+;-----------------------------------------------------------------------------
+[SourceDisksNames]
+1 = %bcraid_Desc%
+
+;-----------------------------------------------------------------------------
+[SourceDisksFiles]
+bcraid.sys = 1
+bccfg.sys = 1
+
+;-----------------------------------------------------------------------------
+[DestinationDirs]
+DefaultDestDir = 12   ;%WinDir%\System32\Drivers directory on NT-based systems
+
+;-----------------------------------------------------------------------------
+[ControlFlags]
+ExcludeFromSelect = *
+
+;-----------------------------------------------------------------------------
+[Manufacturer]
+%DELL% = DELL,ntx86
+
+;-----------------------------------------------------------------------------
+[DELL.ntx86]
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_1028&DEV_0016&subsys_1F241028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3A25&subsys_020F1028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3A25&subsys_028D1028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_1C04&subsys_04DE1028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_1C04&subsys_04DD1028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B24&subsys_02A51028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B25&subsys_02A51028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3A25&subsys_02F11028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B24&subsys_02A61028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B25&subsys_02A61028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B24&subsys_02A41028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B25&subsys_02A41028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_2925&subsys_02101028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B24&subsys_02A31028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3B25&subsys_02A31028
+%bcraid_Desc%=bcraid_Inst_VST,PCI\VEN_8086&DEV_3A25&subsys_028C1028
+
+%bccfg_Desc% = bccfg_Inst, SCSI\ProcessorRAIDCOREConfiguration___V1.1
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst]
+CopyFiles = DefaultDestDir
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst_VST]
+CopyFiles = DefaultDestDir
+
+;-----------------------------------------------------------------------------
+[DefaultDestDir]
+bcraid.sys,,,0x00002004
+bccfg.sys,,,0x00002004
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst.Services]
+AddService = bcraid,0x00000002,bcraid_Service_Inst
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst_VST.Services]
+AddService = bcraid,0x00000002,bcraid_Service_Inst_VST
+
+;-----------------------------------------------------------------------------
+[bcraid_Service_Inst]
+ServiceType   = 1                    ; SERVICE_KERNEL_DRIVER
+StartType     = 0                    ; SERVICE_BOOT_START
+ErrorControl  = 2                    ; SERVICE_ERROR_SEVERE
+ServiceBinary = %12%\bcraid.sys
+DelReg = bcraid_Inst_DelReg
+AddReg = bcraid_Inst_AddReg
+
+;-----------------------------------------------------------------------------
+[bcraid_Service_Inst_VST]
+ServiceType   = 1                    ; SERVICE_KERNEL_DRIVER
+StartType     = 0                    ; SERVICE_BOOT_START
+ErrorControl  = 2                    ; SERVICE_ERROR_SEVERE
+ServiceBinary = %12%\bcraid.sys
+DelReg = bcraid_Inst_DelReg,bcraid_Inst_VST_DelReg
+AddReg = bcraid_Inst_AddReg,bcraid_Inst_VST_AddReg
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst_DelReg]
+HKR, "Parameters\PnpInterface", 5
+HKR, "Parameters\Device", "NumberOfRequests"
+HKR, "Parameters", "BusType"
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst_AddReg]
+HKR, "Parameters\PnpInterface", 5, 0x00010001, 0x00000001
+HKR, "Parameters\Device", "NumberOfRequests", 0x00010001, 254
+HKR, "Parameters", "BusType", 0x00010001, 0x00000008
+HKLM,"System\CurrentControlSet\Services\Disk","TimeOutValue",0x00010001,0x0000003C
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst_VST_DelReg]
+HKR, "Parameters\Device", "DriverParameter"
+
+;-----------------------------------------------------------------------------
+[bcraid_Inst_VST_AddReg]
+HKR, "Parameters\Device", "DriverParameter", 0, "VST"
+
+;-----------------------------------------------------------------------------
+[bccfg_Inst]
+CopyFiles = DefaultDestDir
+
+;-----------------------------------------------------------------------------
+[bccfg_Inst.Services]
+AddService = bccfg,0x00000002,bccfg_Service_Inst
+
+;-----------------------------------------------------------------------------
+[bccfg_Service_Inst]
+ServiceType   = 1                    ; SERVICE_KERNEL_DRIVER
+StartType     = 3                    ; SERVICE_DEMAND_START
+ErrorControl  = 1                    ; SERVICE_ERROR_NORMAL
+ServiceBinary = %12%\bccfg.sys
+DisplayName   = %bccfg_Desc%
+
+;-----------------------------------------------------------------------------
+[Strings]
+DELL = "Dell Inc."
+bcraid_Desc = "Dell PERC S100 S300 Controller [storport]"
+bccfg_Desc = "Dell PERC S100 S300 Configuration Device [storport]"
+
