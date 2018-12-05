@@ -18,6 +18,8 @@
 - 《[用UltraISO制作U盘启动重装系统详细教程_系统安装_操作系统](https://www.jb51.net/os/526190.html)》_脚本之家
 
 >  <img src='https://camo.githubusercontent.com/e2146a5820f26b906fd6e533b7d7fed5280087aa/68747470733a2f2f66696c65732e6a6235312e6e65742f66696c655f696d616765732f61727469636c652f3230313730312f323031373031313132333430353039362e6a7067' alt='各品牌机及独立主板的启动热键大全'/>
+
+- 《[USB启动盘创建工具 Rufus v3.3](https://whitewolf.space/rufus/)》 - **[小白狼の窝](https://whitewolf.space/) - 专注于绿色软件分享~~ **  
  
 - 《[UltraISO v9.7.1.3519 官方零售版及注册机](https://whitewolf.space/ultraiso-key/)》 - **[小白狼の窝](https://whitewolf.space/) - 专注于绿色软件分享~~ **
 
