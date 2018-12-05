@@ -13,7 +13,7 @@
 引用：
 - [【关键词：DELL+T110+II+系统安装总结】](http://www.itdaan.com/keywords/DELL+T110+II+%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%80%BB%E7%BB%93.html) - 开发者知识库
 
-- [**“UltraISO”（软碟通）**](https://cn.ezbsystems.com/) 官网
+- [**“UltraISO”（软碟通）**](https://cn.ezbsystems.com/) 官网 ([备份](https://github.com/taoste/Hello-World/tree/master/Tools/ultraiso%E5%85%89%E7%9B%98%E5%88%BB%E5%BD%95))
 
 >  [UltraISO 9.71 PE](http://cn.ezbsystems.com/ultraiso/download.htm) (2018-01-24)  	　 	
 > 
