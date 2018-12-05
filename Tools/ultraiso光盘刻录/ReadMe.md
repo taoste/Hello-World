@@ -12,8 +12,12 @@
 > *) 修正了打开Acronis Disk Director 12 ISO映像存在的错误
 > 
 > *) 一些小的改进和错误修正
+
+**参考资料**：
+
+- 《[用UltraISO制作U盘启动重装系统详细教程_系统安装_操作系统](https://www.jb51.net/os/526190.html)》_脚本之家
  
-- [UltraISO v9.7.1.3519 官方零售版及注册机](https://whitewolf.space/ultraiso-key/) - 小白狼の窝
+- 《[UltraISO v9.7.1.3519 官方零售版及注册机](https://whitewolf.space/ultraiso-key/)》 - 小白狼の窝
 
 UltraISO v9.7.1.3519 官方零售版及注册机
  2018年1月25日	 0条评论  752次阅读  0人点赞
