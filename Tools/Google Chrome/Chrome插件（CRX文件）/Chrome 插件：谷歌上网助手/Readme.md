@@ -64,3 +64,16 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
 
 - [x] 浏览器科学上网神器：[**SetupVPN - Lifetime Free VPN**](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN) – 提供多國家節點一鍵VPN 連線服務 （支持 [Chrome](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/?src=search)）
+
+- [ ] [**SaferVPN 免费的 VPN | 无痕浏览与解锁网站**](
+https://chrome.google.com/webstore/detail/safervpn-free-vpn-privacy/cocfojppfigjeefejbpfmedgjbpchcng?hl=zh-CN) - Chrome 网上应用店
+
+> Chrome最快、最简单的免费VPN。一个点击就能对任何网站进行解锁，无痕浏览网站。
+> 
+> 使用Chrome的SaferVPN，超快、免费与无缝的chrome扩展程序，享受无限制的网络连接、匿名浏览和无痕保护。
+> 
+> 加入超过500,000+ 位快乐的客户，享受网络世界的自由自在。此已荣登Inc.、福布斯、纽约时报、BBC、今日美国、卫报以及其他许多媒体。
+> 
+> 因其简易、稳定与易于使用而闻名，全新的chrome扩展程序免费VPN，SaferVPN 提供您浏览时最快和最简单的VPN好处。 
+> 
+>  *每个月都享有500 MB的无限制免费VPN服务！无需信用卡。*
