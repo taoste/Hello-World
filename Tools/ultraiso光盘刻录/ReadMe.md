@@ -16,6 +16,8 @@
 **参考资料**：
 
 - 《[用UltraISO制作U盘启动重装系统详细教程_系统安装_操作系统](https://www.jb51.net/os/526190.html)》_脚本之家
+
+>  <img src='https://files.jb51.net/file_images/article/201701/2017011123405096.jpg' alt='各品牌机及独立主板的启动热键大全'/>
  
 - 《[UltraISO v9.7.1.3519 官方零售版及注册机](https://whitewolf.space/ultraiso-key/)》 - 小白狼の窝
 
