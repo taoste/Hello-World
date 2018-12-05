@@ -8,5 +8,7 @@
 
 > 《[**用于服务器的Dell SupportAssist 版本1.0.1 用户指南**](https://topics-cdn.dell.com/pdf/dell-suppasst-srvrs-v1.0.1_Users-Guide_zh-cn.pdf)》
 
+戴尔T110 II （S100阵列卡）
+
 引用：
 > - [【关键词：DELL+T110+II+系统安装总结】](http://www.itdaan.com/keywords/DELL+T110+II+%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%80%BB%E7%BB%93.html) - 开发者知识库
