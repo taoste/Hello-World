@@ -6,7 +6,7 @@
 -------------------------------------------------------------------
 
 [**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) ( https://www.mozilla.org/zh-CN/firefox/ )
-适用于 Mac、PC 以及 Linux 的全新、快速浏览器 
+适用于 Mac、PC 以及 Linux 的全新、快速浏览器 ( @[YouTube](https://www.youtube.com/channel/UC-CBSBRP82j2t5PQ3M33CVw?lang=zh-CN) )
 
 👍 [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 **Firefox Quantum「火狐量子浏览器」** 
 
@@ -47,6 +47,8 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 >     启用插件。
 > 
 >     7. 关闭对话框。
+
+- [火狐浏览器没有声音](https://support.mozilla.org/zh-CN/kb/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3) | | [Firefox 帮助](https://support.mozilla.org/zh-CN/)
 
 -------------------------------------------------------------------
 
