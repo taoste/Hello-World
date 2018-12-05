@@ -11,4 +11,14 @@
 戴尔T110 II （S100阵列卡）
 
 引用：
-> - [【关键词：DELL+T110+II+系统安装总结】](http://www.itdaan.com/keywords/DELL+T110+II+%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%80%BB%E7%BB%93.html) - 开发者知识库
+- [【关键词：DELL+T110+II+系统安装总结】](http://www.itdaan.com/keywords/DELL+T110+II+%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%80%BB%E7%BB%93.html) - 开发者知识库
+
+- [“UltraISO”（软碟通）](https://cn.ezbsystems.com/) 官网
+
+>  [UltraISO 9.71 PE](http://cn.ezbsystems.com/ultraiso/download.htm) (2018-01-24)  	　 	
+> 
+> +) 支持编辑由 mkisofs/genisoimage/xorriso 制作的 UEFI 可启动ISO
+> +) 能够给可启动 ISO 加载 EFI 引导映像文件(Ctrl+Alt+I)
+> *) 在添加超长文件名(256+)的文件时给出提示
+> *) 修正了打开Acronis Disk Director 12 ISO映像存在的错误
+> *) 一些小的改进和错误修正
