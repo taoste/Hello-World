@@ -1,0 +1,2 @@
+“安装程序无法创建新的系统分区，也无法定位现有分区” - a743044559的专栏 - CSDN博客
+https://blog.csdn.net/a743044559/article/details/78519120
