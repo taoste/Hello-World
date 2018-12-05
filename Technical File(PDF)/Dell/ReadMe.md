@@ -48,3 +48,4 @@
 
 - [**DELL的服务器Windows server 2012R系统删除并改成Centos7.2系统**](https://blog.csdn.net/fjw2016_/article/details/79586375) - fjw2016_的博客 - CSDN博客
 
+- [**DELL T110 II可以使用独立显卡么？**](https://www.dell.com/community/PowerEdge%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%A8%E8%AE%BA%E5%8C%BA/DELL-T110-II%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E7%8B%AC%E7%AB%8B%E6%98%BE%E5%8D%A1%E4%B9%88/td-p/6196344) - Dell Community
