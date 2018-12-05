@@ -45,3 +45,6 @@
 >   修改成Raid模式之后，进去找不到硬盘的，是因为驱动不符或驱动没有正确集成引起的。
 
 - [**如何在Dell服务器PERC5/6阵列卡配置RAID**](https://idc.wanyunshuju.com/de/650.html) - linux实验室  
+
+- [**DELL的服务器Windows server 2012R系统删除并改成Centos7.2系统**](https://blog.csdn.net/fjw2016_/article/details/79586375) - fjw2016_的博客 - CSDN博客
+
