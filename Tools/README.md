@@ -7,9 +7,9 @@
 
 - [(腾讯视频)qlv格式转mp4的方法](https://github.com/taoste/Hello-World/blob/master/Tools/qlv格式转mp4（腾讯视频）/readme.md)
 
-- [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) 
+- [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) | ☞ [音乐♫](https://github.com/taoste/Hello-World/tree/master/Music) 
 
-- [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) 
+- [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) | ☞ [音乐♫](https://github.com/taoste/Hello-World/tree/master/Music)  
 
 - [万彩办公大师 - 办公必备绿色小工具百宝箱，只有12M，值得安装](https://github.com/taoste/Hello-World/tree/master/Tools/OfficeBox)
 
