@@ -117,6 +117,28 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
 > - 提供方：https://www.infinitynewtab.com
 
+- [ ] 11. [**Volume Controller - 音量控制器**](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)   - Chrome 网上应用店
+
+> - [详细信息](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)
+
+> - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
+
+> - 提供方：http://prodevone.info/volume-controller/
+
+>在您的浏览器中控制音量。 音频播放时，为每个选项卡设置单独的音量级别。 通过音量增强功能让您的音频真正摇摆。
+
+>音量控制器扩展可帮助您为浏览器中的每个选项卡设置所需的扬声器音量级别。
+
+>网站充斥着媒体内容，如视频，音乐，流媒体，音频和视频广告。
+
+>要控制所有音频，您需要一个电量调节工具，可以为每个标签设置单独的音量设置。
+
+>为了解决这个问题，我们开发了音频音量控制扩展。
+
+>我们制作了音频音量控制开关的简单和轻便的接口，因为它可以将所有功率保持在灯光设计中。
+
+>一个轻巧时尚的窗口，带有音量开关，其中包含当前播放音频内容的选项卡列表。
+
 -------------------------------------------
 
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
