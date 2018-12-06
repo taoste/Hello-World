@@ -6,7 +6,7 @@
 > 
 > 进入缓存目录，更改缓存的音乐UC后缀为MP3后缀格式。
 > 
-> 推荐：[网易云音乐-格式转换工具（uc2mp3）](https://github.com/taoste/Hello-World/blob/master/Tools/网易云音乐-格式转换工具（uc2mp3）/ReadMe.md)
+> ☞ 推荐：[网易云音乐-格式转换工具（uc2mp3）](https://github.com/taoste/Hello-World/blob/master/Tools/网易云音乐-格式转换工具（uc2mp3）/ReadMe.md)
 
 - [**极客下载**](http://jikexiazai.cn/) : 
 
