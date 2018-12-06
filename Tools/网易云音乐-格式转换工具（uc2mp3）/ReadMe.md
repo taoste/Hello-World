@@ -1,6 +1,6 @@
 【实测有效/乐哥备注】
 
-> ☞ [音乐（Music）](https://github.com/taoste/Hello-World/tree/master/Music)
+> ☞ [音乐（♫ Music）](https://github.com/taoste/Hello-World/tree/master/Music)
 
 - 推荐：[【原创】网易云音乐缓存转为MP3格式](https://www.52pojie.cn/forum.php?mod=viewthread&tid=790220) - [『精品软件区』](https://www.52pojie.cn/forum-16-1.html) - [吾爱破解](https://www.52pojie.cn/)
 
