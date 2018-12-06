@@ -121,7 +121,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 > - [详细信息](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)
 
-> - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
+> - ID： cnlmgnlnpjaniibglhnppikopdcclfjp
 
 > - 提供方：http://prodevone.info/volume-controller/
 
