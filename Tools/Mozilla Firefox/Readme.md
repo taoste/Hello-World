@@ -50,6 +50,11 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 - [火狐浏览器没有声音](https://support.mozilla.org/zh-CN/kb/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3) | | [Firefox 帮助](https://support.mozilla.org/zh-CN/)
 
+- [Firefox Sync 疑難排解小秘訣](https://support.mozilla.org/zh-TW/kb/firefox-sync-troubleshooting-and-tips) | [Mozilla 技術支援](https://support.mozilla.org/zh-TW/)
+
+- [Firefox 同步 故障解决](https://support.mozilla.org/zh-CN/kb/Firefox同步故障解决) | [Mozilla 技术支持](https://support.mozilla.org/zh-CN/)
+
+
 -------------------------------------------------------------------
 
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
