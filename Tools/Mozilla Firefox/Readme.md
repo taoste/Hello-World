@@ -108,7 +108,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x]  [护眼扩展](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/?src=search)
 这个扩展会将网页背景中刺眼的白色替换为橄榄色、淡黄色、护眼绿色以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力
 
-- [x]  [**Pocket**](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search) － **保存文章、视频等的最佳方式** （支持 [Chrome](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search)）
+- [x]  [**Pocket (稍后读)**](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search) － **保存文章、视频等的最佳方式** （支持 [Chrome](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search)）
 
 Pocket是一个用于管理互联网文章的应用程序及服务，目前已有OS X、Windows、iOS、Android、Windows Phone、BlackBerry、Kobo eReader等平台的客户端，各种浏览器中亦有其附加组件。Pocket以前只可以用于计算机。 @[维基百科](https://zh.wikipedia.org/zh-cn/Pocket)
 
