@@ -34,10 +34,22 @@ ID：chphlpgkkbolifaimnlloiipkdnihall
 >    
 >    3).[Toby – 终于可以放心把没看完的标签页全关了[Chrome]](https://www.appinn.com/toby-manage-your-tabs-for-chrome/) - @[小众软件](https://www.appinn.com/)
  
-- [ ] 2. **Save to Pocket(稍后读)** 
+- [x]  2. **Save to Pocket(稍后读)** － **保存文章、视频等的最佳方式** （支持 [Chrome](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search)）
 > - Chrome 版 Pocket 扩展件－－保存文章、视频等的最佳方式
-> - [详细信息](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj?utm_source=chrome-app-launcher-info-dialog)
+> 
+> - Pocket是一个用于管理互联网文章的应用程序及服务，目前已有OS X、Windows、iOS、Android、Windows Phone、BlackBerry、Kobo eReader等平台的客户端，各种浏览器中亦有其附加组件。Pocket以前只可以用于计算机。 @[维基百科](https://zh.wikipedia.org/zh-cn/Pocket)
+>  
+> - [详细信息](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)
 ID： niloccemoadcdkdjlinkgdfekeahmflj
+> （ 提供方：https://getpocket.com/ ）
+> 
+> 扩展功能：
+>  * 使用工具栏按钮或键盘快捷键单击保存任何页面
+>  * Twitter 上集成的按钮，单击便可保存
+>  * 右键单击菜单项即可保存任何链接，无需先加载页面
+>  * 快速添加标记
+>  * 在所有设备之间同步 – iPhone、iPad、Android 等
+>  * 完全免费
 
 - [ ] 3. **TabCopy**
 > - 快速复制chrome标签页的网站标题和网址链接
