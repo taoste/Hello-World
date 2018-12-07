@@ -108,19 +108,19 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x]  [护眼扩展](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/?src=search)
 这个扩展会将网页背景中刺眼的白色替换为橄榄色、淡黄色、护眼绿色以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力
 
-- [x]  [**Pocket](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search) － 保存文章、视频等的最佳方式** （支持 [Chrome](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search)）
+- [x]  [**Pocket**](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search) － **保存文章、视频等的最佳方式** （支持 [Chrome](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search)）
 
 Pocket是一个用于管理互联网文章的应用程序及服务，目前已有OS X、Windows、iOS、Android、Windows Phone、BlackBerry、Kobo eReader等平台的客户端，各种浏览器中亦有其附加组件。Pocket以前只可以用于计算机。 @[维基百科](https://zh.wikipedia.org/zh-cn/Pocket)
 
-) （ 提供方：https://getpocket.com/ ）
-
-扩展功能：
-* 使用工具栏按钮或键盘快捷键单击保存任何页面
-* Twitter 上集成的按钮，单击便可保存
-* 右键单击菜单项即可保存任何链接，无需先加载页面
-* 快速添加标记
-* 在所有设备之间同步 – iPhone、iPad、Android 等
-* 完全免费
+> （ 提供方：https://getpocket.com/ ）
+> 
+> 扩展功能：
+>  * 使用工具栏按钮或键盘快捷键单击保存任何页面
+>  * Twitter 上集成的按钮，单击便可保存
+>  * 右键单击菜单项即可保存任何链接，无需先加载页面
+>  * 快速添加标记
+>  * 在所有设备之间同步 – iPhone、iPad、Android 等
+>  * 完全免费
 
 - [x]  [LastPass](https://addons.mozilla.org/zh-CN/firefox/addon/lastpass-password-manager/) |（ 官方网站 | [lastpass.com/zh](https://www.lastpass.com/zh) ）密码管理器、自动填表、随机密码生成器和安全数字钱包应用程序
 
