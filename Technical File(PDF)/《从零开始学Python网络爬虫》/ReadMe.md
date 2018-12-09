@@ -1,5 +1,5 @@
 - [参考读物《**从零开始学Python网络爬虫**》 ISBN:978-7-111-57999-1](http://www.hzcourse.com/web/refbook/detail/7515/208) – [华章课堂](http://www.hzcourse.com/)
-( @[豆瓣读书](https://book.douban.com/subject/27180929/) | @[亚马逊](https://www.amazon.cn/dp/B076WLNRV1) )
+( @[豆瓣读书](https://book.douban.com/subject/27180929/)   @[亚马逊](https://www.amazon.cn/dp/B076WLNRV1) @[京东图书](https://item.jd.com/12215717.html) @[多看阅读](https://www.duokan.com/book/172186) )
 
 > 语种: 简体中文
 
