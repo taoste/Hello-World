@@ -35,7 +35,7 @@ Python是数据分析的首语言，而网络中的数据和信息很多，如�
 
 > 链接：https://share.weiyun.com/54PJTxE 密码：yu8tw9
 
-- [从零开始学Python 第二版 高清pdf版 电子书 下载](https://www.jb51.net/books/601310.html) - [脚本之家](https://www.jb51.net/)
+- [从零开始学Python 第二版 高清pdf版 电子书 下载](https://www.jb51.net/books/601310.html) [【在线阅读】](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《从零开始学Python网络爬虫》/《从零开始学+Python》第二版+v1.1.pdf) - [脚本之家](https://www.jb51.net/)
 
 
 > 封底文字
