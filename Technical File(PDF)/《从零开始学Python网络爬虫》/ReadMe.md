@@ -4,6 +4,16 @@
 
 - [从零开始学Python 第二版 高清pdf版 电子书 下载](https://www.jb51.net/books/601310.html) [【在线阅读】](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《从零开始学Python网络爬虫》/《从零开始学+Python》第二版+v1.1.pdf) - [脚本之家](https://www.jb51.net/)
 
+> [Python电子书_编程开发_电子书籍](https://www.jb51.net/books/list476_1.html) - [脚本之家](https://www.jb51.net/) :
+
+- [Python数据可视化 (Kirthi Raman著) 中文pdf扫描版[92MB] 电子书 下载](https://www.jb51.net/books/644497.html) - [脚本之家](https://www.jb51.net/)
+
+- [零基础：21天搞定Python分布式爬虫 入门进阶视频教程 电子书 下载](https://www.jb51.net/books/637117.html) - [脚本之家](https://www.jb51.net/)
+
+-[Python程序设计开发宝典 (董付国) 中文pdf扫描版[43MB] 电子书 下载](https://www.jb51.net/books/643944.html) - [脚本之家](https://www.jb51.net/)
+
+- [深入浅出Python 巴里著 中文 PDF版 [37M] 电子书 下载](https://www.jb51.net/books/67325.html) - [脚本之家](https://www.jb51.net/)
+
 --------------------------------------------------------
 
 - [《**从零开始学Python网络爬虫**》 ISBN:978-7-111-57999-1](http://www.hzcourse.com/web/refbook/detail/7515/208) – [华章课堂](http://www.hzcourse.com/)
