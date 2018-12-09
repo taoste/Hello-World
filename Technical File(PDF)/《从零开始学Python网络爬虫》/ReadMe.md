@@ -1,3 +1,11 @@
+- [【139MB】从零开始学Python网络爬虫PDF下载](https://blog.sina.com.cn/s/blog_af19001e0102x466.html)_新浪博客
+
+> 链接：https://share.weiyun.com/54PJTxE 密码：yu8tw9
+
+- [从零开始学Python 第二版 高清pdf版 电子书 下载](https://www.jb51.net/books/601310.html) [【在线阅读】](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《从零开始学Python网络爬虫》/《从零开始学+Python》第二版+v1.1.pdf) - [脚本之家](https://www.jb51.net/)
+
+--------------------------------------------------------
+
 - [《**从零开始学Python网络爬虫**》 ISBN:978-7-111-57999-1](http://www.hzcourse.com/web/refbook/detail/7515/208) – [华章课堂](http://www.hzcourse.com/)
 ( @[豆瓣](https://book.douban.com/subject/27180929/)   @[亚马逊](https://www.amazon.cn/dp/B076WLNRV1) @[京东](https://item.jd.com/12215717.html) @[多看阅读](https://www.duokan.com/book/172186) @[51cto](https://book.51cto.com/art/201712/560329.htm))
 
@@ -30,13 +38,6 @@
 内容提要:
 
 Python是数据分析的首语言，而网络中的数据和信息很多，如何从中获取需要的数据和信息呢？很简单、直接的方法就是用爬虫技术来解决。本书是一本教初学者学习如何爬取网络数据和信息的入门读物。书中不仅有Python的相关内容，而且还有数据处理和数据挖掘等方面的内容。本书内容很好实用，讲解时穿插了22个爬虫实战案例，可以大大提高读者的实际动手能力。
-
-- [【139MB】从零开始学Python网络爬虫PDF下载](https://blog.sina.com.cn/s/blog_af19001e0102x466.html)_新浪博客
-
-> 链接：https://share.weiyun.com/54PJTxE 密码：yu8tw9
-
-- [从零开始学Python 第二版 高清pdf版 电子书 下载](https://www.jb51.net/books/601310.html) [【在线阅读】](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《从零开始学Python网络爬虫》/《从零开始学+Python》第二版+v1.1.pdf) - [脚本之家](https://www.jb51.net/)
-
 
 > 封底文字
 
