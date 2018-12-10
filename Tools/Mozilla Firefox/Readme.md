@@ -8,7 +8,7 @@
 [**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) ( https://www.mozilla.org/zh-CN/firefox/ )
 适用于 Mac、PC 以及 Linux 的全新、快速浏览器 ( @[YouTube](https://www.youtube.com/channel/UC-CBSBRP82j2t5PQ3M33CVw?lang=zh-CN) )
 
-👍 [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 **Firefox Quantum「火狐量子浏览器」** 
+c [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 **Firefox Quantum「火狐量子浏览器」** 
 
 ( https://www.mozilla.org/zh-CN/firefox/new/ ) (👍点击： 高级安装选项和其他平台 )
 
@@ -151,10 +151,9 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 - 邮件推送资（ zi ）讯（ yuan ）信息，网络上已有的资（ zi ）讯（ yuan ），即时推送（第一次关注需要确认邮件地址）；
 - 尚未在网络上发布的资（ zi ）讯（ yuan ），会在发布后第一时间推送；
 
-- [ ] [惠惠购物助手](http://zhushou.huihui.cn/help?redirect=http%3A%2F%2Ffaq.zhushou.youdao.com%2Fdoc%2Funcategorized%2Fbrowsers%2F
+- [ ] 👍[惠惠购物助手](http://zhushou.huihui.cn/help?redirect=http%3A%2F%2Ffaq.zhushou.youdao.com%2Fdoc%2Funcategorized%2Fbrowsers%2F
 ) | 聪明网购不吃亏 | 比价插件 | 历史价格走势 | 全网比价 | 一键海淘
-
-> - ( 提供方：网易出品 @[惠惠网](https://www.huihui.cn/) - [惠惠购物助手](https://zhushou.huihui.cn/)- [收藏夹](https://www.huihui.cn/myzhushou/deal) -  [插件](https://zhushou.huihui.cn/help#/doc/install/browsers/) )
+> - ( 提供方：网易出品 @[惠惠网](https://www.huihui.cn/) - [惠惠购物助手](https://zhushou.huihui.cn/)- [收藏夹](https://www.huihui.cn/myzhushou/deal) -  [插件下载](https://zhushou.huihui.cn/help#/doc/install/browsers/)/[插件备份](https://github.com/taoste/Hello-World/tree/master/Tools/%E7%BD%91%E6%98%93%26%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) )
 
 - [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
 > - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
