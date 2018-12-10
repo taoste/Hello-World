@@ -1,14 +1,14 @@
-- [x] [»İ»İ¹ºÎïÖúÊÖÄ¿Ç°Ö§³ÖÄÄĞ©ä¯ÀÀÆ÷£¿](http://zhushou.huihui.cn/help#/doc/install/browsers/)
+- [x] ğŸ‘[æƒ æƒ è´­ç‰©åŠ©æ‰‹ç›®å‰æ”¯æŒå“ªäº›æµè§ˆå™¨ï¼Ÿ](http://zhushou.huihui.cn/help#/doc/install/browsers/)
 
-»İ»İ¹ºÎïÖúÊÖÄ¿Ç°ÒÑÖ§³ÖIE¡¢Firefox¡¢Chrome¡¢360°²È«¡¢360¼«ËÙ¡¢ËÑ¹·¡¢°ÁÓÎ¡¢ÁÔ±ª¡¢OperaºÍSafari¹²10¿îÖ÷Á÷ä¯ÀÀÆ÷¡£ ¸÷¸ö°æ±¾µÄ°²×°µØÖ·ÈçÏÂ£º
+æƒ æƒ è´­ç‰©åŠ©æ‰‹ç›®å‰å·²æ”¯æŒIEã€Firefoxã€Chromeã€360å®‰å…¨ã€360æé€Ÿã€æœç‹—ã€å‚²æ¸¸ã€çŒè±¹ã€Operaå’ŒSafariå…±10æ¬¾ä¸»æµæµè§ˆå™¨ã€‚ å„ä¸ªç‰ˆæœ¬çš„å®‰è£…åœ°å€å¦‚ä¸‹ï¼š
 
 
-- [IEä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/ie/4.4/youdaogouwu-4.4.exe)
-- [Firefox»ğºüä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/firefox/4.2.4/youdaogouwu-4.2.4.xpi)
-- [Chrome¹È¸èä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4.crx)
-- [360°²È«ä¯ÀÀÆ÷£¨V6.0¼°ÒÔÉÏ°æ±¾£©](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4.crx)
-- [ËÑ¹·ä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/sogou/4.2.4/youdaogouwu-4.2.4.sext)
-- [°ÁÓÎä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/maxthon/4.2.4/youdaogouwu-4.2.4.mxaddon)
-- [ÁÔ±ªä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4-liebao.crx)
-- [Operaä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4-opera.crx)
-- [Safariä¯ÀÀÆ÷](http://shared.ydstatic.com/gouwuex/safari/1.0/youdaogouwu-1.safariextz)
+- [IEæµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/ie/4.4/youdaogouwu-4.4.exe)
+- [Firefox ğŸ¦Š ç«ç‹æµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/firefox/4.2.4/youdaogouwu-4.2.4.xpi)
+- [Chromeè°·æ­Œæµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4.crx)
+- [360å®‰å…¨æµè§ˆå™¨ï¼ˆV6.0åŠä»¥ä¸Šç‰ˆæœ¬ï¼‰](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4.crx)
+- [æœç‹—æµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/sogou/4.2.4/youdaogouwu-4.2.4.sext)
+- [å‚²æ¸¸æµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/maxthon/4.2.4/youdaogouwu-4.2.4.mxaddon)
+- [çŒè±¹æµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4-liebao.crx)
+- [Operaæµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/chrome/4.2.4/youdaogouwu-4.2.4-opera.crx)
+- [Safariæµè§ˆå™¨](http://shared.ydstatic.com/gouwuex/safari/1.0/youdaogouwu-1.safariextz)
