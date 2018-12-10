@@ -151,6 +151,9 @@ Pocket是一个用于管理互联网文章的应用程序及服务，目前已�
 - 邮件推送资（ zi ）讯（ yuan ）信息，网络上已有的资（ zi ）讯（ yuan ），即时推送（第一次关注需要确认邮件地址）；
 - 尚未在网络上发布的资（ zi ）讯（ yuan ），会在发布后第一时间推送；
 
+- [ ] [惠惠购物助手](http://zhushou.huihui.cn/help?redirect=http%3A%2F%2Ffaq.zhushou.youdao.com%2Fdoc%2Funcategorized%2Fbrowsers%2F
+) | 聪明网购不吃亏 | 比价插件 | 历史价格走势 | 全网比价 | 一键海淘
+
 - [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
 > - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
 ) （ 提供方：https://www.infinitynewtab.com ）
