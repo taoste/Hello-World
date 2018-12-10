@@ -132,6 +132,9 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 - [**登录Google和YouTube的两个小插件教程**](https://blog.csdn.net/Yong_Qi2015/article/details/79205358) - [**CSDN博客**](https://blog.csdn.net/)
 
+- [频道上的认证徽章](https://support.google.com/youtube/answer/3046484?hl=zh-Hans) - YouTube帮助
+
+- [如何获得 YouTube 认证](https://support.google.com/youtube/answer/6145895?hl=zh-Hans) - YouTube帮助
 
 -------------------------------------------
 
