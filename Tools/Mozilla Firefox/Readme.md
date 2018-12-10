@@ -144,7 +144,7 @@ Pocket是一个用于管理互联网文章的应用程序及服务，目前已�
 
 - [ ] [简悦](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/?src=search)  - SimpRead / 让你瞬间进入沉浸式阅读的扩展，Chrome 好评率 99% 的扩展现已来到了 Firefox！ （支持 [Chrome](https://chrome.google.com/webstore/detail/简悦-simpread/ijllcpnolfcooahcekpamkbidhejabll?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/simpread/) ）
 > - 创建者： [Kenshin Wang <kenshin@ksria.com>](http://ksria.com/simpread/)/ 主页 [ksria.com/simpread/](http://ksria.com/simpread/) （ [更新日志](http://ksria.com/simpread/changelog.html) @[Github 源码](https://github.com/kenshin/simpread) ）
-> - 管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/options.html
+c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/options.html
 
 - [ ] [豆芽儿](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)  -  更加稳定的新服务终于上线啦！向大家隆重介绍 - 豆芽儿
 - 为了确保服务稳定性，最终形态是浏览器插件，支持[Chrome](https://chrome.google.com/webstore/detail/%E8%B1%86%E8%8A%BD%E5%84%BF/jgcdgedbgieagjgkapngahcmbokhkpnn)和[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B1%86%E8%8A%BD%E5%84%BF/)，在浏览任何一个豆瓣影视页面时都能一键关注该影视作品；
@@ -153,7 +153,8 @@ Pocket是一个用于管理互联网文章的应用程序及服务，目前已�
 
 - [ ] [惠惠购物助手](http://zhushou.huihui.cn/help?redirect=http%3A%2F%2Ffaq.zhushou.youdao.com%2Fdoc%2Funcategorized%2Fbrowsers%2F
 ) | 聪明网购不吃亏 | 比价插件 | 历史价格走势 | 全网比价 | 一键海淘
-( 提供方：网易出品 @[惠惠网](https://www.huihui.cn/) - [惠惠购物助手](https://zhushou.huihui.cn/)- [收藏夹](https://www.huihui.cn/myzhushou/deal) )
+
+> - ( 提供方：网易出品 @[惠惠网](https://www.huihui.cn/) - [惠惠购物助手](https://zhushou.huihui.cn/)- [收藏夹](https://www.huihui.cn/myzhushou/deal) -  [插件](https://zhushou.huihui.cn/help#/doc/install/browsers/) )
 
 - [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
 > - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
