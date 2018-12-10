@@ -153,6 +153,7 @@ Pocket是一个用于管理互联网文章的应用程序及服务，目前已�
 
 - [ ] [惠惠购物助手](http://zhushou.huihui.cn/help?redirect=http%3A%2F%2Ffaq.zhushou.youdao.com%2Fdoc%2Funcategorized%2Fbrowsers%2F
 ) | 聪明网购不吃亏 | 比价插件 | 历史价格走势 | 全网比价 | 一键海淘
+( 提供方：网易出品 @[惠惠网](https://www.huihui.cn/) - [惠惠购物助手](https://zhushou.huihui.cn/)- [收藏夹](https://www.huihui.cn/myzhushou/deal) )
 
 - [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
 > - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
