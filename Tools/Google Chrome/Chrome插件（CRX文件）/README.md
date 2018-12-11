@@ -127,7 +127,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 
 > - [详细信息](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn)
 > - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
-> - 提供方：https://www.infinitynewtab.com
+> - 提供方：https://cn.infinitynewtab.com
 
 - [ ] 11. [**Volume Controller - 音量控制器**](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)   - Chrome 网上应用店
 
