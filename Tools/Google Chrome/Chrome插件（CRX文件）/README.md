@@ -154,6 +154,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 -------------------------------------------
 
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
+( [下载](http://desktopclient.net/gw/index.html#/hoxx) )
 
 - [x] 浏览器科学上网神器：[**SetupVPN - Lifetime Free VPN**](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN) – 提供多國家節點一鍵VPN 連線服務 （支持 [Chrome](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/?src=search)）
 
