@@ -161,6 +161,7 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
 
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
+( [下载](http://desktopclient.net/gw/index.html#/hoxx) )
 
 - [x] 浏览器科学上网神器：[**SetupVPN - Lifetime Free VPN**](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/?src=search) – 提供多國家節點一鍵VPN 連線服務 （支持 [Chrome](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/?src=search)）
 
