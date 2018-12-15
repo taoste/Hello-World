@@ -35,7 +35,7 @@
 
 》 [JimmyLv](https://github.com/JimmyLv/jimmylv.github.io)
 
-- [**李笑来**](http://lixiaolai.com/) | [{am}xiaolai]()
+- [**李笑来**](http://lixiaolai.com/) | [{am}xiaolai](https://xiaolai.github.io/)
 > [我终于有了一个能够发出“永不消失的电波”的电台:ZeroNet](http://lixiaolai.com/2017/05/22/the-never-disappeared/) | {am}xiaolai
 
 - [零网（ZeroNet）初探](https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html) | reuixiy
