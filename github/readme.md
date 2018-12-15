@@ -58,3 +58,4 @@
 > 
 > 官方文档的中文翻译：https://stgapr.github.io/zeronet-Documentation-ZH_CN/ （由@[stgapr](https://github.com/stgapr/)：提供的《[ZeroNet](https://stgapr.github.io/zeronet-Documentation-ZH_CN/)|[FAQ 常见问题](https://stgapr.github.io/zeronet-Documentation-ZH_CN/faq/)》）
 
+> (请大家定期备份/ZeroNet/data/user.json 这是你账号的唯一凭证!)
