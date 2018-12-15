@@ -34,3 +34,23 @@
 - 其他GitHub个人用户：
 
 》 [JimmyLv](https://github.com/JimmyLv/jimmylv.github.io)
+
+- [**李笑来**](http://lixiaolai.com/) | [{am}xiaolai]()
+> [我终于有了一个能够发出“永不消失的电波”的电台:ZeroNet](http://lixiaolai.com/2017/05/22/the-never-disappeared/) | {am}xiaolai
+
+- [零网（ZeroNet）初探](https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html) | reuixiy
+
+> 零网（ZeroNet）:
+> 开放，自由，去中心化的网络，
+> 使用 Bitcoin 加密和 BitTorrent 网络
+
+> 如何安装 ZeroNet？
+> 
+> 安装很简单，按照网站的说明操作即可：
+> 
+> 官网：https://zeronet.io/
+> 
+> GitHub：https://github.com/hellozeronet/zeronet
+> 
+> 官方文档的中文翻译：https://stgapr.github.io/zeronet-Documentation-ZH_CN/
+
