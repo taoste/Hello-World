@@ -1,2 +1,1 @@
-- [**婚礼定制**](https://taoste.github.io/Hello-World/github/XT/index.html) | 
-[view-source](index.html) : http://www.loveniwed.com/
+- @[XT](https://github.com/wuhaoran0409/wuhaoran0409.github.io/tree/master/XT) - [**婚礼定制**](https://taoste.github.io/Hello-World/github/XT/index.html) | [view-source](index.html) : http://www.loveniwed.com/
