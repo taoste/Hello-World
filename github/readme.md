@@ -35,10 +35,10 @@
 
 》 [JimmyLv](https://github.com/JimmyLv/jimmylv.github.io)
 
-- [**李笑来**](http://lixiaolai.com/) | [{am}xiaolai](https://xiaolai.github.io/)
+》 [**李笑来**](http://lixiaolai.com/) | [{am}xiaolai](https://xiaolai.github.io/)
 > [我终于有了一个能够发出“永不消失的电波”的电台:ZeroNet](http://lixiaolai.com/2017/05/22/the-never-disappeared/) | [{am}xiaolai](http://127.0.0.1:43110/xiaolai.bit)@[zeronet](http://127.0.0.1:43110/)
 
-- [零网（ZeroNet）初探](https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html) | reuixiy
+》 [零网（ZeroNet）初探](https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html) | reuixiy
 
 > 零网（ZeroNet）:
 > 开放，自由，去中心化的网络，
@@ -52,5 +52,5 @@
 > 
 > GitHub：https://github.com/hellozeronet/zeronet
 > 
-> 官方文档的中文翻译：https://stgapr.github.io/zeronet-Documentation-ZH_CN/
+> 官方文档的中文翻译：https://stgapr.github.io/zeronet-Documentation-ZH_CN/ （由@[stgapr](https://github.com/stgapr/)：提供的《[ZeroNet](https://stgapr.github.io/zeronet-Documentation-ZH_CN/)|[FAQ 常见问题](https://stgapr.github.io/zeronet-Documentation-ZH_CN/faq/)》）
 
