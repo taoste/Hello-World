@@ -36,7 +36,9 @@
 》 [JimmyLv](https://github.com/JimmyLv/jimmylv.github.io)
 
 》 [**李笑来**](http://lixiaolai.com/) | [{am}xiaolai](https://xiaolai.github.io/)
+> 
 > [我终于有了一个能够发出“永不消失的电波”的电台:ZeroNet](http://lixiaolai.com/2017/05/22/the-never-disappeared/) | [{am}xiaolai](http://127.0.0.1:43110/xiaolai.bit)@[zeronet](http://127.0.0.1:43110/)
+> 
 > [听完李笑来的录音，我竟然学到了什么？](https://wwggyy.github.io/life/2018/07/07/lixiaolai.html) - 纯洁的微笑博客
 
 
