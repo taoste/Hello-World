@@ -234,3 +234,14 @@
 >     
 >     今天从图书馆查了资料，%system%指的是系统安装盘下的system32目录。如果系统安装在C盘，他所指的目录就是：C:\WINDOWS\SYSTEM32(WINDOWS XP,2K,2K3)和C;\WINNT\SYSYTEM32(WINDOWS 98,ME)。特此作出更正！
 
+----------------------------------------------------
+
+✨ 友情链接：
+
+- [**吕毅**](https://walterlv.com/)([微软MVP专家](https://mvp.microsoft.com/zh-cn/PublicProfile/5003225))
+(@[Github](https://github.com/walterlv)\@[Twitter](https://twitter.com/_lvyi_) \ @[stackoverflow](https://stackoverflow.com/users/6233938/walterlv) \ @[Blog](https://walterlv.github.io/) \ @[CSDN博客](https://blog.csdn.net/wpwalter) )
+
+- [**林德熙**](https://lindexi.github.io/) ([【lindexi】好多时间打出来代码没有bug](https://lindexi.github.io/#/hi))
+(@[Github](https://github.com/lindexi)\@[Twitter](https://twitter.com/lindexi_gd) \ @[Facebook](https://www.facebook.com/lindexi) \ @[Blog](https://lindexi.github.io/lindexi/) \ @[CSDN博客](https://blog.csdn.net/lindexi_gd) )
+
+(@[Github](https://github.com/walterlv)\@[Twitter]() \ @[Facebook]() \ @[Blog]() \ @[CSDN博客]() )
