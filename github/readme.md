@@ -1,5 +1,21 @@
 - [使用 HTML5 音频和视频](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) | [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web) - MDN
+(💖 [关于GitHub 及 编程 · Issue #2 · taoste/taoste.github.io](https://github.com/taoste/taoste.github.io/issues/2))
 
+`< pre >< code >
+
+在HTML中嵌入媒体：
+  
+  < video src=" http://v2v.cc/~j/theora_testsuite/320x240.ogg " controls >
+ 你的浏览器不支持 < code > video < / code > 标签.
+ < / video>
+ 
+ 将音频嵌入到HTML文档的例子。
+  
+ < audio src=" /test/audio.ogg " >
+ 你的浏览器不支持audio标签
+ < / audio >
+ 
+< / code >< / pre >`
 
 - **收集整理日常发现的好资源、前端资源汇总**( [国内](open_source_team.md) / [国外](外国.md) ) ：
 
