@@ -1,3 +1,6 @@
+- [使用 HTML5 音频和视频](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) | [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web) - MDN
+
+
 - **收集整理日常发现的好资源、前端资源汇总**( [国内](open_source_team.md) / [国外](外国.md) ) ：
 
 参阅并感谢：@[poetries](https://github.com/poetries/mywiki)、
