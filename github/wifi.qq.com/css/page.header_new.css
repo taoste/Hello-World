@@ -1,0 +1,128 @@
+
+.topnav{
+    
+    position: fixed;
+    top:0;
+    width: 100%;
+    background-color: transparent;
+    padding: .6rem 1.5rem 1.5rem;
+    z-index: 21;
+    transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -webkit-transition: all 400ms ease;
+    min-width:1280px;
+}
+
+.topnav.hovering{
+    background-color: white;
+    box-shadow:0 0 5px 1px rgba(0,0,0,.1)
+}
+
+.topnav .level-left{
+    margin-left:3rem;
+}
+.topnav .level-left img{
+    display: block;
+    height: auto;
+    width:180px;
+}
+.topnav .level-left img.static{
+    display: block;
+}
+.topnav .level-left img.moving{
+    display: none;
+}
+.topnav.hovering .level-left img.static{
+    display: none;
+}
+.topnav.hovering .level-left img.moving{
+    display: block;
+}
+
+.topnav>ul>li>a{
+    padding: 15px 0 1px 0 !important;
+}
+.topnav>ul>li>.dropdown{
+    padding: 15px 0 1px 0 !important;
+}
+.topnav>ul>li>.dropdown>a{
+    text-decoration:none;
+    color: white;
+    background-color: transparent !important;
+    font-size: 1.6rem  !important;
+    line-height: 2.5rem  !important;
+}
+.topnav>ul>li>.dropdown .dropdown-menu{
+    border: 0px solid rgba(0,0,0,.15);
+    min-width: inherit;
+}
+
+.topnav>ul>li>a,
+.topnav>ul>li>a:hover,
+.topnav>ul>li>a:visited,
+.topnav>ul>li>a:active{
+    color: white;
+    background-color: transparent !important;
+    font-size: 1.6rem  !important;
+    line-height: 2.5rem  !important;
+}
+
+.topnav.hovering>ul>li>a,
+.topnav.hovering>ul>li>a:hover,
+.topnav.hovering>ul>li>a:visited,
+.topnav.hovering>ul>li>a:active{
+    color: #2e2e2e;
+    background-color: transparent !important;
+    font-size: 1.6rem  !important;
+    line-height: 2.5rem  !important;
+}
+.topnav.hovering>ul>li>.dropdown>a{
+    color: #2e2e2e;
+}
+
+.index .topnav>ul>li>a.active{
+    border-bottom: solid 2px #00D196;
+}
+
+.topnav>ul>li>a.active{
+    border-bottom: solid 2px #fff;
+}
+
+
+
+.topnav.hovering>ul>li>a.active{
+    border-bottom: solid 2px #00D196;
+}
+
+
+.topnav .level-right .level-item{
+    margin-right:5.5rem;
+}
+
+.topnav .level-right img.static{
+    display: block;
+}
+.topnav .level-right img.moving{
+    display: none;
+}
+.topnav.hovering .level-right img.static{
+    display: none;
+}
+.topnav.hovering .level-right img.moving{
+    display: block;
+}
+
+.nav-bar{
+    float: left !important;
+    margin: 0 !important;
+}
+.nav-bar>li{
+    float: left !important;
+}
+.navbar-right {
+    float: right!important;
+    margin-right: -15px;
+}
+.topnav .tooltip{
+    opacity: 1;
+}

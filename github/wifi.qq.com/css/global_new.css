@@ -1,0 +1,7 @@
+html,
+body{
+    -webkit-font-smoothing: antialiased;
+    font-family: Arial,-apple-system,"Source Sans Pro","Noto Sans CJK SC","PingFang SC","Segoe UI","Microsoft YaHei",Sans-Serif,Helvetica;
+    min-width: 780px;
+    overflow-x: hidden;
+}

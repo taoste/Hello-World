@@ -1,0 +1,16 @@
+
+
+.green-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    z-index: -1;
+}
+.green-bg>img{
+    width: 100%;
+    height: auto;
+}
+.data-wrap{
+    margin:120px auto 40px auto;
+}

@@ -1,0 +1,106 @@
+.section{
+    margin-bottom:10px;
+}
+.section img{
+    width: auto;
+    max-width: 600px;
+}
+.section.detail-wrap{
+    padding:10px 50px 40px 50px;
+    border:solid 1px #eeeeee;
+    background-color:#fff;
+}
+
+.section.detail-wrap .title{
+    padding:30px 0 15px 0;
+    border-bottom:solid 1px #eeeeee;
+    font-size: 14px;
+    font-weight: normal;
+}
+.section.detail-wrap .title>span.c{
+    color: #333;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.section.detail-wrap .article-title{
+    margin-bottom: 14px;
+}
+.section.detail-wrap .subtitle{
+    color: #c6c6c6;
+    font-weight: normal;
+}
+.section.detail-wrap .subtitle>span{
+    margin:0 15px;
+}
+.section.detail-wrap .subtitle>span:first-child{
+    margin:0 15px 0 0;
+}
+.section.detail-wrap .subtitle a>span{
+    color:#00D196
+}
+.section.detail-wrap .abstract{
+    margin-top:40px;
+}
+.section.detail-wrap .content{
+    margin:0
+}
+
+.pg-wrap{
+    text-align: center;
+    margin: 30px auto;
+}
+
+
+.section.other-wrap .sect{
+    border:solid 1px #eeeeee;
+    padding: 15px 50px;
+    margin:10px 0;
+    background-color: #fff;
+}
+
+.section.section.other-wrap .sect>.title{
+    padding-bottom:15px;
+    border-bottom:solid 1px #eeeeee;
+    font-weight: normal;
+}
+
+.section.section.other-wrap .sect>.title a{
+    color: #777;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.section.section.other-wrap ul{
+    padding: 0 0 0 15px;
+    color: rgba(0,0,0,.2);
+    font-size: 8px
+}
+.section.section.other-wrap ul>li{
+    padding: 9px 5px;
+}
+.section.section.other-wrap .col-xs-12 ul>li{
+    padding: 5px 10px;
+}
+.section.section.other-wrap ul a{
+    color: #333;
+    font-size: 14px;
+}
+.section.section.other-wrap ul.tag{
+    list-style: none;
+    padding: 0;
+}
+.section.section.other-wrap ul.tag>li{
+    display: inline-block;
+    border:solid 1px #eeeeee;
+    margin: 9px 15px 5px 0;
+    border-radius: 2px;
+}
+.section.section.other-wrap ul.tag>li>a{
+    color: #777;
+}
+
+.section.section.info-wrap{
+    border-width:0;
+}
+
