@@ -17,6 +17,13 @@
  
 < / code >< / pre >`
 
+- **HTML 相对路径&目录**
+
+> [谈谈HTML/CSS/JS代码中的文件相对路径](https://www.jianshu.com/p/f84bce255bb0) - 简书
+
+> [HTML相对路径 上级目录及下级目录的写法_HTML/Xhtml_网页制作](https://www.jb51.net/web/17522.html)_脚本之家
+
+
 - **收集整理日常发现的好资源、前端资源汇总**( [国内](open_source_team.md) / [国外](外国.md) ) ：
 
 参阅并感谢：@[poetries](https://github.com/poetries/mywiki)、
