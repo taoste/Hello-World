@@ -7,9 +7,12 @@
 
 [猛男诞生记(豆瓣)](https://movie.douban.com/subject/3126138/) - 豆瓣电影
 
-> [世上没有不能说的秘密（猛男诞生记）影评@刘放](https://movie.douban.com/review/1456046/)- 豆瓣电影
+> [世上没有不能说的秘密（猛男诞生记）影评@刘放](https://movie.douban.com/review/1456046/) - 豆瓣电影
 
-> [一句话点评韩国八大情色电影@刘放](http://blog.sina.com.cn/s/blog_4bbed4e401009ud6.html)- 新浪博客
+> [一句话点评韩国八大情色电影@刘放](http://blog.sina.com.cn/s/blog_4bbed4e401009ud6.html) - 新浪博客
+
+> [关于情色电影，我推荐这8部，实在太经典！（韩国篇）](https://zhuanlan.zhihu.com/p/23128683) - 知乎
+
 
 ------------------------------------------------------------
 
