@@ -11,9 +11,8 @@
 
 ------------------------------------------------------------
 
-[1024分辨率《猛男诞生记》BD中字迅雷下载](https://www.dy2018.com/html/gndy/jddy/20091031/22608.html
-) _ 来源：[电影天堂
-](https://www.dy2018.com/) / [LOL电影天堂](https://www.dytt789.com/)
+- [1024分辨率《猛男诞生记》BD中字迅雷下载](https://www.dy2018.com/html/gndy/jddy/20091031/22608.html
+) _ 来源：[电影天堂](https://www.dy2018.com/) / [LOL电影天堂](https://www.dytt789.com/)
 
 
 评分：5.3 类型：喜剧片 / 奇幻电影 发布时间：2009-10-31
@@ -21,28 +20,47 @@
  <img src="https://camo.githubusercontent.com/2f7a8d3c635ceadb935df948344e46ab3d68ffc1/68747470733a2f2f696d67312e646f7562616e696f2e636f6d2f766965772f70686f746f2f735f726174696f5f706f737465722f7075626c69632f70323230373636393134392e776562703f7261773d74727565?raw=true"/>
 
 ◎译　　名　猛男诞生记/卞强钊/卞强衰
-◎片　　名　Garoojigi
-◎又       名   A Tale of Legendary Libido
+
+◎片　　名　Garoojigi（又名：A Tale of Legendary Libido)
+
 ◎年　　代　 2008-04-30(韩国)
+
 ◎国　　家　韩国
+
 ◎类　　别　喜剧 / 情色 / 奇幻
+
 ◎语　　言　韩语
+
 ◎字　　幕　中文
+
 ◎IMDB评分 N/A
-◎IMDB链接 N/A
-◎文件格式　BD-RMVB
-◎视频尺寸　1024 x 576
-◎文件大小　1CD
-◎片　　长　120分钟
-◎导　　演　申汉率 Han-sol Shin
-◎主　　演　奉太奎 Tae-gyu Bong 
-　　　　　　金新雅 Shin-a Kim 
-　　　　　　尹茹贞 Yeo-Jong Yun 
-　　　　　　徐英 Young Seo 
-　　　　　　吴达庶 Dal-su Oh 
-　　　　　　全秀卿 Soo-kyung Chun 
-　　　　　　史江 Si Kang .....客串
+
 ◎IMDb链接: [tt1433775](https://www.imdb.com/title/tt1433775)
+
+◎文件格式　BD-RMVB
+
+◎视频尺寸　1024 x 576
+
+◎文件大小　1CD
+
+◎片　　长　120分钟
+
+◎导　　演　申汉率 Han-sol Shin
+
+◎主　　演　奉太奎 Tae-gyu Bong 
+
+　　　　　　金新雅 Shin-a Kim 
+      
+　　　　　　尹茹贞 Yeo-Jong Yun 
+      
+　　　　　　徐英 Young Seo 
+      
+　　　　　　吴达庶 Dal-su Oh 
+      
+　　　　　　全秀卿 Soo-kyung Chun 
+      
+　　　　　　史江 Si Kang .....客串
+
 
 ◎**简　　介**
 
@@ -53,8 +71,11 @@
 　　不按理出牌的个性古装喜剧
 
 　　导演申汉率似乎钟情于男性题材，特别是弱者为振兴大韩民国血性精神奋斗记的喜剧影片，首部电影《格斗术》就是以婉转却不失锐气的场面掌控能力而惊艳了许多人。根据1988年一度引起话题争议的李代根主演的同名电影网站电视剧改编，由他亲自编写剧本的《猛男诞生记》将背景移到了朝鲜时代，历史剧与现代的要素独特的结合使片中登场人物的服装设计成为一大关注点，与朝鲜时代传统服装不同，毅然露出了腰线的夫人们害羞中带活泼气质，与古代所谓的儒教思想距离较远，显示了导演独运的匠心。
+  
 　　自1988年电视剧播出后，“卞强衰”一词就成为精力非一般强盛的男人的代名词，但电影人却一直没把其搬上题材——因其一不小心就会惹来拿“色情”当噱头的罪名，所以当本片要拍摄的消息公布后就引起了网络上80年代生的韩国年轻人的热烈讨论：“小时候是背着爸爸妈妈偷偷摸摸看李大根演的电视剧的，对导演能塑造出一个怎样的卞强衰非常期待”，“找奉太奎来扮演卞强衰，没有比这更具天才的想象力了，只是脸谱化的演技能否突破‘换汤不换药’给人全新的印象就还是未知数”……
+  
 　　作为2008年Showbox3gp首部公映的喜剧片，《猛男诞生记》有复刻周星驰早期影片和性喜剧《色即是空》、《梦精记》系列的痕迹，轻松诙谐得有小市民的嫌疑，也极尽情色之噱头，在遇到关键处即打擦边球似的点到为止，既满足了观众想入非非的“欲望”，也留下充分的想象空间。同是本片还像是对去年如火如荼的《谋杀快乐》、《八面玲珑的申小姐》、《打架》和《双面女友》等女权主义色彩浓厚的影片的“反击”。
+  
 　　为了不走入恶俗的圈套，本片在美术上下了一番功夫，请到了韩国服装造型的名家、曾打造了《美丽的星期天》、《传说的故乡》等多部电影服装的权汝镇来为度身设计既有朝鲜时代的温婉端庄风味也具现代性感意识的服饰，力求能使观众感受到高雅古典的一面，动作场面则由过去任《我的野蛮女教师2》、《出拳女郎》等片武术指导的吴世泳来掌控。情节风格上也吸取了《食客》、《傻瓜》等漫画改编电影的风格，将时下的多种流行元素融入到影片中，电脑特效也是本片的一大看点。
 
 
@@ -67,9 +88,11 @@ ftp://dygod1:dygod1@d121.dygod.com:1400/猛男诞生记.[中字.1024分辨率]/[
 [**迅雷下载**](https://www.dytt789.com/Xijudianying/MNDSJ/) :
 
 猛男诞生记BD1024高清韩语中字
+
   thunder://QUFmdHA6Ly9keTpkeUB4bGEuMnR1LmNjOjEwNTg4L1vRuMDXz8LU2Hd3dy4ydHUuY2Ndw83E0LWuyfq8xy5CRDEwMjS438fluqvT79bQ19Yucm12Ylpa
 
 猛男诞生记BD1280高清中英双字
+
   thunder://QUFmdHA6Ly9keTpkeUB4bGEuMnR1LmNjOjIwNDc2L1vRuMDXz8LU2Hd3dy4ydHUuY2Ndw83E0LWuyfq8xy5CRDEyODC438fl1tDTosur19Yucm12Ylpa
 
 猛男诞生记BD1280超清韩语中字
@@ -82,11 +105,13 @@ ftp://dygod1:dygod1@d121.dygod.com:1400/猛男诞生记.[中字.1024分辨率]/[
  thunder://QUFlZDJrOi8vfGZpbGV8ob5MT0y159OwzOzMw3d3dy5sb2xkeXR0LmNvbaG/ob5sb2y159OwzOzMw2xvbGR5dHQuY29tob/DzcTQta7J+rzHLkJEMTI4MLOsx+W6q9Pv1tDX1ihsb2xkeXR0LmNvbSkubXA0fDI0NDE3MzY2NjB8QkY0NzY5Q0FDMDMxNkEzRjg2RDk0ODJFNjczNkUzRDV8aD1DQktMSzZaUEdSNUJVTEFPN1NLUFdWRU5UTEw0WTNQUnwvWlo=
 
 【lol电影天堂loldytt.com】猛男诞生记.BD1280高清韩语中字
+
 thunder://QUFlZDJrOi8vfGZpbGV8ob5MT0y159OwzOzMw3d3dy5sb2xkeXR0LmNvbaG/ob5sb2y159OwzOzMw2xvbGR5dHQuY29tob/DzcTQta7J+rzHLkJEMTI4MLjfx+W6q9Pv1tDX1ihsb2xkeXR0LmNvbSkubXA0fDEyOTU0NjA0ODJ8MEQ1M0I5M0UwNzU5MDAwRjUxNkIyOUMyQzA0QjMwOTl8aD1RTVpKM0FCTjdRSEZFVDdTNFpCVUpXQUJEU1JNV09KUXwvWlo=
 
 [**磁力下载**](https://www.dytt789.com/Xijudianying/MNDSJ/) :
 
 [2008][韩国][猛男诞生记 Garoojigi][1080P/高清电影下载]
+
 magnet:?xt=urn:btih:57965c434e7f15c99baef4dabace7c6ab9aa71d5
 
 
