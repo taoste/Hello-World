@@ -1,13 +1,15 @@
 韩国三级爱人电影：=猛男诞生记= 【18禁】
 
 
-
 > [韩国三级爱人电影：=猛男诞生记(第1集)18禁](https://www.youtube.com/watch?v=-CTHnYCzCF4)- YouTube
 
 > [韩国三级爱人电影：=猛男诞生记(第2集)18禁](https://www.youtube.com/watch?v=o3PS9KWv_Ls)- YouTube
 
 [猛男诞生记(豆瓣)](https://movie.douban.com/subject/3126138/) - 豆瓣电影
 
+> [世上没有不能说的秘密（猛男诞生记）影评@刘放](https://movie.douban.com/review/1456046/)- 豆瓣电影
+
+> [一句话点评韩国八大情色电影@刘放](http://blog.sina.com.cn/s/blog_4bbed4e401009ud6.html)- 新浪博客
 
 ------------------------------------------------------------
 
