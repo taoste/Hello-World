@@ -31,7 +31,6 @@
         height: 0;
         overflow: hidden;
     }
-
     .video-container iframe,
     .video-container object,
     .video-container embed {
