@@ -18,4 +18,8 @@ https://github.com/cdtmirrors/cdt.unblocked
 
 -----------------------------------------------------------------
 
-- [萧瀚：中国2018，何处是归程？](https://chinadigitaltimes.net/chinese/2018/12/萧瀚：中国2018，何处是归程？/) – [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
+- [萧瀚：中国2018，何处是归程？](https://chinadigitaltimes.net/chinese/2018/12/萧瀚：中国2018，何处是归程？/) （2018年12月18日）– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/2018/12/萧瀚：中国2018，何处是归程？/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
+
+- [史夕：三次改革开放纪念大会的比较](https://chinadigitaltimes.net/chinese/2018/12/史夕：三次改革开放纪念大会的比较/) （2018年12月19日）– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/2018/12/史夕：三次改革开放纪念大会的比较/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
+
+- [自由亚洲 | 四十年回首：改革早已终结？](https://chinadigitaltimes.net/chinese/2018/12/自由亚洲-四十年回首：改革早已终结？/) （2018年12月18日）– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/2018/12/自由亚洲-四十年回首：改革早已终结？/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
