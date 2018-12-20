@@ -1,5 +1,5 @@
 # cdt.unblocked
-中国数字时代(China Digital Times, CDT)免翻墙浏览器扩展
+– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=en&a=https://chinadigitaltimes.net/chinese/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)(China Digital Times, CDT)免翻墙浏览器扩展
 https://github.com/cdtmirrors/cdt.unblocked
 
 ### Firefox 
@@ -17,4 +17,4 @@ https://github.com/cdtmirrors/cdt.unblocked
 
 -----------------------------------------------------------------
 
-- [萧瀚：中国2018，何处是归程？](https://chinadigitaltimes.net/chinese/2018/12/萧瀚：中国2018，何处是归程？/) – [中国数字时代](https://chinadigitaltimes.net/chinese/)
+- [萧瀚：中国2018，何处是归程？](https://chinadigitaltimes.net/chinese/2018/12/萧瀚：中国2018，何处是归程？/) – [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=en&a=https://chinadigitaltimes.net/chinese/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
