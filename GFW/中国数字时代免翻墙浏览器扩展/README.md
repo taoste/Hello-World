@@ -1,5 +1,6 @@
 # cdt.unblocked
-– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=en&a=https://chinadigitaltimes.net/chinese/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)(China Digital Times, CDT)免翻墙浏览器扩展
+
+- [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=en&a=https://chinadigitaltimes.net/chinese/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)(China Digital Times, CDT)免翻墙浏览器扩展
 https://github.com/cdtmirrors/cdt.unblocked
 
 ### Firefox 
