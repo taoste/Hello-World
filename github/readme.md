@@ -25,23 +25,40 @@
 
 `
 .video-container {
+
         position: relative;
+        
         padding-bottom: 56.25%;
+        
         padding-top: 30px;
+        
         height: 0;
+        
         overflow: hidden;
+        
     }
     .video-container iframe,
+    
     .video-container object,
+    
     .video-container embed {
+    
         position: absolute;
+        
         top: 0;
+        
         left: 0;
+        
         width: 100%;
+        
         height: 100%;
-    } `
+        
+    }   
+`    
     
 上面的56.25%实际是16:9的视频的值，这个可以根据自己的视频高宽比进行设置
+
+( 其他：[css - html5 video标签 自适应](https://segmentfault.com/q/1010000012431653) - SegmentFault 思否 )  
 
 
 - **HTML 相对路径&目录**
