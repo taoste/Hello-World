@@ -14,3 +14,7 @@ https://github.com/cdtmirrors/cdt.unblocked
 下载: <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-latest.crx?raw=true" target="_blank">github</a>
 
 安装: 地址栏输入 chrome://extensions/，然后将安装文件拖拽入浏览器窗口.
+
+-----------------------------------------------------------------
+
+- [萧瀚：中国2018，何处是归程？](https://chinadigitaltimes.net/chinese/2018/12/萧瀚：中国2018，何处是归程？/) – [中国数字时代](https://chinadigitaltimes.net/chinese/)
