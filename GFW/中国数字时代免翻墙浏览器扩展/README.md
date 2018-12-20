@@ -23,3 +23,5 @@ https://github.com/cdtmirrors/cdt.unblocked
 - [史夕：三次改革开放纪念大会的比较](https://chinadigitaltimes.net/chinese/2018/12/史夕：三次改革开放纪念大会的比较/) （2018年12月19日）– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/2018/12/史夕：三次改革开放纪念大会的比较/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
 
 - [自由亚洲 | 四十年回首：改革早已终结？](https://chinadigitaltimes.net/chinese/2018/12/自由亚洲-四十年回首：改革早已终结？/) （2018年12月18日）– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/2018/12/自由亚洲-四十年回首：改革早已终结？/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
+
+- [【众人推】习近平的杯子：特权超出了你的想象力](https://chinadigitaltimes.net/chinese/2018/12/【众人推】习近平的杯子：特权超出了你的想象力/) （2018年12月9日）– [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://chinadigitaltimes.net/chinese/2018/12/【众人推】习近平的杯子：特权超出了你的想象力/) : [中国数字时代](https://chinadigitaltimes.net/chinese/)
