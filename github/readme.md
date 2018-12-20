@@ -17,6 +17,34 @@
  
 < / code >< / pre >`
 
+- **[在页面中嵌入自适应视频的方法](http://www.zphj1987.com/2015/10/13/%E5%9C%A8%E9%A1%B5%E9%9D%A2%E4%B8%AD%E5%B5%8C%E5%85%A5%E8%87%AA%E9%80%82%E5%BA%94%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95/)** | zphj1987'Blog
+
+关于视频的自适应看到 [google 自适应设置建议](https://developers.google.com/web/fundamentals/media/video/size-videos-correctly?hl=zh-cn#section) 这个介绍的很好
+
+主要是这段代码:
+
+`
+.video-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
+
+    .video-container iframe,
+    .video-container object,
+    .video-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    } `
+    
+上面的56.25%实际是16:9的视频的值，这个可以根据自己的视频高宽比进行设置
+
+
 - **HTML 相对路径&目录**
 
 > [谈谈HTML/CSS/JS代码中的文件相对路径](https://www.jianshu.com/p/f84bce255bb0) - 简书
