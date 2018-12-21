@@ -19,4 +19,6 @@ VLan
 
 - [x] [**网络02：双网卡跨内外网路由设置**](https://higoge.github.io/2017/01/24/net02/) | [Learnit](https://higoge.github.io/)
 
+- [x] [**虚拟机02：三种网络模式**](https://higoge.github.io/2015/06/24/vm02/) | [Learnit](https://higoge.github.io/)
+
 - [**route命令使用**](https://89ao.github.io/linux-route-usage/) | [89Ao.info](https://89ao.github.io/)
