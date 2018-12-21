@@ -1,5 +1,7 @@
 - [Hello-World](https://github.com/taoste/Hello-World)/[Tools](https://github.com/taoste/Hello-World/tree/master/Tools)/[OfficeBox](https://github.com/taoste/Hello-World/tree/master/Tools/OfficeBox) / [(Excel+CMD)批量处理文件.md](https://github.com/taoste/Hello-World/blob/master/Tools/OfficeBox/(Excel+CMD)批量处理文件.md) · taoste/Hello-World
 
+- [taoste.github.io](https://github.com/taoste/taoste.github.io)/[intl](https://github.com/taoste/taoste.github.io/tree/taoste-pages/intl)/[study](https://github.com/taoste/taoste.github.io/tree/taoste-pages/intl/study)/[【关键词：BAT】秋叶PPT-BAT资源](https://github.com/taoste/taoste.github.io/blob/taoste-pages/intl/study/【关键词：BAT】秋叶PPT-BAT资源/ReadMe.md)/
+
 -----------------------------------------------------------------------------------
 
 **万彩办公大师小工具箱**
