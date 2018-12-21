@@ -129,7 +129,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
 > - 提供方：https://cn.infinitynewtab.com
 
-- [ ] 11. [**Volume Controller - 音量控制器**](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)   - Chrome 网上应用店
+- [ ] 12. [**Volume Controller - 音量控制器**](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)   - Chrome 网上应用店
 
 > - [详细信息](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)
 
@@ -150,6 +150,19 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 >我们制作了音频音量控制开关的简单和轻便的接口，因为它可以将所有功率保持在灯光设计中。
 
 >一个轻巧时尚的窗口，带有音量开关，其中包含当前播放音频内容的选项卡列表。
+
+- [ ] 13. **奇妙清单标签页** 
+
+> - 奇妙清单标签页 - 最轻巧便捷地添加任务
+> - 想法，经常一瞬即逝。现在您只须要打开奇妙标签页便可以轻松把想法抓住。奇妙清单全新的标签页扩展程序代替了一般的新标签页，让您在任何清单上最轻巧便捷地添加或删除任务。
+
+> - 您可以在iPhone、iPad、安卓、Windows Phone、Windows 8、Mac、Chromebook、Kindle Fire和网络上免费使用奇妙清单。
+
+> - 立即到 https://www.wunderlist.com/zh/download 免费下载奇妙清单
+
+> - [详细信息](https://chrome.google.com/webstore/detail/wunderlist-new-tab/fgikemaeelgbhjnhnnahcpkjpafaeion/related?hl=zh-cn)
+> - ID： fgikemaeelgbhjnhnnahcpkjpafaeion
+> - 提供方：https://www.wunderlist.com/zh/
 
 -------------------------------------------
 
