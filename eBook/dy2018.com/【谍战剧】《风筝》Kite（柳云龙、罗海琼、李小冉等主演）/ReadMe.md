@@ -79,13 +79,13 @@
 
 > 网民们纷纷留言表示，此段为经典台词，是〝这个时代的真实写照〞。
 
-- [风筝Kite]【送审样片-未删减版-全51集】【1-51全集打包下载】 （YouTube 播放列表:[【风筝】Kite —— （送审样片-未删减版-全51集）諜戰再起 李小冉“色誘”柳雲龍 特工命運橫跨30年（51集全）](https://www.youtube.com/playlist?list=PL0yRNedz4b29DYUn1uhlMEAba7s51yXbS&disable_polymer=true)）
+- [风筝Kite]【送审样片-未删减版-全51集】【1-51全集打包下载】 （[【风筝】YouTube 播放列表（全51集）](https://www.youtube.com/playlist?list=PL0yRNedz4b29DYUn1uhlMEAba7s51yXbS&disable_polymer=true)）
  
 >  [风筝kite][2013][谍战][51集全][柳云龙 罗海琼 李小冉][样本].torrent ([MP4][16.84G]磁力链接)
  
 -----------------------
 
-【1-46全集打包下载】（YouTube 播放列表:[【风筝】Kite —— （DVD版）諜戰再起 李小冉“色誘”柳雲龍 特工命運橫跨30年（46集全）](https://www.youtube.com/playlist?list=PLkvG4EWPDB0n4iJv_aKylIUw_iBQQnYxh)）
+【1-46全集打包下载】（[【风筝】YouTube 播放列表（DVD版-全46集）](https://www.youtube.com/playlist?list=PLkvG4EWPDB0n4iJv_aKylIUw_iBQQnYxh)）
 
 > [风筝][全46集打包][国语中字][MP4][1080P].torrent
 
