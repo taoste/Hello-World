@@ -1,5 +1,13 @@
 📹 [**2017年大陆国产谍战剧《风筝(电视剧)》全集**](https://www.dy2018.com/i/98821.html)_电影天堂（[在线播放](https://www.dy2018.com/webPlay/play-id-98821-collection-6.html)）
 
+其它：
+
+豆瓣:[风筝](https://movie.douban.com/subject/25752323/)
+
+爱奇艺:[风筝-电视剧-全集高清正版视频在线观看](https://www.iqiyi.com/a_19rrgifxad.html)
+
+腾讯视频：[风筝(Kite)-电视剧-在线观看](https://v.qq.com/detail/o/o660llk6wfo7ncw.html)
+
 -------------------------------
 
 发布时间：2018-06-10
@@ -19,6 +27,8 @@
 ◎语　　言　汉语普通话
 
 ◎上映日期　2018(中国大陆)
+
+◎IMDb链接  [**tt7831996**](https://www.imdb.com/title/tt7831996)
 
 ◎片　　长　45分钟
 
