@@ -14,10 +14,10 @@
 
 -----------------------------------------------------------
 
-🎦 网站：[**磁力库**](https://www.mbagarden.com/) _ 磁力链接 _ 迅雷磁力下载 _ 最快最全的磁力搜索下载引擎 ( https://www.mbagarden.com/ )
+🎦 网站：[**磁力库**](https://www.mbagarden.com/) _ 磁力链接 _ [迅雷磁力下载](https://github.com/taoste/Hello-World/tree/master/Tools) _ 最快最全的磁力搜索下载引擎 ( https://www.mbagarden.com/ )
 
 > 关于“ **[磁力链接](https://zh.wikipedia.org/zh-cn/磁力链接)** ”：
-> 磁力链接(Magnet URI Scheme)是一种新型的分享形式，每个链接对应一个[BT种子文件](https://zh.wikipedia.org/wiki/种子文件)。
+> 磁力链接(Magnet URI Scheme)是一种新型的分享形式，每个链接对应一个[**BT种子文件**](https://zh.wikipedia.org/wiki/种子文件)。
 
 > 您可以通过软件**下载**磁力链接指向的资源，例如迅雷、BitComet、QQ旋风，也可以使用**云点播服务在线观看**影视资源，例如迅雷云播、百度云盘等。
 
