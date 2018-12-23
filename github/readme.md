@@ -1,3 +1,5 @@
+- [HTML URL 编码](http://www.w3school.com.cn/tags/html_ref_urlencode.html)
+
 - [使用 HTML5 音频和视频](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) | [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web) - MDN
 (💖 [关于GitHub 及 编程 · Issue #2 · taoste/taoste.github.io](https://github.com/taoste/taoste.github.io/issues/2))
 
