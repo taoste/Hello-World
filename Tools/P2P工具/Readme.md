@@ -39,3 +39,6 @@
 参考资料：
 - [磁力链接 结构解析 分享](https://blog.csdn.net/cony_14/article/details/50888073) - Cony_14的博客 - CSDN博客
 
+- [用Python获取磁力种子](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/80971919) - Python中文社区 - CSDN博客
+> （ 本文项目地址：github.com/chenjiandongx/magnet-dht ）
+
