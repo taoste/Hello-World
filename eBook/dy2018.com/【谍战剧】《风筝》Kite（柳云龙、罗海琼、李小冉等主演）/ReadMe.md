@@ -101,7 +101,9 @@
 
 > [风筝][全46集打包][国语中字][MP4][1080P].torrent
 
-> （ [magnet:?xt=urn:btih:7D47BD95A4BC13A55C6245DF33CFC576DE252800](http://www.mbagarden.com/main-show-id-5080705.html) ）
+> （ magnet:?xt=urn:btih:7D47BD95A4BC13A55C6245DF33CFC576DE252800 ）
+
+>  **磁力链接，就是类似这样以"[magnet:?xt=urn:btih:](http://www.mbagarden.com/main-show-id-5080705.html)"开头的字符串。磁链下载是DHT网络的升级，不需要服务器与发布种子，只需一个代码，用户便可以相互分享交换资源。**
 
 【下载地址】
 
