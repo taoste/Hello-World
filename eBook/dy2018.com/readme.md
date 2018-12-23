@@ -40,7 +40,7 @@
 
 ⛏ 备注：
 
-- BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载](https://www.utorrent.com/intl/zh_cn/downloads/complete/track/stable/os/win) / [备份下载](https://github.com/taoste/Hello-World/blob/master/Tools/uTorrent_v3.5.4.44590.exe?raw=true) ）
+- [BT下载工具](https://github.com/taoste/Hello-World/tree/master/Tools) ： **µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载](https://www.utorrent.com/intl/zh_cn/downloads/complete/track/stable/os/win) / [备份下载](https://github.com/taoste/Hello-World/blob/master/Tools/uTorrent_v3.5.4.44590.exe?raw=true) ）
 
 > 文件大小：2.85 MB
 
