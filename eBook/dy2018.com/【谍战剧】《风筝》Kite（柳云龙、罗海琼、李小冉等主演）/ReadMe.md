@@ -97,7 +97,7 @@
 
 - [**磁力库 Mbagarden.Com - 磁力搜索神器|最好用的磁力搜索引擎之一**](https://www.mbagarden.com/)
 
->   **磁力链接(Magnet URI Scheme)** 是一种新型的分享形式，每个链接对应一个BT种子文件。您可以通过软件下载磁力链接指向的资源，例如迅雷、BitComet、QQ旋风，也可以使用云点播服务在线观看影视资源，例如迅雷云播、百度云盘等。
+>   **[磁力链接](https://zh.wikipedia.org/zh-cn/磁力链接)(Magnet URI Scheme)** 是一种新型的分享形式，每个链接对应一个BT种子文件。您可以通过软件下载磁力链接指向的资源，例如迅雷、BitComet、QQ旋风，也可以使用云点播服务在线观看影视资源，例如迅雷云播、百度云盘等。
 
 -----------------------
 
@@ -107,7 +107,7 @@
 
 > （ magnet:?xt=urn:btih:7D47BD95A4BC13A55C6245DF33CFC576DE252800 ）
 
->  **磁力链接，就是类似这样以"[magnet:?xt=urn:btih:](http://www.mbagarden.com/main-show-id-5080705.html)"开头的字符串。磁链下载是DHT网络的升级，不需要服务器与发布种子，只需一个代码，用户便可以相互分享交换资源。**
+>  **[磁力链接](https://zh.wikipedia.org/zh-cn/磁力链接)，就是类似这样以"[magnet:?xt=urn:btih:](http://www.mbagarden.com/main-show-id-5080705.html)"开头的字符串。磁链下载是DHT网络的升级，不需要服务器与发布种子，只需一个代码，用户便可以相互分享交换资源。**
 
 【下载地址】
 
