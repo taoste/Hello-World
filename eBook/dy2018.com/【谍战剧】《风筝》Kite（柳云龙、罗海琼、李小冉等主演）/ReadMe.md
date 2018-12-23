@@ -93,8 +93,12 @@
 
 - [风筝Kite]【送审样片-未删减版-全51集】【1-51全集打包下载】 （[【风筝】YouTube 播放列表（全51集）](https://www.youtube.com/playlist?list=PL0yRNedz4b29DYUn1uhlMEAba7s51yXbS&disable_polymer=true)）
  
->  [风筝kite][2013][谍战][51集全][柳云龙 罗海琼 李小冉][样本].torrent ([MP4][16.84G]磁力链接)
- 
+>  [[风筝kite][2013][谍战][51集全][柳云龙 罗海琼 李小冉][样本].torrent](https://www.mbagarden.com/main-show-id-5326057.html) ([MP4][16.84G]磁力链接 magnet:?xt=urn:btih:456eb38d69bbe8cab365b69bdf37350f20c27242&dn=[%E9%A3%8E%E7%AD%9D][51%E9%9B%86%E5%85%A8][%E6%B3%84%E5%AF%86%E7%89%88][%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%BA%90%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E9%94%99%E8%BF%87%E7%94%B5%E5%BD%B1] )
+
+- [**磁力库 Mbagarden.Com - 磁力搜索神器|最好用的磁力搜索引擎之一**](https://www.mbagarden.com/)
+
+>   **磁力链接(Magnet URI Scheme)** 是一种新型的分享形式，每个链接对应一个BT种子文件。您可以通过软件下载磁力链接指向的资源，例如迅雷、BitComet、QQ旋风，也可以使用云点播服务在线观看影视资源，例如迅雷云播、百度云盘等。
+
 -----------------------
 
 【1-46全集打包下载】（[【风筝】YouTube 播放列表（DVD版-全46集）](https://www.youtube.com/playlist?list=PLkvG4EWPDB0n4iJv_aKylIUw_iBQQnYxh)）
