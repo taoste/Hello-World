@@ -164,9 +164,11 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - ID： fgikemaeelgbhjnhnnahcpkjpafaeion
 > - 提供方：https://www.wunderlist.com/zh/
 
-- [ ] 14. [**Authy Chrome Extension**](https://chrome.google.com/webstore/detail/authy-chrome-extension/fhgenkpocbhhddlgkjnfghpjanffonno?utm_source=chrome-ntp-icon?hl=zh-CN)   - Chrome 网上应用店
-> - Authy – 跨平台二次验证应用 （完美替代Google Authenticator两步验证管理器）
-> - [详细信息](https://chrome.google.com/webstore/detail/authy-chrome-extension/fhgenkpocbhhddlgkjnfghpjanffonno?utm_source=chrome-ntp-icon?hl=zh-CN)
+- [ ] 14. [**Authy Chrome Extension 身份验证器**](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=zh-CN)   - Chrome 网上应用店
+> - Authy 身份验证器 – 跨平台二次验证应用 （完美替代Google Authenticator两步验证管理器）
+> - [详细信息](https://chrome.google.com/webstore/detail/authy/gaedmjdfmmahhbjefcbgaolhhanlaolb?hl=zh-CN) ( [其它](https://github.com/taoste/taoste.github.io/issues/18)：@[Android版](https://play.google.com/store/apps/details?id=com.authy.authy) - @[APKPure应用市场](https://apkpure.com/cn/authy-2-factor-authentication/com.authy.authy)  |  [iOS版](https://itunes.apple.com/hk/app/authy/id494168017)  ) 
+
+
 > - ID： fhgenkpocbhhddlgkjnfghpjanffonno
 > - 提供方：https://authy.com/
 
