@@ -164,6 +164,12 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - ID： fgikemaeelgbhjnhnnahcpkjpafaeion
 > - 提供方：https://www.wunderlist.com/zh/
 
+- [ ] 14. [**Authy Chrome Extension**](https://chrome.google.com/webstore/detail/authy-chrome-extension/fhgenkpocbhhddlgkjnfghpjanffonno?utm_source=chrome-ntp-icon?hl=zh-CN)   - Chrome 网上应用店
+> - Authy – 跨平台二次验证应用 （完美替代Google Authenticator两步验证管理器）
+> - [详细信息](https://chrome.google.com/webstore/detail/authy-chrome-extension/fhgenkpocbhhddlgkjnfghpjanffonno?utm_source=chrome-ntp-icon?hl=zh-CN)
+> - ID： fhgenkpocbhhddlgkjnfghpjanffonno
+> - 提供方：https://authy.com/
+
 -------------------------------------------
 
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
