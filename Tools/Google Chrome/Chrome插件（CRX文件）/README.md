@@ -300,6 +300,13 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 》 推荐「油猴」脚本：
 
 > [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)( @[油猴官网](https://greasyfork.org/zh-CN) )
+>
+> 不需要透过第三方的服务就能下载 YouTube 影片。
+
+> [视频站启用html5播放器](
+https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%E7%94%A8html5%E6%92%AD%E6%94%BE%E5%99%A8( @[油猴官网](https://greasyfork.org/zh-CN) )
+>
+> 三大功能 。启用html5播放器；万能网页全屏；添加快捷键：快进、快退、暂停/播放、音量、下一集、切换(网页)全屏、上下帧、播放速度。支持视频站点：油管、TED、优.土、QQ、B站、芒果TV、新浪、微博、网易[娱乐、云课堂、新闻]、搜狐、乐视、风行、百度云视频等；直播：斗鱼、熊猫、YY、虎牙、龙珠、战旗。可增加自定义站点
 
 ---------------------------------------------
 
