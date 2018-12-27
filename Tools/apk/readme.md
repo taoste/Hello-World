@@ -13,8 +13,9 @@
 <a href="https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(中国CN)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器cn-qrcode.png?raw=true"/>
 </a></p>
+
 > ( 扫描二维码可以访问下载网址：iPhone手机提词器 )
-> 
+
 
 - [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
 > ( [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
