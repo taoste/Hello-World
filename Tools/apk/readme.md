@@ -18,7 +18,7 @@
 
 
 - [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
-> ( [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
+> ( 【下载】 iOS : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
 [APKPure 上的原版应用](https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app) )
 
 
