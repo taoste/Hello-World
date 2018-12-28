@@ -1,2 +1,2 @@
 
-Windows 运行：%windir%\fonts
+Windows 运行（Win + R ）：%windir%\fonts
