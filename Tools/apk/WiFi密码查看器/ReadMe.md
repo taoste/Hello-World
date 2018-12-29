@@ -15,7 +15,7 @@
 <a href="https://itunes.apple.com/cn/app/wifi%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%99%A8-wifi%E5%AF%86%E7%A0%81%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B/id1197978826?mt=8" title="【Apple iTunes】WiFi密码查看器(中国CN)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi密码查看器/WIFI密码查看器下载-(iOS苹果商店-CN)qrcode.png?raw=true"/>
 </a></p>
- ( 扫描二维码可以访问下载网址：WIFI密码查看器 ) 
+ …… ( 扫描二维码可以访问下载网址：WIFI密码查看器 ) 
 
 > WIFI密码查看器 - **简介**
 > 
