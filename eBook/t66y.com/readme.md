@@ -25,3 +25,51 @@ BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载
 
 -----------------------------
 
+- [**使用批处理bat更改hosts的多个方法**](https://www.jb51.net/article/51902.htm)_DOS/BAT_脚本之家
+
+[引用](https://github.com/taoste/Hello-World/issues/2#issuecomment-374911469)：
+
+> [Ping查询](https://www.ipip.net/ping.php) （**最专业的 IP 地址库**_IPIP.NET）全球唯一一个基于BGP/ASN数据分析处理而得来的IP库
+> 
+> 强大的IP 地址归属地查询 （**bgp.he.net**）
+> 参考：
+> 1. [https://bgp.he.net/dns/zuola.com](https://bgp.he.net/dns/t66y.com)
+> [t66y](https://bgp.he.net/dns/sex.com) dns: 104.25.32.112 , 104.25.31.112
+> [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
+> 
+> 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
+> [View on GitHub](https://github.com/bitbeans/SimpleDnsCrypt)
+> [Download .zip (Source)](https://github.com/bitbeans/SimpleDnsCrypt/zipball/master) 
+> [Download .msi (Installer)](https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.4.2/SimpleDNSCrypt.msi) 
+> 
+> - <kbd>Win徽标键</kbd> + <kbd>R</kbd>，打开-->运行：cmd
+> 
+> ipconfig /release 释放ip
+> ipconfig /renew 重新获取ip
+> ipconfig /flushdns 清除系统DNS缓存
+> 
+> 【Host IP】
+> notepad C:\Windows\System32\drivers\etc\hosts
+> 
+> hosts所在文件夹：
+> 
+> >     Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts
+> >     Android（安卓）系统hosts位于 /etc/hosts
+> >     Mac（苹果电脑）系统hosts位于 /etc/hosts
+> >     iPhone（iOS）系统hosts位于 /etc/hosts
+> >     Linux系统hosts位于 /etc/hosts
+> >     绝大多数Unix系统都是在 /etc/hosts
+
+-----
+
+> #草榴社區
+> #104.25.32.112 t66y.com
+> #104.25.31.112 t66y.com
+> #2400:CB00:2048:1::6819:1F70 t66y.com
+> #2400:CB00:2048:1::6819:2070 t66y.com
+> 
+> #佐拉 - 周曙光的个人网站
+> #104.28.27.52 zuola.com
+> #104.28.26.52 zuola.com
+> #2400:CB00:2048:1::681C:1B34 zuola.com
+> #2400:CB00:2048:1::681C:1A34 zuola.com
