@@ -12,9 +12,19 @@
 
 ----------------------------------
 
-- [**“WiFi密码查看器  -WiFi密码一键查看!”](https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword） ( iOS：@[iPhone/iMac](https://itunes.apple.com/cn/app/wifi%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%99%A8-wifi%E5%AF%86%E7%A0%81%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B/id1197978826?mt=8）- Android:
-@[PP助手](https://www.25pp.com/android/detail_5900603/）
-@[**豌豆荚**](https://www.25pp.com/android/detail_5900603/）
+- [**“WiFi密码查看器  -WiFi密码一键查看!”](https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword） ( iOS：@[iPhone/iMac](https://itunes.apple.com/cn/app/wifi%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%99%A8-wifi%E5%AF%86%E7%A0%81%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B/id1197978826?mt=8)- Android:
+@[**应用宝**](https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword）/ 
+@[PP助手](https://www.25pp.com/android/detail_5900603/) / 
+@[**豌豆荚**](https://www.25pp.com/android/detail_5900603/) 
+
+
+<p><a href="https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword" title="【Android/安卓版】WiFi密码查看器( 腾讯应用宝)">
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi密码查看器/WIFI密码查看器下载-( 腾讯应用宝)qrcode.png?raw=true"/>
+</a>
+  …… 
+<a href="https://itunes.apple.com/cn/app/wifi%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%99%A8-wifi%E5%AF%86%E7%A0%81%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B/id1197978826?mt=8" title="【Apple iTunes】WiFi密码查看器(中国CN)">
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi密码查看器/WIFI密码查看器下载-(iOS苹果商店-CN)qrcode.png?raw=true"/>
+</a></p>
 
 > WIFI密码查看器-简介
 > 
@@ -22,6 +32,11 @@
 > 可以用于找回遗忘的WIFI密码；也可以在多网络环境协同办公时，分辨出各个同名WIFI密码，便于您的办公笔记本连入。
 
 ----------------------------------
+
+
+- [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
+> ( 【下载】 iOS : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
+[APKPure 上的原版应用](https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app) )
 
 <p><a href="https://itunes.apple.com/hk/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(香港HK)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器-qrcode.png?raw=true"/>
@@ -32,13 +47,6 @@
 </a></p>
 
 > ( 扫描二维码可以访问下载网址：iPhone手机提词器 )
-
-
-- [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
-> ( 【下载】 iOS : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
-[APKPure 上的原版应用](https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app) )
-
-
 > Parrot Teleprompter 是一款 iPhone、iPad 上的专业 [**提词器**](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%AD%97%E5%99%A8) 应用，适合于拍摄视频时作为提示使用，配合官方套件还能挂在摄像机旁边使用，让你不用低头看脚本。@Appinn
 
 
