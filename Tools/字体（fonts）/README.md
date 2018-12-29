@@ -1,4 +1,14 @@
 
+----------------
+
+- [**字体下载**](https://www.jb51.net/fonts/) - **脚本之家** （ site:[jb51.net](https://www.jb51.net/) )
+
+- 【**金山词霸的音标字体( Kingsoft Phonetic Plain )**】
+
+> [英语音标汉语拼音字体(Kingsoft Phonetic)官方下载](https://dl.pconline.com.cn/download/581556.html) - [太平洋下载中心](https://dl.pconline.com.cn/sort/72.html)
+
+----------------
+
 Windows 运行（Win + R ）：%windir%\fonts
 
 --------
@@ -18,14 +28,5 @@ copy /y 兰亭特黑扁简.TTF %windir%\fonts
 copy /y 兰亭特黑简 GBK.TTF %windir%\fonts
 copy /y 兰亭细黑 GBK.TTF %windir%\fonts
 </ code></ pre>
-
-----------------
-
-- [**字体下载**](https://www.jb51.net/fonts/) - **脚本之家** （ site:[jb51.net](https://www.jb51.net/) )
-
-- 【**金山词霸的音标字体( Kingsoft Phonetic Plain )**】
-
-> [英语音标汉语拼音字体(Kingsoft Phonetic)官方下载](https://dl.pconline.com.cn/download/581556.html) - [太平洋下载中心](https://dl.pconline.com.cn/sort/72.html)
-
 
 --------
