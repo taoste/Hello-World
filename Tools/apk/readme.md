@@ -6,6 +6,23 @@
 
 ----------------------------------
 
+- [**手動將內容從Android 裝置轉移至iOS 裝置**](https://support.apple.com/zh-hk/HT205063）- Apple 支援
+
+> [**有了它们，Android 和 Mac 也能成为黄金搭档**](https://www.ifanr.com/app/720872) | 爱范儿
+
+----------------------------------
+
+- [**“WiFi密码查看器  -WiFi密码一键查看!”](https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword） ( iOS：@[iPhone/iMac](https://itunes.apple.com/cn/app/wifi%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%99%A8-wifi%E5%AF%86%E7%A0%81%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B/id1197978826?mt=8）- Android:
+@[PP助手](https://www.25pp.com/android/detail_5900603/）
+@[**豌豆荚**](https://www.25pp.com/android/detail_5900603/）
+
+> WIFI密码查看器-简介
+> 
+> 本应用主要用于查看当前设备曾经连接过的所有WIFI名称和密码，并非破解WIFI密码。
+> 可以用于找回遗忘的WIFI密码；也可以在多网络环境协同办公时，分辨出各个同名WIFI密码，便于您的办公笔记本连入。
+
+----------------------------------
+
 <p><a href="https://itunes.apple.com/hk/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(香港HK)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器-qrcode.png?raw=true"/>
 </a>
