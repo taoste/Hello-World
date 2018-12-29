@@ -5,6 +5,9 @@
 
 - 【**金山词霸的音标字体( Kingsoft Phonetic Plain )**】 > [英语音标汉语拼音字体/官方下载](https://dl.pconline.com.cn/download/581556.html) - [太平洋下载中心](https://dl.pconline.com.cn/sort/72.html)
 
+> [48个英语音标表-附一个flash实现的音标的读音_中英文对照](https://www.jb51.net/article/9270.htm) _ 脚本之家
+
+
 ----------------
 
 Windows 运行（Win + R ）：%windir%\fonts
