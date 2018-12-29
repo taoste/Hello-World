@@ -89,3 +89,11 @@ BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载
  #2400:CB00:2048:1::681C:1B34 zuola.com
  #2400:CB00:2048:1::681C:1A34 zuola.com
  </code></pre>
+
+-----
+
+- [强制 Google.com 域名使用 HTTPS（SSL）]（https://laod.cn/hosts/suggestions-for-google-hosts-https-ssl.html） | 老D博客
+<pre><code>
+在 Chrome 浏览器上输入链接 chrome://net-internals/#hsts （可复制此地址粘贴到地址栏），回车。
+在 Domain 栏里，输入 google.com ，并勾选下面的两个复选框，点击 “Add” 按钮即可。
+ </code></pre>
