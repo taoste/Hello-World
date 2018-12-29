@@ -32,23 +32,33 @@ BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载
 > [Ping查询](https://www.ipip.net/ping.php) （**最专业的 IP 地址库**_IPIP.NET）全球唯一一个基于BGP/ASN数据分析处理而得来的IP库
 > 
 > 强大的IP 地址归属地查询 （**bgp.he.net**）
+> 
 > 参考：
+> 
 > 1. [https://bgp.he.net/dns/zuola.com](https://bgp.he.net/dns/t66y.com)
+> 
 > [t66y](https://bgp.he.net/dns/sex.com) dns: 104.25.32.112 , 104.25.31.112
+> 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 > 
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
+> 
 > [View on GitHub](https://github.com/bitbeans/SimpleDnsCrypt)
+> 
 > [Download .zip (Source)](https://github.com/bitbeans/SimpleDnsCrypt/zipball/master) 
+> 
 > [Download .msi (Installer)](https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.4.2/SimpleDNSCrypt.msi) 
 > 
 > - <kbd>Win徽标键</kbd> + <kbd>R</kbd>，打开-->运行：cmd
 > 
 > ipconfig /release 释放ip
+> 
 > ipconfig /renew 重新获取ip
+> 
 > ipconfig /flushdns 清除系统DNS缓存
 > 
 > 【Host IP】
+> 
 > notepad C:\Windows\System32\drivers\etc\hosts
 > 
 > hosts所在文件夹：
