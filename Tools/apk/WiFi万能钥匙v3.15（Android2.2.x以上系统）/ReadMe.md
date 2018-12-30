@@ -5,14 +5,14 @@
 ( 【下载】 iOS：@[iPhone/iPad](https://itunes.apple.com/cn/app/%E8%85%BE%E8%AE%AFwifi%E7%AE%A1%E5%AE%B6-%E4%B8%80%E9%94%AE%E8%BF%9E%E4%B8%8A%E5%AE%89%E5%85%A8wifi/id1001153553?mt=8) - Android:
 @[**应用宝**](https://android.myapp.com/myapp/detail.htm?apkName=com.tencent.wifimanager) )
 
-<p>…… <a href="https://wifi.qq.com/" title="【官网】腾讯WiFi管家">
+<p> <a href="https://wifi.qq.com/" title="【官网】腾讯WiFi管家">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi万能钥匙v3.15（Android2.2.x以上系统）/腾讯WiFi管家-qrcode.png?raw=true"/>
 </a>
-…… <a href="https://wifi.qq.com/" title="【官网】腾讯WiFi管家">
+…… <a href="https://wifi.qq.com/" title="【官网下载】腾讯WiFi管家">
 <img src="https://wifi.qq.com/img/rcode_new.png?cb=01?raw=true"/>
 </a>
   …… 
-<a href="https://www.wifi.com/" title="【官方网站】连尚网络-WiFi万能钥匙">
+<a href="https://www.wifi.com/" title="【官网】连尚网络-WiFi万能钥匙">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi万能钥匙v3.15（Android2.2.x以上系统）/连尚网络-WiFi万能钥匙-qrcode.png?raw=true"/>
 </a>
   …… 
