@@ -8,6 +8,9 @@
 <p>…… <a href="https://wifi.qq.com/" title="【官网】腾讯WiFi管家">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi万能钥匙v3.15（Android2.2.x以上系统）/腾讯WiFi管家-qrcode.png?raw=true"/>
 </a>
+…… <a href="https://wifi.qq.com/" title="【官网】腾讯WiFi管家">
+<img src="https://wifi.qq.com/img/rcode_new.png?cb=01?raw=true"/>
+</a>
   …… 
 <a href="https://www.wifi.com/" title="【官方网站】连尚网络-WiFi万能钥匙">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/WiFi万能钥匙v3.15（Android2.2.x以上系统）/连尚网络-WiFi万能钥匙-qrcode.png?raw=true"/>
