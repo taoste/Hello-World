@@ -22,8 +22,8 @@
 
 --------------
 
-GitHub - fancymax/12306ForMac: An unofficial 12306 Client for Mac
-https://github.com/fancymax/12306ForMac
+【**同类项目**】 GitHub - [**fancymax/12306ForMac: An unofficial 12306 Client for Mac**](https://github.com/fancymax/12306ForMachttps://github.com/fancymax/12306ForMac)
+
 
 # [**12306ForMac**](https://github.com/fancymax/12306ForMac)
 
@@ -51,7 +51,7 @@ Mac版12306 订票/捡票 助手。
 # 捐赠
 如果你愿意支持这个项目，可以考虑进行捐赠
 
-![捐赠](https://github.com/fancymax/12306ForMac/blob/master/README.md#%E6%8D%90%E8%B5%A0)
+[捐赠](https://github.com/fancymax/12306ForMac/blob/master/README.md#%E6%8D%90%E8%B5%A0)
 
 
 # 感谢
