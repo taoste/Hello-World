@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>12306Bypass - 更新日志</title>
+    <!--自适应-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <!--css-->
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" type="image/x-icon" href="404/favicon.ico" />
+    <!-- JAVASCRIPT -->
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/nav.js" type="text/javascript"></script>
+    <!--防止嵌入-->
+    <script type="text/javascript">
+        try {
+            top.location.hostname;
+            if (top.location.hostname != window.location.hostname) {
+                top.location.href = window.location.href;
+            }
+        }
+        catch (e) {
+            top.location.href = window.location.href;
+        }
+    </script>
+</head>
+<body>
+    <div class="all" id="move-top">
+        <!--头部-->
+        <div class="header" style="background: #045082;">
+            <!-- HEADER -->
+            <div class="container_12">
+                <div class="grid_3">
+
+                    <div class="logo">
+                        <!-- LOGO -->
+                        <img src="images/logo4.png" alt="logoico">
+                    </div>
+                </div>
+                <!-- END LOGO -->
+                <div class="grid_9">
+                    <!-- MENU -->
+                    <ul class="sf-menu sf-js-enabled" id="sf-menu">
+                        <li class="header-title">
+                            <a href="/" style="opacity: 1;"><span class="uppercase" style="color: #ffffff">首&nbsp;&nbsp;&nbsp;&nbsp;页</span></a>
+                            <hr>
+                        </li>
+                        <li><span class="pipe">|</span></li>
+                        <li class="header-title">
+                            <a href="changelog.html" style="opacity: 1;" target="_self"><span class="uppercase" style="color: #ffffff">更新日志</span></a>
+                            <hr>
+                        </li>
+                        <li><span class="pipe">|</span></li>
+                        <li class="header-title">
+                            <a href="help.html" style="opacity: 1;" target="_self"><span class="uppercase" style="color: #ffffff">帮助中心</span></a>
+                            <hr>
+                        </li>
+                        <li><span class="pipe">|</span></li>
+                        <li class="header-title">
+                            <a href="about.html" style="opacity: 1;" target="_self"><span class="uppercase" style="color: #ffffff">关于我们</span></a>
+                            <hr>
+                        </li>
+                    </ul>
+                </div>
+                <!-- END MENU -->
+
+            </div>
+
+        </div>
+        <div class="log">
+            <div class="title">
+                <div class="log_main">
+                    <span class="ls_version">
+                        <h3 class="ver_1">
+                            <div>2013.10.07</div>
+                            首版诞生
+                        </h3>
+                        <h3 class="ver_2">
+                            <div>2014.02.11</div>
+                            官网安营
+                        </h3>
+                        <h3 class="ver_3">
+                            <div>2015.01.08</div>
+                            大军来袭
+                        </h3>
+                        <h3 class="ver_4">
+                            <div id="lb_date">2018.07.05</div>
+                            百折不回
+                        </h3>
+                    </span>
+                    <span class="log_down">
+                        <h2>更新日志</h2>
+                        <a href="Download.aspx?name=12306Bypass.zip" title="最新版下载"></a>
+                    </span>
+                </div>
+            </div>
+            <div class="log_txt">
+                <div class="log_main" id="log_main_text">
+
+                </div>
+            </div>
+        </div>
+
+        <div id="pageMoreWrap">
+            <a href="javascript:void(0);" onmousedown="p(null,499,{domid:'pageMore',type:'click'})" id="pageMore" style="visibility: visible;" page="0">加载更多日志</a>
+        </div>
+        <!--底部-->
+        <div id="footer">
+            <p>Copyright © 2013 - 2018 12306bypass.com 版权所有 · 粤ICP备18028113号-1</p>
+            <p>
+                分流,不只是技术上的争斗.
+            </p>
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        $(function () {
+            $('#lb_date').val(getNowFormatDate());
+            getChangeLog();
+        })
+        $('#pageMore').click(function () {
+            getChangeLog();
+        })
+
+        function getChangeLog() {
+
+            $('#pageMoreWrap').hide();
+            var pageindex = $('#pageMore').attr('page');
+            if (pageindex == undefined) {
+                pageindex = 0;
+            }
+            pageindex++;
+            $('#pageMore').attr('page', pageindex);
+            $.post('log.aspx', { page: pageindex }, function (data) {
+                if (data != "") {
+                    $('#log_main_text').append(data);
+                    $('#pageMoreWrap').show();
+                }
+
+            })
+        }
+
+        function getNowFormatDate() {
+            var date = new Date();
+            var seperator1 = "-";
+            var year = date.getFullYear();
+            var month = date.getMonth() + 1;
+            var strDate = date.getDate();
+            if (month >= 1 && month <= 9) {
+                month = "0" + month;
+            }
+            if (strDate >= 0 && strDate <= 9) {
+                strDate = "0" + strDate;
+            }
+            var currentdate = year + seperator1 + month + seperator1 + strDate;
+            return currentdate;
+        }
+    </script>
+</body>
+</html>

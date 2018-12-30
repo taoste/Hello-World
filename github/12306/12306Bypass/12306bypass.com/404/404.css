@@ -1,0 +1,147 @@
+#navbar {
+    position: relative;
+    z-index: 1000;
+    background: none;
+}
+
+@-webkit-keyframes rain {
+    from {
+        background-position: 0em 0em;
+    }
+
+    to {
+        background-position: -400em 1000em,-450em 1050em;
+    }
+}
+
+@-webkit-keyframes cloud1 {
+    from {
+        background-position: 0 top;
+    }
+
+    to {
+        background-position: -1024px top;
+    }
+}
+
+@-webkit-keyframes cloud2 {
+    from {
+        background-position: -600px top;
+    }
+
+    to {
+        background-position: -1624px top;
+    }
+}
+
+@-webkit-keyframes sign404 {
+    0% {
+        -webkit-transform: rotate(0deg) translate(20px);
+    }
+
+    20% {
+        -webkit-transform: rotate(-4deg) translate(-20px);
+    }
+
+    30% {
+        -webkit-transform: rotate(0deg) translate(20px);
+    }
+
+    100% {
+        -webkit-transform: rotate(0deg) translate(20px);
+    }
+}
+
+@-webkit-keyframes light {
+    0% {
+        background-color: #243442;
+    }
+
+    10% {
+        background-color: #243442;
+    }
+
+    11% {
+        background-color: #666;
+    }
+
+    12% {
+        background-color: #243442;
+    }
+
+    30% {
+        background-color: #243442;
+    }
+
+    31% {
+        background-color: gray;
+    }
+
+    32% {
+        background-color: #243442;
+    }
+
+    100% {
+        background-color: #243442;
+    }
+}
+
+#sign {
+    -webkit-animation-name: sign404;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+    display: block;
+    height: 500px;
+    width: 300px;
+    background: url('sign.png') no-repeat center top;
+}
+
+body {
+    -webkit-animation-name: light;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-timing-function: ease in out;
+    -webkit-animation-iteration-count: infinite;
+    background-color: #243442;
+    background-color: #243442;
+    overflow: hidden;
+}
+
+#rain {
+    -webkit-animation-name: rain;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-image: url('raindrops2.png'),url('raindrops3.png');
+}
+
+#clouds1 {
+    -webkit-animation-name: cloud1;
+    -webkit-animation-duration: 40s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 300px;
+    background: url('clouds2.png') repeat-x;
+    top: 0;
+}
+
+#clouds2 {
+    -webkit-animation-name: cloud2;
+    -webkit-animation-duration: 30s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    background: url('clouds1.png') repeat-x -600px top;
+    top: 0;
+}

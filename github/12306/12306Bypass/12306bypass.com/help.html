@@ -1,0 +1,374 @@
+﻿
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>12306Bypass - 帮助中心</title>
+    <!--自适应-->
+    <!--<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <!--css-->
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" type="image/x-icon" href="404/favicon.ico" />
+    <script>
+        function opens(obj) {
+            for (i = 1; i <= 6; i++) {
+                if (i == obj) {
+                    document.getElementById("nav" + obj).style.display = "block";
+                    document.getElementById("tab" + obj).className = "tb";
+                } else {
+                    document.getElementById("nav" + i).style.display = "none";
+                    document.getElementById("tab" + i).className = "nb";
+                }
+            }
+        }
+
+    </script>
+    <!--防止嵌入-->
+    <script type="text/javascript">
+        try {
+            top.location.hostname;
+            if (top.location.hostname != window.location.hostname) {
+                top.location.href = window.location.href;
+            }
+        }
+        catch (e) {
+            top.location.href = window.location.href;
+        }
+    </script>
+</head>
+<body>
+    <div class="all" id="move-top">
+        <!--头部-->
+        <div class="header" style="background: #045082;">
+            <!-- HEADER -->
+            <div class="container_12">
+                <div class="grid_3">
+
+                    <div class="logo">
+                        <!-- LOGO -->
+                        <img src="images/logo4.png" alt="logoico">
+                    </div>
+                </div>
+                <!-- END LOGO -->
+                <div class="grid_9">
+                    <!-- MENU -->
+                    <ul class="sf-menu sf-js-enabled" id="sf-menu">
+                        <li class="header-title">
+                            <a href="/" style="opacity: 1;"><span class="uppercase" style="color: #ffffff">首&nbsp;&nbsp;&nbsp;&nbsp;页</span></a>
+                            <hr>
+                        </li>
+                        <li><span class="pipe">|</span></li>
+                        <li class="header-title">
+                            <a href="changelog.html" style="opacity: 1;" target="_self"><span class="uppercase" style="color: #ffffff">更新日志</span></a>
+                            <hr>
+                        </li>
+                        <li><span class="pipe">|</span></li>
+                        <li class="header-title">
+                            <a href="help.html" style="opacity: 1;" target="_self"><span class="uppercase" style="color: #ffffff">帮助中心</span></a>
+                            <hr>
+                        </li>
+                        <li><span class="pipe">|</span></li>
+                        <li class="header-title">
+                            <a href="about.html" style="opacity: 1;" target="_self"><span class="uppercase" style="color: #ffffff">关于我们</span></a>
+                            <hr>
+                        </li>
+                    </ul>
+                </div>
+                <!-- END MENU -->
+
+            </div>
+
+        </div>
+        <div class="help">
+            <div class="title">
+                <div class="help_main">
+                    <h2>帮助中心</h2>
+                    <span>如遇问题请加入官方QQ群<a href="about.html#section-4" target="_self">问题反馈</a></span>
+                </div>
+            </div>
+            <div class="help_txt">
+                <div class="help_main p40">
+                    <ul class="help_nav">
+                        <div class="help_box">
+                            <h3>导航中心</h3>
+                            <li class="tb" id="tab1"><a href="javascript:void(0)" onclick="opens(1)"><b>»</b>安装说明</a></li>
+                            <li class="nb" id="tab2"><a href="javascript:void(0)" onclick="opens(2)"><b>»</b>使用说明</a></li>
+                            <li class="nb" id="tab3"><a href="javascript:void(0)" onclick="opens(3)"><b>»</b>常见问题</a></li>
+                            <li class="nb" id="tab4"><a href="javascript:void(0)" onclick="opens(4)"><b>»</b>经验秘诀</a></li>
+                        </div>
+                    </ul>
+                    <div class="txt_main">
+                        <div id="nav1" class="nav1_main">
+                            <ul>
+                                <li>
+                                    <h3><b>●</b>软件支持哪些系统？</h3>
+                                    <p>Windows平台下的主流操作系统，目前测试包含：Windows 7、Windows Server 2000、Windows Server 2003、Windows Server 2008、Windows Server 2012、Windows Vista、Windows XP、Windows 8、Windows 8.1、Windows 10。</p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件的运行所需环境是什么？</h3>
+                                    <p>
+                                        分流抢票基于.Net4.0框架开发，在Windows7之后的操作系统可直接打开，其他操作系统如打不开或者打开报错，则需安装：Microsoft. NET Framework 4.0。<a href="Download.aspx?name=dotNet.zip&source=dotnet">【下载地址】</a>
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件是收费的吗？有没有收费版本？</h3>
+                                    <p>
+                                        分流抢票的所有功能完全免费，不做企业版，抵制黄牛和淘宝贩卖的行为。
+                                        <br />软件和服务器的维持仅依靠用户的赞助，当然也会为赞助者提供注册，并提供某些功能上的便利。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件可以多开吗？</h3>
+                                    <p>
+                                        为了抵制黄牛，软件限制打开的数量，同机器只允许打开两个软件，并禁止修改文件名。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>杀毒软件会报毒吗？</h3>
+                                    <p>
+                                        分流抢票不包含任何病毒和后门程序，但无法保证所有杀毒程序的误报，识别库和CDN的功能可能受到某些安全卫士的阻止，
+                                        请及时添加信任，以避免影响工作。当然您也可以在39款查毒引擎里确认。<a href="http://www.virscan.org/" target="_blank">【查毒地址】</a>
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件的使用应注意哪些？</h3>
+                                    <p>
+                                        用户应该确保网络流畅，防止网络不佳而导致提交异常。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件一定可以抢到票吗？</h3>
+                                    <p>
+                                        任何软件都是辅助程序，不能保证100%的抢到，所有的成果都需要用户努力和坚持。
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div id="nav2" class="nav1_main" style="display:none">
+                            <ul>
+                                <li>
+                                    <h3><b>●</b>登陆的账户是什么？</h3>
+                                    <p>软件登陆的账户为12306账户，如没有可在12306官网。<a href="https://kyfw.12306.cn/otn/regist/init" target="_blank">【注册账户】</a></p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件显示无票了，还可以抢吗？</h3>
+                                    <p>可以，12306票并非一次放完，过了高峰期还有分段随机放票，即使放完也会有人退票而随机时间放出票，软件设置好最小化挂着即可。</p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件可以抢多车次、多乘客、多日期、多席别吗？</h3>
+                                    <p>
+                                        软件可以同时添加多个车次，多名乘客、多个日期（日期轮询）、多个席别进行抢票。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件的测速和网速有关吗？</h3>
+                                    <p>
+                                        软件的测速为链接12306的速度，并非网速。当链接速度越快时，查询和提交订单越快，否则将可能引起卡顿。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件可以抢学生票，以及儿童票吗？</h3>
+                                    <p>
+                                        学生票：需要在乘客里勾选了信息为学生（若信息不是学生请去12306官网修改信息）的乘客之后，在软件查询余票按钮旁边开启学生票功能，软件在抢的时候默认抢学生票。
+                                        <br>儿童票：需要在乘客里勾选1名以上的成人乘客后，在软件查询余票按钮旁边开启儿童票功能，并设置所需的儿童票数量，软件在抢的时候默认以第一位成人的信息生成对应数量的儿童票。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件的随机查询同城站点是什么意思？</h3>
+                                    <p>
+                                        此功能将每次切换同城的站点，比如北京到曲阜，则可能随机为北京东到曲阜、北京西到曲阜、北京到曲阜、北京南到曲阜东、北京到曲阜东等组合。
+                                        有效的避免缓存，和增加抢票的几率，若经常遇到查询空白的时候，请尝试关闭此功能。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件的代理设置有什么用？</h3>
+                                    <p>
+                                        此功能主要为无法登陆12306网站的用户，如：被封Ip，公司内网等用户准备的功能，和其他软件相同。该功能的更改范围只在本软件内。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>如何选择车次、乘客、席别以及如何调整顺序？</h3>
+                                    <p>
+                                        选择乘客和席座:勾选即可,可多选，添加乘客和刷新别表则在功能区右键。
+                                        <br>添加车次:在查询结果的列表内双击车次，或者右边的预定按钮，或者划选区域的车次，点击右键，全选车次也在右键。
+                                        <br>移除车次:在已选车次的列表内右键选择。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>抢票成功怎么付款？</h3>
+                                    <p>
+                                        在订单管理页面里可以查到所有的订单，包括未付款、已支付、已出票、已退票、已改签等订单，选择未支付的订单，点击支付跳到12306官网继续支付即可。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>改签和官网改签有什么不同？</h3>
+                                    <p>
+                                        12306官网改签不可抢票，只能选择已有票的车次进行改签，而软件的功能则可以抢票。改签会锁定一定的功能，如乘客和出发地与目的地。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>验证码应如何设置？</h3>
+                                    <p>
+                                        软件默认为云识别，当12306频繁切换验证码，导致云识别效果不佳的时候，可以开启第三方平台打码，或者手动输入。
+                                        <br>若快为第三方打码平台，属于您给钱他们找人帮打的平台，手动输入则需要一直在电脑旁。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>查询间隔需要修改吗？</h3>
+                                    <p>建议用户在整点抢票的时候修改间隔低于1000，在长时间捡漏的时候关闭间隔，以免导致12306封锁IP或导致缓存太大而看不到票。</p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>全国CDN是什么，需要开启吗？</h3>
+                                    <p>
+                                        该功能会获取所有的12306服务器IP，智能测速之后每次查询使用随机的IP，减少缓存也增加抢票成功率，如某些杀毒软件提示，请添加信任，否则无法使用本功能。
+                                        <br>智能CDN可能需要10分钟左右测试完毕，如需要整点抢票，请提前打开软件。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>定时启动有什么作用？</h3>
+                                    <p>
+                                        当用户不需要马上就开始抢票，而是在一定时间开始的时候使用，如需要抢13点的预售票，可以设置到12:59:55，并点击开始抢票。
+                                        勾选并设置好之后，需点击开始抢票才可以启动该功能。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>为何显示有票，却抢不到，缓存又是什么？</h3>
+                                    <p>
+                                        12306官方回复：所有票的数据皆为参考，真正抢到才是有票，那么抢不到则可能为缓存数据。
+                                        <br>缓存的数据即已经过期的数据，数据没有及时的更新到。12306使用了CDN，所有数据皆为缓存，缓存的时长为2分钟，假如已经没票了，而2分钟内没更新最新票务清空，用户看到的即为缓存。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>提交失败的车次，放入小黑屋有什么用？</h3>
+                                    <p>
+                                        当遇到缓存的票数时，提交上去12306返回：没有足够的票，或者当前排队人数大于余票数，此时该票已经无法再提交，反复提交将影响其他车次的查询，
+                                        所以把该车次放入小黑屋，30秒后才拿出来重试，如果依然是缓存，则再次放入小黑屋。
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <h3><b>●</b>余票不足乘客时,部分提交是什么意思？</h3>
+                                    <p>
+                                        例如某车次的某个席别查到了3张票，而用户勾选了4名乘客，如果未开启此功能，则不满足条件不进行提交，若用户开启了此功能，则只提交前3位乘客，
+                                        提交乘客的顺序依照软件的勾选和排序的顺序。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>保存输出区日志,保存在哪里了？</h3>
+                                    <p>
+                                        勾选之后，软件会把每次的输出保存在软件同级目录下 Log.txt文件内，当文件>5M时将自动重命名并重新生成新日志文件。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>多站点查询应该如何使用？</h3>
+                                    <p>
+                                        勾选启用多站之后，将屏蔽出发地-目的地功能，使用高级设置里的内容
+                                        <br />例如有2个出发地，3个目的地，则依次查询为 出发地1-目的地1，出发地1-目的地2，出发地1-目的地3，出发地2-目的地1，出发地2-目的地2，出发地2-目的地3。如此循环
+                                        <br />如果需要添加车次，请点击多次查询余票，添加进入以后开启抢票即可
+                                        <br />需注意，尽量保证每个出发地到每个目的地都为有效的查询。
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div id="nav3" class="nav1_main" style="display:none">
+                            <ul>
+                                <li>
+                                    <h3><b>●</b>软件无法登陆、无法提交订单、提示您的操作频率过快？</h3>
+                                    <p>
+                                        这是12306封锁了您的外网IP，由于同网络下请求过于频繁导致，公司下刷票更容易导致误封。
+                                        <br />您可以重启路由器、使用第三方更换IP程序、VPN/代理等办法，也可以调整刷新频率，避免被检测到。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>某些功能使用提示权限不够？</h3>
+                                    <p>请使用管理员启动软件，例如Win7,则在软件的exe文件上面右键选择管理员运行。</p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>轮询日期显示不正常，如何解决？</h3>
+                                    <p>请卸载第三方的日历插件，必要时可以重装系统，外在因素影响了软件获取日期。</p>
+                                </li>
+
+                                <li>
+                                    <h3><b>●</b>软件频繁出现下线自动登录，如何解决？</h3>
+                                    <p>软件默认10分钟检查登录状态，以避免抢票时登录影响速度。当12306频繁踢人的时候，请淡定等待，因为浏览器也踢。</p>
+                                </li>
+
+                                <li>
+                                    <h3><b>●</b>当CDN经常减少，如何解决？</h3>
+                                    <p>
+                                        首先检查访问12306的情况，如网络正常，您也可以单击成功个数，重新获取CDN，如果短时间内再次减少，请关闭或降低查询间隔，有可能已经被封IP，重启路由器或者等待解封。
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>软件注册成功，之后开启不显示注册，如何解决？</h3>
+                                    <p>软件的注册自动绑定了12306账号，切换账号之后无法获取到注册。</p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>为何勾选了尝试不提交无座票，还是抢到了无座？</h3>
+                                    <p>软件有个功能，实时无座不提交。</p>
+                                    <p>勾选上是12306返回是无座的时候不要，返回二等座/硬座最后系统强制分配的无座，这就没办法了。</p>
+                                    <p>无座是12306分配的，提交的时候都是二等座/硬座，但最后12306的最终强制分配是无法决定的。</p>
+                                    <p>勾选上，能避免80%的强制分配，【仍不能完全保证】，这个可以咨询下12306，关于强制分配无座。。</p>
+                                   
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div id="nav4" class="nav4_main" style="display:none">
+                            <ul>
+                                <li>
+                                    <h3><b>●</b>为何别人能抢到票，自己一星期都没动静？</h3>
+                                    <p>
+                                        那么很大程度你的带宽是缓存太大，尽量使用电信、联通的网络，因为12306节点大部分都是电信、联通，而其他一些宽带抢票肯定差一些。
+
+                                    </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>IP经常被封，提交订单经常无响应？</h3>
+                                    <p>如拨号的网络，重启一下路由器即可。（断电再插上也可以）</p>
+                                    <p>如使用公司或多人公用的网络，请等待1小时左右解封。（关于公司网络）
+                                    <br> 外网IP为同一个，多个人在刷票的情况下，12306会认为是一个人。
+                                    <br> 即使解封后，如果继续很多人刷票，可能导致继续被封。
+                                    <br> 建议在家挂着抢票，用teamviewer备用远程查看。
+                                   </p>
+                                </li>
+                                <li>
+                                    <h3><b>●</b>如上两点都没问题，为何还是抢不到票？</h3>
+                                    <p>
+                                        捡漏的话是要等有人退票和系统放票，一般都是距离发车比较近的时候，所以可能要挂很多天，经验来说，一般距离发车的前几天出票最多。
+                                        <br /> 过路的车站可能被限售，一直不放票，可以增加多个远一点的车站，必要的时候购买全程票，往远了放票，也是实现这张票的价值。
+                                    </p>
+                                </li>
+
+                                <li>
+                                    <h3><b>●</b>修改间隔应该多少才合适呢？</h3>
+                                    <p>
+                                        整点半点预售的时候可以修改间隔，预售的1分钟内设置低一些，几十秒后及时的关闭。
+                                        <br>捡漏慎重修改间隔，长时间低间隔，很容易被封IP，届时可能无法提交订单，一切是成了徒劳。
+                                    </p>
+                                </li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--底部-->
+        <div id="footer">
+            <p>Copyright © 2013 - 2018 12306bypass.com 版权所有 · 粤ICP备18028113号-1</p>
+            <p>
+                分流,不只是技术上的争斗.
+            </p>
+        </div>
+    </div>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/nav.js"></script>
+</body>
+</html>
