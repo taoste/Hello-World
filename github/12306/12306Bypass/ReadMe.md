@@ -22,7 +22,7 @@
 
 --------------
 
-【**同类项目**】 GitHub - [**fancymax/12306ForMac: An unofficial 12306 Client for Mac**](https://github.com/fancymax/12306ForMachttps://github.com/fancymax/12306ForMac)
+- 【**同类项目**】 GitHub - [**fancymax/12306ForMac: An unofficial 12306 Client for Mac**](https://github.com/fancymax/12306ForMachttps://github.com/fancymax/12306ForMac)
 
 
 # [**12306ForMac**](https://github.com/fancymax/12306ForMac)
