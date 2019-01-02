@@ -287,6 +287,15 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 >  一个简洁的浏览器扩展，让你看到想收藏的内容，可以直接裁剪保存下到，以避免网站挂了，网址失效，图片失效等问题。
 
+- [ ] 18. [**Read Aloud: 文本语音朗读助理**](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp/related?utm_source=chrome-ntp-icon?hl=zh-CN) - Chrome 网上应用店
+
+>  轻轻点击，即可为您朗读页面上的文本。（现正支援超过 40 种以上语言）
+>  
+>  厌倦了坐着，厌倦了阅读？ 单击按钮，跳到床上，然后大声朗读文章。 支持PDF。
+>  
+>  许多现有的文本到语音扩展要求您选择要读取的文本，真是太痛苦了！ 一些流行的甚至不起作用。 所以我为自己创建了一个，并且我按照我想要的方式使它工作：一次点击它应该找出自己阅读的内容。
+
+<img src="https://lh3.googleusercontent.com/JTteOBHxxVr98Cf6MqTpF1_Alu1HdDDI4q6Qhy9r_Ej-umTDeBXWBWcCNw8yhfy9S-cjQ53LPQ=w640-h400-e365?raw=true"/>
 
  ---------------------------------------------
  
