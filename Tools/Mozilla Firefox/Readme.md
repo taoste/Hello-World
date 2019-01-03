@@ -160,6 +160,23 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 ) （ 提供方：https://cn.infinitynewtab.com ）
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
 
+- [x] [**二维码实用工具**](https://addons.mozilla.org/zh-CN/firefox/addon/qr-code-util/?src=search)
+ – 下载 🦊 Firefox 扩展（zh-CN）
+
+>离线且快捷地将当前**网页**或**任意文本**转为二维码，亦可识别图片中二维码。
+
+>关于此扩展
+
+>    点击图标即可获得当前页面网页的二维码
+>
+>    输入任意文本，即刻生成二维码
+>
+>    通过右键菜单
+>
+>        解析选定图片中二维码
+>
+>        为选中的文本或链接地址生成二维码
+
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
 ( [下载](http://desktopclient.net/gw/index.html#/hoxx) )
 
@@ -195,6 +212,7 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 
 - **[Thunderbird](https://addons.mozilla.org/zh-CN/firefox/addon/thunderbird-online-email/?src=search)** — 软件使电子邮件更为轻松。  |   **Mozilla**
 https://www.mozilla.org/zh-CN/thunderbird/
+
 
 -----------
 
