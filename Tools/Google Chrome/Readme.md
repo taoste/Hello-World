@@ -66,10 +66,10 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
   
 >   **参阅**：[Youtube视频讲解](https://youtu.be/tgWeLcMg7TM)
 
->   **源码安装方法**
+>   **源码安装方法：**
 > 
 > 从2018年6月13日起,谷歌最新的Chrome 7 不再支持CRX手动安装方法.样导至国内用户无法顺利安装Chrome扩展.大陆用户又无法访问Chrome应用商店.
-> 我们提供了源码安装方式.
+> 我们提供了源码安装方式：
 > 
 > 1.打开你的Chrome浏览器的 更多工具>扩展程序页面.或者直接在网址输入: chrome://extensions/
 > 
