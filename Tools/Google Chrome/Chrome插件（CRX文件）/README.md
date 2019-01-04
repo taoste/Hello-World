@@ -299,6 +299,8 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 - [ ] 19. [**家长控制 - 成人网站阻止**](https://chrome.google.com/webstore/detail/parental-control-adult-bl/peocghcbolghcodidjgkndgahnlaecfl?hl=zh-CN) - Chrome 网上应用店
 
+>  提供方：https://parentalcontrol.site
+
 >  阻止色情网站，保护您的孩子免受成人网站的侵害 反色情附加组件。 限制对成人内容的访问。
 
 
