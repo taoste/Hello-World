@@ -303,6 +303,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 >  阻止色情网站，保护您的孩子免受成人网站的侵害 反色情附加组件。 限制对成人内容的访问。
 
+<img src="https://lh3.googleusercontent.com/rUI3ih3yLXewOp_Vz_y6MOJuMHRO6NRPvmf1DxjRD5fwUMTya4CTVZZTOHDMVo0_tfCrDSgJDA=w640-h400-e365?raw=true"/>
 
  ---------------------------------------------
  
