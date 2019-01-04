@@ -1,6 +1,6 @@
 - [**微信视频压缩工具**](http://mydown.yesky.com/pcsoft/107251473.html) _ [正版免费下载](http://yesky.xzstatic.com/2017/03/15/weixinshipingyasuo.zip)【视频压缩】_天极下载
 
-> 微信视频压缩工具 1.0 （ [本地备份下载](微信视频压缩工具 v1.0.zip) ）
+> 微信视频压缩工具 1.0 （ [本地备份下载](https://taoste.github.io/Hello-World/Tools/微信视频压缩工具/微信视频压缩工具 v1.0.zip) ）
 > 
 > 更新时间：2018-01-10
 > 
