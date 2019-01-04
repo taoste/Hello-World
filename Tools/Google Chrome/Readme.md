@@ -4,6 +4,8 @@
 
 [[Note](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome)] 🚀 [谷歌 Google 系列 · Issue #9](https://github.com/taoste/taoste.github.io/issues/9) · [Go : taoste/Hello-World](http://go.choong.net/google)
 
+( chrome://net-internals/#hsts )
+
  -------------------------------------------
  
  [**歡迎使用 Chrome**](chrome://welcome-win10/)  ( chrome://welcome-win10/ ) - 
