@@ -7,7 +7,7 @@
 > 进入缓存目录，更改缓存的音乐UC后缀为MP3后缀格式。
 
 
-> ☞ [音乐 ♫](https://github.com/taoste/Hello-World/tree/master/Music) 工具 Tools 推荐：
+> ☞ [音乐 ♫](https://github.com/taoste/Hello-World/tree/master/Music) - 工具 Tools 推荐：
 >  - [网易云音乐-格式转换工具（uc2mp3）](https://github.com/taoste/Hello-World/blob/master/Tools/网易云音乐-格式转换工具（uc2mp3）/ReadMe.md)
 >  - [酷狗歌词krc文件转lrc(krc2lrc)](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗歌词krc文件转lrc(krc2lrc))
 >  - [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) 
