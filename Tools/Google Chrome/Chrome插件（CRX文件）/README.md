@@ -258,6 +258,12 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 - [强大代理扩展插件SwitchyOmega使用教程 火狐/Chrome适用](https://ssr.tools/150) - [SSR中文网](https://ssr.tools/) | 让上网更科学
 
+-  **推荐4👍**《[**Browsec VPN**](https://addons.mozilla.org/zh-CN/firefox/addon/browsec/?src=searchv)》 
+
+（支持 [Chrome](https://chrome.google.com/webstore/detail/browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/browsec/?src=searchv)）
+
+> - （ 提供方： [主页](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) / [支持网站](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) ）
+
 -------------------------------------------
 
 - [ ] 15. [**MPAA 电影评级**](https://chrome.google.com/webstore/detail/mpaa-%E7%94%B5%E5%BD%B1%E8%AF%84%E7%BA%A7/dnjigceoecdajpgbjemglmhhboleipfg) - Chrome 网上应用店
