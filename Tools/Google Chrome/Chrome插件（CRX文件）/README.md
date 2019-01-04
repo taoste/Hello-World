@@ -260,7 +260,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 -  **推荐4👍**《[**Browsec VPN**](https://addons.mozilla.org/zh-CN/firefox/addon/browsec/?src=searchv)》 （支持 [Chrome](https://chrome.google.com/webstore/detail/browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/browsec/?src=searchv)）
 
-> - （ 提供方： [主页](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) / [支持网站](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) ）
+> （ 提供方： [主页](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) / [支持网站](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) ）
 
 -------------------------------------------
 
