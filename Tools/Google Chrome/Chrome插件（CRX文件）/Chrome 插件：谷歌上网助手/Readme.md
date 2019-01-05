@@ -1,7 +1,7 @@
 - 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
 [🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
 
-**Readme：Chrome 插件：谷歌上网助手**
+**Readme：Chrome 插件：谷歌上网助手**（[**安装图示**](https://taoste.github.io/Hello-World/Tools/Google%20Chrome/Chrome插件（CRX文件）/Chrome 插件：谷歌上网助手/安装图示.jpg））
 
 -------------------------------------------
 
