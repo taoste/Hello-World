@@ -1,4 +1,4 @@
-﻿- 《[**如何获取不同网站的favicon默认图标**](https://www.cnblogs.com/zhangwei595806165/p/4984912.html)》 - 承影剑 - 博客园
+﻿- 《[**如何获取不同网站的favicon默认图标**](https://www.cnblogs.com/zhangwei595806165/p/4984912.html)》 - [承影剑](https://www.cnblogs.com/zhangwei595806165) - [博客园](https://www.cnblogs.com/)
 
 --------------
 
