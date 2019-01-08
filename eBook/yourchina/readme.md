@@ -23,7 +23,7 @@
  
  ----------------------------------------------------------------------
  
- ②《厉害了，我的国》（英文名：《Amazing China》）  系列：
+ ②《厉害了，[我的国](https://zh.wikipedia.org/wiki/%E5%9F%B7%E6%94%BF%E9%BB%A8#%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6)》（英文名：《Amazing China》）  系列：
  
  https://taoste.github.io/Hello-World/eBook/yourchina/2017-11-04_091737.jpg
  
