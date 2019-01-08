@@ -94,3 +94,6 @@
  https://taoste.github.io/Hello-World/eBook/yourchina/0.png
 
   
+- 【天道昭彰】分类:[被中华人民共和国处决的死刑犯列表](https://zh.wikipedia.org/wiki/Category:%E8%A2%AB%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%84%E5%86%B3%E7%9A%84%E6%AD%BB%E5%88%91%E7%8A%AF%E5%88%97%E8%A1%A8) - [维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Category:%E8%A2%AB%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%84%E5%86%B3%E7%9A%84%E6%AD%BB%E5%88%91%E7%8A%AF)
+> [2019年被中华人民共和国处决的死刑犯列表](https://zh.wikipedia.org/wiki/2019%E5%B9%B4%E8%A2%AB%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%84%E5%86%B3%E7%9A%84%E6%AD%BB%E5%88%91%E7%8A%AF%E5%88%97%E8%A1%A8) - 维基百科，自由的百科全书
+
