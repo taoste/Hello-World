@@ -1,5 +1,9 @@
 - [HTML URL 编码](http://www.w3school.com.cn/tags/html_ref_urlencode.html)
 
+- [**SVG转PNG**](https://svgtopng.com/zh/) – 在线将SVG文档转换成至PNG
+
+> [SVG](https://zh.wikipedia.org/wiki/%E5%8F%AF%E7%B8%AE%E6%94%BE%E5%90%91%E9%87%8F%E5%9C%96%E5%BD%A2)免费在线PNG转换软件允许您将SVG文档转换成PNG文档，轻松且简单。
+
 - [使用 HTML5 音频和视频](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) | [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web) - MDN
 (💖 [关于GitHub 及 编程 · Issue #2 · taoste/taoste.github.io](https://github.com/taoste/taoste.github.io/issues/2))
 
