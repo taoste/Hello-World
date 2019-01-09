@@ -68,6 +68,10 @@
 
 ( 其他：[css - html5 video标签 自适应](https://segmentfault.com/q/1010000012431653) - SegmentFault 思否 )  
 
+- **选择语言(多语言切换)**
+
+> [CommanderXL/D-i18n: 前端国际化通用解决方案。抹平不同前端开发技术栈所带来的差异。](https://github.com/CommanderXL/D-i18n)
+
 
 - **HTML 相对路径&目录**
 
