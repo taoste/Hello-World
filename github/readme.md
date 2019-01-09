@@ -72,6 +72,7 @@
 
 > [CommanderXL/D-i18n: 前端国际化通用解决方案。抹平不同前端开发技术栈所带来的差异。](https://github.com/CommanderXL/D-i18n)
 
+> [HTML多语言切换，Jquery实现 - yjing blog](https://yjgit.github.io/2017/08/10/multiple-language-html/)
 
 - **HTML 相对路径&目录**
 
