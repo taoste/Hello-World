@@ -19,7 +19,8 @@
  
  - [**IPFS**](https://ipfs.io/)：分布式Web （ https://ipfs.io/ )
 
->( IPFS： @[Twitter](https://twitter.com/ipfsbot）/ @[G+](https://plus.google.com/108638684245894749879)/ @[Youtube](https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew)/ @[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ipfs.io) )
+>( [IPFS](https://zh.wikipedia.org/zh-hans/%E6%98%9F%E9%99%85%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F) ： @[Twitter](https://twitter.com/ipfsbot) / @[G+](https://plus.google.com/108638684245894749879) / @[Youtube](https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew) / @[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ipfs.io) )
+
 > [编程随想](https://program-think.blogspot.com/)的网友分享-([IPFS镜像域名](https://progr.tk/) https://progr.tk/ ）被DNS污染。
  
 【笔记.导航】Study Notepad :
