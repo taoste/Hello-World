@@ -12,6 +12,10 @@
 
 ----------------------------------
 
+- [**抖音短视频**](https://www.douyin.com/)(国际版): [TikTok](https://www.tiktok.com/)
+
+----------------------------------
+
 - [“ **WiFi密码查看器** - WiFi密码一键查看! ”](https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword) 
 
 ( 【下载】 iOS：@[iPhone/iPad](https://itunes.apple.com/cn/app/wifi%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%99%A8-wifi%E5%AF%86%E7%A0%81%E4%B8%80%E9%94%AE%E6%9F%A5%E7%9C%8B/id1197978826?mt=8) - Android:
