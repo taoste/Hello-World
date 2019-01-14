@@ -12,8 +12,8 @@
 
 ----------------------------------
 
-- [**抖音短视频**](https://www.douyin.com/)(国际版): [TikTok](https://www.tiktok.com/)
-
+- [**抖音短视频**](https://www.douyin.com/)(国际版): [TikTok](https://www.tiktok.com/) ( @[维基百科](https://zh.wikipedia.org/wiki/%E6%8A%96%E9%9F%B3%E7%9F%AD%E8%A7%86%E9%A2%91) )
+ 
 ----------------------------------
 
 - [“ **WiFi密码查看器** - WiFi密码一键查看! ”](https://android.myapp.com/myapp/detail.htm?apkName=com.alex.lookwifipassword) 
