@@ -7,7 +7,7 @@ VLan:
 ------------------------------------------
 
 《[**IP地址管理与子网划分**](https://taoste.github.io/Hello-World/IP地址管理与子网划分/index.txt)》：
-[前言](https://taoste.github.io/Hello-World/IP地址管理与子网划分/前言.txt)-[1](https://taoste.github.io/Hello-World/IP地址管理与子网划分/01.PDF)-[2](https://taoste.github.io/Hello-World/IP地址管理与子网划分/02.pdf)-[3](https://taoste.github.io/Hello-World/IP地址管理与子网划分/03.pdf)-[4](https://taoste.github.io/Hello-World/IP地址管理与子网划分/04.pdf)-【[下载]()】
+[前言](https://github.com/taoste/Hello-World/blob/master/IP%E5%9C%B0%E5%9D%80%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AD%90%E7%BD%91%E5%88%92%E5%88%86/%E5%89%8D%E8%A8%80.txt)-[1](https://taoste.github.io/Hello-World/IP地址管理与子网划分/01.PDF)-[2](https://taoste.github.io/Hello-World/IP地址管理与子网划分/02.pdf)-[3](https://taoste.github.io/Hello-World/IP地址管理与子网划分/03.pdf)-[4](https://taoste.github.io/Hello-World/IP地址管理与子网划分/04.pdf)-【[下载]()】
 
 ------------------------------------------
 
