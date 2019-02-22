@@ -5,7 +5,8 @@
 扩展程序和应用的**键盘快捷键设置** 请在插件管理页最下方右边进入。（ 直接设置地址： chrome://extensions/configureCommands ）
 [更多>>>](https://github.com/taoste/taoste.github.io/issues/9#issue-208351775)
 
-**推荐插件👍《[Password Checkup - 密码泄露检查工具](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)》** - Password Checkup 可協助您重新確保帳戶的安全性 （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
+**推荐插件👍《[Password Checkup - 密码泄露检查工具](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
+>  - Password Checkup 可協助您重新確保帳戶的安全性
 > 
 > Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。
 > 无论您在何处登录，只要您输入的用户名和密码因涉及 Google 已知的数据泄露而不再安全，就会收到系统提醒。请重置您的密码。如果您为任何其他帐号也使用该相同用户名和密码，也请重置这些帐号的密码。
