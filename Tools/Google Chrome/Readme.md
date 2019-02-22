@@ -6,16 +6,6 @@
 
 ( chrome://net-internals/#hsts )
 
-**推荐Chrome插件👍《[Password Checkup](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)》**
-> 
-> Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。
-> 无论您在何处登录，只要您输入的用户名和密码因涉及 Google 已知的数据泄露而不再安全，就会收到系统提醒。请重置您的密码。如果您为任何其他帐号也使用该相同用户名和密码，也请重置这些帐号的密码。
-> 
-> 我们在设计“密码检查”时就充分考虑了隐私权问题。该功能不会报告有关您的帐号、密码或设备的任何识别信息。但我们会报告与显示不安全凭据的查询次数（无论您在收到系统提醒后是否更改密码）以及所涉网域相关的匿名信息，以提高网站的覆盖率。您可以访问 https://support.google.com/accounts?p=password-checkup，详细了解“密码检查”的工作原理。
-> 
-> 安装“密码检查”即表示您同意 www.google.com/policies/ 上所列的 Google 服务条款和隐私权政策。
-> 
-> 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
 
  -------------------------------------------
  
@@ -55,6 +45,18 @@ https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x
 https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2cjea9an8hhc6tje8y4jiieqsruld9oyajv9i6atj40utl3hpl2/49.0.2623.112_chrome_installer_win64.exe
  
 -------------------------------------------
+
+**推荐插件👍《[Password Checkup - 密码泄露检查工具](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)》** - Password Checkup 可協助您重新確保帳戶的安全性
+> 
+> Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。
+> 无论您在何处登录，只要您输入的用户名和密码因涉及 Google 已知的数据泄露而不再安全，就会收到系统提醒。请重置您的密码。如果您为任何其他帐号也使用该相同用户名和密码，也请重置这些帐号的密码。
+> 
+> 我们在设计“密码检查”时就充分考虑了隐私权问题。该功能不会报告有关您的帐号、密码或设备的任何识别信息。但我们会报告与显示不安全凭据的查询次数（无论您在收到系统提醒后是否更改密码）以及所涉网域相关的匿名信息，以提高网站的覆盖率。您可以访问 https://support.google.com/accounts?p=password-checkup，详细了解“密码检查”的工作原理。
+> 
+> 安装“密码检查”即表示您同意 www.google.com/policies/ 上所列的 Google 服务条款和隐私权政策。
+> 
+> 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
+
 
 **推荐1👍《谷歌上网助手（Ghelper）》一键安装，无需其他配置，即可访问谷歌（需注册/无限免费使用方法附后）。**
 
