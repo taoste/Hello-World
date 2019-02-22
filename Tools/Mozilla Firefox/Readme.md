@@ -79,7 +79,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 [★精选扩展★](https://addons.mozilla.org/zh-CN/firefox/search/?featured=true&type=extension)
 
-**推荐插件👍《[Password Checkup - 密码泄露检查工具](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
+- [x] **👍《[Password Checkup - Google 出品的密码泄露检查扩展](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
 >  - Password Checkup 可協助您重新確保帳戶的安全性
 > 
 > Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。
