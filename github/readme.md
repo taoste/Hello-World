@@ -147,7 +147,7 @@
 
 > (请大家定期备份/ZeroNet/data/user.json 这是你账号的唯一凭证!)
 
-- **<a href="https://www.yuque.com/fe9/basic/iwtzab " title="前端开发漫游指南 · 语雀"> 前端开发漫游指南</a>**
+- **<a href="https://www.yuque.com/fe9/basic" title="前端九部 - 入门者手册2019 · 语雀"> 《前端入门者手册2019:前端开发漫游指南》</a>**
 <p><a href="https://www.yuque.com/fe9/basic/iwtzab " title="前端开发漫游指南 · 语雀">    
 <img src="https://github.com/ccloli/developer-roadmap-zh-CN/blob/master/images/frontend.png?raw=true"/>
 </a></p>
