@@ -46,7 +46,7 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
  
 -------------------------------------------
 
-**推荐插件👍《[Password Checkup - Google 出品的密码泄露检查扩展](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
+**推荐插件👍《[Password Checkup](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn) - [Google 出品](https://chrome.google.com/webstore/category/ext/15-by-google)的密码泄露检查扩展》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
 >  - [Password Checkup 可協助您重新確保帳戶的安全性](https://support.google.com/accounts/answer/9231944?p=password-checkup&visit_id=636864003751353374-3618205692&rd=1)
 > 
 > Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。
