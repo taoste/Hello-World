@@ -91,6 +91,24 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 > 
 > 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
 
+- [x] 👍[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
+
+1. [Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
+
+> 少数派: [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解](https://zhuanlan.zhihu.com/p/28869740) - [知乎](https://www.zhihu.com/)
+
+》 推荐「油猴」脚本：
+> [Github助手](https://greasyfork.org/zh-CN/scripts/37899-github%E5%8A%A9%E6%89%8B)( @[油猴官网](https://greasyfork.org/zh-CN) )
+>
+> [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)( @[油猴官网](https://greasyfork.org/zh-CN) )
+>
+> 不需要透过第三方的服务就能下载 YouTube 影片。
+
+> [视频站启用html5播放器](
+https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%E7%94%A8html5%E6%92%AD%E6%94%BE%E5%99%A8)(  @[油猴官网](https://greasyfork.org/zh-CN) )
+>
+> 三大功能 。启用html5播放器；万能网页全屏；添加快捷键：快进、快退、暂停/播放、音量、下一集、切换(网页)全屏、上下帧、播放速度。支持视频站点：油管、TED、优.土、QQ、B站、芒果TV、新浪、微博、网易[娱乐、云课堂、新闻]、搜狐、乐视、风行、百度云视频等；直播：斗鱼、熊猫、YY、虎牙、龙珠、战旗。可增加自定义站点
+
 - [x] [**ChatZilla**](https://addons.mozilla.org/firefox/addon/chatzilla/) （官方网站 | [chatzilla.hacksrus.com](http://chatzilla.hacksrus.com/) ）是Mozilla浏览器下的IRC客户端程序，基于JavaScript和XUL语言编写的。（@[维基百科](https://zh.wikipedia.org/wiki/ChatZilla)）( **提示：不兼容 Firefox Quantum** )
 
 - [x]  [**HTTPS Everywhere**](https://addons.mozilla.org/zh-CN/firefox/addon/https-everywhere/?src=ss) - 是电子前哨基金会（EFF）的免费浏览器插件，它可以强制网页使用“HTTPS”的方式加密访问，避免被不良宽带商和中间人篡改。
