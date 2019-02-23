@@ -97,12 +97,20 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 > 少数派: [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解](https://zhuanlan.zhihu.com/p/28869740) - [知乎](https://www.zhihu.com/)
 
-》 推荐「油猴」脚本：
+》 推荐「油猴」脚本（ [浏览此网站](https://greasyfork.org/zh-CN/scripts) 查找您想尝试的用户脚本。最流行的用户脚本有：）：
 > [Github助手](https://greasyfork.org/zh-CN/scripts/37899-github%E5%8A%A9%E6%89%8B)( @[油猴官网](https://greasyfork.org/zh-CN) )
 >
-> [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)( @[油猴官网](https://greasyfork.org/zh-CN) )
+> [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)( @[油猴官网](https://greasyfork.org/zh-CN) ) - 不需要透过第三方的服务就能下载 YouTube 影片。
 >
-> 不需要透过第三方的服务就能下载 YouTube 影片。
+> [解决百度云大文件下载限制 （路人添加版）](https://greasyfork.org/zh-CN/scripts/372315-解决百度云大文件下载限制-路人添加版) - 一行代码，解决百度云大文件下载限制
+>
+> [Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs) - 显示当前网站的所有可用UserJS(Tampermonkey)脚本,交流QQ群:104267383
+>
+> [网页限制解除](https://greasyfork.org/zh-CN/scripts/14146-网页限制解除) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
+>
+> [购物党自动比价工具-领取淘宝内部券](https://greasyfork.org/zh-CN/scripts/14466-购物党自动比价工具-领取淘宝内部券) - ［含有购物党的返利］浏览商品页面时，自动比较同款商品在淘宝/京东/亚马逊/当当/苏宁/等百家商城的最低价，提供价格历史、口碑评分等查询。支持商品促销活动，商城优惠信息查询，商品可全网收藏，降价提醒。支持链家、我爱我家、中原地产等主流房产网站房源价格走势查询，为买房人士提供决策参考。
+>
+> [一键离线下载](https://greasyfork.org/zh-CN/scripts/22590-一键离线下载) - 一键自动将磁链、bt种子或其他下载资源离线下载至网盘
 
 > [视频站启用html5播放器](
 https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%E7%94%A8html5%E6%92%AD%E6%94%BE%E5%99%A8)(  @[油猴官网](https://greasyfork.org/zh-CN) )
