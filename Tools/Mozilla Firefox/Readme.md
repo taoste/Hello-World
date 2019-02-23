@@ -92,69 +92,35 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 > 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
 
 - [x] 👍[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
-328
-​
-329
 1. [Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
-330
-​
-331
 > 少数派: [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解](https://zhuanlan.zhihu.com/p/28869740) - [知乎](https://www.zhihu.com/)
-332
-​
-333
+
 》 推荐「油猴」脚本（ [浏览此网站](https://greasyfork.org/zh-CN/scripts) 查找您想尝试的用户脚本。最流行的用户脚本有：）：
-334
-​
-335
+
 > [Github助手](https://greasyfork.org/zh-CN/scripts/37899-github%E5%8A%A9%E6%89%8B)( @[油猴官网](https://greasyfork.org/zh-CN) )
-336
 >
-337
 > [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)( @[油猴官网](https://greasyfork.org/zh-CN) ) - 不需要透过第三方的服务就能下载 YouTube 影片。
-338
 >
-339
 > [解VIP会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-破解vip会员视频集合)( @[油猴官网](https://greasyfork.org/zh-CN) ) - 一键破解[优酷|腾讯|乐视|爱奇艺|芒果|AB站|音悦台]等VIP或会员视频，解析接口贵精不贵多，绝对够用。详细方法看说明和图片。
-340
 >
-341
 > [解决百度云大文件下载限制 （路人添加版）](https://greasyfork.org/zh-CN/scripts/372315-解决百度云大文件下载限制-路人添加版) - 一行代码，解决百度云大文件下载限制
-342
 >
-343
 > [百度网盘直接下载助手 直链加速版](ttps://greasyfork.org/zh-CN/scripts/39504-百度网盘直接下载助手-直链加速版) - 百度网盘高速下载 支持IDM [2019-02-20] 修复我的网盘API下载返回403的问题
-344
 >
-345
 > [百度文库文字复制及原格式下载](https://greasyfork.org/zh-CN/scripts/376712-百度文库文字复制及原格式下载) - 百度文库页面添加两个按钮，一键复制百度文库文字,一键加群获取原格式文档
-346
 >
-347
 > [百度文库（wenku）在线下载PDF格式文件](https://greasyfork.org/zh-CN/scripts/373334-百度文库-wenku-在线下载pdf格式文件) - 度文库文档页面打印PDF，chrome浏览器最好能安装一下 adblock 插件，下载后的pdf文件可以在 https://pdf2docx.com/zh/ 上转换成docx
-348
 > 
-349
 > [Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs) - 显示当前网站的所有可用UserJS(Tampermonkey)脚本,交流QQ群:104267383
-350
 >
-351
 > [网页限制解除](https://greasyfork.org/zh-CN/scripts/14146-网页限制解除) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
-352
 >
-353
 > [购物党自动比价工具-领取淘宝内部券](https://greasyfork.org/zh-CN/scripts/14466-购物党自动比价工具-领取淘宝内部券) - ［含有购物党的返利］浏览商品页面时，自动比较同款商品在淘宝/京东/亚马逊/当当/苏宁/等百家商城的最低价，提供价格历史、口碑评分等查询。支持商品促销活动，商城优惠信息查询，商品可全网收藏，降价提醒。支持链家、我爱我家、中原地产等主流房产网站房源价格走势查询，为买房人士提供决策参考。
-354
 >
-355
 > [一键离线下载](https://greasyfork.org/zh-CN/scripts/22590-一键离线下载) - 一键自动将磁链、bt种子或其他下载资源离线下载至网盘
-356
 > [视频站启用html5播放器](
-357
 https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%E7%94%A8html5%E6%92%AD%E6%94%BE%E5%99%A8)(  @[油猴官网](https://greasyfork.org/zh-CN) )
-358
 >
-359
 > 三大功能 。启用html5播放器；万能网页全屏；添加快捷键：快进、快退、暂停/播放、音量、下一集、切换(网页)全屏、上下帧、播放速度。支持视频站点：油管、TED、优.土、QQ、B站、芒果TV、新浪、微博、网易[娱乐、云课堂、新闻]、搜狐、乐视、风行、百度云视频等；直播：斗鱼、熊猫、YY、虎牙、龙珠、战旗。可增加自定义站点
 
 - [x] [**ChatZilla**](https://addons.mozilla.org/firefox/addon/chatzilla/) （官方网站 | [chatzilla.hacksrus.com](http://chatzilla.hacksrus.com/) ）是Mozilla浏览器下的IRC客户端程序，基于JavaScript和XUL语言编写的。（@[维基百科](https://zh.wikipedia.org/wiki/ChatZilla)）( **提示：不兼容 Firefox Quantum** )
