@@ -102,7 +102,11 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 >
 > [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)( @[油猴官网](https://greasyfork.org/zh-CN) ) - 不需要透过第三方的服务就能下载 YouTube 影片。
 >
+> [解VIP会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-破解vip会员视频集合)( @[油猴官网](https://greasyfork.org/zh-CN) ) - 一键破解[优酷|腾讯|乐视|爱奇艺|芒果|AB站|音悦台]等VIP或会员视频，解析接口贵精不贵多，绝对够用。详细方法看说明和图片。
+>
 > [解决百度云大文件下载限制 （路人添加版）](https://greasyfork.org/zh-CN/scripts/372315-解决百度云大文件下载限制-路人添加版) - 一行代码，解决百度云大文件下载限制
+>
+> [百度网盘直接下载助手 直链加速版](ttps://greasyfork.org/zh-CN/scripts/39504-百度网盘直接下载助手-直链加速版) - 百度网盘高速下载 支持IDM [2019-02-20] 修复我的网盘API下载返回403的问题
 >
 > [Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs) - 显示当前网站的所有可用UserJS(Tampermonkey)脚本,交流QQ群:104267383
 >
