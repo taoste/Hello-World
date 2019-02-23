@@ -324,7 +324,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
  ---------------------------------------------
  
 
-- 👍[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) - Chrome 网上应用店 - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
+- 👍[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
 
 1. [Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
 
