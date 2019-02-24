@@ -27,5 +27,9 @@
 
 <img src="https://camo.githubusercontent.com/707e83049ddab4c941efae7c3e789ebb045f9514/68747470733a2f2f7777772e77696c6c69616d6c6f6e672e696e666f2f75706c6f61642f353632345f312e6a7067" alt="在小米电视和小米盒子上看YouTube-月光博客" width="675" height="" />
 
+--------------------------------
+
+
+- <a href="http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253">[CC/CC极光 - 极米固件|极米刷机|极米升级 - XGIMI</a>
 
 
