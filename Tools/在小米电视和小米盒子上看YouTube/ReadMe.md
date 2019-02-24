@@ -1,5 +1,5 @@
 
-- [**在小米电视和小米盒子上看YouTube**](https://www.williamlong.info/archives/5624.html)-[月光博客](https://www.williamlong.info/)
+- [月光博客](https://www.williamlong.info/) » [软件应用](https://www.williamlong.info/cat/software.html) » [**在小米电视和小米盒子上看YouTube**](https://www.williamlong.info/archives/5624.html) - @[月光博客](https://www.williamlong.info/)
 
 2019-2-23 17:52:38 | 作者: 月光 | 分类: 软件应用
 
