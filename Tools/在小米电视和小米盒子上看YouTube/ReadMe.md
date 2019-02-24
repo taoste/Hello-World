@@ -18,4 +18,4 @@
 　　当然，用户也可以选择安装官方的YouTube应用，但必须安装Google框架等一堆东西，使用体验可能还未必好。
   
   
-<img src="https://camo.githubusercontent.com/707e83049ddab4c941efae7c3e789ebb045f9514/68747470733a2f2f7777772e77696c6c69616d6c6f6e672e696e666f2f75706c6f61642f353632345f312e6a7067" alt="在小米电视和小米盒子上看YouTube-月光博客" width="475" height="" />
+<img src="https://camo.githubusercontent.com/707e83049ddab4c941efae7c3e789ebb045f9514/68747470733a2f2f7777772e77696c6c69616d6c6f6e672e696e666f2f75706c6f61642f353632345f312e6a7067" alt="在小米电视和小米盒子上看YouTube-月光博客" width="675" height="" />
