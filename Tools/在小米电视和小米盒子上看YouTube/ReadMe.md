@@ -1,11 +1,11 @@
 
 - [月光博客](https://www.williamlong.info/) » [软件应用](https://www.williamlong.info/cat/software.html) » [**在小米电视和小米盒子上看YouTube**](https://www.williamlong.info/archives/5624.html) 
 
-> [**在小米电视和小米盒子上看YouTube**](https://www.williamlong.info/archives/5624.html) - @[月光博客](https://www.williamlong.info/)
+ [**在小米电视和小米盒子上看YouTube**](https://www.williamlong.info/archives/5624.html) - @[月光博客](https://www.williamlong.info/)
 
-> 2019-2-23 17:52:38 | 作者: 月光 | 分类: 软件应用
+ 2019-2-23 17:52:38 | 作者: 月光 | 分类: 软件应用
 
-> [PDF](https://taoste.github.io/Hello-World/Technical%20File(PDF)/月光博客/在小米电视和小米盒子上看YouTube-月光博客.pdf) :
+> [**PDF**](https://taoste.github.io/Hello-World/Technical%20File(PDF)/月光博客/在小米电视和小米盒子上看YouTube-月光博客.pdf) :
 
 首先需要下载两个APK应用，第一个是[**SmartYouTubeTV**](https://smartyoutubetv.github.io/)，点击这里下载[**最新版SmartYouTubeTV**](https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk )，将其复制到U盘。
 
