@@ -9,7 +9,8 @@
 
  <div class="clear"></div>
 		<div class="entry-content">
-		<a href="https://www.williamlong.info/tag/YouTube.html" rel="tag"><img src="https://www.williamlong.info/logo/YouTube.gif" alt="YouTube" class="thumb" /></a><p>　　使用小米电视和小米盒子看YouTube上的视频，是很多中国电视用户很想做的事情，下面，我就介绍一种很简单的方法，不用ROOT小米电视或小米盒子，不用重装系统，几分钟的设置就可以在小米电视和小米盒子上看YouTube的方法。</p>
+		<a href="https://www.williamlong.info/tag/YouTube.html" rel="tag"><img src="https://www.williamlong.info/logo/YouTube.gif" alt="YouTube" class="thumb" /></a>
+	<p>　　使用小米电视和小米盒子看YouTube上的视频，是很多中国电视用户很想做的事情，下面，我就介绍一种很简单的方法，不用ROOT小米电视或小米盒子，不用重装系统，几分钟的设置就可以在小米电视和小米盒子上看YouTube的方法。</p>
 
 <p>　　首先需要下载两个APK应用，第一个是<a href="https://smartyoutubetv.github.io/">SmartYouTubeTV</a>，<a href="https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk">点击这里</a>下载最新版SmartYouTubeTV，将其复制到U盘。第二个是Shadowsocks，访问<a href="https://www.apkmirror.com/">apkmirror</a>网站，搜索Shadowsocks，找到最新版后，下载universal的apk到U盘即可。</p>
 
