@@ -7,9 +7,11 @@
 
 > [**PDF**](https://taoste.github.io/Hello-World/Technical%20File(PDF)/月光博客/在小米电视和小米盒子上看YouTube-月光博客.pdf) :
 
-首先需要下载两个APK应用，第一个是[**SmartYouTubeTV**](https://smartyoutubetv.github.io/)，点击这里下载[**最新版SmartYouTubeTV**](https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk )，将其复制到U盘。
+   使用小米电视和小米盒子看YouTube上的视频，是很多中国电视用户很想做的事情，下面，我就介绍一种很简单的方法，不用ROOT小米电视或小米盒子，不用重装系统，几分钟的设置就可以在小米电视和小米盒子上看YouTube的方法。
 
-第二个是Shadowsocks，访问[**apkmirror网站**](https://www.apkmirror.com/)，搜索Shadowsocks，找到最新版后，下载universal的apk到U盘即可。
+   首先需要下载两个APK应用，第一个是[**SmartYouTubeTV**](https://smartyoutubetv.github.io/)，点击这里下载[**最新版SmartYouTubeTV**](https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk )，将其复制到U盘。
+
+    第二个是Shadowsocks，访问[**apkmirror网站**](https://www.apkmirror.com/)，搜索Shadowsocks，找到最新版后，下载universal的apk到U盘即可。
 
 　　之后，打开小米电视或小米盒子，在“设置-账户与安全”里，选择“允许安装未知来源的应用”。插入U盘，将上述两个apk文件安装到电视上。
 
@@ -19,5 +21,5 @@
 
 　　当然，用户也可以选择安装官方的YouTube应用，但必须安装Google框架等一堆东西，使用体验可能还未必好。
   
-  
+<img src="https://www.williamlong.info/logo/YouTube.gif/>
 <img src="https://camo.githubusercontent.com/707e83049ddab4c941efae7c3e789ebb045f9514/68747470733a2f2f7777772e77696c6c69616d6c6f6e672e696e666f2f75706c6f61642f353632345f312e6a7067" alt="在小米电视和小米盒子上看YouTube-月光博客" width="675" height="" />
