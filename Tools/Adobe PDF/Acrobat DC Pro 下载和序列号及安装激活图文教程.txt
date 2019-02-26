@@ -1,0 +1,155 @@
+Adobe Acrobat Pro DC
+
+ 
+Acrobat DC Pro 下载和序列号及安装激活图文教程 Acrobat DC Pro 下载和序列号及安装激活图文教程 Acrobat DC 官方版 + 便携版 + 注册机 及产品介绍 一、 - CSDN博客
+https://blog.csdn.net/LWJdear/article/details/78654080
+
+Acrobat DC 官方版 + 便携版 + 注册机 及产品介绍
+
+一、安装包下载
+
+Adobe Acrobat DC Pro (Perpetual) – 永久版本
+
+http://trials3.adobe.com/AdobeProducts/APRO/Solstice_Acrobat2015/win32/Acrobat_2015_Web_WWMUI.exe
+
+Adobe Acrobat DC Pro (Subscription) – 连续版本
+
+http://trials3.adobe.com/AdobeProducts/APRO/15/win32/Acrobat_DC_Web_WWMUI.exe
+
+永久版本，只能获得补丁，不能获取功能更新。（以下安装以“永久版本”为例，本人亲测可以脱机激活）
+
+连续版本，也就是订阅版，可以获得功能更新。（“连续版本”能否脱机激活，没有测试，请诸位自测。）
+
+二、断网安装
+
+1、注意整个安装和激活的过程中一定要断网，禁用网卡或拔掉网线。
+
+2、由于目前还没有发布针对Adobe Acrobat DC的专用注册机，所以仍用适用Acrobat XI的Adobe Acrobat XI的专用注册机（xf-aarpxi.exe）算安装序列号。（不建议用Adobe破解补丁！）
+
+以下为通用序列号：1118-1583-7979-9484-4887-4319，输入的序列号要记住，因为后面脱机激活还要用到。
+
+
+
+3、如果需要，可以选择“自定义”安装，“自定义安装”时组件和安装路径都可以更改。注意安装过程中不要运行Office程序。
+
+
+
+
+三、脱机激活
+
+1、安装完毕首次运行软件，提醒你需要使用Adobe ID登录才能激活本软件。当然不能这么联网激活，我们要做的是脱机激活。
+
+所以要点击“连接Internet时是否出现问题？”
+
+
+
+2、点击“脱机激活”，并接着点击“生成请求代码”。
+
+
+
+
+3、脱机激活的窗口不要关闭，再去运行Adobe CC2014的算号器（xf-adobecc2014.exe）计算响应代码。
+
+(1)Serial 里输入之前安装时用的序列号；
+
+(2)Request里输入脱机激活窗口里的“请求代码”；
+
+(3)点击GENERATE就会在Activation里生成“响应代码”，复制到脱机激活窗口的响应代码区；
+
+(4)点击“激活”并确认看到“脱机激活完成”的窗口。
+
+
+
+
+
+
+
+四、屏蔽联网验证
+
+脱机激活后在hosts文件里添加
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+
+127.0.0.1 lm.licenses.adobe.com
+
+127.0.0.1 3dns-2.adobe.com
+
+127.0.0.1 3dns-3.adobe.com
+
+127.0.0.1 activate.adobe.com
+
+127.0.0.1 activate-sea.adobe.com
+
+127.0.0.1 activate-sjc0.adobe.com
+
+127.0.0.1 adobe-dns.adobe.com
+
+127.0.0.1 adobe-dns-2.adobe.com
+
+127.0.0.1 adobe-dns-3.adobe.com
+
+127.0.0.1 ereg.adobe.com
+
+127.0.0.1 hl2rcv.adobe.com
+
+127.0.0.1 practivate.adobe.com
+
+127.0.0.1 wip3.adobe.com
+
+127.0.0.1 activate.wip3.adobe.com
+
+127.0.0.1 ereg.wip3.adobe.com
+
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+
+以上工作完成后，这时才可以联网。
+
+
+
+五、后续完善工作
+
+1、运行软件后，依次点选以下菜单栏
+
+编辑——首选项——文档，“最近使用列表中的最大文档数量”设置为0
+
+编辑——首选项——一般，取消勾选“启动Adobe Acrobat DC时向我显示消息”
+
+编辑——首选项——更新程序，取消勾选“自动安装更新”
+
+Adobe Acrabat的离线更新补丁下载网页：http://www.adobe.com/support/downloads/product.jsp?product=1&platform=Windows
+
+ 
+
+2、如果系统中有防火墙的话，使用过程中会发现弹出一些程序的联网请求，分别是
+
+C:\Program Files\Adobe\Acrobat 2015\Acrobat\AcroCEF\AcroCEF.exe（可能是连接Microsoft SharePoint帐户的进程）
+
+C:\Program Files\Common Files\Adobe\OOBE\PDApp\P7\adobe_licutil.exe（这个就是联网验证序列号的程序，肯定要防火墙拦截）
+
+C:\Program Files\Common Files\Adobe\ARM\1.0\AdobeARM.exe（这个是检查更新的程序）
+
+3、清理开机启动项：
+
+去注册表HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run下删除
+
+Acrobat Assistant 8.0
+
+AdobeAAMUpdater-1.0
+
+4、“服务”里停止Adobe Acrobat Update Service，并将其启动类型设置为“手动”
+
+
+
+5、去除右键菜单里Adobe PDF相关项目：
+
+去"C:\Program Files\Adobe\Acrobat 2015\Acrobat Elements\ContextMenuShim.dll"目录下运行以下内容批处理反注册ContextMenuShim.dll（32位系统）或ContextMenuShim64.dll（64位系统）
+
+regsvr32 /u ContextMenuShim.dll
+
+regsvr32 /u ContextMenuShim64.dll
+
+
+
+注意：以后每次更新补丁后，3、4、5三项仍会恢复原状，需要再去修改一番。
+
+By 闻雷  ZDFANS(互助交流群)
