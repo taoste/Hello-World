@@ -7,6 +7,8 @@ F12 --》Sources（图片） / Audits（音频）
 
 ./Wallpaper/20171123181522_c48800.jpg
 <img src="https://camo.githubusercontent.com/87f234518811368735f4e6328d978b5362d4bc60/687474703a2f2f717a6f6e657374796c652e6774696d672e636e2f717a6f6e652f717a616374537461746963732f696d67732f32303137313132333138313532325f6334383830302e6a70673f7261773d74727565?raw=true"/>
+./Wallpaper/20171122191630_ff8fef.jpg
+<img src="https://github.com/taoste/Hello-World/blob/master/images/Wallpaper/20171122191630_ff8fef.jpg?raw=true"/>
 ./Wallpaper/1494724889278.jpg
 <img src="https://github.com/taoste/Hello-World/blob/master/images/Wallpaper/1494724889278.jpg?raw=true"/>
 ./Wallpaper/QinhuaiRiver_ZH-CN10131273425_1920x1080.jpg
