@@ -16,6 +16,8 @@
 > 
 > 单元格D1公式： D1=A$1&B1&C$1
 
+【更多[Excel 技巧》》](https://github.com/taoste/Hello-World/blob/master/Tools/OfficeBox/(Excel+CMD)%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86%E6%96%87%E4%BB%B6.md)】
+
 -------------------------------------
 
 <img src="https://github.com/taoste/Hello-World/blob/master/images/srvsetwp/290111.jpg?raw=true"/>
