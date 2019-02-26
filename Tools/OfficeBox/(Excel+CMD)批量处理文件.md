@@ -3,6 +3,27 @@
 
 -----------------------------------------------
 
+- 自学习:[**批量提取文件名并上传IMG图片到GitHub**](https://github.com/taoste/Hello-World/blob/master/images/srvsetwp/ReadMe.md)
+
+》 [批量提取文件名_百度经验](https://jingyan.baidu.com/article/d169e186092789436711d854.html)
+
+> cd /d F:\360downloads\wpcache\srvsetwp
+
+> dir /b *.jpg > list.CSV
+
+》 [一分钟学会Excel文字提取技巧 - 知乎](https://zhuanlan.zhihu.com/p/35046225)
+
+> 将提取的文件名目录 list.CSV 表格内设置如下：
+> 
+> 单元格A1：<img src="https://github.com/taoste/Hello-World/blob/master/images/srvsetwp/
+> 
+> 单元格B1：290111.jpg
+> 
+> 单元格C1：?raw=true"/>
+> 
+> 单元格D1公式： D1=A$1&B1&C$1
+
+
 - CMD 批处理命令 : **批量重命名文件（REN 命令）**
 
 步骤很简单，写公式 → 复制粘贴到记事本 → 存储为 BAT 文件 → 执行批处理文件 → 完成。
