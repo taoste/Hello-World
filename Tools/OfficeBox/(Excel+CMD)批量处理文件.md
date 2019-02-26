@@ -3,7 +3,7 @@
 
 -----------------------------------------------
 
-- 自学习:[**批量提取文件名并上传IMG图片到GitHub**](https://github.com/taoste/Hello-World/blob/master/images/srvsetwp/ReadMe.md)
+- 自学习:[**批量提取文件名并上传IMG图片到GitHub**](https://github.com/taoste/Hello-World/blob/master/images/srvsetwp/ReadMe.md) 【更多[Excel 技巧》》](https://github.com/taoste/Hello-World/blob/master/Tools/OfficeBox/(Excel+CMD)%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86%E6%96%87%E4%BB%B6.md)】
 
 》 [批量提取文件名_百度经验](https://jingyan.baidu.com/article/d169e186092789436711d854.html)
 
