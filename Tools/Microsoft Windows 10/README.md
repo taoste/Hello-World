@@ -81,7 +81,10 @@
 > 
 > 例如：
 > 
-> C:\Windows\System32\rundll32.exe user32.dll,LockWorkStation
+> %windir%\System32\rundll32.exe user32.dll,LockWorkStation
+ 
+> 更多》[如何使用笔记本的快捷按钮调用Windows快捷键的功能](http://iknow.f5.lenovo.com.cn/detail/dc_C173291.html)-联想知识库
+
 
 - [Windows10锁屏图片太漂亮，如何设为桌面背景呢？](https://zhuanlan.zhihu.com/p/27429896) - [知乎](https://zhuanlan.zhihu.com/)
 
