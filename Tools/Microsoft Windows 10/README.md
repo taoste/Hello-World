@@ -77,7 +77,7 @@
 ---------------------------------------------------------------------------------------------------------
 
 - 【 Windows10  “**一键锁屏(Win+L)** ” 桌面快捷方式 】
-> 新建快捷方式，填写链接：rundll32.exe user32.dll,LockWorkStation
+> 新建快捷方式，填写链接：rundll32.exe user32.dll,LockWorkStation （快捷键可设为：**F2**）
 
 - [Windows10锁屏图片太漂亮，如何设为桌面背景呢？](https://zhuanlan.zhihu.com/p/27429896) - [知乎](https://zhuanlan.zhihu.com/)
 
