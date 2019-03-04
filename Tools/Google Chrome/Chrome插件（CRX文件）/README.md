@@ -311,7 +311,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >  
 >  许多现有的文本到语音扩展要求您选择要读取的文本，真是太痛苦了！ 一些流行的甚至不起作用。 所以我为自己创建了一个，并且我按照我想要的方式使它工作：一次点击它应该找出自己阅读的内容。
 
-<img src="https://lh3.googleusercontent.com/JTteOBHxxVr98Cf6MqTpF1_Alu1HdDDI4q6Qhy9r_Ej-umTDeBXWBWcCNw8yhfy9S-cjQ53LPQ=w640-h400-e365?raw=true"/>
+> <img src="https://lh3.googleusercontent.com/JTteOBHxxVr98Cf6MqTpF1_Alu1HdDDI4q6Qhy9r_Ej-umTDeBXWBWcCNw8yhfy9S-cjQ53LPQ=w640-h400-e365?raw=true"/>
 
 - [ ] 19. [**家长控制 - 成人网站阻止**](https://chrome.google.com/webstore/detail/parental-control-adult-bl/peocghcbolghcodidjgkndgahnlaecfl?hl=zh-CN) - Chrome 网上应用店
 
@@ -319,15 +319,15 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 >  阻止色情网站，保护您的孩子免受成人网站的侵害 反色情附加组件。 限制对成人内容的访问。
 
-<img src="https://lh3.googleusercontent.com/rUI3ih3yLXewOp_Vz_y6MOJuMHRO6NRPvmf1DxjRD5fwUMTya4CTVZZTOHDMVo0_tfCrDSgJDA=w640-h400-e365?raw=true"/>
+> <img src="https://lh3.googleusercontent.com/rUI3ih3yLXewOp_Vz_y6MOJuMHRO6NRPvmf1DxjRD5fwUMTya4CTVZZTOHDMVo0_tfCrDSgJDA=w640-h400-e365?raw=true"/>
 
 - [ ] 20. [**Tomato Pie - 番茄钟 Chrome 新标签页扩展**](https://chrome.google.com/webstore/detail/tomato-pie/gffgechdocgfajkbpinmjjjlkjfjampi?hl=zh-CN) - Chrome 网上应用店
 
 >  提供方：Tomato Pie 在 GitHub 开源（ https://github.com/t9tio/tomato-pie ）
 
-> Tomato Pie 是一款开源的 Chrome 新标签页扩展，适用于番茄工作法，直观，简单，拥有马赛克统计图、浏览器通知、扩展栏图标倒计时等功能。@[**Appinn**](https://www.appinn.com/tomato-pie-for-chrome/)
+> Tomato Pie 是一款开源的 Chrome 新标签页扩展，适用于番茄工作法，直观，简单，拥有马赛克统计图、浏览器通知、扩展栏图标倒计时等功能。( @[**Appinn**](https://www.appinn.com/tomato-pie-for-chrome/) )
 
-<img src="https://img3.appinn.com/images/201903/tomato-pie.jpg!o?raw=true"/>
+> <img src="https://camo.githubusercontent.com/ce93f85d8f3508166e852d70c659b3bb79668519/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313930332f746f6d61746f2d7069652e6a7067216f3f7261773d74727565?raw=true"/>
 
  ---------------------------------------------
  
