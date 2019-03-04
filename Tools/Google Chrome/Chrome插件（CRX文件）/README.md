@@ -321,6 +321,14 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 <img src="https://lh3.googleusercontent.com/rUI3ih3yLXewOp_Vz_y6MOJuMHRO6NRPvmf1DxjRD5fwUMTya4CTVZZTOHDMVo0_tfCrDSgJDA=w640-h400-e365?raw=true"/>
 
+- [ ] 20. [**Tomato Pie - 番茄钟 Chrome 新标签页扩展**](https://chrome.google.com/webstore/detail/tomato-pie/gffgechdocgfajkbpinmjjjlkjfjampi?hl=zh-CN) - Chrome 网上应用店
+
+>  提供方：Tomato Pie 在 GitHub 开源（ https://github.com/t9tio/tomato-pie ）
+
+> Tomato Pie 是一款开源的 Chrome 新标签页扩展，适用于番茄工作法，直观，简单，拥有马赛克统计图、浏览器通知、扩展栏图标倒计时等功能。@[**Appinn**](https://www.appinn.com/tomato-pie-for-chrome/)
+
+<img src="https://img3.appinn.com/images/201903/tomato-pie.jpg!o?raw=true"/>
+
  ---------------------------------------------
  
 
