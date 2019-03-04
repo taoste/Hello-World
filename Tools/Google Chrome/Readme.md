@@ -10,7 +10,7 @@
  -------------------------------------------
  
  [**歡迎使用 Chrome**](chrome://welcome-win10/)  ( chrome://welcome-win10/ ) - 
- [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions?hl=zh-cn) / [主题背景](https://chrome.google.com/webstore/category/themes?hl=zh-cn)（[themes](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome/Chrome%E6%8F%92%E4%BB%B6%EF%BC%88CRX%E6%96%87%E4%BB%B6%EF%BC%89/themes.md):[**Space**](https://chrome.google.com/webstore/detail/space/hepnfgiockihbakjbhonkinpagbkaobo?hl=zh-cn) ） / [Atavi书签管理器](https://atavi.com/)
+ [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions?hl=zh-cn) ([墙内备份/非官方/CRX下载区](https://www.chromefor.com/)) / [主题背景](https://chrome.google.com/webstore/category/themes?hl=zh-cn)（[themes](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome/Chrome%E6%8F%92%E4%BB%B6%EF%BC%88CRX%E6%96%87%E4%BB%B6%EF%BC%89/themes.md):[**Space**](https://chrome.google.com/webstore/detail/space/hepnfgiockihbakjbhonkinpagbkaobo?hl=zh-cn) ） / [Atavi书签管理器](https://atavi.com/)
  
 
 适用于 Windows 10/8.1/8/7 ( 推荐👍 正体中文版： [32-bit](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BCEEEAD0E-904A-E0EB-B655-AD430A6C79FA%7D%26lang%3Dzh-TW%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-statsdef_1/update2/installers/ChromeSetup.exe) / 64-bit )
