@@ -329,7 +329,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 > <img src="https://camo.githubusercontent.com/ce93f85d8f3508166e852d70c659b3bb79668519/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313930332f746f6d61746f2d7069652e6a7067216f3f7261773d74727565?raw=true"/>
 
-> <img src="https://ws1.sinaimg.cn/large/0071ouepgy1g0ql6wwttng30rs0hg48x.gif?raw=true"/>
+> <img src="https://camo.githubusercontent.com/ddc2f655713857ee69ef82ac1c62187486a7935c/68747470733a2f2f7773312e73696e61696d672e636e2f6c617267652f303037316f7565706779316730716c36777774746e67333072733068673438782e6769663f7261773d74727565?raw=true"/>
 
  ---------------------------------------------
  
