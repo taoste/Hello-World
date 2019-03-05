@@ -63,9 +63,14 @@ ID： niloccemoadcdkdjlinkgdfekeahmflj
 >  * 在所有设备之间同步 – iPhone、iPad、Android 等
 >  * 完全免费
 
+- [ ]  2.1 [**阅读列表**](https://chrome.google.com/webstore/search/%E9%98%85%E8%AF%BB%E5%88%97%E8%A1%A8?hl=zh-cn) 
+> - 这个扩展工具可以帮助收藏很多用于以后阅读的页面。
+> - [详细信息](https://chrome.google.com/webstore/detail/reading-list/lloccabjgblebdmncjndmiibianflabo?hl=zh-cn)
+ID：lloccabjgblebdmncjndmiibianflabo
+
 - [ ] 3. **TabCopy**
 > - 快速复制chrome标签页的网站标题和网址链接
-> - [详细信息](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
+> - [详细信息](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb?hl=zh-cn)
 > - [选项](chrome-extension://micdllihgoppmejpecmkilggmaagfdmb/options.html)
 ID： micdllihgoppmejpecmkilggmaagfdmb
 检查视图： bg.html
