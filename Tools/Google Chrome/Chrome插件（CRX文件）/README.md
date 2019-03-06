@@ -355,7 +355,9 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >
 > [解决百度云大文件下载限制 （路人添加版）](https://greasyfork.org/zh-CN/scripts/372315-解决百度云大文件下载限制-路人添加版) - 一行代码，解决百度云大文件下载限制
 >
-> [百度网盘直接下载助手 直链加速版](ttps://greasyfork.org/zh-CN/scripts/39504-百度网盘直接下载助手-直链加速版) - 百度网盘高速下载 支持IDM [2019-02-20] 修复我的网盘API下载返回403的问题
+> [**百度网盘直接下载助手-直链加速版**](https://greasyfork.org/zh-CN/scripts/39504-百度网盘直接下载助手-直链加速版) - 百度网盘高速下载 支持IDM [2019-02-20] 修复我的网盘API下载返回403的问题
+> 
+> <img src="https://camo.githubusercontent.com/65ccc007ad4e05e322721645b96fc1ce9717d80c/68747470733a2f2f7777312e73696e61696d672e636e2f6c617267652f34646236383965336c79316730616b6b626c6b783167323070753066393131622e6769663f7261773d74727565?raw=true"/>
 >
 > [百度文库文字复制及原格式下载](https://greasyfork.org/zh-CN/scripts/376712-百度文库文字复制及原格式下载) - 百度文库页面添加两个按钮，一键复制百度文库文字,一键加群获取原格式文档
 >
