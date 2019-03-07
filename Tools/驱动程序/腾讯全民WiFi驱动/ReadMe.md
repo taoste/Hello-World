@@ -2,7 +2,7 @@
 
 > 软件大小： 15.02 MB
 > 
-> 软件厂商：  [腾讯全民WiFi驱动](https://wifi.qq.com/) / 腾讯科技（深圳）有限公司
+> 软件厂商：  [腾讯全民WiFi驱动](https://wifi.qq.com/) / [腾讯科技（深圳）有限公司](https://www.tencent.com/)
 > 
 > 软件语言： 简体中文
 > 
