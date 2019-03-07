@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+#content {
+    width: 100%;
+    min-width: 1200px;
+    _width: 1200px;
+    background-color: #fff;
+}
+
+#content .content-wrap {
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 46px;
+    position: relative;
+}
+
+#content .content-wrap .title-wrap {
+    text-align: center;
+    color: #666666;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: normal;
+}
+
+#content .content-wrap .text-wrap {
+    margin: 30px auto 0;
+}
+
+#content .content-wrap .text-wrap .text {
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    line-height: 2;
+}
+
+.dendrogram .head{
+	position: relative;
+	width: 395px;
+	height: 52px;
+	padding-top: 64px;
+	border: 2px solid #0075bc;
+	margin: 50px auto 74px;
+	background: url(../images/property/logo_2.png) no-repeat center 24px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	color: #0075bc;
+}
+
+.dendrogram .head .line{
+	position: absolute;
+	background: #0075bc;
+}
+
+.dendrogram .head .line_1,
+.dendrogram .head .line_2 {
+	width: 110px;
+	height: 3px;
+}
+
+.dendrogram .head .line_3,
+.dendrogram .head .line_4 {
+	width: 3px;
+	height: 134px;
+}
+
+.dendrogram .head .line_1 {
+	left: -112px;
+	top: 55px;
+}
+
+.dendrogram .head .line_2 {
+	right: -112px;
+	top: 55px;
+}
+
+.dendrogram .head .line_3 {
+	left: -112px;
+	top: 58px;
+}
+
+.dendrogram .head .line_4 {
+	right: -112px;
+	top: 58px;
+}
+
+.dendrogram .content {
+	margin-bottom: 50px;
+}
+
+.dendrogram .content .left,
+.dendrogram .content .right{
+	width: 580px;
+	float: left;
+}
+
+.dendrogram .content .left {
+	margin-right: 40px;
+}
+
+.dendrogram .content .title {
+	background: #0075bc;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.dendrogram .content .title_1 {
+	font-size: 24px;
+}
+
+html[lang="en"] .dendrogram .content .title_2 {
+	height: 42px;
+}
+
+.dendrogram .content .items {
+	padding: 0 0 27px 16px;
+	border: 1px solid #e2e2e2;
+	border-top: 0;
+	box-shadow: 0 1px 1px #e2e2e2;
+}
+
+.dendrogram .content .item {
+	float: left;
+	margin: 60px 10px 0;
+	position: relative;
+}
+
+.dendrogram .content .item .tit {
+	width: 130px;
+	height: 50px;
+	line-height: 50px;
+	background: #0075bc;
+	text-align: center;
+	border-left: 1px solid #2d8dc8;
+	border-right: 1px solid #2d8dc8;
+	color: #ffffff;
+	position: absolute;
+	top: -25px;
+	margin-left: 61px;
+}
+
+.dendrogram .content .item .txt {
+	width: 216px;
+	border: 1px solid #dcdcdc;
+	line-height: 2;
+	padding: 47px 18px 33px;
+}
+html[lang="zh"] .dendrogram .content .item .txt {
+	text-align: justify;
+	text-justify: inter-ideograph;
+	word-wrap: break-word;
+}
+html[lang="en"] .dendrogram .content .item .txt {
+	height: 245px;
+}
+html[lang="en"] .dendrogram .content .item .tit {
+	line-height: normal;
+	padding: 6px 0;
+	height: 38px;
+}

@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+#content {
+    width: 100%;
+    min-width: 1200px;
+    _width: 1200px;
+    height: 730px;
+    background-color: #f5f5f5;
+    position: relative;
+}
+
+#content .content-wrap {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    padding-top: 120px;
+    position: relative;
+}
+
+#content .content-wrap .title-wrap {
+    text-align: center;
+    color: #666666;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: normal;
+}
+
+#content .content-wrap .tab-wrap {
+    position: absolute;
+    height: 350px;
+    margin-top: 80px;
+}
+
+#content .content-wrap .tab-wrap .list {
+    display: block;
+    height: 125px;
+    margin-top: 25px;
+}
+
+#content .content-wrap .tab-wrap .muti-list{
+    margin-top: 50px;
+}
+
+#content .content-wrap .tab-wrap .list .item {
+    display: block;
+    float: left;
+    margin-left: 13px;
+}
+
+#content .content-wrap .tab-wrap .list .item-first {
+    margin-left: 0;
+}
+
+#content .content-wrap .tab-wrap .list .item .platform {
+    width: 236px;
+    height: 125px;
+    background-color: #fff;
+    border: #fff 1px solid;
+    -webkit-transition: box-shadow .3s linear;
+    -moz-transition: box-shadow .3s linear;
+    -ms-transition: box-shadow .3s linear;
+    -o-transition: box-shadow .3s linear;
+    transition: box-shadow .3s linear;
+    cursor: pointer;
+}
+
+#content .content-wrap .tab-wrap .list .item .platform:hover {
+    border: #ccc 1px solid;
+}
+
+#content .content-wrap .tab-wrap .list .item .platform:hover:not([attr*=""]) {
+    border: #fff 1px solid;;
+    box-shadow: 0 0 30px #ccc;
+}
+
+#content .content-wrap .tab-wrap .list .item .platform img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+#content .content-wrap .wechat-entrance-wrap {
+    display: none;
+    position: absolute;
+    margin-top: 144px;
+    margin-left: -28px;
+    width: 370px;
+    height: 115px;
+    background-color: #fff;
+    box-shadow: 0 0 30px #ccc;
+}
+
+#content .content-wrap .wechat-entrance-wrap .entrance {
+    float: left;
+    width: 160px;
+    height: 50px;
+    margin-top: 35px;
+    margin-left: 20px;
+    background-color: #fff;
+    border: #e6e6e6 1px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color .2s linear;
+}
+
+#content .content-wrap .wechat-entrance-wrap .mp-ent {
+    margin-left: 10px;
+}
+
+#content .content-wrap .wechat-entrance-wrap .entrance span {
+    display: block;
+    font-size: 18px;
+    line-height: 50px;
+    text-align: center;
+    margin: 0 auto;
+    color: #444444;
+    transition: color .2s linear;
+}
+
+#content .content-wrap .wechat-entrance-wrap .entrance:hover {
+    background-color: #0090c3;
+}
+
+#content .content-wrap .wechat-entrance-wrap .entrance:hover span {
+    color: #fff;
+}

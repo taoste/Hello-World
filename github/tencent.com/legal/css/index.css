@@ -1,0 +1,254 @@
+@charset "UTF-8";
+
+#content {
+    width: 100%;
+    min-width: 1200px;
+    _width: 1200px;
+    height: 730px;
+    background-color: #0075bc;
+	position:relative;
+}
+
+#content .icon-wrap {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    padding-top: 120px;
+    position: relative;
+}
+
+#content .icon-wrap i {
+    display: block;
+    position: absolute;
+}
+
+#content .icon-wrap .i-4g-qq {
+    background: url("../images/index/4g-qq.png") no-repeat 0 0;
+    width: 145px;
+    height: 46px;
+    margin-top: 43px;
+    margin-left: 108px;
+}
+
+#content .icon-wrap .i-soso {
+    background:  url("../images/index/soso.png") no-repeat 0 0;
+    width: 173px;
+    height: 42px;
+    margin-top: 117px;
+    margin-left: 28px;
+}
+
+#content .icon-wrap .i-myapp {
+    background:  url("../images/index/myapp.png") no-repeat 0 0;
+    width: 103px;
+    height: 103px;
+    margin-top: 50px;
+    margin-left: 280px;
+}
+
+#content .icon-wrap .i-friend {
+    background:  url("../images/index/friend.png") no-repeat 0 0;
+    width: 175px;
+    height: 63px;
+    margin-top: 0px;
+    margin-left: 413px;
+}
+
+#content .icon-wrap .i-qq {
+    background:  url("../images/index/qq.png") no-repeat 0 0;
+    width: 80px;
+    height: 86px;
+    margin-top: 73px;
+    margin-left: 435px;
+}
+
+#content .icon-wrap .i-hand {
+    background:  url("../images/index/hand.png") no-repeat 0 0;
+    width: 43px;
+    height: 66px;
+    margin-top: 87px;
+    margin-left: 569px;
+}
+
+#content .icon-wrap .i-hammer {
+    background:  url("../images/index/hammer.png") no-repeat 0 0;
+    width: 149px;
+    height: 111px;
+    margin-top: 20px;
+    margin-left: 640px;
+}
+
+#content .icon-wrap .i-browser {
+    background:  url("../images/index/browser.png") no-repeat 0 0;
+    width: 191px;
+    height: 48px;
+    margin-top: 121px;
+    margin-left: 789px;
+}
+
+#content .icon-wrap .i-balance {
+    background:  url("../images/index/balance.png") no-repeat 0 0;
+    width: 102px;
+    height: 85px;
+    margin-top: 220px;
+    margin-left: 45px;
+}
+
+#content .icon-wrap .i-safe {
+    background:  url("../images/index/safe.png") no-repeat 0 0;
+    width: 74px;
+    height: 79px;
+    margin-top: 260px;
+    margin-left: 180px;
+}
+
+/*html[lang="en"] #content .icon-wrap .i-safe{ margin-top:316px;}*/
+
+#content .icon-wrap .i-wechat {
+    background:  url("../images/index/wechat.png") no-repeat 0 0;
+    width: 95px;
+    height: 80px;
+    margin-top: 265px;
+    margin-left: 350px;
+}
+
+html[lang="en"] #content .icon-wrap .i-wechat { 
+    margin-top: 306px;
+    margin-left: 390px;
+}
+
+#content .icon-wrap .i-popularize {
+    background:  url("../images/index/popularize.png") no-repeat 0 0;
+    width: 116px;
+    height: 54px;
+    margin-top: 355px;
+    margin-left: 10px;
+}
+
+#content .icon-wrap .i-microblog {
+    background:  url("../images/index/microblog.png") no-repeat 0 0;
+    width: 188px;
+    height: 47px;
+    margin-top: 350px;
+    margin-left: 180px;
+}
+
+/*html[lang="en"] #content .icon-wrap .i-microblog{ margin-top:375px; margin-left:100px;}*/
+
+#content .icon-wrap .i-games {
+    background:  url("../images/index/games.png") no-repeat 0 0;
+    width: 138px;
+    height: 47px;
+    margin-top: 422px;
+    margin-left: 240px;
+}
+
+/*html[lang="en"] #content .icon-wrap .i-games{ margin-top: 440px; margin-left: 245px;}*/
+
+#content .icon-wrap .i-pay {
+    background:  url("../images/index/pay.png") no-repeat 0 0;
+    width: 172px;
+    height: 96px;
+    margin-top: 390px;
+    margin-left: 470px;
+}
+
+/*html[lang="en"] #content .icon-wrap .i-pay{ margin-left:412px; margin-top:412px;}*/
+
+#content .icon-wrap .i-anchor {
+    background:  url("../images/index/anchor.png") no-repeat 0 0;
+    width: 70px;
+    height: 84px;
+    margin-top: 285px;
+    margin-left: 580px;
+}
+
+html[lang="en"] #content .icon-wrap .i-anchor{margin-top: 300px; margin-left: 620px;}
+
+#content .icon-wrap .i-court {
+    background:  url("../images/index/court.png") no-repeat 0 0;
+    width: 62px;
+    height: 60px;
+    margin-top: 280px;
+    margin-left: 490px;
+}
+
+html[lang="en"] #content .icon-wrap .i-court{ margin-top: 320px; margin-left: 520px;}
+
+#content .icon-wrap .i-qq-music {
+    background:  url("../images/index/qq-music.png") no-repeat 0 0;
+    width: 190px;
+    height: 56px;
+    margin-top: 298px;
+    margin-left: 680px;
+}
+
+html[lang="en"] #content .icon-wrap .i-qq-music{margin-left: 750px;}
+
+#content .icon-wrap .i-legal {
+    background:  url("../images/index/legal.png") no-repeat 0 0;
+    width: 197px;
+    height: 55px;
+    margin-top: 370px;
+    margin-left: 770px;
+}
+
+/*html[lang="en"] #content .icon-wrap .i-legal{ margin-top:420px; margin-left:620px;}*/
+
+#content .icon-wrap .i-video {
+    background:  url("../images/index/video.png") no-repeat 0 0;
+    width: 99px;
+    height: 37px;
+    margin-top: 211px;
+    margin-left: 840px;
+}
+
+html[lang="en"] #content .icon-wrap .i-video{ margin-left:940px;}
+
+#content .icon-wrap .link-title {
+	display:block;
+    width: 681px;
+    height: 83px;
+    margin-top: 175px;
+    margin-left: 152px;
+	position: absolute;
+}
+
+#content .icon-wrap .i-title {
+    background:  url("../images/index/title.png") no-repeat 0 0;
+    width: 681px;
+    height: 83px;
+}
+
+html[lang="en"] #content .icon-wrap .i-title {
+    background:  url("../images/index/title-en.png") no-repeat 0 0;
+    width: 760px;
+    height: 139px;
+}
+
+#content .detail-btn {
+    display: block;
+    position: absolute;
+    width: 200px;
+    height: 76px;
+    background: url("../images/index/detail-btn.png");
+    background-position: center;
+    margin-top: 254px;
+    margin-left: 387px;
+}
+
+html[lang="en"] #content .detail-btn {
+    margin-top: 275px;
+}
+
+#content .detail-btn a {
+    display: block;
+    margin: 24px auto;
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 24px;
+    color: #fff;
+    text-align: center;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
