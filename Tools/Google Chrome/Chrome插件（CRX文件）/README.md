@@ -15,6 +15,8 @@
 > 
 > 安装“密码检查”即表示您同意 www.google.com/policies/ 上所列的 Google 服务条款和隐私权政策。
 > 
+> 【参阅】《[**保护密码不安全的帐号》 - Google 帐号帮助**](https://support.google.com/accounts/answer/9231944?p=password-checkup&visit_id=636877067651208724-4096684033&rd=1)
+> 
 > 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
 
 - [ ] 0. **扩展管理** - [开发者工具](https://chrome.google.com/webstore/category/ext/11-web-development?hl=zh-cn)(推荐：[开发工具箱](https://chrome.google.com/webstore/detail/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%AE%B1/mflanociobpenleccopmoanpdbcjcanm/related?hl=zh-cn))
