@@ -26,6 +26,20 @@
 < / code >< / pre >`
 
 ---------------------------------
+- [HTML img 圖片標籤](http://www.wibibi.com/info.php?tid=223) - Wibibi
+
+`< pre >< code >
+
+<img src="要插入的圖片 URL" alt="圖片替代文字" title="要顯示的文字" border="圖片邊框">
+
+<img src="upload/20131017185230.gif" alt="替代文字二" title="範例圖片二" width="100px" height="100px">
+
+為圖片加上超連結:
+
+<a href="http://www.wibibi.com"><img src="範例圖片" border="0" title="Hello-World 教學百科"></a>
+
+< / code >< / pre >`
+---------------------------------
 
 用<code><span style="background:greenyellow;">这种颜色</span></code>表示【<span style="background:greenyellow;">新增书籍</span>】；
 用</code><span style="background:lightgreen;">这种颜色</span></code>表示【<span style="background:lightgreen;">补充格式</span>】。
