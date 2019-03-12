@@ -31,9 +31,9 @@
 
 `<pre><code>
 
-< img src=" 要插入的圖片 URL " alt=" 圖片替代文字 " title=" 要顯示的文字 " border=" 圖片邊框 " >
+< img src=" 要插入的圖片 URL " alt=" 圖片替代文字 " title=" 要顯示的文字 " border=" 圖片邊框，例如 border="0" 代表邊框為 0。 " >
 
-< img src=" upload/20131017185230.gif " alt=" 替代文字二 " title=" 範例圖片二 " width=" 100px " height=" 100px " >
+< img src=" upload/20131017185230.gif " alt=" 圖片替代文字，當圖片顯示失效，則顯示 alt 文字。 " title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " width=" 圖片寬度100px " height=" 圖片高度100px " >
 
 為圖片加上超連結:
 
