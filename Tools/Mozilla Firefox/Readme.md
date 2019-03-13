@@ -54,6 +54,11 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 - [Firefox 同步 故障解决](https://support.mozilla.org/zh-CN/kb/Firefox同步故障解决) | [Mozilla 技术支持](https://support.mozilla.org/zh-CN/)
 
+-------------------------------------------------------------------
+
+- Mozilla 正式发布私密文件分享服务 [**Firefox Send**](https://send.firefox.com)，最高支持 2.5GB 文件：https://send.firefox.com
+
+<a href="https://send.firefox.com"><img src="https://camo.githubusercontent.com/d81f3442aca6b98723fe02e0fe1ac61839c2d48c/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4431673463646d55594141716672652e6a7067" border="0" title="Mozilla 正式发布私密文件分享服务 Firefox Send，最高支持 2.5GB 文件：https://send.firefox.com"> </a>
 
 -------------------------------------------------------------------
 
