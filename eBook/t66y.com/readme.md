@@ -97,3 +97,42 @@ BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载
 在 Chrome 浏览器上输入链接 chrome://net-internals/#hsts （可复制此地址粘贴到地址栏），回车。
 在 Domain 栏里，输入 google.com ，并勾选下面的两个复选框，点击 “Add” 按钮即可。
  </code></pre>
+ 
+ -----
+ 
+ - **[极客电台](https://geek.wasai.org/):[50 共享毛片到百度网盘，如何不被和谐？](https://geek.wasai.org/baidu-cloud-storage/)**
+
+> Podcast : <audio src="http://fdfs.xmcdn.com/group6/M06/27/D1/wKgDg1TbOYTSMf_kAFQFoV_6TgU164.mp3">Download</audio>
+
+> 本期话题》
+> 
+> 百度网盘8秒钟教育片
+> 
+> 特征码识别原理
+> 
+> 技巧一：压缩包上传毛片
+> 
+> 技巧二：改变文件特征码
+> 
+> 解决步骤：
+> 
+> **Windows用户**：
+> 
+> 1. 先将视频文件复制到某个文件夹，比如视频文件名是D:\a.flv 
+> 
+> 2. 然后将文件夹里面新建一个txt文件，内容任意填，保存为D:\1.txt 
+> 
+> 3. 启动cmd，输入下面命令
+> 
+>  <code><pre>copy /b D:\a.flv+D:\1.txt D:\ok.flv  </code></pre>
+> 
+> **Mac OSX用户**：
+> 
+> 1. 和Windows用户一样，准备好视频文件和一个txt文件 
+> 
+> 2. 启动终端（Terminal），输入下面命令
+> 
+>  <code><pre>cat a.flv 1.txt > ok.flv </code></pre>
+> 
+> 最后ok.flv就是我们想要的视频了。（作者：肥超）
+
