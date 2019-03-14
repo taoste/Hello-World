@@ -1,4 +1,4 @@
-💗 P2P工具 ：“棱镜杀手”比特信（Bitmessage）火起来了
+💗 P2P工具 ：“棱镜杀手”比特信（Bitmessage）火起来了 / 🎦 [**关于BT及种子**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md)
 
 -----------------------------------------------------------
 
@@ -44,18 +44,6 @@
 
 -----------------------------------------------------------
 
-🎦 网站：[种子文件编辑工具 Torrent File Editor](https://www.bfdz.ink/2019/02/09/122/)
 
-   <p><b>Torrent File Editor</b> 是一款开源免费的种子文件编辑工具，支持 Windows 和 Mac 平台，以及自带中文语言。</p>
-<p>下载地址：<a href="https://sourceforge.net/projects/torrent-file-editor/" target="_blank" rel="noopener">https://sourceforge.net/projects/torrent-file-editor/</a></p>
-<a id="more"></a>
 
-<p>特点：</p>
-<ul>
-<li>新建 .torrent 文件</li>
-<li>通过简单、人性化的界面编辑种子文件</li>
-<li>以 JSON 格式编辑 .torrent 文件</li>
-<li>添加，删除和交换种子文件内的文件</li>
-</ul>
-
-<hr>
+  
