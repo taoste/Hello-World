@@ -24,11 +24,11 @@
 
 代码:
 
-  `<pre><code>
+<pre><code>
 img=ImageSource("水印文件", pixel_type="RGB32")
 Overlay(img, x=10, y=10, mask=img.showAlpha(), opacity=0.65)
+</code></pre>
 
-</code></pre>`
 x,y是坐标，opacity是透明度。
 
 ---------------------------------
