@@ -96,6 +96,12 @@
  2.点击开始菜单，输入cmd，打开“命令提示符”。输入下面的命令，修改锁屏壁纸文件夹中的文件扩展名为png。
 > Ren C:\Users\%username%\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\*.* *.png
 
+**❤壁纸资源：**
+
+√ 【[The Year of the Pig](https://www.microsoft.com/zh-cn/p/the-year-of-the-pig/9nq9bf4q974d?ocid=ema_rmc_win_FY19Goodwill-hero-exclus-pos2-cta1&activetab=pivot:overviewtab)】 - Microsoft Store zh-CN
+> 在这组包含 20 幅图像的免费 Windows 10 主题壁纸集中感受中国之美和2019猪年的欢乐氛围。 这些图像只可用作桌面壁纸。
+
+
 ---------------------------------------------------------------------------------------------------------
 
 **Windows 10 / UWP** :
