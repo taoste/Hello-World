@@ -24,3 +24,8 @@
 > - [**海盗湾大事记** | eMule Fans 电骡爱好者（中文）](https://web.archive.org/web/20101122034819/http://emulefans.com/the-pirate-bay-events/) - @[互联网档案馆](https://archive.org)( [维基百科:使用时光机](https://zh.wikipedia.org/wiki/Wikipedia:使用时光机) )
 >
 > - 2009年4月17日《[对海盗湾一审败诉的感想](https://www.ruanyifeng.com/blog/2009/04/some_thoughts_on_the_pirate_bay_guilty.html)》 - [阮一峰的网络日志](https://www.ruanyifeng.com/)  
+
+-----------------------------------------------------------
+
+- 【[**BT 种子添加有效 tracker 的方法**](https://www.bfdz.ink/2018/02/04/72/)】  | BFDZ
+
