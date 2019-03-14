@@ -41,7 +41,9 @@
 ⛏ 备注：
 
 - 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md) ： **µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载](https://www.utorrent.com/intl/zh_cn/downloads/complete/track/stable/os/win) / [备份下载](https://github.com/taoste/Hello-World/blob/master/Tools/uTorrent_v3.5.4.44590.exe?raw=true) ）
-
+> 
+> 要安装： [语言包](https://www.utorrent.com/intl/zh_cn/downloads/win) ，将 utorrent.lng 放置于 %AppData%\uTorrent
+> 
 > 文件大小：2.85 MB
 
 【简介】( [**uTorrent 官网（中文版）**](https://www.utorrent.com/intl/zh_cn/downloads/win) - Windows  )
