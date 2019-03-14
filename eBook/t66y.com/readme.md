@@ -123,16 +123,12 @@ BT下载工具：**µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载
 > 2. 然后将文件夹里面新建一个txt文件，内容任意填，保存为D:\1.txt 
 > 
 > 3. 启动cmd，输入下面命令
-> 
->  <code><pre>copy /b D:\a.flv+D:\1.txt D:\ok.flv  </code></pre>
-> 
+  <code><pre>copy /b D:\a.flv+D:\1.txt D:\ok.flv  </code></pre>
 > **Mac OSX用户**：
 > 
 > 1. 和Windows用户一样，准备好视频文件和一个txt文件 
 > 
 > 2. 启动终端（Terminal），输入下面命令
-> 
->  <code><pre>cat a.flv 1.txt > ok.flv </code></pre>
-> 
+  <code><pre>cat a.flv 1.txt > ok.flv </code></pre>
 > 最后ok.flv就是我们想要的视频了。（作者：肥超）
 
