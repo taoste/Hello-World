@@ -8,15 +8,30 @@
 <a id="more"></a>
 < / code >< / pre >`
 
-<p>特点：</p> < p > <  /p >
-<ul>  < ul >
-<li>示例1</li> ：< li > < / li >
-<li>示例2</li> ：< li > < / li >
-<li>示例3</li> ：< li > < / li >
-<li>示例3</li> ：< li > < / li >
+<p>特点：</p> < p > <  /p >  < ul >
+<ul> 
+<li>示例1 ：< li > < / li > </li>
+<li>示例2 ：< li > < / li > </li>
+<li>示例3 ：< li > < / li > </li>
+<li>示例3 ：< li > < / li > </li>
 </ul> < / ul >
+
 < hr >
-<hr>
+   
+---------------------------------
+
+- 🎦 [**AVS添加图片水印**](https://www.bfdz.ink/2017/09/10/50/) | [**BFDZ**](https://www.bfdz.ink/)
+
+代码:
+
+  `<pre><code>
+img=ImageSource("水印文件", pixel_type="RGB32")
+Overlay(img, x=10, y=10, mask=img.showAlpha(), opacity=0.65)
+
+</code></pre>`
+x,y是坐标，opacity是透明度。
+
+---------------------------------
 
 - [**HTML URL 编码**](http://www.w3school.com.cn/tags/html_ref_urlencode.html)
 
