@@ -1,3 +1,5 @@
+
+
 💗 [Title](https://taoste.github.io/Hello-World/Tools/PPT投影演示辅助工具/) : [**PPT投影演示辅助工具**]() ：
 
 - [PPTTimer ( PPT播放提示钟 )](https://github.com/taoste/Hello-World/tree/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/PPTTimer)
@@ -24,3 +26,14 @@
 - [如何系统地学习PPT并在短时间内精通？](http://whuhan2013.github.io/blog/2016/05/18/ppt-make-learn/) - [良有以也](http://whuhan2013.github.io/)
 
 - [微软放大招，字幕组在颤抖：演讲也能实时翻译了](http://www.360doc.com/content/17/0717/22/848059_672177775.shtml)
+
+-----------------------------------------------------------------------
+
+💗 【提词器】 手机app / iPAD变身提词器：
+
+- [Parrot Teleprompter - 适合于拍摄视频的「提词器」](https://www.appinn.com/parrot-teleprompter/)[[iPhone/iPad]](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn) - [小众软件](https://www.appinn.com/p)
+
+> <img src="https://camo.githubusercontent.com/73deee2b14c23211031bef0305ac3859039452a3/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313831322f706172726f742e6a7067216f?raw=true"/>
+
+> <img src="https://camo.githubusercontent.com/1fa569d77c58368c542a1b0c18917dc941e651e7/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313831322f323031382d31322d313631322d33352d33332e6a7067216f?raw=true"/>
+
