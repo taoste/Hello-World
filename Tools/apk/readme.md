@@ -12,6 +12,7 @@
 
 - [Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]](https://www.appinn.com/alphabet-letter-confidence/) @[App Store](https://itunes.apple.com/app/alphabet-letter-confidence/id484776617) - [小众软件](https://www.appinn.com/)
 
+💗 [**发现感兴趣的移动应用app**](https://www.douban.com/app/) - [豆瓣](https://www.douban.com/)
 
 -----------------------------------------------------------------------
 
