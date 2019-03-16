@@ -1,7 +1,7 @@
 - **推荐**：手机APK
 
-
-<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true"/>
+<p><a href="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true" title="扫描二维码可以访问本网址">
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true"/></a></p>
 ( 扫描二维码可以访问本网址 )
 
 ----------------------------------
@@ -55,7 +55,7 @@
 💗 【提词器】 手机app / iPAD变身提词器：
 
 - @[小众软件](https://www.appinn.com/) : [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
-> ( 【下载】 [iOS](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn)) : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
+> ( 【下载】 [iOS](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn) : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
 [APKPure 上的原版应用](https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app) )
 
 <p><a href="https://itunes.apple.com/hk/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(香港HK)">
