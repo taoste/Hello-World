@@ -28,9 +28,9 @@
 -----------------------------------------------------------------------
 💗 [**小众软件**](https://www.appinn.com/) :
 
-- [Forghetti - 不保存密码数据的密码管理器](https://www.appinn.com/forghetti/) - [小众软件](https://www.appinn.com/)
+- [Forghetti - 不保存密码数据的密码管理器](https://www.appinn.com/forghetti/) @[Download](https://www.forghetti.com/eng/download/a) - [小众软件](https://www.appinn.com/)
 
-- [Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]](https://www.appinn.com/alphabet-letter-confidence/) - [小众软件](https://www.appinn.com/)
+- [Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]](https://www.appinn.com/alphabet-letter-confidence/) @[App Store](https://itunes.apple.com/app/alphabet-letter-confidence/id484776617) - [小众软件](https://www.appinn.com/)
 
 
 -----------------------------------------------------------------------
