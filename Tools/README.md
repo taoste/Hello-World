@@ -26,10 +26,15 @@
 【在线杀毒】VirusTotal是一个免费的病毒，蠕虫，木马和各种恶意软件分析服务。 https://www.virustotal.com/zh-cn/
  
 -----------------------------------------------------------------------
+💗 [**小众软件**](https://www.appinn.com/) :
+
+- [Forghetti - 不保存密码数据的密码管理器](https://www.appinn.com/forghetti/) - [小众软件](https://www.appinn.com/)
+
+-----------------------------------------------------------------------
 
 💗 【提词器】 手机app / iPAD变身提词器：
 
-- [Parrot Teleprompter - 适合于拍摄视频的「提词器」](https://www.appinn.com/parrot-teleprompter/) (@[iPhone / iPad](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn)) - [小众软件](https://www.appinn.com/p)
+- [Parrot Teleprompter - 适合于拍摄视频的「提词器」](https://www.appinn.com/parrot-teleprompter/) (@[iPhone / iPad](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn)) - [小众软件](https://www.appinn.com/)
 
 > <img src="https://camo.githubusercontent.com/73deee2b14c23211031bef0305ac3859039452a3/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313831322f706172726f742e6a7067216f?raw=true"/>
 
