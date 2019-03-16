@@ -19,9 +19,10 @@
 
 💗 **推荐**：[手机APK-导航](https://github.com/taoste/Hello-World/tree/master/Tools/apk) :
 
-<p><a href="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true" title="扫描二维码可以访问本网址">
+<p><a href="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true" title="扫描二维码可以访问【手机APK-导航】">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true"/></a></p>
-( 扫描二维码可以快捷访问<[手机APK](https://github.com/taoste/Hello-World/tree/master/Tools/apk)>网址 )
+
+( 扫二维码快捷访问 [手机APK](https://github.com/taoste/Hello-World/tree/master/Tools/apk)  )
 
 -------------------------------------------------------------------
 
