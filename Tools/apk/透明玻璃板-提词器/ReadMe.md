@@ -1,8 +1,59 @@
-- **推荐**：乌镇互联网大会上的 [ 透明玻璃板 - 提词器 ]
+----------------------------------
+
+💗 【提词器】 手机app / iPAD变身提词器：
+
+- @[小众软件](https://www.appinn.com/) : [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
+> ( 【下载】 [iOS](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn) : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
+[APKPure 上的原版应用](https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app) )
+
+<p><a href="https://itunes.apple.com/hk/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(香港HK)">
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器-qrcode.png?raw=true"/>
+</a>
+  …… 
+<a href="https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(中国CN)">
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器cn-qrcode.png?raw=true"/>
+</a></p>
+
+
+
+> ( 扫描二维码可以访问下载网址：iPhone手机提词器 )
+
+>
+> Parrot Teleprompter 是一款 iPhone、iPad 上的专业 [**提词器**](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%AD%97%E5%99%A8) 应用，适合于拍摄视频时作为提示使用，配合官方套件还能挂在摄像机旁边使用，让你不用低头看脚本。@Appinn
+
+
+<p><a href="https://img3.appinn.com/images/201812/parrot.jpg" title="【Apple iTunes】iPhone手机提词器app(Parrot Teleprompter)">
+<img src="https://camo.githubusercontent.com/daa90ee27859f557a2f16f3f9367e7211818fe5a/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313831322f706172726f742e6a70673f7261773d74727565?raw=true" width="475" height="" />
+</a></p>
+
+<p><a href="https://img3.appinn.com/images/201812/2018-12-1612-35-33.jpg" title="提词器屏幕">
+  <img src="https://camo.githubusercontent.com/281d3f279125309b829c5df13540625ef6b5bacd/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313831322f323031382d31322d313631322d33352d33332e6a70673f7261773d74727565?raw=true" width="475" height="" />
+</a></p>
+
+
+> 先来说上面的图片，这是 Parrot Teleprompter 官方的另外一款产品，将手机架设在摄像机上并使用反光镜作为**提词器屏幕**。
+>
+> 这个东西看起来非常专业（叫 Parrot™ Teleprompter），挂在专业摄像机的摄像头上，通过反光片（是这样叫吧？）显示手机上的内容，目的就是让你的眼睛可以始终盯着镜头，让拍出来的视频更加专业。
+>
+> 所以也不清楚是 App 配合硬件，还是硬件配合 App，总之 Parrot Teleprompter 是可以单独拿出来用的，不买那个支架，小心的放在镜头旁边，拍一个 vlog 还是没问题的。
+
+<p><a href="https://img3.appinn.com/images/201812/690x0w-3.jpg" title="提词器屏幕">
+<img src="https://camo.githubusercontent.com/8d9b8edba268a60445f58e3fec8d8dd4477a6f18/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313831322f3639307830772d332e6a7067" width="475" height="" /></a></p>
+
+<p><a href="https://zh.wikipedia.org/wiki/%E6%8F%90%E5%AD%97%E5%99%A8" title="【维基百科】提词器-示意图">
+  <img src="https://camo.githubusercontent.com/56742977e2f22106515da42cb66e518a97e35f97/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32302f54656c6570726f6d707465725f736368656d617469632e7376672f35343070782d54656c6570726f6d707465725f736368656d617469632e7376672e706e67" width="475" height="" /></a></p>
+
+>  **示意图:(1) 摄像机	(2)罩子(3) 显示器	(4) 透明玻璃或分光镜(5) 人眼的视线 	(6) 摄像机图像**
+>
+> 可以设置速度、循环播放、字体大小、边距宽度，总能让你好好的读台词 😂
+>
+> 在<a href="https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn" title="【Apple iTunes】iPhone手机提词器app(Parrot Teleprompter)">App Store</a> 免费下载。
 
 ----------------------------------
 
-<p><strong>【<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%84%B1%E7%A8%BF%E6%BC%94%E8%AE%B225%E5%88%86%E9%92%9F%EF%BC%9F/" rel="【立此存照】习近平用提词器“脱稿”演讲25分钟">立此存照</a>】<a href="http://news.sina.com.cn/c/zg/2015-12-16/doc-ifxmpnqi6580987.shtml">新浪网｜25分钟3500字，除了乌镇习近平哪些演讲是脱稿的？</a></strong></p>
+- **推荐**：乌镇互联网大会上的 [ 透明玻璃板 - 提词器 ]
+
+> <p><strong>【<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%84%B1%E7%A8%BF%E6%BC%94%E8%AE%B225%E5%88%86%E9%92%9F%EF%BC%9F/" rel="【立此存照】习近平用提词器“脱稿”演讲25分钟">立此存照</a>】<a href="http://news.sina.com.cn/c/zg/2015-12-16/doc-ifxmpnqi6580987.shtml">新浪网｜25分钟3500字，除了乌镇习近平哪些演讲是脱稿的？</a></strong></p>
 <blockquote><p>今天，中国国家主席习近平出席在乌镇举行的世界互联网大会，并发表主旨演讲，就共同构建网络空间命运共同体提出5点主张。</p>
 <p>媒体和网友发现，在时常约25分钟的演讲中，习近平全程脱稿演讲。</p>
 <p>在国际场合演讲中，比如今年9月习近平在联合国大会发表的演讲，全程脱稿，一次都没有低头看演讲稿。</p></blockquote>
