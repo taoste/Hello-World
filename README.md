@@ -10,7 +10,7 @@
 </head>
 <body>
 	
-# 📕 [README](README.md) ： 
+# 📕 [README](README.md) ： <p><a href="https://github.com/taoste/taoste.github.io/issues/1" title="[Note] : ??? 科学上网 / hosts · Issue #1 · taoste/taoste.github.io"><img src="https://img.shields.io/badge/苦撑-待变-brightgreen.svg"/></p> 
 
 <hr> 
 
