@@ -1,5 +1,7 @@
 [Readme]():
 
+【tips技巧】Firefox 浏览器 查看图片下载链接的方式 ：右键选择（查看元素）
+
 <p><a href="https://github.com/taoste/taoste.github.io/issues/1" title="[Note] : ??? 科学上网 / hosts · Issue #1 · taoste/taoste.github.io"><img src="https://img.shields.io/badge/苦撑-待变-brightgreen.svg"/> </p> 
   
 <p><a href="https://ssl.gstatic.com/support/content/images/static/homepage_header_background.svg" title="【好图】Google Chrome帮助 https://support.google.com/chrome/?p=help&ctx=keyboard#topic=7438008">
