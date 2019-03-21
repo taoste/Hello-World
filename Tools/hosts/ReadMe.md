@@ -104,7 +104,7 @@ hosts文件的其它用途
  
  -----
 
-- [系统变量（%SystemRoot% ，%windir% ，%temp%，%system%）的表示方法](http://www.cnblogs.com/5tao/archive/2008/11/16/1334526.html)  - 独孤雁 - 博客园
+- [系统变量（%SystemRoot% ，%windir% ，%temp%，%system%）的表示方法](http://www.cnblogs.com/5tao/archive/2008/11/16/1334526.html) (2008-11-16) - 独孤雁 - 博客园
 
 > >     在设置系统环境变量的过程中，经常会看到诸如%SystemRoot% ，%windir% ，%temp% 的字眼，
 > >     当初我也不知道指的是那些目录，经过一段时间的探索，终于还是弄懂了，
