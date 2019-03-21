@@ -27,6 +27,8 @@
 
 - [**使用批处理bat更改hosts的多个方法**](https://www.jb51.net/article/51902.htm)_DOS/BAT_脚本之家
 
+([引用](https://www.cnblogs.com/craig/archive/2011/05/09/2041433.html) : [怎么用批处理修改host文件 - craig - 博客园](https://www.cnblogs.com/craig/archive/2011/05/09/2041433.html) )
+
 [引用](https://github.com/taoste/Hello-World/issues/2#issuecomment-374911469)：
 
 > [Ping查询](https://www.ipip.net/ping.php) （**最专业的 IP 地址库**_IPIP.NET）全球唯一一个基于BGP/ASN数据分析处理而得来的IP库
