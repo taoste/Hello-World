@@ -1,0 +1,83 @@
+<LayoutModificationTemplate xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" Version="1" xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification">
+  <LayoutOptions StartTileGroupCellWidth="6" />
+  <DefaultLayoutOverride>
+    <StartLayoutCollection>
+      <defaultlayout:StartLayout GroupCellWidth="6">
+        <start:Group Name="创建">
+          <start:Folder Size="2x2" Column="0" Row="4">
+            <start:DesktopApplicationTile Size="2x2" Column="4" Row="2" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\OneNote 2016.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Excel.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="4" Row="4" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Word.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="4" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Outlook.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="2" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Access.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="4" Row="0" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="0" Row="4" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Publisher.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="0" Row="2" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\PowerPoint.lnk" />
+            <start:Tile Size="2x2" Column="0" Row="0" AppUserModelID="Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub" />
+          </start:Folder>
+          <start:Folder Size="2x2" Column="0" Row="13">
+            <start:DesktopApplicationTile Size="2x2" Column="0" Row="2" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Telegram.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="4" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Start Tor Browser (2).lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="4" Row="2" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\BTSync-1.4.111.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="4" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\VeraCrypt\VeraCrypt.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="0" Row="4" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\TeamViewer 14.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="4" Row="4" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Start Tor Browser.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\Oracle VM VirtualBox.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="2" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Lantern\Lantern.lnk" />
+          </start:Folder>
+          <start:Folder Size="2x2" Column="0" Row="19">
+            <start:Tile Size="2x2" Column="0" Row="0" AppUserModelID="Microsoft.WindowsStore_8wekyb3d8bbwe!App" />
+            <start:Tile Size="2x2" Column="2" Row="0" AppUserModelID="Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim" />
+          </start:Folder>
+          <start:Tile Size="2x2" Column="4" Row="0" AppUserModelID="microsoft.windowscommunicationsapps_8wekyb3d8bbwe!Microsoft.WindowsLive.Calendar" />
+          <start:Tile Size="2x2" Column="2" Row="8" AppUserModelID="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App" />
+          <start:DesktopApplicationTile Size="2x2" Column="2" Row="10" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Officebox.lnk" />
+          <start:DesktopApplicationTile Size="2x2" Column="4" Row="6" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\WinHTTrack\WinHTTrack Website Copier.lnk" />
+          <start:DesktopApplicationTile Size="2x2" Column="0" Row="10" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\微云.lnk" />
+          <start:Tile Size="2x2" Column="2" Row="4" AppUserModelID="microsoft.windowscommunicationsapps_8wekyb3d8bbwe!Microsoft.WindowsLive.Mail" />
+          <start:Tile Size="4x4" Column="0" Row="0" AppUserModelID="Microsoft.BingWeather_8wekyb3d8bbwe!App" />
+          <start:DesktopApplicationTile Size="2x2" Column="4" Row="10" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\XLDownloader.lnk" />
+          <start:Tile Size="2x2" Column="4" Row="8" AppUserModelID="Microsoft.SkypeApp_kzf8qxf38zg5c!App" />
+          <start:Tile Size="2x2" Column="4" Row="2" AppUserModelID="64885BlueEdge.OneCalendar_8kea50m9krsh2!App" />
+          <start:Tile Size="2x2" Column="2" Row="6" AppUserModelID="613EBCEA.PolarrPhotoEditorAcademicEdition_jb41c8remg0x2!App" />
+          <start:DesktopApplicationTile Size="2x2" Column="4" Row="4" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\System Tools\Command Prompt.lnk" />
+        </start:Group>
+        <start:Group Name="播放">
+          <start:Folder Size="2x2" Column="0" Row="6">
+            <start:Tile Size="2x2" Column="2" Row="0" AppUserModelID="1F8B0F94.122165AE053F_j2p0p5q0044a6!App" />
+            <start:Tile Size="2x2" Column="0" Row="0" AppUserModelID="0C72C7CD.Beta_atj5cpqqdhzyp!App" />
+          </start:Folder>
+          <start:Folder Size="2x2" Column="2" Row="6">
+            <start:Tile Size="2x2" Column="4" Row="0" AppUserModelID="AppleInc.iTunes_nzyj5cx40ttqa!iTunes" />
+          </start:Folder>
+          <start:Folder Size="2x2" Column="4" Row="6">
+            <start:DesktopApplicationTile Size="2x2" Column="0" Row="0" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Accessories\Internet Explorer.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="0" Row="2" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Firefox.lnk" />
+            <start:DesktopApplicationTile Size="2x2" Column="2" Row="2" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Amazon\Amazon Kindle\Kindle.lnk" />
+            <start:Tile Size="2x2" Column="4" Row="0" AppUserModelID="Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge" />
+          </start:Folder>
+          <start:Tile Size="2x2" Column="4" Row="0" AppUserModelID="Microsoft.Windows.Photos_8wekyb3d8bbwe!App" />
+          <start:Tile Size="1x1" Column="4" Row="4" AppUserModelID="Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App" />
+          <start:Tile Size="2x2" Column="0" Row="0" AppUserModelID="Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp" />
+          <start:Tile Size="1x1" Column="4" Row="5" AppUserModelID="A278AB0D.MarchofEmpires_h6adky7gbf63m!App" />
+          <start:Tile Size="2x2" Column="0" Row="4" AppUserModelID="Microsoft.MinecraftUWP_8wekyb3d8bbwe!App" />
+          <start:Tile Size="2x2" Column="0" Row="2" AppUserModelID="89006A2E.AutodeskSketchBook_tf1gferkr813w!App" />
+          <start:Tile Size="2x2" Column="2" Row="2" AppUserModelID="KeeperSecurityInc.Keeper_kejf07qmg0jnm!App" />
+          <start:Tile Size="2x2" Column="2" Row="0" AppUserModelID="Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo" />
+          <start:TargetedContentTile Size="1x1" Column="5" Row="5" TileID="T~DynamicLayouts:1!5" />
+          <start:TargetedContentTile Size="2x2" Column="2" Row="4" TileID="T~DynamicLayouts:2!4" />
+          <start:Tile Size="1x1" Column="5" Row="4" AppUserModelID="king.com.BubbleWitch3Saga_kgqvnymyfvs32!App" />
+          <start:Tile Size="2x2" Column="4" Row="2" AppUserModelID="king.com.CandyCrushSodaSaga_kgqvnymyfvs32!App" />
+        </start:Group>
+        <start:Group Name="">
+          <start:Folder Size="2x2" Column="2" Row="0">
+            <start:Tile Size="2x2" Column="0" Row="0" AppUserModelID="CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc!ubuntu1804" />
+          </start:Folder>
+          <start:DesktopApplicationTile Size="2x2" Column="0" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Adobe Photoshop CS6\Adobe Photoshop CS6.lnk" />
+          <start:DesktopApplicationTile Size="2x2" Column="4" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Adobe Acrobat DC.lnk" />
+        </start:Group>
+      </defaultlayout:StartLayout>
+    </StartLayoutCollection>
+  </DefaultLayoutOverride>
+</LayoutModificationTemplate>
