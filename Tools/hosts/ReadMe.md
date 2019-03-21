@@ -1,4 +1,6 @@
-﻿-----------------------------
+@<a href="https://zh.wikipedia.org/zh/" title="维基百科，自由的百科全书">维基百科</a>  :  <a href="https://zh.wikipedia.org/zh/Hosts%E6%96%87%E4%BB%B6" title="域名解析文件(Hosts文件) - 维基百科，自由的百科全书">域名解析文件(Hosts文件)</a> 
+
+-----------------------------
 
 - [**使用批处理bat更改hosts的多个方法**](https://www.jb51.net/article/51902.htm)_DOS/BAT_脚本之家
 
