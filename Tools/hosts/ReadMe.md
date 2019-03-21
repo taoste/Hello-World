@@ -103,3 +103,31 @@ hosts文件的其它用途
  </code></pre>
  
  -----
+
+- [系统变量（%SystemRoot% ，%windir% ，%temp%，%system%）的表示方法](http://www.cnblogs.com/5tao/archive/2008/11/16/1334526.html)  - 独孤雁 - 博客园
+
+> >     在设置系统环境变量的过程中，经常会看到诸如%SystemRoot% ，%windir% ，%temp% 的字眼，
+> >     当初我也不知道指的是那些目录，经过一段时间的探索，终于还是弄懂了，
+> >     总结一下分享给大家：对于操作系统是XP（系统目录是windows）并安装在c盘的用户sihochina
+> >     
+> >     格式：变量名=实际含义 
+> >      
+> >     %HOMEDRIVE% = C:\          当前启动的系统的所在分区 
+> >     %SystemRoot% = C:\WINDOWS          当前启动的系统的所在目录 
+> >     %windir% = %SystemRoot% = C:\WINDOWS          当前启动的系统的所在目录 
+> >     %USERPROFILE% = C:\Documents and Settings\sihochina          当前用户数据变量 
+> >     %HOMEPATH% = C:\Documents and Settings\sihochina          当前用户环境变量 
+> >     %temp% = %USERPROFILE%\Local Settings\Temp = C:\Documents and Settings\sihochina\Local Settings\Temp         
+> >     当前用户TEMP缓存变量 
+> >     
+> >     例如：%windir%\drives 的实际路径就是 C:\WINDOWS\drives 目录。 
+> >               所谓变量，就是指一个在不同环境中会有相对不同的值的、但在所有环境中都有相同约定的含义的量。 
+> >               这些变量，可以在开始菜单-运行中输入，如输入%SystemRoot% ，系统会直接打开 C:\WINDOWS 目录。 
+> >     如果你当前的系统是装在D盘的2000的话，上边这个变量的执行结果就是打开 D:\WINNT 目录了。 
+> >     
+> >     求救：本人在网上看到系统变量%SYSTEM%代表的路径有两种：一个是C:\WINDOWS\SYSTEM32，当然也有另一种说法是C:\WINDOWS\，到底哪种说法是正确的？
+> >     
+> >     今天从图书馆查了资料，%system%指的是系统安装盘下的system32目录。
+> >     如果系统安装在C盘，他所指的目录就是：
+> >     C:\WINDOWS\SYSTEM32(WINDOWS XP,2K,2K3)和C;\WINNT\SYSYTEM32(WINDOWS 98,ME)。
+> >     特此作出更正！
