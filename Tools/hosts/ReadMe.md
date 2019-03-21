@@ -47,6 +47,11 @@
 > >     Linux系统hosts位于 /etc/hosts
 > >     绝大多数Unix系统都是在 /etc/hosts
 
+在Windows中，默认的hosts文件通常是空白的或包含了注释语句并使用了一条默认规则：
+
+> >     127.0.0.1       localhost
+> >     ::1             localhost
+
 -----
 
 <pre><code>
