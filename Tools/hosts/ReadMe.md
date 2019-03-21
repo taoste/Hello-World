@@ -103,6 +103,10 @@ hosts文件的其它用途
  </code></pre>
  
  -----
+ 
+- [优雅高效地使用 Windows](http://saili.science/2016/10/17/windows-use/) | Alex LEE's Blog
+
+-----
 
 - [系统变量（%SystemRoot% ，%windir% ，%temp%，%system%）的表示方法](http://www.cnblogs.com/5tao/archive/2008/11/16/1334526.html) (2008-11-16) - 独孤雁 - 博客园
 
