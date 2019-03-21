@@ -63,7 +63,7 @@
 > 
 > notepad C:\Windows\System32\drivers\etc\hosts
 > 
-> hosts所在文件夹：
+> <a href="https://zh.wikipedia.org/zh/Hosts%E6%96%87%E4%BB%B6" title="域名解析文件(Hosts文件) - 维基百科，自由的百科全书">hosts</a> 所在文件夹：
 > 
 > >     Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts
 > >     Android（安卓）系统hosts位于 /etc/hosts
