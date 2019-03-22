@@ -47,7 +47,7 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 -------------------------------------------
 
 **推荐插件👍《[Password Checkup](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn) - [Google 出品](https://chrome.google.com/webstore/category/ext/15-by-google)的密码泄露检查扩展》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
->  - [Password Checkup 可協助您重新確保帳戶的安全性](https://support.google.com/accounts/answer/9231944?p=password-checkup&visit_id=636864003751353374-3618205692&rd=1)
+>  - “**密码检查**”：[Password Checkup 可協助您重新確保帳戶的安全性](https://support.google.com/accounts/answer/9231944)
 > 
 > Password Checkup 可帮助您在帐号遭受数据泄露影响之后重新确保其安全。
 > 无论您在何处登录，只要您输入的用户名和密码因涉及 Google 已知的数据泄露而不再安全，就会收到系统提醒。请重置您的密码。如果您为任何其他帐号也使用该相同用户名和密码，也请重置这些帐号的密码。
