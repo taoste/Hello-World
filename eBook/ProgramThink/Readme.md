@@ -15,3 +15,11 @@
 - [约翰·布雷萧：家庭会伤人——自我重生的新契机 (扫描版).pdf](https://taoste.github.io/Hello-World/eBook/ProgramThink/%E7%BA%A6%E7%BF%B0%C2%B7%E5%B8%83%E9%9B%B7%E8%90%A7%EF%BC%9A%E5%AE%B6%E5%BA%AD%E4%BC%9A%E4%BC%A4%E4%BA%BA%E2%80%94%E2%80%94%E8%87%AA%E6%88%91%E9%87%8D%E7%94%9F%E7%9A%84%E6%96%B0%E5%A5%91%E6%9C%BA%20(%E6%89%AB%E6%8F%8F%E7%89%88).pdf)
 - [社会工程学《欺骗的艺术》](https://taoste.github.io/Hello-World/eBook/ProgramThink/社会工程学《欺骗的艺术》.pdf) 
 - [简·尼尔森：正面管教.pdf](https://taoste.github.io/Hello-World/eBook/ProgramThink/%E7%AE%80%C2%B7%E5%B0%BC%E5%B0%94%E6%A3%AE%EF%BC%9A%E6%AD%A3%E9%9D%A2%E7%AE%A1%E6%95%99.pdf)
+
+
+---------------------------------
+
+💗 [编程随想的博客](https://program-think.blogspot.com/) 分享的格言精选：
+
+>> 人生中最大的两个财富是：你的才华和你的时间。
+>> 才华越来越多而时间越来越少。我们的一生就是用时间来换取才华。
