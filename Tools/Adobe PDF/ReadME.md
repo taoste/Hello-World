@@ -27,9 +27,9 @@
 =====================================================================
 
 
-2018年11月12日 : Adobe Acrobat Pro 2017.011.30106 经典版 + 2019.008.20081 连续版 - 小白狼の窝  https://whitewolf.space/adobe-acrobat-dc/
+2018年11月12日 : [Adobe Acrobat Pro 2017.011.30106 经典版 + 2019.008.20081 连续版](https://whitewolf.space/adobe-acrobat-dc/) - 小白狼の窝  
 
-< img src="https://whitewolf.space/wp-content/uploads/image/20180726/1532612031617034.jpg" color="#2bb24c" />
+<img src="https://whitewolf.space/wp-content/uploads/image/20180726/1532612031617034.jpg" color="#2bb24c"/>
 
 
 =====================================================================
