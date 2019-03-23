@@ -3,6 +3,8 @@
 >> ———— 尼古拉.鲁巴金 （作家）
 > / 与该格言 [**相关的博文**](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 
+其它:《[早安语录生成器](http://www.xhmbz.com/ZaoAn/index-PC-XH.htm)》
+
 ---------------------------------
 
 💗 【[**精选**](https://github.com/taoste/Hello-World/tree/master/eBook/ProgramThink) / [1](https://github.com/taoste/Hello-World/tree/master/GFW/Program-think) / [2](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink)】<a href="https://program-think.blogspot.com/favicon.ico"><img src="https://camo.githubusercontent.com/a9400ae3811d53dfb3005343b3300f338881070b/68747470733a2f2f70726f6772616d2d7468696e6b2e626c6f6773706f742e636f6d2f66617669636f6e2e69636f" width="15px" height="15px" title="favicon.ico"></a>[编程随想的博客](https://program-think.blogspot.com/) 分享的各类电子书 - [**电子书清单**](https://github.com/programthink/books)（含“BTSync”与“微软网盘”两种下载链接）：
