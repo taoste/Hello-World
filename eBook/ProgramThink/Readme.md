@@ -31,7 +31,7 @@
 <img src="https://taoste.github.io/Hello-World/eBook/ProgramThink/qrcode/3.png?raw=true"/> 
  </a>
 </p>
- …… ( 手机扫描二维码可以阅读电子书 ) 
+ …… ( 手机扫描二维码可以阅读电子书📕  ) 
  
 ---------------------------------
 
