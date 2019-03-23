@@ -18,17 +18,15 @@
 
 - [**Epub阅读软件**](https://zh.wikipedia.org/wiki/EPUB) - [维基百科，自由的百科全书](https://zh.wikipedia.org/)
 
-Firefox [EpubReader](https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/)扩展组件：
->  EPUBReader是一个可以阅读ePub格式文件的Firefox扩展程序。你无须安装额外的软件，在Firefox浏览器中便可阅读ePub格式文件。
+>  Firefox [EpubReader](https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/)扩展组件：
+>>  EPUBReader是一个可以阅读ePub格式文件的Firefox扩展程序。你无须安装额外的软件，在Firefox浏览器中便可阅读ePub格式文件。
 
-[Readium](https://chrome.google.com/webstore/detail/readium-projects/ngcfggenkbkkglbpmioopllienkphpao?hl=zh-CN)（Chrome扩展组件）：
->  Readium可以阅读网络上的epub文件，或者从你的计算机上选择一个epub文件。
+>  [Readium](https://chrome.google.com/webstore/detail/readium-projects/ngcfggenkbkkglbpmioopllienkphpao?hl=zh-CN)（Chrome扩展组件）：
+>>  Readium可以阅读网络上的epub文件，或者从你的计算机上选择一个epub文件。
 
-calibre：
-( @[官网](http://www.calibre-ebook.com/) / 
-@[源代码库](https://github.com/kovidgoyal/calibre) / 
-@[维基百科](https://zh.wikipedia.org/zh-cn/Calibre) )
->  一个自由开源的电子书软件套装，可以用来组织、存放以及管理电子书，支持大多数的电子书格式。同时也支持与许多流行的电子书阅读器进行同步，并可能在数字版权管理的限制下转换电子书的格式。
+>  calibre：
+>>  ( @[官网](http://www.calibre-ebook.com/) / @[源代码库](https://github.com/kovidgoyal/calibre) / @[维基百科](https://zh.wikipedia.org/zh-cn/Calibre) )
+>>  一个自由开源的电子书软件套装，可以用来组织、存放以及管理电子书，支持大多数的电子书格式。同时也支持与许多流行的电子书阅读器进行同步，并可能在数字版权管理的限制下转换电子书的格式。
 
 
 
