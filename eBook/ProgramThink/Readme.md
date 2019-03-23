@@ -1,3 +1,9 @@
+>  读书是在别人思想的帮助下建立自己的思想
+>> ———— 尼古拉.鲁巴金 （作家）
+> 与该格言[相关的博文](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
+
+---------------------------------
+
 💗 [编程随想的博客](https://program-think.blogspot.com/) 分享的各类电子书 - [**电子书清单**](https://github.com/programthink/books)（含“BTSync”与“微软网盘”两种下载链接）：
 
 - [每周转载：德鲁克谈《自我管理》——《哈佛商业评论》史上最受欢迎的文章](https://taoste.github.io/Hello-World/eBook/ProgramThink/weekly-share-121.png)  [ 2018年6月21日 / [编程随想](https://program-think.blogspot.com/)-[原文链接](https://program-think.blogspot.com/2018/06/weekly-share-121.html) ]
