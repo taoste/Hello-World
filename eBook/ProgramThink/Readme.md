@@ -20,7 +20,7 @@
 ---------------------------------
 
 💗  精选：[**分享各个领域的一些格言**](https://program-think.blogspot.com/2014/08/maxim.html) @[编程随想的博客](https://program-think.blogspot.com/)
-(  顺便提醒一下：有一个网站叫做“[维基语录](https://www.wikiquote.org/)”，是“[维基百科](https://www.wikipedia.org/)”的姐妹网站。它上面可以看到不少名人名言（包含各主流语种）。 )
+>>  (  顺便提醒一下：有一个网站叫做“[维基语录](https://www.wikiquote.org/)”，是“[维基百科](https://www.wikipedia.org/)”的姐妹网站。它上面可以看到不少名人名言（包含各主流语种）。 )
 
 > 人生中最大的两个财富是：你的才华和你的时间。
 > 才华越来越多而时间越来越少。我们的一生就是用时间来换取才华。
