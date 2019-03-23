@@ -1,6 +1,6 @@
 >  读书是在别人思想的帮助下建立自己的思想
 >> ———— 尼古拉.鲁巴金 （作家）
-> 与该格言[相关的博文](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
+> / 与该格言 [**相关的博文**](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 
 ---------------------------------
 
