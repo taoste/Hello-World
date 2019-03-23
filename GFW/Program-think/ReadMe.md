@@ -60,9 +60,13 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 >> ———— 尼古拉.鲁巴金 （作家）
 > / 与该格言 [**相关的博文**](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 
+>  读书是在别人思想的帮助下建立自己的思想
+>> ———— 尼古拉.鲁巴金 （作家）
+> / 与该格言 [**相关的博文**](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
+
 ---------------------------------
 
-💗 [编程随想的博客](https://program-think.blogspot.com/) 分享的各类电子书 - [**电子书清单**](https://github.com/programthink/books)（含“BTSync”与“微软网盘”两种下载链接）：
+💗 【[**精选**](https://github.com/taoste/Hello-World/tree/master/eBook/ProgramThink) / [1](https://github.com/taoste/Hello-World/tree/master/GFW/Program-think) / [2](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink)】[编程随想的博客](https://program-think.blogspot.com/) 分享的各类电子书 - [**电子书清单**](https://github.com/programthink/books)（含“BTSync”与“微软网盘”两种下载链接）：
 
 - [每周转载：德鲁克谈《自我管理》——《哈佛商业评论》史上最受欢迎的文章](https://taoste.github.io/Hello-World/eBook/ProgramThink/weekly-share-121.png)  [ 2018年6月21日 / [编程随想](https://program-think.blogspot.com/)-[原文链接](https://program-think.blogspot.com/2018/06/weekly-share-121.html) ]
 - [基思·斯坦诺维奇：与众不同的心理学——如何正视心理学 (第7版 扫描版).pdf](https://taoste.github.io/Hello-World/eBook/ProgramThink/%E5%9F%BA%E6%80%9D%C2%B7%E6%96%AF%E5%9D%A6%E8%AF%BA%E7%BB%B4%E5%A5%87%EF%BC%9A%E4%B8%8E%E4%BC%97%E4%B8%8D%E5%90%8C%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6%E2%80%94%E2%80%94%E5%A6%82%E4%BD%95%E6%AD%A3%E8%A7%86%E5%BF%83%E7%90%86%E5%AD%A6%20(%E7%AC%AC7%E7%89%88%20%E6%89%AB%E6%8F%8F%E7%89%88).pdf)  [ 2019年3月21日 / [编程随想](https://program-think.blogspot.com/)-[原文链接](https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html) ]	
@@ -82,4 +86,3 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 
 > 人生中最大的两个财富是：你的才华和你的时间。
 > 才华越来越多而时间越来越少。我们的一生就是用时间来换取才华。
-
