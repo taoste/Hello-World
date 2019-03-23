@@ -59,11 +59,12 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 -----------------------------------------------------
 
 
+
 >  读书是在别人思想的帮助下建立自己的思想
 >> ———— 尼古拉.鲁巴金 （作家）
 > / 与该格言 [**相关的博文**](https://program-think.blogspot.com/2013/04/how-to-read-book.html)
 
-其它:《[早安语录生成器](http://www.xhmbz.com/ZaoAn/index-PC-XH.htm)》@[传播企业正能量 DIY个性祝福语](https://club.dingding.xin/topic/2369/%E7%BE%A4%E6%97%A9%E5%AE%89%E8%AF%AD%E5%BD%95%E7%94%9F%E6%88%90%E5%99%A8-diy%E4%B8%AA%E6%80%A7%E7%A5%9D%E7%A6%8F%E8%AF%AD)
+[其它](http://www.zaoanyulu.com/):《[早安语录生成器](http://www.xhmbz.com/ZaoAn/index-PC-XH.htm)》@[传播企业正能量 DIY个性祝福语](https://club.dingding.xin/topic/2369/%E7%BE%A4%E6%97%A9%E5%AE%89%E8%AF%AD%E5%BD%95%E7%94%9F%E6%88%90%E5%99%A8-diy%E4%B8%AA%E6%80%A7%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 
 ---------------------------------
 
