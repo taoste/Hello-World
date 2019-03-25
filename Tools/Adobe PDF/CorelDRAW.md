@@ -1,9 +1,9 @@
 - 👉[CorelDRAW 2018官方正式版](https://garenmorbid.github.io/2018/05/03/20180503-CorelDRAW%202018%E5%AE%98%E6%96%B9%E6%AD%A3%E5%BC%8F%E7%89%88/) | [HDQ](https://garenmorbid.github.io/2018/05/03/20180503-CorelDRAW%202018%E5%AE%98%E6%96%B9%E6%AD%A3%E5%BC%8F%E7%89%88/) 
 | [Blog](https://blog.hdqyf.club/2018/05/03/20180503-CorelDRAW%202018%E5%AE%98%E6%96%B9%E6%AD%A3%E5%BC%8F%E7%89%88/)
 
->  破解安装方法
+破解安装方法
 
-内含序列号，如有安装不懂，可以留言联系博主
+>  内含序列号，如有安装不懂，可以留言联系博主
 
 > >     📜 首先下载解压安装包
 > >     📜 断开网络连接
