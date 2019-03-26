@@ -7,7 +7,7 @@
 
 **推荐1👍《谷歌上网助手（Ghelper）》一键安装，无需其他配置，即可访问谷歌（需注册/无限免费使用方法附后）。**
 
-- [x] 10. [**Chrome 插件：谷歌上网助手（Ghelper）**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店
+- [x] 10. [**Chrome 插件：谷歌上网助手（Ghelper）**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店 ( 👍 [**我的Go下载短链接**](https://go.choong.net/google/g/) )
 
 https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
 
