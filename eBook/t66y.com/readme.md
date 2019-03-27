@@ -1,5 +1,5 @@
 
-[:.](https://taoste.github.io/Hello-World/eBook/t66y.com/index.html)  [**草榴社區**](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://t66y.com/index.php) » ( [**https://t66y.com/**](https://t66y.com/index.php) )
+[:.](https://taoste.github.io/Hello-World/eBook/t66y.com/index.html)  [**草榴社區**](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://t66y.com/index.php) »  [技術討論區](https://t66y.com/thread0806.php?fid=7) ( [RSS](https://t66y.com/rss.php?fid=7)) ( [**https://t66y.com/**](https://t66y.com/index.php) ) 【求:[**邀请注册码**](https://t66y.com/hack.php?H_name=invite) / 】
 
 <img src="https://camo.githubusercontent.com/af797cec507dc27db9d9c56c6d86511a3d2d354c/68747470733a2f2f743636792e636f6d2f696e6465782e6769663f7261773d74727565?raw=true"/>
 
