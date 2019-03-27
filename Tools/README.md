@@ -57,3 +57,20 @@
 >>  ( @[官网](http://www.calibre-ebook.com/) / @[源代码库](https://github.com/kovidgoyal/calibre) / @[维基百科](https://zh.wikipedia.org/zh-cn/Calibre) )
 >> 
 >>  一个自由开源的电子书软件套装，可以用来组织、存放以及管理电子书，支持大多数的电子书格式。同时也支持与许多流行的电子书阅读器进行同步，并可能在数字版权管理的限制下转换电子书的格式。
+
+-------------------------------------------------------------------
+
+- [**小众软件**](https://www.appinn.com/)  - 分享免费、小巧、实用、有趣、绿色的软件 : 
+[Android](https://www.appinn.com/category/android/) 
+/ [iOS](https://www.appinn.com/category/ios/)
+/ [MacOS](https://www.appinn.com/category/mac/)
+/ [Windows](https://www.appinn.com/category/windows/)
+/ [Chrome](https://www.appinn.com/category/chrome/)
+/ [Web](https://www.appinn.com/category/online-tools/)
+/ [More](https://meta.appinn.com/)
+
+<a href="https://img3.appinn.com/static/wp-content/uploads/appinn190.png">
+<img src="https://img3.appinn.com/static/wp-content/uploads/appinn190.png" border="0" title="小众软件 - 分享免费、小巧、实用、有趣、绿色的软件"></a>
+
+-------------------------------------------------------------------
+
