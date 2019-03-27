@@ -17,7 +17,9 @@
 >>
 >> 而同版本号的 Lite 版本只有 4 MB，只包含主程序，没有任何驱动程序包，有简体中文。在首次运行时有三种模式可选：
 
-https://img3.appinn.com/images/201903/2019-03-1111-15-24.jpg!o
+<a href="http://www.wibibi.com
+https://img3.appinn.com/images/201903/2019-03-1111-15-24.jpg">
+<img src="https://camo.githubusercontent.com/dfc921bebf97e7699a1eaab18ef2ad5e3d29119e/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313930332f323031392d30332d313131312d31352d32342e6a70673f7261773d74727565?raw=true" border="0" title="Snappy Driver Installer - 为了给老电脑装驱动，这里有 17.1GB 的离线驱动程序[Windows] - 小众软件"/> </a>
 
 >> 1.下载全部驱动包
 
