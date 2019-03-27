@@ -11,7 +11,7 @@
 > 
 > via @[SHERMANLIU](https://www.appinn.com/how-to-find-drive-on-old-computer/#comment-432063)
 
->> Snappy Driver Installer 分为完整版和 Lite 版本，两者区别蛮大，主要是体积区别 😂完整版 1.18.11 (R1811）目前 17.1 GB，包含了所有驱动程序，并且只提供 [BT](http://sdi-tool.org/SDI_Update.torrent) 下载。
+>> Snappy Driver Installer 分为完整版和 Lite 版本，两者区别蛮大，主要是体积区别 😂完整版 1.18.11 (R1811）目前 17.1 GB，包含了所有驱动程序，并且只提供 [**BT**](http://sdi-tool.org/SDI_Update.torrent) / [**下载**](https://github.com/taoste/Hello-World/raw/master/Tools/%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F/Snappy%20Driver%20Installer/SDI_Update.torrent)。
 >>
 >> 好处当然是可以离线使用，比如装入 U 盘，就可以非常方便的为别人安装操作系统了，然后领取好人卡。
 >>
