@@ -1,4 +1,6 @@
-- 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md) ： 
+- 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md) ：  
+
+( [磁力链接地址](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80.txt) )
 
 🎦 网站：【[**磁力库**](https://www.mbagarden.com/)】 _ 磁力链接 _ [迅雷磁力下载](https://github.com/taoste/Hello-World/tree/master/Tools) _ 最快最全的磁力搜索下载引擎 ( https://www.mbagarden.com/ )
 
