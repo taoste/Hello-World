@@ -24,6 +24,6 @@
 >> magnet:?xt=urn:btih:11c7851128f54b90ed4e4836e8c16e8ec3ece235&dn=[ 微信公众号 爱电影分享 ] 欲奴·Submission.第一季(6集全).2016.HD720P.英语中英双字
 
 
-> <a href="http://www.fox-sp.com/main-show-id-5504201.html" title="【爱看电影网：2kandy.com】欲奴·Submission.第一季(6集全).2016.HD720P.英语中英双字磁力链接_【爱看电影网：2kandy.com】欲奴·Submission.第一季(6集全).2016.HD720P.英语中英双字BT种子下载 - 磁力库">磁力链接2</a> :
+> <a href="http://www.fox-sp.com/main-show-id-5504201.html" title="【爱看电影网：2kandy.com】欲奴·Submission.第一季(6集全).2016.HD720P.英语中英双字磁力链接_【爱看电影网：2kandy.com】欲奴·Submission.第一季(6集全).2016.HD720P.英语中英双字BT种子下载 - 磁力库">磁力链接2</a> : ( [BT](https://github.com/taoste/Hello-World/raw/master/eBook/t66y.com/%E6%AC%B2%E5%A5%B4%26%E8%B0%83%E6%95%99%E5%AE%9D%E5%85%B8/%E6%AC%B2%E5%A5%B4%C2%B7Submission.%E7%AC%AC%E4%B8%80%E5%AD%A3(6%E9%9B%86%E5%85%A8).2016.HD720P.%E8%8B%B1%E8%AF%AD%E4%B8%AD%E8%8B%B1%E5%8F%8C%E5%AD%97.torrent) )
 
 >> magnet:?xt=urn:btih:1e6754a0dbede15a56c4aa91dc1db6f0a78f121f&dn=【爱看电影网：2kandy.com】欲奴·Submission.第一季(6集全).2016.HD720P.英语中英双字
