@@ -11,9 +11,9 @@
 > <a href="https://upload.cc/i1/2019/03/10/VctidB.jpg"><img src="https://camo.githubusercontent.com/db03547fe09e38ac15c91e283232b96ef29cca2f/68747470733a2f2f75706c6f61642e63632f69312f323031392f30332f31302f5663746964422e6a7067" border="0" title="教學百科VctidB.jpg (1060×720)"> </a>
 
 
+> <a href="https://t66y.com/read.php?tid=3478021&page=2 "><img src="https://camo.githubusercontent.com/f32b034c4aeeb80d7d7ed4f5dd19847940088147/687474703a2f2f696d6730322e637765622d7069782e636f6d2f696d616765732f323031352f31312f31362f353436326539326539326664653135392e6a7067" border="0" title="[人间故事20190328113]守了半世清高，到头来又有何用？ - 技術討論區 | 草榴社區 - t66y.com"> </a>
 
-
-
+  
 
 
 
