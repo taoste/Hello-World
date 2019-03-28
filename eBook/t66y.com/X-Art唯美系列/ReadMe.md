@@ -1,4 +1,4 @@
-- ﻿[X-Art](https://www.x-art.com/) ~ beautiful erotica. ( https://www.x-art.com/ )
+- ﻿[X-Art](https://www.x-art.com/) ~ beautiful erotica. ( https://www.x-art.com/ ) @[Twitter](https://twitter.com/xart)
 
 
 > [引用](https://twitter.com/charlesr36/status/521119626399207424):
