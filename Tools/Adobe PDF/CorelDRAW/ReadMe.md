@@ -23,5 +23,68 @@
 
 ----------------------------
 
+- 👉[CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】](https://www.ssdax.com/2751.html) | 伤逝的安详
+
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+> 所属分类：软件分享
+> 
+> CorelDRAW Graphics Suite 2018 版本于2018年4月初正式发售，国内售价8200元人民币。2018 版本带来了全新对称绘图模式、图块阴影工具、位图透视、以及支持发布至WordPress等令人印象深刻的创意功能！
+> 
+> CorelDRAW是国外加拿大Corel公司开发的一款功能强大的专业平面设计软件、矢量设计软件、图形设计软件。其非凡的设计能力广泛地应用于商标设计、标志制作、封面设计、CIS设计、产品包装造型设计、模型绘制、插图描画、时装/服饰设计、印刷制版、排版及分色输出等诸多领域。20多年的历史其被广泛应用的程度足以说明，其用户涵盖图形设计、平面设计、图文设计、广告设计、商业设计和美术设计等多个领域行业。
+
+>  https://www.ssdax.com/show/CorelDRAW2018.jpg
+
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+> CorelDRAW 2018简体中文正式版(即CorelDraw Graphics Suite 2018)，版本号20.0.0.663，本版官方自带英语,、简体中文,、繁体中文,和日语。最新的2018版只支持 Win7、Win8.1和Win10（32/64位）系统。不再支持XP系统。
+> 
+> Win7系统如果运行出错，请安装IE11
+
+> https://www.ssdax.com/pic/2018/CorelDRAW2018.png
+
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+ 
+
+> 安装 & 破解方法
+> 
+> 1、首先安装前断开网络
+>
+> 2、打开注册机，选择CorelDRAW 2018,点击Generate Serial Number算出序列号（不要关闭注册机）
+
+> https://www.ssdax.com/pic/2018/CorelDRAW2018_Crack_1.jpg
+
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+> 3、点击Setup.exe安装CorelDRAW 2018，在安装中填入上一步算出的序列号（依然不要关闭注册机），完成安装后关闭弹出的登录界面；
+
+> https://www.ssdax.com/pic/2018/CorelDRAW2018_Crack_2.png
+
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+> 4、安装完成后，会弹出要求登录的界面，直接点右上角的X关闭；
+
+> https://www.ssdax.com/pic/2018/CorelDRAW2018_Crack_3.png
+
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+> 5、点击注册机上的“ Generate Activation Code ”按钮，出现 “Activation data has been added successfully! ”即表示成功；
+> 
+> CorelDRAW 2018 中文版下载【注册机+32位+64位+激活教程】
+> 
+> 6、打开C:\windows\system32\drivers\etc\hosts，在末尾添加下面四行后保存
+> 
+> >127.0.0.1 apps.corel.com
+> >
+> >127.0.0.1 mc.corel.com
+> >
+> >127.0.0.1 origin-mc.corel.com
+> >
+> >127.0.0.1 iws.corel.com
+> 
+> 7、如果可以最好防火墙屏蔽cdr的主程序
+> 
+> 8、激活完成，再次运行CorelDRAW 2018将显示已破解，且屏蔽登录窗口
 
 
