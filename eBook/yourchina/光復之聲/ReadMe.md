@@ -1,12 +1,5 @@
 
 **YouTube** - [**光復之聲**](https://www.youtube.com/channel/UCksrcNLRwfTBILli9-SpAjQ):
-
-<a href="https://zh.wikipedia.org/wiki/三民主義統一中國">
-<img src="https://camo.githubusercontent.com/4af31e335fd9923ccd3313eaa2f7cfa0f80a202b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31342f54687265655f5072696e6369706c65735f6f665f7468655f50656f706c655f556e697465735f4368696e612e6a70672f32353070782d54687265655f5072696e6369706c65735f6f665f7468655f50656f706c655f556e697465735f4368696e612e6a70673f7261773d74727565?raw=true" border="0" alt="图片：三民主義統一中國 / 备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。" title="【图片：三民主義統一中國】 
-备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。">
-<img src="https://camo.githubusercontent.com/2fed731873bd41474694f131acf351a409b725cd/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d774942394c58666b6a55452f545f7766484e346e5557492f41414141414141414141412f4634352d736b4b6d514938786534674e754173456b7a634c4a424b514968515051434a67434541452f77313230302d683330302d6e2f6576656e745f7468656d652e6a70673f7261773d74727565?raw=true" width="50%" height="200px" alt="图片：三民主義統一中國 / 备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。" title="【图片：三民主義統一中國】 
-备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。">
-</a>
  
 > 统计信息 ( 2018年3月27日注册 )
 >
@@ -29,3 +22,13 @@
 > （ [Google 备用播放地址](https://r5---sn-i3belne6.googlevideo.com/videoplayback?requiressl=yes&ei=sT_pW6XSF4bG7QTV7oW4Ag&source=youtube&ipbits=0&lmt=1541914218052691&sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,ratebypass,requiressl,source&itag=18&id=o-AHd5QonlVKy6PgOuM2PWnvgbBSpCPCInJcrg325uEOqm&signature=211B847EEFF3631931A0F17EBD78F4EAE8AD5DC5.74FC1B22142417C4C19B9F72A9A0D0B6C12579F5&expire=1542034449&pl=19&ip=93.170.112.200&gir=yes&c=WEB&txp=5431432&key=cms1&mime=video%2Fmp4&fvip=5&dur=435.095&clen=34163281&ratebypass=yes&video_id=usEDP7s0xRw&title=%E3%80%8A%E7%82%BA%E4%BB%80%E9%BA%BD%E7%BE%8E%E5%9C%8B%E6%B2%92%E6%9C%89%E9%9B%99%E5%8D%81%E4%B8%80%E3%80%8B%E5%A4%A7%E9%99%B8%E9%9D%92%E5%B9%B4%E9%8D%BE%E5%8B%87%E6%89%B9%E4%B8%AD%E5%85%B1%E7%A8%85%E6%94%B6%E6%9A%B4%E6%94%BF+%E4%B9%9D%E9%9B%B6%E5%BE%8C%E7%9C%8B%E4%B8%96%E7%95%8C05+%E5%85%89%E8%A4%87%E4%B9%8B%E8%81%B220181111&rm=sn-nx5pm-3gge7s,sn-gvnuxaxjvh-n8vr76,sn-n8vy6el&fexp=23763603&req_id=38fba5c9fbc6a3ee&redirect_counter=3&cms_redirect=yes&ipbypass=yes&mip=219.76.153.166&mm=30&mn=sn-i3belne6&ms=nxu&mt=1542011932&mv=u) ）
 
 
+<a href="https://zh.wikipedia.org/wiki/三民主義統一中國">
+<img src="https://camo.githubusercontent.com/4af31e335fd9923ccd3313eaa2f7cfa0f80a202b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31342f54687265655f5072696e6369706c65735f6f665f7468655f50656f706c655f556e697465735f4368696e612e6a70672f32353070782d54687265655f5072696e6369706c65735f6f665f7468655f50656f706c655f556e697465735f4368696e612e6a70673f7261773d74727565?raw=true" border="0" alt="图片：三民主義統一中國 / 备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。" title="【图片：三民主義統一中國】 
+备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。">
+<img src="https://camo.githubusercontent.com/2fed731873bd41474694f131acf351a409b725cd/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d774942394c58666b6a55452f545f7766484e346e5557492f41414141414141414141412f4634352d736b4b6d514938786534674e754173456b7a634c4a424b514968515051434a67434541452f77313230302d683330302d6e2f6576656e745f7468656d652e6a70673f7261773d74727565?raw=true" width="50%" height="200px" alt="图片：三民主義統一中國 / 备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。" title="【图片：三民主義統一中國】 
+备注：三民主义统一中国为中华民国政府继蒋中正总统时期的反攻大陆与七分政治、三分军事后，1981年蒋经国总统时期的对于中国大陆与中共的政策。
+其彰显中华民国政府在动员戡乱时期由一开始的武力反攻，转向为政治反攻。"> 
+ <img src="https://camo.githubusercontent.com/dd1fe055e561a349ef5dc1a1d3301b31c705a76f/687474703a2f2f70696331332e3939373738382e636f6d2f7069635f7365617263682f30302f30392f33312f36372f7365393331363734332e6a70673f7261773d74727565?raw=true" width="80%" height="80%" alt="图片：三民主义统一中国 邮戳" title="【图片：三民主義統一中國】 
+备注：三民主义统一中国为中华民国政府继蒋中正总统时期的反攻大陆与七分政治、三分军事后，1981年蒋经国总统时期的对于中国大陆与中共的政策。
+其彰显中华民国政府在动员戡乱时期由一开始的武力反攻，转向为政治反攻。">
+</a>
