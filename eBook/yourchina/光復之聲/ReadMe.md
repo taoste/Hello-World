@@ -35,7 +35,8 @@
 其彰显中华民国政府在动员戡乱时期由一开始的武力反攻，转向为政治反攻。"> 
  </a> 
  
- <a href="https://zh.wikipedia.org/wiki/三民主義">
+ <a href="https://zh.wikipedia.org/wiki/三民主義"> 
  <img src="https://camo.githubusercontent.com/dd1fe055e561a349ef5dc1a1d3301b31c705a76f/687474703a2f2f70696331332e3939373738382e636f6d2f7069635f7365617263682f30302f30392f33312f36372f7365393331363734332e6a70673f7261773d74727565?raw=true" width="35%" height="150px" alt="图片：三民主义统一中国 邮戳" title="【关于】三民主义（英语：Three Principles of the People、Three People's Principles），又称“孙学”（Sunology）、“国父思想”、“总理遗教”，是由中华民国及中国国民党创始人孙中山提出，为国民党的基本理论，在中华民国宪法前言以“孙中山先生创立中华民国之遗教”称呼，并被纳入《中华民国宪法》第一条内容。孙中山提出的民主革命的纲领，即民族主义、民权主义和民生主义。">
 </a>
+<img src="https://camo.githubusercontent.com/0c0046699388ab2f82f84af2ea2ec8cfb56ebcd9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4449436644524757304145624135432e6a7067?raw=true"  width="100%" height="100%" alt="图片：三民主义" title="【关于】三民主义（英语：Three Principles of the People、Three People's Principles），又称“孙学”（Sunology）、“国父思想”、“总理遗教”，是由中华民国及中国国民党创始人孙中山提出，为国民党的基本理论，在中华民国宪法前言以“孙中山先生创立中华民国之遗教”称呼，并被纳入《中华民国宪法》第一条内容。孙中山提出的民主革命的纲领，即民族主义、民权主义和民生主义。">
 </p>
