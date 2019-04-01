@@ -2,7 +2,7 @@
 **YouTube** - [**光復之聲**](https://www.youtube.com/channel/UCksrcNLRwfTBILli9-SpAjQ):
 
 <a href="https://zh.wikipedia.org/wiki/三民主義統一中國">
-<img src="https://camo.githubusercontent.com/2fed731873bd41474694f131acf351a409b725cd/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d774942394c58666b6a55452f545f7766484e346e5557492f41414141414141414141412f4634352d736b4b6d514938786534674e754173456b7a634c4a424b514968515051434a67434541452f77313230302d683330302d6e2f6576656e745f7468656d652e6a70673f7261773d74727565?raw=true" border="0" alt="图片：三民主義統一中國" title="三民主義統一中國"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Three_Principles_of_the_People_Unites_China.jpg/250px-Three_Principles_of_the_People_Unites_China.jpg?raw=true" border="0" alt="图片：三民主義統一中國 / 备注：大胆岛（金门）上著名的“三民主义统一中国”标语，与厦门对岸的“一国两制统一中国”标语遥遥相望。另外还有一块标语设于二胆岛的哨所墙上。" title="三民主義統一中國"></a>
  
 > 统计信息 ( 2018年3月27日注册 )
 >
