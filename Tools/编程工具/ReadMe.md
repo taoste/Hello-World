@@ -10,6 +10,6 @@
 
  [Google 搜索](https://www.google.com/?hl=zh_CN)  -  [sublime text site:github.io](https://www.google.com/search?newwindow=1&ei=RsGhXK-NLZaOr7wP-Zu48AU&q=sublime+text+site%3Agithub.io) :
 
->> [Sublime Text使用指南](https://seniorzhai.github.io/2014/09/28/Sublime-Text%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/) (2014-09-28) | [SeniorZhai's blog](https://seniorzhai.github.io/)
+> [Sublime Text使用指南](https://seniorzhai.github.io/2014/09/28/Sublime-Text%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/) (2014-09-28) | [SeniorZhai's blog](https://seniorzhai.github.io/)
 
->> [那些年我使用过的 Sublime Text 3 插件](https://bubkoo.com/2014/01/04/sublime-text-3-plugins/) (2014-01-04) | [bubkoo](https://bubkoo.com/)
+> [那些年我使用过的 Sublime Text 3 插件](https://bubkoo.com/2014/01/04/sublime-text-3-plugins/) (2014-01-04) | [bubkoo](https://bubkoo.com/)
