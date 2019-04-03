@@ -1,7 +1,7 @@
 - **推荐**：手机APK
 
 <p><a href="https://go.choong.net/app" title="扫描二维码可以访问本网址:https://go.choong.net/app">
-<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true"/></a>
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/apk-qrcode.png?raw=true"/></a>
 <a href="https://www.wandoujia.com/" title="扫描二维码可以访问
  【豌豆荚手机助手】-海量安卓APP应用与游戏免费下载">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/wandoujia-qrcode.png?raw=true"/></a>
