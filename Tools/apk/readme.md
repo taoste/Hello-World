@@ -1,15 +1,13 @@
 - **推荐**：手机APK
 
-<p><a href="https://go.choong.net/app" title="扫描二维码可以访问本网址:https://go.choong.net/app">
-<img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/apk-qrcode.png?raw=true"/></a>
-<a href="https://www.wandoujia.com/" title="扫描二维码可以访问
- 【豌豆荚手机助手】-海量安卓APP应用与游戏免费下载">
+<p>
+<a href="https://go.choong.net/app" title="扫描二维码可以访问本网址:https://go.choong.net/app">
+ <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/apk-qrcode.png?raw=true"/></a>
+<a href="https://www.wandoujia.com/" title="扫描二维码可以访问【豌豆荚手机助手】-海量安卓APP应用与游戏免费下载">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/wandoujia-qrcode.png?raw=true"/></a>
-<a href="https://sj.qq.com/" title="扫描二维码可以访问
- 【应用宝】官网 - 腾讯出品">
+<a href="https://sj.qq.com/" title="扫描二维码可以访问【应用宝】官网 - 腾讯出品">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/txyyb-qrcode.png?raw=true"/></a>
- <a href="https://apkpure.com/cn/" title=" 【需科学上网】扫描二维码可以访问
- 使用APKPure APK下载器在线极速下载原版应用 - APKPure官网">
+<a href="https://apkpure.com/cn/" title=" 【需科学上网】扫描二维码可以访问:使用APKPure APK下载器在线极速下载原版应用 - APKPure官网">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/APKPure-qrcode.png?raw=true"/></a>
 </p>
 
