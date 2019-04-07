@@ -57,6 +57,8 @@
  
  https://taoste.github.io/Hello-World/eBook/yourchina/CCTV2.pdf
  
+ https://taoste.github.io/Hello-World/eBook/yourchina/Ego.jpg
+ 
  https://taoste.github.io/Hello-World/eBook/yourchina/2018723/
  
  https://taoste.github.io/Hello-World/eBook/yourchina/2018721/
