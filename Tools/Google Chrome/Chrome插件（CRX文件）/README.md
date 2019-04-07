@@ -281,6 +281,9 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 > （ 提供方： [主页](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) / [支持网站](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) ）
 
+-  **推荐5👍**《skyZIP™ Proxy**](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?hl=zh-CN)》
+：支持安全加密隐私浏览的隐私保护插件（完全免费使用）
+
 -------------------------------------------
 
 - [ ] 15. [**MPAA 电影评级**](https://chrome.google.com/webstore/detail/mpaa-%E7%94%B5%E5%BD%B1%E8%AF%84%E7%BA%A7/dnjigceoecdajpgbjemglmhhboleipfg) - Chrome 网上应用店
