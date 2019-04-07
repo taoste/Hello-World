@@ -15,6 +15,8 @@ ZIP RAR文件密码破解软件ARCHPR Pro4.54（绿色中文破解版） - 欢�
 https://blog.csdn.net/hp910315/article/details/82861051
 
 
+<a href="https://zhuanlan.zhihu.com/p/30097880">
+<img src="https://camo.githubusercontent.com/d675817311edbabc0203b5b9231b52a25a3a05d1/68747470733a2f2f706963342e7a68696d672e636f6d2f38302f76322d37386430636564393663623563663835303032613136353839373634363161625f68642e6a7067" border="0" title="ZIP RAR文件密码破解软件ARCHPR"></a>
 
 下载链接：https://pan.baidu.com/s/1IztvzuxMKJYu41hcjaGL8Q
 
