@@ -36,3 +36,10 @@ https://taoste.github.io/Hello-World/GFW/赛风-psiphon3/psiphon3（Web-download
 [https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync BTSync]
 
 <img src="httphttps://github.com/taoste/Hello-World/blob/master/GFW/%E8%BF%91%E8%A7%86%E7%9C%BC%E7%9A%84%E6%88%90%E5%9B%A0.jpg?raw=true"/>
+
+------------------------
+
+- [8102 年的程序员不需要 Hosts 和 Fiddler](https://github.com/kaiye/kaiye.github.com/issues/27) · [Issue #27](https://github.com/kaiye/kaiye.github.com/issues/27) · [kaiye/kaiye.github.com](https://github.com/kaiye/kaiye.github.com/)
+
+- [关于疫苗的四点常识（家长必看）](https://github.com/kaiye/kaiye.github.com/issues/25) · [Issue #25](https://github.com/kaiye/kaiye.github.com/issues/25) · [kaiye/kaiye.github.com](https://github.com/kaiye/kaiye.github.com/)
+
