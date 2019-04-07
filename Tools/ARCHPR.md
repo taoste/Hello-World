@@ -12,7 +12,8 @@ ARCHPRP-KSNYZ-65395-WFZFG-56252
 
 https://zhuanlan.zhihu.com/p/30097880
 
-ZIP RAR文件密码破解软件ARCHPR Pro4.54（绿色中文破解版） - 欢迎关注微信公众号：DroidMind - CSDN博客
+【密码恢复】ZIP RAR文件密码破解软件ARCHPR Pro4.54（绿色中文破解版） - 欢迎关注微信公众号：DroidMind - CSDN博客
+ - 欢迎关注微信公众号：DroidMind - CSDN博客
 
 https://blog.csdn.net/hp910315/article/details/82861051
 
