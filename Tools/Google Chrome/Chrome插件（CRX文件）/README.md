@@ -281,7 +281,7 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 > （ 提供方： [主页](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) / [支持网站](https://outgoing.prod.mozaws.net/v1/63b3ae845be6a84ebf693798232542b401f18e0bc3dece1df48e644b60abc944/https%3A//browsec.com) ）
 
--  **推荐5👍**《skyZIP™ Proxy**](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?hl=zh-CN)》
+-  **推荐5👍**《[skyZIP™ Proxy](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?hl=zh-CN)**》
 ：支持安全加密隐私浏览的隐私保护插件（完全免费使用）
 
 -------------------------------------------
