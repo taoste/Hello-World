@@ -158,6 +158,51 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 >> 
 >> 如此一来，俺本人几乎没有任何上传的流量，可以大大规避【流量分析】的风险。
 
+> [**TO	挪威森林猫（28单元）**](https://program-think.blogspot.com/2019/03/weekly-share-128.html?comment=1554370833372&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author)
+>> 
+>> 昨天的回复，遗漏了”分布式“的讨论。补充一下。
+>> 
+>> 
+>> 
+>> 关于”ZeroNet	VS	IPFS“
+>> 
+>> 1、内容的标识
+>> 
+>> ZeroNet	采用【公钥】作为内容的标识
+>> 
+>> IPFS	采用【散列值】作为内容的标识
+>> 
+>> 1.1
+>> 
+>> 对于静态数据（比如俺分享的电子书）
+>> 
+>> IPFS	会更理想——它相当于一个全局（global）的文件系统
+>> 
+>> 1.2
+>> 
+>> 对于动态数据（比如博客，其文章可能会被修改）
+>> 
+>> ZeroNet	可能会更方便
+>> 
+>> （IPFS	需要再辅助	IPNS）
+>> 
+>> 关于浏览器支持
+>> 
+>> 貌似目前都还没有原生支持。
+>> 
+>> 去年	Mozilla	官方博客发了 一篇文章 ，谈	IPFS	的优势。
+>> 
+>> 但	Firefox	本身的支持，还不清楚啥时候加入。
+
+>> 
+>> 关于俺的考虑
+>> 
+>> 如果	Firefox	或	Chrome	其中一个【原生】支持	IPFS，俺就可以开始把	IPFS	作为新的【电子书网盘】。
+>> 
+>> 由于俺的微软网盘只有	25GB	空间，迟早会用完。
+>> 
+>> 而如果只有一个	BT	sync，又存在【单点故障】
+
 > [**TO	挪威森林猫（7单元）**](https://program-think.blogspot.com/2019/03/weekly-share-128.html?comment=1554371484962&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author)
 
 >> 关于【效果】的问题
