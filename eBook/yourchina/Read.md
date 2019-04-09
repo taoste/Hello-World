@@ -28,4 +28,10 @@ What experience and history teach is this——that nations and governments have
 
 <hr>
 
-
+LUCY：
+來，捐款了……
+網友們說：
+天災捐，人禍不捐
+人禍第一式：先吸血
+人禍第二式：再吸金!
+政府的救濟呢？
