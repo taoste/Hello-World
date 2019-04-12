@@ -1,10 +1,12 @@
-- [喜马拉雅FM](https://www.ximalaya.com/) : 《**小狗钱钱**》 - [第一部（已完结）](https://www.ximalaya.com/ertong/4705684/) | [第二部（已完结）](https://www.ximalaya.com/ertong/6129557/)  by：[乱乱亲子故事会](https://www.ximalaya.com/zhubo/20674107/)
+-  《**小狗钱钱**》 - 教你开始建立自己的资产金鹅 | 理财就要从娃娃抓起
 
-> [儿童](https://www.ximalaya.com/ertong/)  2018-10-15更新 收听:201.1w+84.2w
+> [喜马拉雅FM](https://www.ximalaya.com/) :《**小狗钱钱**》 [第一部（已完结）](https://www.ximalaya.com/ertong/4705684/) | [第二部（已完结）](https://www.ximalaya.com/ertong/6129557/)  by：[乱乱亲子故事会](https://www.ximalaya.com/zhubo/20674107/)
 
-> ( 标签：[起床](https://www.ximalaya.com/ertong/mr15t878/) [7-10岁](https://www.ximalaya.com/ertong/mr13t3003/) [文学](https://www.ximalaya.com/ertong/mr19t971/) [小说名著](https://www.ximalaya.com/ertong/ertongwenxue/mr160t2943/) [儿童文学](https://www.ximalaya.com/ertong/ertongwenxue/) )
+>> [儿童](https://www.ximalaya.com/ertong/)  2018-10-15更新 收听:201.1w+84.2w
 
->> **引导孩子正确认识财富、创造财富的金钱童话**
+>> ( 标签：[起床](https://www.ximalaya.com/ertong/mr15t878/) [7-10岁](https://www.ximalaya.com/ertong/mr13t3003/) [文学](https://www.ximalaya.com/ertong/mr19t971/) [小说名著](https://www.ximalaya.com/ertong/ertongwenxue/mr160t2943/) [儿童文学](https://www.ximalaya.com/ertong/ertongwenxue/) )
+
+> **引导孩子正确认识财富、创造财富的金钱童话**
 
 
 ------------------------
