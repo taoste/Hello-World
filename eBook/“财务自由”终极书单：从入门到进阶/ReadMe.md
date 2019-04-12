@@ -1,3 +1,13 @@
+- [喜马拉雅FM](https://www.ximalaya.com/) : 《**小狗钱钱**》 - [第一部（已完结）](https://www.ximalaya.com/ertong/4705684/) | [第二部（已完结）](https://www.ximalaya.com/ertong/6129557/)  by：[乱乱亲子故事会](https://www.ximalaya.com/zhubo/20674107/)
+
+> [儿童](https://www.ximalaya.com/ertong/)  2018-10-15更新 收听:201.1w+84.2w
+
+> ( 标签：[起床](https://www.ximalaya.com/ertong/mr15t878/) [7-10岁](https://www.ximalaya.com/ertong/mr13t3003/) [文学](https://www.ximalaya.com/ertong/mr19t971/) [小说名著](https://www.ximalaya.com/ertong/ertongwenxue/mr160t2943/) [儿童文学](https://www.ximalaya.com/ertong/ertongwenxue/) )
+
+>> **引导孩子正确认识财富、创造财富的金钱童话**
+
+
+------------------------
 
 <p>
 <a href="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E2%80%9C%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E2%80%9D%E7%BB%88%E6%9E%81%E4%B9%A6%E5%8D%95%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6/%E5%A4%A7%E4%BD%AC%E6%BC%94%E8%AE%B2%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.jpg" title="【图文】大佬演讲（完整版）.jpg">
