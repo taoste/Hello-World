@@ -10,3 +10,11 @@
 </p>
 
  …… ( 扫描二维码可以访问阅读电子书📕  ) 
+ 
+ 
+ **其它：**
+ 
+ <a href="https://t66y.com/htm_data/7/1903/3469166.html" title="金融从业者教你如何还债 - 技術討論區 | 草榴社區 - t66y.com">
+<img src="https://camo.githubusercontent.com/37bbc8aac162427d370bcc16fcd220764a898c26/687474703a2f2f6936372e74696e797069632e636f6d2f31316d63646a6e2e6a70673f7261773d74727565?raw=true"/>
+</a>
+
