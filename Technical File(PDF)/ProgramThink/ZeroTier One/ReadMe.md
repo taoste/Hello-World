@@ -4,7 +4,9 @@
 
 参考：
 
-1.《[**ZeroTier** - 无配置，零基础「**内网穿透**」随时随地连回家/学校/办公室 [跨平台]](https://www.appinn.com/zerotier-one/)》 - 小众软件 （ 2017/11/06 ）
+1.《<a href="https://chinadigitaltimes.net/chinese/2014/07/%E7%BF%BB%E5%A2%99-%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9F%E7%BD%91%E7%BB%9Czerotier-one%E7%AE%80%E4%BB%8B/">翻墙| 全球虚拟网络ZeroTier One简介</a>》 – 中国数字时代
+
+2.《[**ZeroTier** - 无配置，零基础「**内网穿透**」随时随地连回家/学校/办公室 [跨平台]](https://www.appinn.com/zerotier-one/)》 - 小众软件 （ 2017/11/06 ）
 
 <blockquote cite="https://www.appinn.com/zerotier-one/">
      
