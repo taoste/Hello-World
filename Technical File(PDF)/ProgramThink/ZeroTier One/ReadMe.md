@@ -8,7 +8,8 @@
      
   [ZeroTier](https://www.appinn.com/zerotier-one/) 是一款非常简单易用的内网穿透工具，不需要配置，就能实现虚拟局域网的组建，让你可以在外也能连回家中、学校、办公室的电脑获取资料，数据。配置与使用都非常简单，堪称「 无配置，零基础」，小白也能用。@Appinn
 
-https://img3.appinn.com/images/201711/dfii9sjw0ae7ids-2.jpg!o
+<a href="https://www.appinn.com/zerotier-one/">
+<img src="https://img3.appinn.com/images/201711/dfii9sjw0ae7ids-2.jpg!o" border="0" alt="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图1" title="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图1"></a>
 
 为什么要连回家、连回办公室、连回学校？因为数据在远方啊。
 
@@ -21,7 +22,8 @@ https://img3.appinn.com/images/201711/dfii9sjw0ae7ids-2.jpg!o
 
 ZeroTier 支持平台
 
-https://img3.appinn.com/images/201711/dcjr84qvwaaeu9z.jpg!o
+<a href="https://www.appinn.com/zerotier-one/">
+<img src="https://img3.appinn.com/images/201711/dcjr84qvwaaeu9z.jpg!o" border="0" alt="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图2" title="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图2"></a>
 
 ZeroTier 支持 Windows、macOS、Linux 三大主流平台，iOS、Android 两大移动平台，以及 QNAP（威连通）、Synology（群晖）、Western Digital MyCloud NAS（西部数据）三个 NAS 平台，还支持 LEDE 开源路由器项目。
 
