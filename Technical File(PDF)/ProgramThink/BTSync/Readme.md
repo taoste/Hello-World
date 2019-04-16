@@ -24,6 +24,5 @@
 
 > 3. [翻·墙·利·器："**赛·风**"（Psiphon3）](https://github.com/taoste/Hello-World/tree/master/GFW/%E8%B5%9B%E9%A3%8E-psiphon3) - [适用于 Windows 和移动设备的无审查互联网访问](https://taoste.github.io/Hello-World/GFW/赛风-psiphon3/psiphon3（Web-download）.pdf) |  [**赛·风** 官网](https://www.psiphon3.com/zh/index.html)
 
-> 4. [btsync 体验](https://einverne.github.io/post/2016/04/btsync-review.html) | Verne in GitHub (12/25/2016 by Ein Verne)
->> ( <a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/%E7%A5%9Ekey/ReadMe.md">推荐几个常用 KEY</a> )
+> 4. [btsync 体验](https://einverne.github.io/post/2016/04/btsync-review.html) | Verne in GitHub (12/25/2016 by Ein Verne) ( <a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/%E7%A5%9Ekey/ReadMe.md">推荐几个常用 KEY</a> )
 
