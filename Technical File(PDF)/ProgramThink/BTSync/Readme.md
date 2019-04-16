@@ -23,3 +23,12 @@
 > 2. [科·学·上·网·工·具 与 V·P·N 服务推荐 - 口碑不错的国内外优秀稳定网络加·速·器收集](https://www.iplaysoft.com/fq.html)  | [异次元软件下载](https://www.iplaysoft.com/)
 
 > 3. [翻·墙·利·器："**赛·风**"（Psiphon3）](https://github.com/taoste/Hello-World/tree/master/GFW/%E8%B5%9B%E9%A3%8E-psiphon3) - [适用于 Windows 和移动设备的无审查互联网访问](https://taoste.github.io/Hello-World/GFW/赛风-psiphon3/psiphon3（Web-download）.pdf) |  [**赛·风** 官网](https://www.psiphon3.com/zh/index.html)
+
+> 4. [btsync 体验](https://einverne.github.io/post/2016/04/btsync-review.html) | Verne in GitHub (12/25/2016 by Ein Verne)
+
+>> 推荐几个常用 KEY：
+>>>>  神key BCWHZRSLANR64CGPTXRE54ENNSIUE5SMO
+>>>>  最新电影 BA6RXJ7YOAOOFV42V6HD56XH4QVIBL2P6
+>>>>  经济学人 BYRRPM52YK6Z6TETDQITFXBV647XLCNIO
+>>>>  Kindle 中文伴侣精品 BOC3NIGPF2DOKETOF2FAHXJXE2HF24QWC
+>>>>  每周更新图书 BB63I5PBPBFDELAPXI6NTF47IPNZQAAJZ
