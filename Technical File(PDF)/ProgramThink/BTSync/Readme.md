@@ -12,8 +12,8 @@
   
 2.添加BT Sync 同步密钥
 
-> 路径： ./BT Sync - eblog List.txt
-  
+> 路径： ./<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt">BT Sync - eblog List.txt</a>
+
 3.更多：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE) 
  
 - **其他**：
