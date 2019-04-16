@@ -11,7 +11,7 @@
   [ZeroTier](https://www.appinn.com/zerotier-one/) 是一款非常简单易用的内网穿透工具，不需要配置，就能实现虚拟局域网的组建，让你可以在外也能连回家中、学校、办公室的电脑获取资料，数据。配置与使用都非常简单，堪称「 无配置，零基础」，小白也能用。@Appinn
 
 <a href="https://www.appinn.com/zerotier-one/">
-<img src="68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313731312f6466696939736a77306165376964732d322e6a7067216f" border="0" alt="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图1" title="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图1"></a>
+<img src="https://camo.githubusercontent.com/d1c5011ad4c8fd14bb9dff584e271e9b031c3f36/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313731312f6466696939736a77306165376964732d322e6a7067216f" border="0" alt="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图1" title="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图1"></a>
 
 为什么要连回家、连回办公室、连回学校？因为数据在远方啊。
 
@@ -25,7 +25,7 @@
 ZeroTier 支持平台
 
 <a href="https://www.appinn.com/zerotier-one/">
-<img src="68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313731312f64636a72383471767761616575397a2e6a7067216f" border="0" alt="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图2" title="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图2"></a>
+<img src="https://camo.githubusercontent.com/1af904aef93d09e5a25f651e5dcecc091392ad99/68747470733a2f2f696d67332e617070696e6e2e636f6d2f696d616765732f3230313731312f64636a72383471767761616575397a2e6a7067216f" border="0" alt="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图2" title="ZeroTier - 无配置，零基础「内网穿透」随时随地连回家/学校/办公室 [跨平台] /图2"></a>
 
 ZeroTier 支持 Windows、macOS、Linux 三大主流平台，iOS、Android 两大移动平台，以及 QNAP（威连通）、Synology（群晖）、Western Digital MyCloud NAS（西部数据）三个 NAS 平台，还支持 LEDE 开源路由器项目。
 
