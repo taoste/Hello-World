@@ -95,6 +95,8 @@
 
  https://taoste.github.io/Hello-World/eBook/yourchina/0.png
 
+<a href="https://twitter.com/caojitw/status/1119281150894018560">
+<img src="https://camo.githubusercontent.com/cbc9d69b4a33c77c6f27cffd5093f67200d3ba79/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4434683472614b55774141594970472e6a7067" border="0" alt="国际疫情-中国大陆2019.4.19" title="中国农业部2019年4月19日发布消息，证实海南省儋州市和万宁市发生非洲猪瘟疫情，至此，中国31个省市全部沦陷非洲猪瘟疫情。这波猪瘟疫情于2018年8月1日在辽宁首发，在短短9个月时间内，就将整个中国攻陷，令人震惊。连一个猪瘟疫情都管不住，可见习共已失去治理管控中国的能力。下半年外资评估猪价还要再涨70%。"></a>
   
 - 【[天道昭彰](https://zh.wikipedia.org/wiki/%E6%AD%B7%E5%B9%B4%E9%80%9D%E4%B8%96%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8)】分类:[被中华人民共和国处决的死刑犯列表](https://zh.wikipedia.org/wiki/Category:%E8%A2%AB%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%84%E5%86%B3%E7%9A%84%E6%AD%BB%E5%88%91%E7%8A%AF%E5%88%97%E8%A1%A8) - [维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Category:%E8%A2%AB%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%84%E5%86%B3%E7%9A%84%E6%AD%BB%E5%88%91%E7%8A%AF)
 > [2019年被中华人民共和国处决的死刑犯列表](https://zh.wikipedia.org/wiki/2019%E5%B9%B4%E8%A2%AB%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%84%E5%86%B3%E7%9A%84%E6%AD%BB%E5%88%91%E7%8A%AF%E5%88%97%E8%A1%A8) - 维基百科，自由的百科全书
