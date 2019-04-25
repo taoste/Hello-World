@@ -1,4 +1,4 @@
-- [Sublime Text 官网](https://www.sublimetext.com/) ( https://www.sublimetext.com/ )
+- [Sublime Text 官网](https://www.sublimetext.com/) ( https://www.sublimetext.com/ ) / [本地下载](https://github.com/taoste/Hello-World/blob/master/Tools/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/Sublime%20Text%20Build%203200%20x64%20Setup.exe?raw=true)
 
 >  @[维基百科](https://zh.wikipedia.org/wiki/Sublime_Text):
 >> Sublime Text 是一套跨平台的文本编辑器，支持基于Python的插件。
