@@ -1,4 +1,4 @@
-【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System):
+【清单list-知识梳理】操作系统-Win10重装-必备软件([Re-install System](https://go.choong.net/win10/Re)):
 
 ❤  办公类：-----------------------
 
