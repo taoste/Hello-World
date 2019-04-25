@@ -1,6 +1,6 @@
 
 
-- [**WordPress 官网 —  China 简体中文版**](https://cn.wordpress.org/)  ( 下载«[Download](https://cn.wordpress.org/download/) )
+- [**WordPress 官网 —  China 简体中文版**](https://cn.wordpress.org/)  ( 下载 « [Download](https://cn.wordpress.org/download/) )
 > WordPress是一款开源软件，可以用来创建一个漂亮的网站、博客或应用程序。
 
 - [**WordPress 中文正式版下载 - 建站与学习首选！全球最流行的开源PHP博客网站程序**](https://www.iplaysoft.com/wordpress.html) | [**异次元软件下载**](https://www.iplaysoft.com/)
