@@ -1,4 +1,4 @@
-- ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md)
+- ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 
 ---------------------------------------
 
