@@ -1,4 +1,4 @@
-- [**自助书城(小说阅读7站合一版)v1.53绿色版**](https://github.com/taoste/Hello-World/tree/master/Tools/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E(%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88)) - [太平洋下载中心](https://dl.pconline.com.cn/download/2313314.html)
+- [**自助书城(小说阅读7站合一版)v1.53绿色版**](https://github.com/taoste/Hello-World/tree/master/Tools/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E(%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88)) [本地下载](https://github.com/taoste/Hello-World/blob/master/Tools/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E(%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88)/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88zzsc1.53.rar?raw=true)- [太平洋下载中心](https://dl.pconline.com.cn/download/2313314.html)
 
 >  自助书城软件是一款非常值得推荐的电脑版免费阅读小说软件，软件内有大量不同种类的小说，平时看需要充值的，在这里都是免费的，种类齐全，章节齐全，直接打开阅读即可，需要的可以下载自助书城软件使用！
 
