@@ -19,6 +19,10 @@
 
 ----------------------------------------------------------
 
+- [WinHTTrack HTTrack](https://github.com/taoste/Hello-World/blob/master/Tools/WebServer%20Tools/httrack-3.46.1.exe?raw=true) :是一款简单易用的离线浏览器实用工具。
+
+------------------------------------
+
 **USBWebserver -- 可用U盘随身携带的网站服务器PHP/MySQL运行环境套装**
 
 
@@ -30,7 +34,9 @@
 
 - **USBWebserver 使用介绍**：http://www.iplaysoft.com/usbwebserver.html
 
-> 下载解压后，你可以将 USBWebserver 直接放置到USB硬盘、U盘、本地硬盘任何位置，当然放在会同步网盘也可以。双击 usbwebserver.exe 即可运行软件。但要「注意路径中不能包含中文」，否则 Apache 服务器可能会启动失败，或遇到各种奇怪的问题。
+- [**USBWebServer 中文版**](https://github.com/taoste/Hello-World/blob/master/Tools/WebServer%20Tools/USBWebserver%20v8.6.zip?raw=true) 使用介绍：http://www.iplaysoft.com/usbwebserver.html
+
+[**下载**](https://github.com/taoste/Hello-World/blob/master/Tools/WebServer%20Tools/USBWebserver%20v8.6.zip?raw=true) 解压后，你可以将 USBWebserver 直接放置到USB硬盘、U盘、本地硬盘任何位置，当然放在会同步网盘也可以。双击 usbwebserver.exe 即可运行软件。但要「注意路径中不能包含中文」，否则 Apache 服务器可能会启动失败，或遇到各种奇怪的问题。
 > 
 > 正常情况下，Apache 和 MySQL 服务启动后都会显示绿色的钩，如果出现红色的话，很多时候是默认的端口被占用了。在 Settings (设置) 修改一下端口即可，如下图。
 > 
