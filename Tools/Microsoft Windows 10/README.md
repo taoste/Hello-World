@@ -94,7 +94,7 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 > 
 > %windir%\System32\rundll32.exe user32.dll,LockWorkStation
  
-> 更多》[如何使用笔记本的快捷按钮调用Windows快捷键的功能](http://iknow.f5.lenovo.com.cn/detail/dc_C173291.html)-联想知识库
+> 更多》[如何使用笔记本的快捷按钮调用Windows快捷键的功能](http://iknow.f5.lenovo.com.cn/detail/dc_C173291.html) - 联想知识库
 
 - 【 Windows10  “**一键重启/关机** ” 桌面快捷方式 】
 > 制作关机、重启和休眠快捷键，在桌面点击鼠标右键，选择新建(快捷方式，在弹出的向导中输入位置为：%windir%\system32\shutdown.exe -s -t 10（其中的-s可以改为-r，也就是**重新启动**，而-t 10表示延迟10秒，你可 以根据自己的需要更改这个数字）。
@@ -131,6 +131,25 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 √ 【[The Year of the Pig](https://www.microsoft.com/zh-cn/p/the-year-of-the-pig/9nq9bf4q974d?ocid=ema_rmc_win_FY19Goodwill-hero-exclus-pos2-cta1&activetab=pivot:overviewtab)】 - Microsoft Store zh-CN
 > 在这组包含 20 幅图像的免费 Windows 10 主题壁纸集中感受中国之美和2019猪年的欢乐氛围。 这些图像只可用作桌面壁纸。
 
+- [**Windows XP SP3 無法關機，可正常重新開機**](https://social.technet.microsoft.com/Forums/zh-TW/9e66b637-b4d0-4fb9-bd94-ccd90fcf621c/windows-xp-sp3-?forum=windowsvistaclientzhcht) - Microsoft 官网
+
+- [**Win10自带输入法变成繁体该怎么办？**](http://www.w10zj.com/Win10xy/Win10xf_2690.html) -  [W10之家](http://www.w10zj.com/)
+
+> 方法一：
+
+>> 1、将输入法切换成微软输入法，然后按下【Ctrl + Shift + F】即可在繁体与简体之间相互切换！
+
+> 方法二：
+
+>> 1、点击任务栏中的输入法按钮，点击【语言首选项】；
+
+>> 2、在【语言】下点击【中文】，点击【选项】；
+
+>> 3、在下面点击【微软输入法】，点击【选项】；
+
+>> 4、在设置下面找到【繁简设置】，点击下拉菜单修改为【简体中文】即可。
+
+> 当你所使用的windows 10系统中微软输入法莫名变成繁体可以按以上方法进行设置即可！
 
 ---------------------------------------------------------------------------------------------------------
 
