@@ -6,7 +6,7 @@
 
 - **使用方法**： （见：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE)）
 
-1.下载软件（绿色免安装，无需管理员权限即可使用） 
+1.<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/Windows/BTSync-1.4.111.exe?raw=true">下载软件</a>（绿色免安装，无需管理员权限即可使用） 
 
 > 路径： ./1.4.111/Windows/BTSync-1.4.111.exe
   
