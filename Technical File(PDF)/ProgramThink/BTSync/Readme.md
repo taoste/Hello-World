@@ -22,7 +22,7 @@
 
 > 1. [Resilio Sync - 神奇的文件同步软件，无需服务器让多台电脑互相同步！](https://www.iplaysoft.com/bittorrent-sync.html) | [异次元软件下载](https://www.iplaysoft.com/) ( 2013-08-07 )
 
->> 1.1 [Syncthing - 免费开源替代 Resilio / BT Sync 的文件夹同步工具神器 (搭建同步网盘)](https://www.iplaysoft.com/syncthing.html) | [异次元软件下载](https://www.iplaysoft.com/) ( 2017-08-31 )
+>> 1.1 [Syncthing - 免费开源替代 Resilio / BT Sync 的文件夹同步工具神器 (搭建同步网盘)](https://www.iplaysoft.com/syncthing.html)( 2017-08-31 )
 
 > 2. [科·学·上·网·工·具 与 V·P·N 服务推荐 - 口碑不错的国内外优秀稳定网络加·速·器收集](https://www.iplaysoft.com/fq.html)  | [异次元软件下载](https://www.iplaysoft.com/) 
 
