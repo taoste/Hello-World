@@ -30,7 +30,7 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 > 系统工具: SecurAble 可以查询当前 CPU 是否支持 虚拟化、D.E.P. 技术及 32/64 位查询。@Appinn
 
->> <a href='https://www.appinn.com/securable/'><img src="http://img1.appinn.com/2010/12/20101204-213332000.png" alt="SecurAble - CPU 虚拟化/D.E.P./位数查询 | 小众软件"></a>
+>> <a href='https://www.appinn.com/securable/'><img src="https://camo.githubusercontent.com/174ae7360532bbed1fc84f9b19df949464c7dbb5/687474703a2f2f696d67312e617070696e6e2e636f6d2f323031302f31322f32303130313230342d3231333333323030302e706e67" alt="http://img1.appinn.com/2010/12/20101204-213332000.png" title="SecurAble - CPU 虚拟化/D.E.P./位数查询 | 小众软件"></a>
 
 ---------------------------------------------------------------------------------------------------------
 
