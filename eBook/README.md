@@ -82,9 +82,6 @@ https://taoste.github.io/Hello-World/eBook/t66y.com/技術討論區/养育小孩
 
 -------------------------------------------------------------------------------
 
-<a href="https://m.weibo.cn/status/4368496051750032?sourceType=weixin&wm=9006_2001&featurecode=newtitle&from=timeline&isappinstalled=0" title="【图文】微博 :《南方周末》整版文章的《父亲》原稿">【图文】微博 :《南方周末》整版文章的《父亲》原稿
- <img src="https://taoste.github.io/Hello-World/eBook/yourchina/nfzm.jpg?raw=true"/></a>
-
 <p>
 <a href="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E2%80%9C%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E2%80%9D%E7%BB%88%E6%9E%81%E4%B9%A6%E5%8D%95%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6/%E5%A4%A7%E4%BD%AC%E6%BC%94%E8%AE%B2%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.jpg" title="【图文】大佬演讲（完整版）.jpg">
 <img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E2%80%9C%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E2%80%9D%E7%BB%88%E6%9E%81%E4%B9%A6%E5%8D%95%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6/qrcode/1.png?raw=true"/>
@@ -116,3 +113,6 @@ https://taoste.github.io/Hello-World/eBook/t66y.com/技術討論區/养育小孩
 
 <p><a href="https://github.com/taoste/Hello-World/blob/master/eBook/%E3%80%8A%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%94%A8%E8%8B%B1%E8%AF%AD%E3%80%8B%E6%9D%8E%E7%AC%91%E6%9D%A5/%E3%80%8A%E6%8A%8A%E4%BD%A0%E7%9A%84%E8%8B%B1%E8%AF%AD%E7%94%A8%E8%B5%B7%E6%9D%A5%E3%80%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE(%E9%A2%84%E8%A7%88).png?raw=true" title="【预览图】《把你的英语用起来》思维导图(预览).png">
 <img src="https://github.com/taoste/Hello-World/blob/master/eBook/《人人都能用英语》李笑来/《把你的英语用起来》思维导图(预览).png?raw=true"/></a></p>
+
+<p><a href="https://m.weibo.cn/status/4368496051750032?sourceType=weixin&wm=9006_2001&featurecode=newtitle&from=timeline&isappinstalled=0" title="【图文】微博 :《南方周末》整版文章的《父亲》原稿"><img src="https://taoste.github.io/Hello-World/eBook/yourchina/nfzm.jpg?raw=true"/></a></p>
+ 
