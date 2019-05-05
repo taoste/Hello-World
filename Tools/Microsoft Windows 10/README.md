@@ -26,6 +26,12 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Windwos7.jpg?raw=true" border="0" alt="Windows 7 支持将于 2020 年 1 月 14 日终止" title="【Windows 7 支持生命周期】
 Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为期 10 年的产品支持。在为期 10 年的期限结束后，Microsoft 将停止为 Windows 7 提供支持，以便将精力专注于支持较新的技术和出色的新体验。对 Windows 7 的终止支持具体日期将是 2020 年 1 月 14 日。此后，我们将不再为该产品提供技术帮助和 Windows 更新中有助于保护电脑的软件更新。Microsoft 强烈建议你在 2020 年 1 月之前的某个时间升级到 Windows 10，以避免无法获得所需的服务或支持。"></a>
 
+- [SecurAble - CPU 虚拟化/D.E.P./位数查询](https://www.appinn.com/securable/) - [小众软件](https://www.appinn.com/)
+
+> 系统工具: SecurAble 可以查询当前 CPU 是否支持 虚拟化、D.E.P. 技术及 32/64 位查询。@Appinn
+
+>> <a href='https://www.appinn.com/securable/'><img src="http://img1.appinn.com/2010/12/20101204-213332000.png" alt="SecurAble - CPU 虚拟化/D.E.P./位数查询 | 小众软件"></a>
+
 ---------------------------------------------------------------------------------------------------------
 
 - [Note] Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
@@ -194,8 +200,7 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 ---------------------------------------------------------------------------------------------------------
 
-- [**win7 右键没有发送到桌面快捷方式**](https://zhidao.baidu.com/question/126476204
-)_百度知道 （**实测有效**）
+- [**win7 右键没有发送到桌面快捷方式**](https://zhidao.baidu.com/question/126476204)_百度知道 （**实测有效**）
 
 > 在SendTo文件夹的空白处按鼠标右键，
 > 
