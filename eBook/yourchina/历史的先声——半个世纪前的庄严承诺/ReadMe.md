@@ -20,10 +20,10 @@
 >> [如何评价《中国骗局》（The China hustle）这部电影？](https://www.zhihu.com/question/272287647) - 知乎
 
 >>>> 这部纪录片很精彩，讲述的是浑水公司从调查到揭发并做空以欺诈手段在美国上市圈钱的中国企业的故事。 https://t.co/fpndfd2AwG
->>>>  — Jian Alan Huang (@hnjhj) May 8, 2018
+>>>>  — Jian Alan Huang ( @hnjhj ) May 8, 2018
 
 >>>> 摘录一段《中国骗局》里涉及恶毒攻击中华传统文化；恶毒攻击社会主义制度；恶毒攻击党和国家最高领导人片段。**大家应该严肃批判这部反动影片**。 https://pic.twitter.com/FolzzGE476 
->>>> — Jian Alan Huang (@hnjhj) May 8, 2018
+>>>> — Jian Alan Huang ( @hnjhj ) May 8, 2018
 
 >>>> https://twitter.com/williamlong/status/993038599770619904
 
