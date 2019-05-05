@@ -1,0 +1,44 @@
+v1.1 (public)
++ Added new amtlib (2014) patterns.
++ Added Adobe CC2014 apps to list.
++ Changed Media Encoder patch (test features, possible bug's).
+
+v1.09 (private)
++ Added Lightroom 5.4 to list. 
+
+v1.08 (private)
++ Fixed HiDPI list font.
+
+v1.07 (private)
++ ReWrited patcher code.
++ Fixed PE check.
+
+v1.06 (public)
++ Added Search'n'Replace Engine (dUP).
++ Updated all patterns.
++ Added flash disassembler and builder.
+- Removed banknote protection patch.
+- Removed 'Photoshop (13.1.2) Windows XP Support' patch.
+- Removed AAM to UMT patch.
+
+v1.05 (private)
++ Fixed skined items. 
+
+v1.04 (private)
++ Drawed Adobe skin (Beta).
++ Added AAM (7.0.0.427) to UMT patch.
++ Added banknote protection patch.
++ Added 'Photoshop (13.1.2) Windows XP Support' patch.
+
+v1.03 (private)
++ Added 'Patch another product with amtlib' item to list.
+
+v1.02 (private)
++ Added Lightroom 3.x-4.x apps to list.
++ Added Photoshop Elements v9-12 apps to list.
+
+v1.01 (private)
++ Added CS5.5 apps to list.
+
+v1.00 (private)
++ Included CS4, CS5, CS6 apps patterns.

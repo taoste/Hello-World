@@ -1,0 +1,44 @@
+安装说明：（请仔细阅读！）
+1.断开互联网。
+在 C:\windows\system32\drivers\etc\hosts 中删除hosts中屏蔽的如下网址：
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com 
+
+2.打开 xf-adobecc.exe 注册机，生成序列号（请勿关闭注册机），
+
+安装 ADOBE CC 软件：
+ 点击“安装”（我已经购买），
+ 点击登录 ADOBE ID，（请确保已经断网），
+ 选择稍后连接，
+ 接受许可协议，输入刚注册的序列号，
+ 点击下一步，出现错误提示“请连接到互联网，然后重试”后，点击稍后连接。
+3.启动安装好的 adobe 应用程序。（如 AE PS PR等）
+4.点击“接到互联网时遇到麻烦吗？”
+点击离线激活
+5.复制界面中生成的requets代码，然后复制到注册机的requets选项中，
+ 点击注册机generate按钮,在Activation选项中出现新的代码，
+ 复制这段代码到Adobe软件中，然后点击激活。
+6.点击启动或者关闭按钮。退出ADOBE 应用程序。
+7.完成安装后，请双击 disable_activation.cmd （以管理员身份运行）。
+ 或者手动添加如下网址到 C:\windows\system32\drivers\etc\hosts文件中：
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+
+127.0.0.1 lm.licenses.adobe.com
+
+127.0.0.1 na1r.services.adobe.com
+
+127.0.0.1 hlrcv.stage.adobe.com
+
+127.0.0.1 practivate.adobe.com
+
+127.0.0.1 activate.adobe.com
+
+ 
+
+8.完成注册，享受。（能在线升级）
+注意：如果在安装/破解遇到任何问题，请删除这些文件夹后重新安装：
+C:\Program Files (x86)\Common Files\Adobe\SLCache
+
+C:\ProgramData\Adobe\SLStore
