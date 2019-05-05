@@ -15,10 +15,18 @@
 
 >> magnet:?xt=urn:btih:C0B1813239397B24F361B8DF2EF50BFF11ABA279
 
+>>>> 水能载舟，亦能覆舟。2008金融海啸之后，全美视引入中资为救市良方。透过反收购美国公司，中资企业如洪流涌进入美国金融市场，有人额手称庆，有人看出隐忧。转眼十年快过，Jed Rothstein遍访华尔街，他的镜头下有大鳄，也有机会主义者，更有「消息灵通人士」，进退之间几乎拍成了一部恐怖片—到处是街客想像不到的秘密交易、巧取豪夺。
+
 >> [如何评价《中国骗局》（The China hustle）这部电影？](https://www.zhihu.com/question/272287647) - 知乎
 
-https://twitter.com/williamlong/status/993038599770619904
+>>>> 这部纪录片很精彩，讲述的是浑水公司从调查到揭发并做空以欺诈手段在美国上市圈钱的中国企业的故事。 https://t.co/fpndfd2AwG
+>>>>  — Jian Alan Huang (@hnjhj) May 8, 2018
 
-https://www.youtube.com/watch?v=J1dGf4rxXEY&feature=youtu.be
+>>>> 摘录一段《中国骗局》里涉及恶毒攻击中华传统文化；恶毒攻击社会主义制度；恶毒攻击党和国家最高领导人片段。大家应该严肃批判这部反动影片。 https://pic.twitter.com/FolzzGE476 
+>>>> — Jian Alan Huang (@hnjhj) May 8, 2018
 
-https://www.youtube.com/watch?v=Ld1qSi9m1wk&feature=youtu.be
+>>>> https://twitter.com/williamlong/status/993038599770619904
+
+>>>> https://www.youtube.com/watch?v=J1dGf4rxXEY&feature=youtu.be
+
+>>>> https://www.youtube.com/watch?v=Ld1qSi9m1wk&feature=youtu.be
