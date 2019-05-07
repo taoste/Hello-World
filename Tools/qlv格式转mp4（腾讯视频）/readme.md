@@ -35,3 +35,7 @@
 ---------------------
 
 - [qlv格式转换成mp4下载-qlv格式转换成mp4最新版官方免费下载](http://www.onlinedown.net/soft/264076.htm) - 华军软件园
+
+---------------------
+
+- [迅捷视频转换器](https://www.xunjieshipin.com/download-converter) - 多功能的音视频格式转换器
