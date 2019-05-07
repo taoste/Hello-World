@@ -26,8 +26,7 @@
 
 =====================================================================
 
-- **迅捷PDF编辑器（破解版）**
-> （ 迅捷PDF编辑器（破解版） - <a href="https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/%E8%BF%85%E6%8D%B7PDF%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%88%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%89.rar?raw=true" title="【本地下载】迅捷PDF编辑器（破解版）">本地下载</a> ）
+- **迅捷PDF编辑器（破解版）**（  <a href="https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/%E8%BF%85%E6%8D%B7PDF%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%88%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%89.rar?raw=true" title="【本地下载】迅捷PDF编辑器（破解版）">本地下载</a> ）
 
 -------------------------------------------------------------------------
 
