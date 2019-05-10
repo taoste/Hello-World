@@ -17,6 +17,17 @@
 </ul> < / ul >
 
 < hr >
+
+---------------------------------
+
+- [<blockquote>：块级**引用元素**](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/blockquote) - HTML（超文本标记语言） | MDN
+
+例如：
+<blockquote cite="https://www.huxley.net/bnw/four.html">
+    <p>Words can be like X-rays, if you use them properly – they'll go through anything. You read and you're pierced.</p>
+</blockquote>
+
+<cite>– Aldous Huxley, Brave New World</cite>
    
 ----------------------------------
 
@@ -60,16 +71,6 @@ x,y是坐标，opacity是透明度。
  
 < / code >< / pre >`
 
----------------------------------
-
-- [<blockquote>：块级**引用元素**](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/blockquote) - HTML（超文本标记语言） | MDN
-
-例如：
-<blockquote cite="https://www.huxley.net/bnw/four.html">
-    <p>Words can be like X-rays, if you use them properly – they'll go through anything. You read and you're pierced.</p>
-</blockquote>
-
-<cite>– Aldous Huxley, Brave New World</cite>
 
 ---------------------------------
 
