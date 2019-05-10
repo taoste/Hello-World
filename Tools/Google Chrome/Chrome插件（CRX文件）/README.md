@@ -191,6 +191,14 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - ID： fhgenkpocbhhddlgkjnfghpjanffonno
 > - 提供方：https://authy.com/
 
+- [ ] 15. [**很棒的网页截图:注释&录屏**](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=zh-cn)   - Chrome 网上应用店
+> - ( 可结合使用 Google 云端硬盘 )
+
+> - 录屏，捕获整个页面或任何部分，矩形，圆形，箭头，线条和文字，模糊敏感信息，一键上传分享注释。支持PNG和链接
+
+> - ID： chrome://extensions/?id=nlipoenfbbikpbjkfpfillcgkoblgpmj
+> - 提供方：http://www.awesomescreenshot.com/
+
 -------------------------------------------
 
 - [x] 浏览器科学上网神器：[**Hoxx VPN Proxy**](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN) – 提供多國伺服器/連線穩定套件（支持 [Chrome](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/?src=search)）
