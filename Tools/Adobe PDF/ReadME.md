@@ -121,6 +121,16 @@ HOST处理后，一般情况下无需断网安装。如果要激活的产品处�
 
 =====================================================================
 
+【**Adobe官方软件 / [安装包直接下载](ttps://helpx.adobe.com/cn/download-install/kb/creative-cloud-apps-download.html)】下载 Creative Cloud 应用程序**
+
+> 如果您在下载 Creative Cloud 应用程序时遇到问题，请使用下表中的下载链接。
+
+Creative Cloud 2019 应用程序
+
+> 官方下载地址：https://helpx.adobe.com/cn/download-install/kb/creative-cloud-apps-download.html
+
+--------------------------------------------------------------------
+
 Adobe After effects CC 2018免费永久下载安装教程_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
 
 https://www.bilibili.com/video/av28763598/
