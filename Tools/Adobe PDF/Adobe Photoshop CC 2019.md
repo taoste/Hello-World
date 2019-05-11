@@ -37,7 +37,7 @@ Creative Cloud同步-关闭； <br>
 4、破解步骤，建议断网 <br>
 这是最重要的一步，操作前先断网(网络里的适配器里禁用网络/拔网线都可以)<br>
 
-下载Adobe的全系破解文件【全系破解文件-MPT出品】<br>
+下载Adobe的全系破解文件【全系破解文件-MPT出品（[本地下载](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe2019%E5%85%A8%E7%B3%BB%E7%A0%B4%E8%A7%A3%E6%96%87%E4%BB%B6-MPT%E5%87%BA%E5%93%81-%E5%8E%8B%E7%BC%A9%E5%82%A8%E5%A4%87%20(%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%811207).rar?raw=true)）】<br>
 网盘下载地址：https://pan.baidu.com/s/16jM7MC3VJOxbQ9ODUEYpOw 提取码：t1eh (解压密码1207)<br>
 然后找到对应的破解文件，复制到Adobe Photoshop CC 2019的安装目录 <br>
 管理身份运行这个破解文件”adobe.photoshop.cc.2019.[x64]-MPT.exe” <br>
