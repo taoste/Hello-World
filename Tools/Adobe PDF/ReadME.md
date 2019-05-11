@@ -121,7 +121,7 @@ HOST处理后，一般情况下无需断网安装。如果要激活的产品处�
 
 =====================================================================
 
-【**Adobe官方软件 / [安装包直接下载](ttps://helpx.adobe.com/cn/download-install/kb/creative-cloud-apps-download.html)】下载 Creative Cloud 应用程序**
+【**Adobe系列 / [官方安装包下载](https://helpx.adobe.com/cn/download-install/kb/creative-cloud-apps-download.html)/ [安装及破解使用说明](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe%20Photoshop%20CC%202019.md)】下载 Creative Cloud 应用程序**
 
 > 如果您在下载 Creative Cloud 应用程序时遇到问题，请使用下表中的下载链接。
 
