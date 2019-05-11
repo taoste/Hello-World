@@ -1,4 +1,4 @@
-- [Adobe Photoshop CC 2019安装及破解教程|附原版安装文件及破解文件|Win7/10|64位](https://blog.csdn.net/WeilaPls/article/details/85521113) - 都说了要微辣 - CSDN博客
+# [Adobe Photoshop CC 2019安装及破解教程|附原版安装文件及破解文件|Win7/10|64位](https://blog.csdn.net/WeilaPls/article/details/85521113) - [都说了要微辣](https://blog.csdn.net/WeilaPls) - [CSDN博客](https://blog.csdn.net/)
 
 <a href="https://blog.csdn.net/WeilaPls/article/details/85521113">
 <img src="https://camo.githubusercontent.com/dbc32e024c5e290d83ac855f522bfa56c1e77ef1/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303130313039303431303637332e6a7067" border="0" alt="Adobe Photoshop CC 2019" title="Adobe Photoshop CC 2019安装及破解教程|附原版安装文件及破解文件|Win7/10|64位"></a>
