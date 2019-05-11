@@ -123,13 +123,13 @@ HOST处理后，一般情况下无需断网安装。如果要激活的产品处�
 
 ❤ 【**[Adobe系列](https://helpx.adobe.com/cn/support.html) / [官方安装包下载](https://helpx.adobe.com/cn/download-install/kb/creative-cloud-apps-download.html) / [安装及使用说明](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe%20Photoshop%20CC%202019.md) 】下载 Creative Cloud 应用程序**
 
-> [**Adobe cc 2019全系列破解补丁**](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe2019%E5%85%A8%E7%B3%BB%E7%A0%B4%E8%A7%A3%E6%96%87%E4%BB%B6-MPT%E5%87%BA%E5%93%81-%E5%8E%8B%E7%BC%A9%E5%82%A8%E5%A4%87%20(%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%811207).rar?raw=true) 由知名破解团队MPT组织制作。[注释[1](https://xiaobaiol.com/post/6.html)、注释[2](https://blog.csdn.net/WeilaPls/article/details/85521113)]
-
 > 如果您在下载 Creative Cloud 应用程序时遇到问题，请使用下表中的下载链接。
 
 Creative Cloud 2019 应用程序
 
 > 官方下载地址：https://helpx.adobe.com/cn/download-install/kb/creative-cloud-apps-download.html
+
+>（ [**Adobe cc 2019全系列破解补丁**](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe2019%E5%85%A8%E7%B3%BB%E7%A0%B4%E8%A7%A3%E6%96%87%E4%BB%B6-MPT%E5%87%BA%E5%93%81-%E5%8E%8B%E7%BC%A9%E5%82%A8%E5%A4%87%20(%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%811207).rar?raw=true) 由**知名破解团队MPT组织**制作。[**注释[1](https://xiaobaiol.com/post/6.html)、注释[2](https://blog.csdn.net/WeilaPls/article/details/85521113)]** ）
 
 --------------------------------------------------------------------
 
