@@ -78,8 +78,9 @@
 
 1.用记事本打开hosts文件,即 C:\Windows\System32\drivers\etc\ 下 hosts 文件 (如不会请通过搜索解决)
 
-2.添加以下三段到hosts文件内,并直接保存hosts
+> notepad %SystemRoot%\System32\drivers\etc\hosts
 
+2.添加以下三段到hosts文件内,并直接保存hosts
 
 > 
 > >     127.0.0.1 hub5btmain.sandai.net
