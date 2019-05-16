@@ -72,6 +72,25 @@
 > >     Linux系统hosts位于 /etc/hosts
 > >     绝大多数Unix系统都是在 /etc/hosts
 
+==================================================================
+
+- **迅雷大面积无法下载及资源被迅雷屏蔽的解决方案(windows系统):**
+
+1.用记事本打开hosts文件,即 C:\Windows\System32\drivers\etc\ 下 hosts 文件 (如不会请通过搜索解决)
+
+2.添加以下三段到hosts文件内,并直接保存hosts
+
+
+> 
+> >     127.0.0.1 hub5btmain.sandai.net
+> >     127.0.0.1 hub5emu.sandai.net
+> >     127.0.0.1 upgrade.xl9.xunlei.com
+
+
+3.使用快捷键 win + r 打开运行窗口，然后输入 cmd, 回车
+
+4.输入：ipconfig /flushdns, 回车, 即可刷新hosts文件, 使其立即生效
+
 -----
 
 <pre><code>
