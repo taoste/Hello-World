@@ -16,9 +16,9 @@ PanDownload 第三方百度网盘下载工具，不限速！
 
 【下载地址】
 
-本地下载 http://pandownload.com/2.0.5
+本地下载 http://pandownload.com/2.1.0
 
-网盘下载 https://www.lanzous.com/i2dwx4j
+网盘下载 https://www.lanzous.com/i3vfwde
 
 【更新日志】
 
