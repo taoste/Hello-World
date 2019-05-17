@@ -72,12 +72,12 @@
 <script type="text/javascript">
 var offsetX = $("#loveHeart").width() / 2;
 var offsetY = $("#loveHeart").height() / 2 - 55;
-var together = new Date();
-together.setFullYear(2013, 2, 28);
-together.setHours(20);
-together.setMinutes(0);
-together.setSeconds(0);
-together.setMilliseconds(0);
+var together = new Date(); //新建一个Date对象
+together.setFullYear(2013, 2, 28);//设置年月日（2013年2月28日）
+together.setHours(20);//设置小时为20时
+together.setMinutes(0);//设置分钟为0分
+together.setSeconds(0);//设置秒为0
+together.setMilliseconds(0);//设置毫秒为0
 
 if (!document.createElement('canvas').getContext) {
 	var msg = document.createElement("div");
