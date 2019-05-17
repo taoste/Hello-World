@@ -2,9 +2,11 @@
 
 > 【[攻略](https://www.52pojie.cn/forum.php?mod=viewthread&tid=790220)】网易云音乐-电脑客户端缓存文件地址：
 > 
-> %USERPROFILE%\AppData\Local\Netease\CloudMusic\webdata\lyric
+>> %USERPROFILE%\AppData\Local\Netease\CloudMusic\webdata\lyric
+> 
 > 例如：
-> C:\Users\Administrator\AppData\Local\Netease\CloudMusic\Cache\Cache
+> 
+>> C:\Users\Administrator\AppData\Local\Netease\CloudMusic\Cache\Cache
 > 
 > 进入缓存目录，更改缓存的音乐UC后缀为MP3后缀格式。
 > 
