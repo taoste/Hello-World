@@ -2,12 +2,31 @@
 
 > 【[攻略](https://www.52pojie.cn/forum.php?mod=viewthread&tid=790220)】网易云音乐-电脑客户端缓存文件地址：
 > 
+> %USERPROFILE%\AppData\Local\Netease\CloudMusic\webdata\lyric
+> 例如：
 > C:\Users\Administrator\AppData\Local\Netease\CloudMusic\Cache\Cache
 > 
 > 进入缓存目录，更改缓存的音乐UC后缀为MP3后缀格式。
 > 
-> （ 歌词文件 C:\Users\Administrator\AppData\Local\Netease\CloudMusic\webdata\lyric）
-
+> （ 歌词文件 %USERPROFILE%\AppData\Local\Netease\CloudMusic\webdata\lyric）
+>>  
+>>  接下来进入网易云音乐，找到想要下载的歌，然后点进去
+>>  
+>>  复制这个链接，你会得到
+>>  
+>>  网易云音乐 >>  http://music.163.com/song?id=1311319953&userid=503542552
+>>  
+>>  类似的链接。
+>>  
+>>  记录下song?id=后面的这一串数字，（我这里是186016）回到刚才的文件夹，搜索这个，你发现了什么？
+>>  
+>>  Duang，搜到一个文件，用记事本打开试试。哇，这不是典型的Lrc格式吗.. 好，接下来复制到Word里，掐头去尾，留下中间
+>>  
+>>  接下来Ctrl+H替换\n为段落标记，点击全部替换。 好，变成典型的Lrc格式了，点击保存吧。*：出现这个窗口时点“是”。
+>>  
+>>  保存了吧？接下来把文件名添加lrc的拓展名。这就是我们处理完成的歌词文件了。接下来就可以剪切走拿去用了。
+>>  
+>>  总体来说每一步都不是很难，但是连起来还是略为繁琐，只适用于小批量处理歌词。
 
 > ☞ [音乐 ♫](https://github.com/taoste/Hello-World/tree/master/Music) - 工具 Tools 推荐：
 >  - [网易云音乐-格式转换工具（uc2mp3）](https://github.com/taoste/Hello-World/blob/master/Tools/网易云音乐-格式转换工具（uc2mp3）/ReadMe.md)
