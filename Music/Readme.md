@@ -5,6 +5,8 @@
 > C:\Users\Administrator\AppData\Local\Netease\CloudMusic\Cache\Cache
 > 
 > 进入缓存目录，更改缓存的音乐UC后缀为MP3后缀格式。
+> 
+> （ 歌词文件 C:\Users\Administrator\AppData\Local\Netease\CloudMusic\webdata\lyric）
 
 
 > ☞ [音乐 ♫](https://github.com/taoste/Hello-World/tree/master/Music) - 工具 Tools 推荐：
