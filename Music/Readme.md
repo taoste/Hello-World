@@ -49,6 +49,7 @@
 > 
 > [下载蜻蜓FM音频](http://jikexiazai.cn/qtfm.html)（[帮助](http://jikexiazai.cn/qtfm_help.html) ） 
 > 
+-  [教大家下载酷狗音乐中的付费歌曲，不需要下载任何软件](https://www.wonxun.net/share/301) -网讯博客
 
 -------------------------------------------------------------------
 
