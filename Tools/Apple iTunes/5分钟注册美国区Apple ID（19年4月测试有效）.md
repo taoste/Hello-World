@@ -1,5 +1,5 @@
 - [**GFW BLOG（功夫网与翻墙）**](http://www.chinagfw.org/): [5分钟注册美国区Apple ID（2019年4月测试有效）](http://www.chinagfw.org/2019/05/5apple-id194.html)
-转载自@[知乎](https://zhuanlan.zhihu.com/p/36574047)
+| 原载于@[知乎](https://zhuanlan.zhihu.com/p/36574047)
 
 > 前两天帮公司一美女注册美国区apple ID，原来以为很容易，没想到现在苹果各种限制，注册难度比以前大了很多。网上找到的很多所谓教程要么就过时了，要么就是复制粘贴。以下是本人实测有效的步骤，分享给有需要的朋友。
 > 
