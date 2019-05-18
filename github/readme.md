@@ -20,6 +20,28 @@
 
 ---------------------------------
 
+- Twitter:@[ruanyf](https://twitter.com/ruanyf/) ([下午5:32 - 2019年5月16日](https://twitter.com/ruanyf/status/1129198091813367810))
+ 
+<blockquote cite="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/ruby">
+    <p>第一次知道，HTML 有一个 < <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/ruby">ruby</a> > 标签，可以把读音放到文字上方（效果如下）。
+       </p>
+</blockquote>
+
+HTML 代码：
+
+```
+<ruby>
+汉字 <rp>(</rp><rt>hàn zì</rt><rp>)</rp>
+</ruby>
+```
+
+效果图：
+
+<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/ruby">
+<img src="https://camo.githubusercontent.com/32886553ef7a857072b62d451330a1e7273c251c/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4436753372552d55304141726c37742e6a7067" width="85px" height="85px" alt="汉字（hàn zì）" title="HTML 有一个 <ruby> 标签，可以把读音放到文字上方（效果如图）"></a>  
+
+---------------------------------
+
 - [<blockquote>：块级**引用元素**](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/blockquote) - HTML（超文本标记语言） | MDN
 
 例如：
