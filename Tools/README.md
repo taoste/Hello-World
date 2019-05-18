@@ -1,7 +1,7 @@
 
 💗 [Tools-导航]() :
 
-- [同步神器**BTSync**(BitTorrent Sync / 现名：Resilio Sync) —— "不仅是文件同步利器，而且是【分布式】网盘"](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)   |  [[BitTorrent & P2P工具专辑](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7)] >>
+- [同步神器**BTSync**(BitTorrent Sync / 现名：Resilio Sync) —— "不仅是文件同步利器，而且是【分布式】网盘"](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)   |  [[BitTorrent & P2P工具专辑](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7) >>
 
 - [PanDownload - 百度网盘不限速下载器](https://github.com/taoste/Hello-World/tree/master/Tools/PanDownload)
 
@@ -25,8 +25,8 @@
         <td><B>💗 推荐：<a href="https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes">苹果Apple-Tool导航</a>:</B></td>
  </tr>
    <tr>
-        <td><B><a href="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true" title="扫描二维码可以访问【手机APK-导航】"><img src="https://github.com/taoste/Hello-World/raw/master/Tools/apk/apk-qrcode.png?raw=true"/></a></B></td>
-       <td><B><a href="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true" title="扫描二维码可以访问【苹果Apple-Tool导航】"></B></td>
+       <td><a href="https://github.com/taoste/Hello-World/blob/master/Tools/apk/qrcode.png?raw=true" title="扫描二维码可以访问【手机APK-导航】"><img src="https://github.com/taoste/Hello-World/raw/master/Tools/apk/apk-qrcode.png?raw=true"/></a></td>
+       <td><a href="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true" title="扫描二维码可以访问【苹果Apple-Tool导航】"><img src="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true"/></a></td>
     </tr>
     <tr>
         <td><B>( 扫二维码快捷访问 <a href="https://github.com/taoste/Hello-World/tree/master/Tools/apk">手机APK</a>  )</B></td>
