@@ -1,4 +1,14 @@
-更新到最新版本的 iTunes
+💗 **推荐**：[苹果Apple-Tool导航](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes) :
+
+<p><a href="https://github.com/taoste/Hello-World/blob/master/Tools/Apple%20iTunes/Apple-qrcode?raw=true" title="扫描二维码可以访问【苹果Apple-Tool导航】">
+<img src="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true"/></a></p>
+
+( 扫二维码快捷访问 [苹果Apple-Tool](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes)  )
+
+--------------------------------------------------------------------------------------------
+
+- 更新到最新版本的 iTunes
+
 (文稿类型: Document) 2018-5-7了解如何在 Mac 或 PC 上获取最新版本的  iTunes。
 https://support.apple.com/zh-cn/HT201352
 
