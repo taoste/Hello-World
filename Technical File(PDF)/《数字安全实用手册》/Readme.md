@@ -1,4 +1,4 @@
-[Title](https://go.choong.net/digi/) [:](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《数字安全实用手册》/) 《**数字安全实用手册**》 - [官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
+[Title](https://go.choong.net/digi/) [:](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《[数字安全实用手册](https://rsdlmonitor.com/zh/cn-pdp-2/)》/) 《**数字安全实用手册**》 - [官网](http://practicaldigitalprotection.com/#cn) ( http://practicaldigitalprotection.com/#cn )
 
 -----------------------------------------
 
