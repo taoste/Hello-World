@@ -24,7 +24,7 @@
 > 下载地址：
 
 >> [**录音啦v6.9 Pro**](https://github.com/taoste/Hello-World/blob/master/Tools/%E5%BD%95%E9%9F%B3%E5%95%A6v6.9%20Pro/%E5%BD%95%E9%9F%B3%E5%95%A6V6.9%E9%AB%98%E7%BA%A7%E7%89%88%E5%AE%89%E8%A3%85%E5%8C%85.zip?raw=true): 
->>>  https://share.weiyun.com/5IytHXG
+>>>  微云网盘 https://share.weiyun.com/5IytHXG
 
 > 破解补丁：
 >>    <img src="https://camo.githubusercontent.com/7085a85cc6a0a3ef99cc56558c15cdc162a563c3/68747470733a2f2f7374617469632e3532706f6a69652e636e2f7374617469632f696d6167652f66696c65747970652f7a69702e676966"> [**录音啦v6.9 Pro 破解补丁.zip**](https://www.52pojie.cn/forum.php?mod=attachment&aid=MTUzMDU3NHwzMmU5OTI0N3wxNTU4NDAxMjIyfDU0MDE3MXw5NTQ1NjU%3D&ck=394565fe) (1.13 MB)    压缩包密码:52pj
