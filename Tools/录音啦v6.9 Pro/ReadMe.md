@@ -27,9 +27,9 @@
 >>>  https://share.weiyun.com/5IytHXG
 
 > 破解补丁：
->>    <img src="https://camo.githubusercontent.com/7085a85cc6a0a3ef99cc56558c15cdc162a563c3/68747470733a2f2f7374617469632e3532706f6a69652e636e2f7374617469632f696d6167652f66696c65747970652f7a69702e676966"> [录音啦v6.9Pro破解补丁.zip](https://www.52pojie.cn/forum.php?mod=attachment&aid=MTUzMDU3NHwzMmU5OTI0N3wxNTU4NDAxMjIyfDU0MDE3MXw5NTQ1NjU%3D&ck=394565fe) (1.13 MB)    压缩包密码:52pj
->>>   您的 吾爱币 -2 CB ，现在将开始下载“[录音啦v6.9Pro破解补丁.zip](https://www.52pojie.cn/forum.php?mod=attachment&aid=MTUzMDU3NHwzMmU5OTI0N3wxNTU4NDAxMjIyfDU0MDE3MXw5NTQ1NjU%3D&ck=394565fe)”
->>>>    如果 3 秒后下载仍未开始，请点击[**此链接**](https://www.52pojie.cn/forum.php?mod=attachment&aid=MTUzMDU3NHwzMmU5OTI0N3wxNTU4NDAxMjIyfDU0MDE3MXw5NTQ1NjU%3D&ck=394565fe)
+>>    <img src="https://camo.githubusercontent.com/7085a85cc6a0a3ef99cc56558c15cdc162a563c3/68747470733a2f2f7374617469632e3532706f6a69652e636e2f7374617469632f696d6167652f66696c65747970652f7a69702e676966"> [**录音啦v6.9Pro破解补丁.zip**](https://www.52pojie.cn/forum.php?mod=attachment&aid=MTUzMDU3NHwzMmU5OTI0N3wxNTU4NDAxMjIyfDU0MDE3MXw5NTQ1NjU%3D&ck=394565fe) (1.13 MB)    压缩包密码:52pj
+>>>   您的 吾爱币 -2 CB ，现在将开始下载“[**录音啦v6.9Pro破解补丁.zip**](https://www.52pojie.cn/forum.php?mod=attachment&aid=MTUzMDU3NHwzMmU5OTI0N3wxNTU4NDAxMjIyfDU0MDE3MXw5NTQ1NjU%3D&ck=394565fe)”
+>>>>    如果 3 秒后下载仍未开始，请点击[**此本地链接**](https://github.com/taoste/Hello-World/blob/master/Tools/%E5%BD%95%E9%9F%B3%E5%95%A6v6.9%20Pro/%E5%BD%95%E9%9F%B3%E5%95%A6v6.9Pro%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%81.zip?raw=true)
 
 > 【识别效果和破解版无关】
 >
