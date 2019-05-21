@@ -1,6 +1,8 @@
 - [**录音啦v6.9 Pro-在线识别/录音转文字/文字转语音/云字词纠错** Crack By CrazyNut](https://www.52pojie.cn/forum.php?mod=viewthread&tid=954565&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline) - [『原创发布区』](https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=2&page=1&filter=author&orderby=dateline) - [吾爱破解](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn
 
- 
+> （**本补丁仅供技术交流使用，有能力请支持作者，购买正版软件！**）
+
+
 > **录音啦 V6.9** 简介：
 >
 > 1.视频字幕提取功能，增加线程终止，避免由于网络因素导致崩溃
