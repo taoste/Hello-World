@@ -9,6 +9,8 @@
 > 时间： 01:23（莫斯科时间 UTC+3）<br>
 > 日期： 1986 年 4 月 26 日<br>
 
+<hr>
+
 - [HBO“神剧”：切尔诺贝利（Chernobyl）](https://zh.wikipedia.org/wiki/切尔诺贝利_(迷你剧)) - 维基百科，自由的百科全书
 
 @[维基百科](https://zh.wikipedia.org/wiki/切尔诺贝利_(迷你剧)) ：<br>
