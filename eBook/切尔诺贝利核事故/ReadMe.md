@@ -43,3 +43,12 @@
 >>>  天空大西洋台 （英国） <br>
 
 >>  播出日期	2019年5月6日－至今 <br>
+
+> [资源](https://www.cilimao.xyz/search?word=%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9&page=1) ：[切尔诺贝利](https://www.cilimao.xyz/baike/movie/eoQGdPGx1a?tabType=selfDownload) - 磁力链接搜索 - 种子搜索 - 磁力猫
+
+>> 第1季 **第1集**切尔诺贝利.Chernobyl.S01E01.720p-天天美剧字幕组.mp4	(发布时间 2019-05-08)
+>>>    magnet:?xt=urn:btih:89EC0D2C691501D50D5D205FA474EA0474FF3662
+    
+>> 第1季 **第2集**切尔诺贝利.Chernobyl.S01E02.720p-天天美剧字幕组.mp4	(发布时间 2019-05-14)
+>>>    magnet:?xt=urn:btih:8863E8C9B143ABCFD720CD67FCC89B831A42AA8E
+
