@@ -52,5 +52,5 @@
 >> 第1季 **第2集**切尔诺贝利.Chernobyl.S01E02.720p-天天美剧字幕组.mp4	(发布时间 2019-05-14)
 >>>    magnet:?xt=urn:btih:8863E8C9B143ABCFD720CD67FCC89B831A42AA8E
 
->> 第1季 第3集切尔诺贝利.Chernobyl.S01E03.720p-天天美剧字幕组.mp4	(发布时间 2019-05-22)
+>> 第1季 **第3集**切尔诺贝利.Chernobyl.S01E03.720p-天天美剧字幕组.mp4	(发布时间 2019-05-22)
 >>>    magnet:?xt=urn:btih:399807ABA7AE02052ABA1B75F866E681A083402E
