@@ -60,6 +60,10 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 <a href="https://send.firefox.com"><img src="https://camo.githubusercontent.com/d81f3442aca6b98723fe02e0fe1ac61839c2d48c/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4431673463646d55594141716672652e6a7067" border="0" title="Mozilla 正式发布私密文件分享服务 Firefox Send，最高支持 2.5GB 文件：https://send.firefox.com"> </a>
 
+- [**Firefox Monitor 警报**](https://monitor.firefox.com/)  ( https://monitor.firefox.com/ )
+
+> 看看您是否出现在数据外泄事件中。用于获取过往外泄事件的完整报告，接收新外泄事件的警报及其他 Mozilla 服务的信息。
+
 -------------------------------------------------------------------
 
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
