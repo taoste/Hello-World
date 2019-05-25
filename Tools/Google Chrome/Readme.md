@@ -63,6 +63,9 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 
 - [x] [**Chrome 插件：谷歌上网助手（Ghelper）**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN) - Chrome 网上应用店 ( 👍[**我的Go下载短链接**](https://go.choong.net/google/g/) ) ( [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)同类软件：[谷歌服务助手](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/) / 支持 [Chrome](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/cgncbhnhlkbdieckbbmeppcefokppagh?hl=zh-CN) & [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)）
 
+<a href="https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN">
+<img src="https://camo.githubusercontent.com/1d5645686d23f4182c4eeeca1a3bb7591d371005/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5573784b6645656f67474f7671335457663053394b4a79396e48642d353333737452686334345f555070553638426c5a696b703632316873784e5945457637534c2d756663526d3930413d773634302d683430302d65333635" border="0" alt="Chrome 插件：谷歌上网助手（Ghelper）" title="Chrome 插件：谷歌上网助手（Ghelper）"></a>
+
 https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN
 
 >  专门为科研、外贸、跨境电商、海淘人员、开发人员服务的上网加速工具，chrome内核浏览器专用!可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌产品
