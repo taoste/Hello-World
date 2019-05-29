@@ -34,7 +34,7 @@
 >>  ( @[官网](http://www.calibre-ebook.com/) / @[源代码库](https://github.com/kovidgoyal/calibre) / @[维基百科](https://zh.wikipedia.org/zh-cn/Calibre) )
 >>  一个自由开源的电子书软件套装，可以用来组织、存放以及管理电子书，支持大多数的电子书格式。同时也支持与许多流行的电子书阅读器进行同步，并可能在数字版权管理的限制下转换电子书的格式。
 
-
+-------------------------------------------------------------------------------
 >  Twitter : **刘韧liuren.com** @[liuren](https://twitter.com/liuren/) [上午4:41 - 2019年4月19日](https://twitter.com/liuren/status/1119219399129485312)
 
 >> 我一直用我的kindle账号，维护一个图书馆，共享给好友，
