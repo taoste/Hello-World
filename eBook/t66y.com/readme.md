@@ -42,7 +42,7 @@
 > [sex](https://bgp.he.net/dns/sex.com) dns: 206.125.164.82
 > 
 > [t66y.com](https://bgp.he.net/dns/t66y.com) dns: 104.25.32.112 , 104.25.31.112
->                                                 104.27.68.93, 104.27.69.93 
+>                                                / 104.27.68.93, 104.27.69.93 
 > 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 > 
