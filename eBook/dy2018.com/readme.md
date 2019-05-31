@@ -1,5 +1,8 @@
 🎦 [电 影 天 堂](https://www.dy2018.com/) （ https://www.dy2018.com/ ）
 
+> 网站启用A+级别的https加密,原http地址已失效,请记住本站网址 https://www.dy2018.com ，用最新版火狐或谷歌取得最佳效果,IE兼容不佳,请互相转告,致谢!
+
+
  🎧 收藏列表：
 
 - [《天才枪手》.pdf](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/《天才枪手》.pdf)
