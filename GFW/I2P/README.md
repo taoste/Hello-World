@@ -1,6 +1,14 @@
 
 [view-source](https://taoste.github.io/Hello-World/GFW/I2P/help/index_zh.html) : https://geti2p.net/zh/
 
+官网下载 https://geti2p.net/zh/download
+
+> i2pinstall_0.9.40_windows.exe 
+
+> SHA256 校验 :
+> 8b608dcef452a19fd4d5746884ee12bdd9537fef5a2a6fcb6c400c430d2a107a
+
+
 参考：
 
 - [2019年6月翻墙快报（兼谈用 I2P 突破封锁）](https://program-think.blogspot.com/2019/06/gfw-news.html) @ [编程随想的博客](https://program-think.blogspot.com/) ( 2019年6月5日 )
