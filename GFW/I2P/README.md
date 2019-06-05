@@ -8,7 +8,7 @@
 > [SHA256 校验](https://github.com/taoste/Hello-World/blob/master/GFW/I2P/i2pinstall_0.9.40_windows.exe?raw=true) :
 > 8b608dcef452a19fd4d5746884ee12bdd9537fef5a2a6fcb6c400c430d2a107a
 
--------------------------------------------------------------------------
+```
 “I2P”是老牌的翻墙工具，并且是“开源项目”。
 
 它非常类似于 TOR（TOR 叫“洋葱路由”，而 I2P 是“大蒜路由”）。它俩的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
@@ -33,7 +33,7 @@ https://java.com/download
 
 https://program-think.blogspot.com/2012/06/gfw-i2p.html
 
--------------------------------------------------------------------------
+```
 
 参考：
 
