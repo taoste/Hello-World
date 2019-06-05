@@ -3,9 +3,9 @@
 
 官网下载 https://geti2p.net/zh/download
 
-> i2pinstall_0.9.40_windows.exe 
+> [i2pinstall_0.9.40_windows.exe](https://download.i2p2.de/releases/0.9.40/i2pinstall_0.9.40_windows.exe) 
 
-> SHA256 校验 :
+> [SHA256 校验](https://github.com/taoste/Hello-World/blob/master/GFW/I2P/i2pinstall_0.9.40_windows.exe?raw=true) :
 > 8b608dcef452a19fd4d5746884ee12bdd9537fef5a2a6fcb6c400c430d2a107a
 
 
