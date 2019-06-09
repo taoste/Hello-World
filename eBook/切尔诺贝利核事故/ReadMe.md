@@ -60,3 +60,6 @@
 >> 第1季 **第4集**切尔诺贝利.Chernobyl.S01E04.720p-天天美剧字幕组.mp4	(发布时间 2019-05-29)
 >>>    magnet:?xt=urn:btih:85CB25143C4ED2CD42F8F3B53889DA2409F45FDE
 
+>> 第1季 **第5集**切尔诺贝利.Chernobyl.S01E05.720p.webrip.x264.双语字幕初校版-深影字幕组.mp4	
+	(发布时间 2019-06-05)
+>>>    magnet:?xt=urn:btih:A70BF0437E98EDDC464DCF901039E668035545B0
