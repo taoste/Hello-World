@@ -10,6 +10,10 @@
 
 >> [**I2P 路由控制台**](http://127.0.0.1:7657/welcome) - New Install Wizard ( http://127.0.0.1:7657/welcome )
 
+>> [**I2P 补种**](http://127.0.0.1:7657/configreseed) ( http://127.0.0.1:7657/configreseed )
+>>> 补种(Reseeding)是一个网络引导(Bootstrip)过程，新用户通过这个过程发现其他I2P用户，很久未上线的老用户在已知的有效节点很少时也会进入引导/补种状态。
+
+
 ```
 “I2P”是老牌的翻墙工具，并且是“开源项目”。
 
