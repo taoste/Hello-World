@@ -8,6 +8,8 @@
 > [SHA256 校验](https://github.com/taoste/Hello-World/blob/master/GFW/I2P/i2pinstall_0.9.40_windows.exe?raw=true) :
 > 8b608dcef452a19fd4d5746884ee12bdd9537fef5a2a6fcb6c400c430d2a107a
 
+>> [**I2P 路由控制台**](http://127.0.0.1:7657/welcome) - New Install Wizard ( http://127.0.0.1:7657/welcome )
+
 ```
 “I2P”是老牌的翻墙工具，并且是“开源项目”。
 
