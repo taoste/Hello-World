@@ -5,8 +5,8 @@
 【 [**Windows10易升**](https://www.microsoft.com/zh-cn/software-download/windows10) 】Windows 10 April 2018 Update 现已推出
 
 
-**更新助手** 可以帮助你更新到 Windows 10 的最新版本。若要开始更新，请单击“**立即更新**”。 ( [Win10激活](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md) )
 
+**更新助手** 可以帮助你更新到 Windows 10 的最新版本。若要开始更新，请单击“**立即更新**”。 ( [Win10激活](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md) )
 
 ( **Windows10易升 官方下载：( [Windows10Upgrade9252](https://go.microsoft.com/fwlink/?LinkID=799445)**) 
 
@@ -15,7 +15,22 @@
 
 **Microsoft 官网** : [**面向使用辅助技术的客户的 Windows 10 免费升级优惠**](https://www.microsoft.com/zh-cn/accessibility/windows10upgrade) -  (  活动已过期 )
 
+- [**欢迎使用 Internet Explorer**](https://www.microsoft.com/zh-cn/welcomeie11/)
+> 您不妨试用一下 Microsoft Edge
+> 
+> Microsoft 专为 Windows 10 开发的最新浏览器
+> 
+> Internet Explorer 的开发人员现在满怀自豪地为您奉上 Microsoft Edge。它构建在您无比信任的 Internet Explorer 浏览器基础之上，您可以尽享您喜爱的各项功能。此外，您还可以：
+> 
+>>  在网页上书写
+>>
+>>  无干扰阅读
+>>
+>>将所有内容存储在一个位置
 
+>利用 Microsoft Edge，您能做到的远非网络浏览那么简单
+
+>> [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome)
 
 - 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
 
