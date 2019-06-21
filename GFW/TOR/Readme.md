@@ -12,7 +12,7 @@
 
 > Tor浏览器 https://www.torproject.org/projects/torbrowser.html.en
 
-> （必须翻墙才能访问） 
+> （[必须翻墙才能访问](https://www.torproject.org/zh-CN/download/)） 
 
 本目录提供的安装包，还附带了安装包的签名文件（扩展名为 asc）。
 
