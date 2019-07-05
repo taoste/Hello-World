@@ -64,7 +64,7 @@
 > 
 > ipconfig /flushdns 清除系统DNS缓存
 > 
-> 【Host IP】
+> 【[Host IP](https://go.choong.net/GFW/t66y/hosts/)】 ( [Go 快速短域名：**go.choong.net/GFW/t66y/hosts/**](https://go.choong.net/GFW/t66y/hosts/) )
 > 
 > notepad %SystemRoot%\System32\drivers\etc\hosts
 > 
