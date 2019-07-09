@@ -108,9 +108,9 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 ---------------------------------------------------------------------------------------------------------
 
-- 【 gatherosstate.exe [用于生成**Win10激活**用 GenuineTicket.xml 正版通行证](https://jingyan.baidu.com/article/14bd256e458369bb6d2612be.html) 】
+- 【 [gatherosstate.exe](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/gatherosstate.exe) [用于生成**Win10激活**用 GenuineTicket.xml 正版通行证](https://jingyan.baidu.com/article/14bd256e458369bb6d2612be.html) 】
 
-- [Win10秘籍--跳过升级全新安装Win10并永久激活-百度经验](https://jingyan.baidu.com/article/14bd256e458369bb6d2612be.html)
+> 参考：[Win10秘籍--跳过升级全新安装Win10并永久激活-百度经验](https://jingyan.baidu.com/article/14bd256e458369bb6d2612be.html)
 
 - 【 Windows10  “**一键锁屏(Win+L)** ” 桌面快捷方式 】
 > 新建快捷方式，填写链接：rundll32.exe user32.dll,LockWorkStation （快捷键可设为：**F2**）
