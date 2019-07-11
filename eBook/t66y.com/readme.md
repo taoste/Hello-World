@@ -5,6 +5,16 @@
 
 -----------------------------
 
+- [**磁力管家**](https://66cili.xyz/) - 男人都爱上的磁力连接搜索引擎 ( https://66cili.xyz/ )
+
+ [推荐](https://t66y.com/htm_data/1905/7/3540430.html) ：@[91大神](https://66cili.xyz/search-91%E5%A4%A7%E7%A5%9E-0-0-1.html) /  
+     @[国产自拍](https://66cili.xyz/search-%E5%9B%BD%E4%BA%A7%E8%87%AA%E6%8B%8D-0-0-1.html) /
+     @[康先生](https://66cili.xyz/search-%E5%BA%B7%E5%85%88%E7%94%9F-0-0-1.html) /
+     @[秦先生](https://66cili.xyz/search-%E7%A7%A6%E5%85%88%E7%94%9F-0-0-1.html) /
+     @[C仔](https://66cili.xyz/search-c%E4%BB%94-0-0-1.html)
+     
+-----------------------------
+
 - [**uTorrent 官网（中文版）**](https://www.utorrent.com/intl/zh_cn/downloads/win) - Windows 
 
 - 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md) ： **µtorrent 稳定版 (v3.5.4 build 44590)**  （ [官网下载](https://www.utorrent.com/intl/zh_cn/downloads/complete/track/stable/os/win) / [**备份下载**](https://github.com/taoste/Hello-World/blob/master/Tools/uTorrent_v3.5.4.44590.exe?raw=true) ）( [磁力链接地址](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80.txt) )
