@@ -4,9 +4,9 @@
 > ( @[Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
 >  [编程随想](https://github.com/programthink/books)-[收藏的电子书清单（多个学科，含下载链接）](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/books.wiki) )
  
- 关于【[**BTSync**](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】 ( 以下是【编程随想电子图书馆】所有目录的 [**BT Sync 密钥**](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt)。)
+- 关于【[**BTSync**](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】 ( 以下是【编程随想电子图书馆】所有目录的 [**BT Sync 密钥**](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt)。)
 
-通过这几个密钥，你可以用 BT Sync 自动同步到每一个目录包含的【所有】电子书。
+> 通过这几个密钥，你可以用 BT Sync 自动同步到每一个目录包含的【所有】电子书。
 
  [**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。
 
