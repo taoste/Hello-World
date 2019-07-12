@@ -1,6 +1,6 @@
 <h1>电子书总目录 (频繁更新)</h1>
 
-【编程随想】收藏的电子书清单（多个学科，含下载链接） 
+【[https://program-think.blogspot.com/ 编程随想]】[https://github.com/programthink/books 收藏的电子书清单（多个学科，含下载链接）] 
 
 ----
 
