@@ -1,6 +1,4 @@
-<h1>俺收藏的各色网站</h1>
-
-【[https://program-think.blogspot.com/ 编程随想]】 [https://github.com/programthink/sites 收藏的各色网站]
+<h1>【[https://program-think.blogspot.com/ 编程随想]】 [https://github.com/programthink/sites 收藏的各色网站]</h1>
 
 = =
 
