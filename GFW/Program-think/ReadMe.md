@@ -1,10 +1,11 @@
 ﻿- [Bing](https://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=https://program-think.blogspot.com/) :
  [**编程随想**的博客](https://program-think.blogspot.com/)（ 官网 https://program-think.blogspot.com/ ）
  
->  [@Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
->  [编程随想](https://github.com/programthink/books)-[收藏的电子书清单（多个学科，含下载链接）](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/books.wiki) 
+>  关于【[BTSync](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】 
+( @[Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
+>  [编程随想](https://github.com/programthink/books)-[收藏的电子书清单（多个学科，含下载链接）](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/books.wiki) )
  
->  关于【[BTSync](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)】
+
 
 以下是【编程随想电子图书馆】所有目录的 [BT Sync 密钥](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt)。
 
