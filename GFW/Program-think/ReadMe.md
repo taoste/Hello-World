@@ -8,7 +8,7 @@
 
 > 通过这几个密钥，你可以用 BT Sync 自动同步到每一个目录包含的【所有】电子书。
 
- [**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。
+>  [**编程随想**](https://program-think.blogspot.com/) 会时常更新。每次更新后，BT Sync 会自动把【新增的】电子书同步到你的硬盘。
 
 ```
 BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD    政治
