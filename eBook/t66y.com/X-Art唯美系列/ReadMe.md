@@ -6,6 +6,8 @@
 
 [搜索](https://www.google.com/search?lr=lang_zh-CN%7Clang_zh-TW&newwindow=1&biw=1745&bih=852&tbs=lr%3Alang_1zh-CN%7Clang_1zh-TW&ei=AF2cXMDzJaXfmAXT350g&q=唯美的爱+site%3At66y.com) : 《唯美的爱》
 
+ <img src="https://www.yuoimg.com/u/20190519/11095762.gif"/>
+ 
 ------------------------------------------
 
 - [男生如何评价x-art系列？](https://www.zhihu.com/question/24708186) - 知乎
