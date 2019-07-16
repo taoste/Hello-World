@@ -46,3 +46,8 @@ https://taoste.github.io/Hello-World/GFW/赛风-psiphon3/psiphon3（Web-download
 - [有没有那个制作电子书的脚本？](https://github.com/posclegom/programthink/issues/2) · [Issue #2](https://github.com/posclegom/programthink/issues/2) · [posclegom/programthink](https://github.com/posclegom/programthink/issues/2)
 
 - [清涟居| 何清涟个人主页](https://heqinglian.net/) （ [程晓农文集](https://heqinglian.net/%E7%A8%8B%E6%99%93%E5%86%9C%E6%96%87%E9%9B%86/) ）
+-------------------------------------------------------------------------------
+
+<a href="https://twitter.com/0792z/status/1150922079761522689">我认同反脆弱的观点，你需要有个副业，哪怕你的副业带来的收入特别少，他也部分地给了你选择的权利。你在一个岗位干得越久，积累经验是个假象，本质是你作为一个衰败的螺丝拧得越来越深，已经无法脱离开这个行业这个岗位，然后说着自己不愿意说的话做着自己不愿意做的事情，就是所谓的油腻吧。</a>
+
+-------------------------------------------------------------------------------
