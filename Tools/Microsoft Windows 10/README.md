@@ -2,7 +2,7 @@
 
 - [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
-> 导入注册表(在网上找到了一个导入注册表的方法。)
+> [**导入注册表**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/ReadMe.md) (在网上找到了一个导入注册表的方法。)
 ```
 Windows Registry Editor Version 5.00
           
