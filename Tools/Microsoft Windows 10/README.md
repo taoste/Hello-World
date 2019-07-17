@@ -1,7 +1,14 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 
-> Win10用键盘调节音量方法：键盘同时按下“Win+F2”为音量减，“Win+F3”为音量加。 Win10的键盘快捷键如下： Win + R 打开运行对话框。 Win + Q 快速打开搜索。
-
+> Win10用键盘调节音量方法：键盘同时按下“Win+F2”为音量-，“Win+F3”为音量+。 
+>>  Win10的键盘快捷键如下：
+```
+Win + R 打开运行对话框。
+Win + Q 快速打开搜索。
+Win + I 快速打开Win10设置栏。
+Ctrl+Alt+Del 快速打开任务管理器。
+Alt+F4 关机快捷键。
+```
 ---------------------------------------
 
 【 [**Windows10易升**](https://www.microsoft.com/zh-cn/software-download/windows10) 】Windows 10 April 2018 Update 现已推出
