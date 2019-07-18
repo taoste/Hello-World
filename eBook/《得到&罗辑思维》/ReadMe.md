@@ -4,8 +4,7 @@
 
 >> 《[得到校招2019.mp4](https://luoji-img.oss-cn-beijing.aliyuncs.com/fe-oss/default/%E5%BE%97%E5%88%B0%E6%A0%A1%E6%8B%9B2019.mp4)》（文件大小：359MB）
 
+<a href="https://piccdn.luojilab.com/fe-oss/default/MTUzMTk3MjMzMjQx.png">
+<img src="https://camo.githubusercontent.com/25aa290992dd393a17a82b6a9068b79d768114db/68747470733a2f2f70696363646e2e6c756f6a696c61622e636f6d2f66652d6f73732f64656661756c742f4d54557a4d546b334d6a4d7a4d6a51782e706e67" border="0" alt="得到App & 罗辑思维创始人：主讲人-罗振宇" title="得到App & 罗辑思维创始人：主讲人-罗振宇"></a>
 
-<p>
-<a href="https://www.igetget.com/">
-<img src="https://piccdn.luojilab.com/fe-oss/default/MTUzMTk3MjMzMjQx.png" border="0" alt="得到App & 罗辑思维创始人：主讲人-罗振宇" title="得到App & 罗辑思维创始人：主讲人-罗振宇"></a>
-</p>
+<img src="https://piccdn.luojilab.com/fe-oss/default/MTU1MTE2MTA2NTgw.png">
