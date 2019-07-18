@@ -58,11 +58,9 @@ https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2
 > 
 > 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
 
-- [x] **👍《[Google search link fix](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf/related?hl=zh-cn)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/)）
+- [x] **👍《[Google search link fix](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf/related?hl=zh-cn)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/) /  [Opera](https://addons.opera.com/extensions/details/google-search-link-fix/）） **开发者**: [说明](https://palant.de/2011/11/28/google-yandex-search-link-fix/) - [扩展源代码](https://github.com/palant/searchlinkfix)
 
 > 还原 Google 真实链接,去除 Google 搜索中的地址跳转链接。
-
->   **开发者** [说明](https://palant.de/2011/11/28/google-yandex-search-link-fix/) - [扩展源代码](https://github.com/palant/searchlinkfix)
 
 **推荐1👍《谷歌上网助手（Ghelper）》一键安装，无需其他配置，即可访问谷歌（需注册/无限免费使用方法附后）。**
 
