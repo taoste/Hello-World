@@ -90,7 +90,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 [**推荐**](https://support.mozilla.org/kb/recommended-extensions-program)[★精选扩展★](https://addons.mozilla.org/zh-CN/firefox/search/?featured=true&type=extension)
 
-- [x] 👍《[Google search link fix](https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/） – 下载 🦊 Firefox 扩展（zh-CN）
+- [x] **👍《[Google search link fix](https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/)》** – 下载 🦊 Firefox 扩展（zh-CN）
 > 还原 Google 真实链接,去除 Google 搜索中的地址跳转链接。
 
 - [x] **👍《[Password Checkup - Google 出品的密码泄露检查扩展](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)》** （支持 [Chrome](https://chrome.google.com/webstore/detail/password-checkup/pncabnpcffmalkkjpajodfhijclecjno/related?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/password-checkup-by-google-api/)）
