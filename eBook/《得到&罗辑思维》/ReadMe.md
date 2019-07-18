@@ -1,8 +1,7 @@
--  **【[得到App](https://www.igetget.com/)】，知识就在得到 ( https://www.igetget.com/ )**
+-  **【[得到App](https://www.igetget.com/)】，知识就在得到 ( https://www.igetget.com/ )** 《[罗辑思维的自频道-优酷视频](https://i.youku.com/luojisw)》
 
 > [跨年演讲](https://www.igetget.com/speech) | [得到大学](https://www.igetget.com/university) | [校园招聘](https://www.igetget.com/join) | [新闻报道](https://www.igetget.com/news) | [App 下载](https://www.igetget.com/download) | [企业服务](https://qiye.igetget.com/)
 
->>  《[罗辑思维的自频道-优酷视频](https://i.youku.com/luojisw)》
 
 <a href="https://piccdn.luojilab.com/fe-oss/default/MTUzMTk3MjMzMjQx.png">
 <img src="https://camo.githubusercontent.com/25aa290992dd393a17a82b6a9068b79d768114db/68747470733a2f2f70696363646e2e6c756f6a696c61622e636f6d2f66652d6f73732f64656661756c742f4d54557a4d546b334d6a4d7a4d6a51782e706e67" border="0" alt="得到App & 罗辑思维创始人：主讲人-罗振宇" title="得到App & 罗辑思维创始人：主讲人-罗振宇"></a>
