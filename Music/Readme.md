@@ -35,6 +35,7 @@
 >  - [酷狗歌词krc文件转lrc(krc2lrc)](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗歌词krc文件转lrc(krc2lrc))
 >  - [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) 
 >  - [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) 
+>  - [LRC歌词在线搜索下载-爱歌词网](http://www.22lrc.com/) 
 >  - [qlv格式转mp4（腾讯视频）](https://github.com/taoste/Hello-World/tree/master/Tools/qlv格式转mp4（腾讯视频）)
 
 - [**极客下载**](http://jikexiazai.cn/) : 
