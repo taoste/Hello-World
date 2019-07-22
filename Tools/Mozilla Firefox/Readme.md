@@ -271,7 +271,9 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 > 而不用每次都要**Firefox：`Ctrl+Shift+p`**或者**chrome：`Ctrl+shift+n`** 。
 
 **URL快捷功能**：
+
 选项（网络设置）： about:preferences#advanced
+
 故障排除信息：about:support ( 参阅：[扫盲 Firefox 定制——从“user.js”到“omni.ja” @ 编程随想的博客/2019年7月19日](
 https://program-think.blogspot.com/2019/07/Customize-Firefox.html) )
 
