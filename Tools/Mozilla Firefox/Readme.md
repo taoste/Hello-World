@@ -8,7 +8,7 @@
 [**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) ( https://www.mozilla.org/zh-CN/firefox/ )
 适用于 Mac、PC 以及 Linux 的全新、快速浏览器 ( @[YouTube](https://www.youtube.com/channel/UC-CBSBRP82j2t5PQ3M33CVw?lang=zh-CN) )
 
-c [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 **Firefox Quantum「火狐量子浏览器」** 
+- [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 **Firefox Quantum「火狐量子浏览器」** 
 
 ( https://www.mozilla.org/zh-CN/firefox/new/ ) (👍点击： 高级安装选项和其他平台 )
 
@@ -272,6 +272,8 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 
 **URL快捷功能**：
 选项（网络设置）： about:preferences#advanced
+故障排除信息：about:support ( 参阅：[扫盲 Firefox 定制——从“user.js”到“omni.ja” @ 编程随想的博客/2019年7月19日](
+https://program-think.blogspot.com/2019/07/Customize-Firefox.html) )
 
 - **[Thunderbird](https://addons.mozilla.org/zh-CN/firefox/addon/thunderbird-online-email/?src=search)** — 软件使电子邮件更为轻松。  |   **Mozilla**
 https://www.mozilla.org/zh-CN/thunderbird/
