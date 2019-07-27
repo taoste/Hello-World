@@ -147,7 +147,7 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 表示【<span style="background:lightgreen;">补充格式</span>】。
 ```
 
-> 《[**为网站添加点击鼠标特效--24字的社会主义核心价值观**](https://github.com/taoste/Hello-World/blob/master/github/24.md)》
+- 《[**为网站添加点击鼠标特效 24字核心价值观**](https://github.com/taoste/Hello-World/blob/master/github/24.md)》 ( [发布时间：2018 年 07 月 02 日](https://www.fanmingming.com/article/socialism.html) )- @[范明明](https://www.fanmingming.com/)
 
 <p>
 <a href="https://www.fanmingming.com/article/socialism.html">
