@@ -147,6 +147,9 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 表示【<span style="background:lightgreen;">补充格式</span>】。
 ```
 
+- @[**范明明**](https://www.fanmingming.com/) 
+>> 一个平时比较安静的人，喜欢尝鲜，享受发现过程中的快乐。虽然知足但追求完美。 
+
 > 《[**入手德生PL-365准备守听业余电台信号 附接收频率**](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html)》   ( [发布时间： 发布时间： 2018 年 11 月 07 日](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html) )- @[范明明](https://www.fanmingming.com/)
 
 > 《[**如何将必应Bing每日图片设置为网站背景**](https://github.com/taoste/Hello-World/tree/master/github/bg/)》  ( [发布时间： 发布时间：2018 年 09 月 18 日](https://www.fanmingming.com/article/bing-images-bg.html) )- @[范明明](https://www.fanmingming.com/)
