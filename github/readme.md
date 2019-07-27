@@ -139,6 +139,8 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 用<code><span style="background:greenyellow;">这种颜色</span></code>表示【<span style="background:greenyellow;">新增书籍</span>】；
 用</code><span style="background:lightgreen;">这种颜色</span></code>表示【<span style="background:lightgreen;">补充格式</span>】。
 
+> 《[**为网站添加点击鼠标特效--24字的社会主义核心价值观**](https://github.com/taoste/Hello-World/blob/master/github/24.md)》
+
 ---------------------------------
 - **[在页面中嵌入自适应视频的方法](http://www.zphj1987.com/2015/10/13/%E5%9C%A8%E9%A1%B5%E9%9D%A2%E4%B8%AD%E5%B5%8C%E5%85%A5%E8%87%AA%E9%80%82%E5%BA%94%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95/)** | zphj1987'Blog
 
