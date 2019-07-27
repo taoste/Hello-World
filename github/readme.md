@@ -154,6 +154,8 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 <img src="https://camo.githubusercontent.com/3cac034526462cdc954eecca4229779b5207112b/68747470733a2f2f7777772e66616e6d696e676d696e672e636f6d2f7573722f75706c6f6164732f323031382f30392f323630393630393334342e6a7067" width="100%" height="100%" alt="shzy.jpg" title="社会主义核心价值观"></a>
 </p>
 
+> 《[如何将必应Bing每日图片设置为网站背景](https://www.fanmingming.com/article/bing-images-bg.html)》  ( [发布时间： 发布时间：2018 年 09 月 18 日](https://www.fanmingming.com/article/bing-images-bg.html) )- @[范明明](https://www.fanmingming.com/)
+
 ---------------------------------
 - **[在页面中嵌入自适应视频的方法](http://www.zphj1987.com/2015/10/13/%E5%9C%A8%E9%A1%B5%E9%9D%A2%E4%B8%AD%E5%B5%8C%E5%85%A5%E8%87%AA%E9%80%82%E5%BA%94%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95/)** | zphj1987'Blog
 
