@@ -147,9 +147,14 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 表示【<span style="background:lightgreen;">补充格式</span>】。
 ```
 
-> 《[**入手德生PL-365准备守听业余电台信号 附接收频率**](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html)》   ( [发布时间： 发布时间： 发布时间：2018 年 11 月 07 日](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html) )- @[范明明](https://www.fanmingming.com/)
+> 《[**入手德生PL-365准备守听业余电台信号 附接收频率**](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html)》   ( [发布时间： 发布时间： 2018 年 11 月 07 日](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html) )- @[范明明](https://www.fanmingming.com/)
 
 > 《[**如何将必应Bing每日图片设置为网站背景**](https://github.com/taoste/Hello-World/tree/master/github/bg/)》  ( [发布时间： 发布时间：2018 年 09 月 18 日](https://www.fanmingming.com/article/bing-images-bg.html) )- @[范明明](https://www.fanmingming.com/)
+
+<p>
+<a href="https://www.fanmingming.com/article/bing-images-bg.html">
+<img src="https://www.fanmingming.com/usr/uploads/2018/09/3015358578.jpg" border="0" alt="bing.jpg" title="如何将必应Bing每日图片设置为网站背景"></a>
+</p>
 
 - 《[**为网站添加点击鼠标特效 24字核心价值观**](https://github.com/taoste/Hello-World/blob/master/github/24.md)》 ( [发布时间：2018 年 07 月 02 日](https://www.fanmingming.com/article/socialism.html) )- @[范明明](https://www.fanmingming.com/)
 
