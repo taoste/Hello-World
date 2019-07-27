@@ -1,7 +1,7 @@
 - 《[**如何将必应Bing每日图片设置为网站背景**](https://www.fanmingming.com/article/bing-images-bg.html)》  （ 2018 年 09 月 18 日  ） - 范明明
 
 >> 乐哥备注： [**原载**](https://www.fanmingming.com/article/bing-images-bg.html) [[view-source](https://taoste.github.io/Hello-World/github/bg/index.php)] :  [当天](https://taoste.github.io/Hello-World/github/bg/index.php) / [前一天](https://taoste.github.io/Hello-World/github/bg/1.php)
-[**View raw**](https://github.com/taoste/Hello-World/blob/master/github/bg/bg.7z?raw=true) / [**Download**](https://github.com/taoste/Hello-World/raw/master/github/bg/bg.7z) 
+（ [**View raw**](https://github.com/taoste/Hello-World/blob/master/github/bg/bg.7z?raw=true) / [**Download**](https://github.com/taoste/Hello-World/raw/master/github/bg/bg.7z) ）
 
 > 前言
 
