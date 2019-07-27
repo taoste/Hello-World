@@ -2,7 +2,7 @@
 http://sc.chinaz.com/moban/170206519490.htm#down
 
 黄色HTML5个人简历模板
-【在线预览】http://sc.chinaz.com/mobandemo.aspx?downloadid=201784451118
+【[在线预览](https://taoste.github.io/Hello-World/github/moban1850/index.html)】http://sc.chinaz.com/mobandemo.aspx?downloadid=201784451118
 
 
 天气模板素材_站长素材
