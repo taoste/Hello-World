@@ -65,6 +65,8 @@ Overlay(img, x=10, y=10, mask=img.showAlpha(), opacity=0.65)
 
 x,y是坐标，opacity是透明度。
 
+>> 1. [视频添加png水印logo完全教程（基于avs+x264） - 闲杂资源(Share) - exofanclub - exo论坛](http://www.exofanclub.com/exo-tid-8153-1-1.html)
+>> 2. [利用AVS脚本，给你的原创视频添加图片水印。](https://zvv.me/z/1597.html) (October 16, 2018) - [zvv](https://zvv.me/) 
 ---------------------------------
 
 - [**绝对路径**和**相对路径**是什么? 分别有什么作用？](https://www.w3cschool.cn/css/question-10231674.html
