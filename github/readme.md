@@ -147,26 +147,25 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 表示【<span style="background:lightgreen;">补充格式</span>】。
 ```
 
+---------------------------------
+
 - @[**范明明**](https://www.fanmingming.com/) 
 >> 一个平时比较安静的人，喜欢尝鲜，享受发现过程中的快乐。虽然知足但追求完美。 
 
-> 《[**入手德生PL-365准备守听业余电台信号 附接收频率**](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html)》   ( [发布时间： 发布时间： 2018 年 11 月 07 日](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html) )- @[范明明](https://www.fanmingming.com/)
+> 《[**入手德生PL-365准备守听业余电台信号 附接收频率**](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html)》   ( [发布时间： 2018 年 11 月 07 日](https://www.fanmingming.com/mood/pl365-ssb-ham-radio.html) )- @[范明明](https://www.fanmingming.com/)
 
-> 《[**如何将必应Bing每日图片设置为网站背景**](https://github.com/taoste/Hello-World/tree/master/github/bg/)》  ( [发布时间： 发布时间：2018 年 09 月 18 日](https://www.fanmingming.com/article/bing-images-bg.html) )- @[范明明](https://www.fanmingming.com/)
+> 《[**如何将必应Bing每日图片设置为网站背景**](https://github.com/taoste/Hello-World/tree/master/github/bg/)》  ( [发布时间： 2018 年 09 月 18 日](https://www.fanmingming.com/article/bing-images-bg.html) )- @[范明明](https://www.fanmingming.com/)
 
-<p>
-<a href="https://www.fanmingming.com/article/bing-images-bg.html">
-<img src="https://www.fanmingming.com/usr/uploads/2018/09/3015358578.jpg" border="0" alt="bing.jpg" title="如何将必应Bing每日图片设置为网站背景"></a>
-</p>
+>> <p><a href="https://www.fanmingming.com/article/bing-images-bg.html"><img src="https://www.fanmingming.com/usr/uploads/2018/09/3015358578.jpg" border="0" alt="bing.jpg" title="如何将必应Bing每日图片设置为网站背景"></a></p>
 
-- 《[**为网站添加点击鼠标特效 24字核心价值观**](https://github.com/taoste/Hello-World/blob/master/github/24.md)》 ( [发布时间：2018 年 07 月 02 日](https://www.fanmingming.com/article/socialism.html) )- @[范明明](https://www.fanmingming.com/)
+> 《[**想来一次说走就走的旅行？出境自由行只需这样准备！**](https://www.fanmingming.com/mood/about-independent-travel.html)》  ( [发布时间：2019 年 03 月 22 日](https://www.fanmingming.com/mood/about-independent-travel.html) )- @[范明明](https://www.fanmingming.com/)
 
-<p>
-<a href="https://www.fanmingming.com/article/socialism.html">
-<img src="https://camo.githubusercontent.com/3cac034526462cdc954eecca4229779b5207112b/68747470733a2f2f7777772e66616e6d696e676d696e672e636f6d2f7573722f75706c6f6164732f323031382f30392f323630393630393334342e6a7067" width="100%" height="100%" alt="shzy.jpg" title="社会主义核心价值观"></a>
-</p>
+>  《[**为网站添加点击鼠标特效 24字核心价值观**](https://github.com/taoste/Hello-World/blob/master/github/24.md)》 ( [发布时间：2018 年 07 月 02 日](https://www.fanmingming.com/article/socialism.html) )- @[范明明](https://www.fanmingming.com/)
+
+>> <p><a href="https://www.fanmingming.com/article/socialism.html"><img src="https://camo.githubusercontent.com/3cac034526462cdc954eecca4229779b5207112b/68747470733a2f2f7777772e66616e6d696e676d696e672e636f6d2f7573722f75706c6f6164732f323031382f30392f323630393630393334342e6a7067" width="100%" height="100%" alt="shzy.jpg" title="社会主义核心价值观"></a></p>
 
 ---------------------------------
+
 - **[在页面中嵌入自适应视频的方法](http://www.zphj1987.com/2015/10/13/%E5%9C%A8%E9%A1%B5%E9%9D%A2%E4%B8%AD%E5%B5%8C%E5%85%A5%E8%87%AA%E9%80%82%E5%BA%94%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95/)** | zphj1987'Blog
 
 关于视频的自适应看到 [google 自适应设置建议](https://developers.google.com/web/fundamentals/media/video/size-videos-correctly?hl=zh-cn#section) 这个介绍的很好
