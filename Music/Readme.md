@@ -35,7 +35,7 @@
 >  - [酷狗歌词krc文件转lrc(krc2lrc)](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗歌词krc文件转lrc(krc2lrc))
 >  - [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) 
 >  - [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) 
->  - [LRC歌词在线搜索下载-爱歌词网](http://www.22lrc.com/) 
+>  - 💗[LRC歌词在线搜索下载-爱歌词网](http://www.22lrc.com/) 
 >  - [qlv格式转mp4（腾讯视频）](https://github.com/taoste/Hello-World/tree/master/Tools/qlv格式转mp4（腾讯视频）)
 
 - [**极客下载**](http://jikexiazai.cn/) : 
@@ -50,7 +50,7 @@
 > 
 > [下载蜻蜓FM音频](http://jikexiazai.cn/qtfm.html)（[帮助](http://jikexiazai.cn/qtfm_help.html) ） 
 > 
--  [教大家下载酷狗音乐中的付费歌曲，不需要下载任何软件](https://www.wonxun.net/share/301) -网讯博客
+-  💗[教大家下载酷狗音乐中的付费歌曲，不需要下载任何软件](https://www.wonxun.net/share/301) -网讯博客
 > 
 > [酷狗音乐在线播放器](http://web.kugou.com),在页面上右键—>检查（ps,推荐使用Chrome，F12的检查很好用），会打开一个窗口，都是乱七八糟的代码
 > 
