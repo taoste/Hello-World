@@ -32,7 +32,7 @@
 
 > ☞ [音乐 ♫](https://github.com/taoste/Hello-World/tree/master/Music) - 工具 Tools 推荐：
 >  - [网易云音乐-格式转换工具（uc2mp3）](https://github.com/taoste/Hello-World/blob/master/Tools/网易云音乐-格式转换工具（uc2mp3）/ReadMe.md)
->  - [酷狗歌词krc文件转lrc(krc2lrc)](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗歌词krc文件转lrc(krc2lrc))
+>  - 💗[酷狗歌词krc文件转lrc工具(krc2lrc)绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/%E9%85%B7%E7%8B%97%E6%AD%8C%E8%AF%8Dkrc%E6%96%87%E4%BB%B6%E8%BD%AClrc(krc2lrc))
 >  - [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) 
 >  - [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) 
 >  - 💗[LRC歌词在线搜索下载-爱歌词网](http://www.22lrc.com/) 
