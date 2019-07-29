@@ -239,9 +239,9 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 ---------------------------------------------------------------------------------------------------------
 
-- [**win7 右键没有发送到桌面快捷方式**](https://zhidao.baidu.com/question/126476204)_百度知道 （**实测有效**）
+- [**win7 右键没有发送到桌面快捷方式**](https://zhidao.baidu.com/question/126476204)_百度知道 （**实测有效**）([SendTo文件夹/打包下载](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/SendTo/SendTo.7z))
 
-> 在SendTo文件夹的空白处按鼠标右键，
+> 在[SendTo文件夹](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/SendTo/SendTo.7z)的空白处按鼠标右键，
 > 
 >     Win2000 / WinXP系统下路径为 C:\Documents and Settings\用户名\SendTo;
 > 
