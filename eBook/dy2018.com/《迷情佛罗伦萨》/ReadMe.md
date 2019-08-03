@@ -1,5 +1,6 @@
 《迷情佛罗伦萨》 ( @[豆瓣电影](https://movie.douban.com/subject/25920094/) ) 
 
+https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2407614526.webp
 
 磁链 : 
 
