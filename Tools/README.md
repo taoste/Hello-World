@@ -10,6 +10,8 @@
 
 - [(腾讯视频)qlv格式转mp4的方法](https://github.com/taoste/Hello-World/blob/master/Tools/qlv格式转mp4（腾讯视频）/readme.md)
 
+> 视频合并dos命令: **copy/b  D:\Downloads\*.mp4 D:\Downloads\new.mp4**
+
 - [酷我LRC歌词编辑工具 V1.0 绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/LRC%20V1.0.rar) | ☞ [音乐♫](https://github.com/taoste/Hello-World/tree/master/Music) 
 
 - [酷狗lrc歌词批量下载工具v2.0.2.0绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/酷狗lrc歌词批量下载工具v2.0.2.0绿色版.zip) | ☞ [音乐♫](https://github.com/taoste/Hello-World/tree/master/Music)  
