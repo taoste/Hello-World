@@ -45,6 +45,9 @@ https://taoste.github.io/Hello-World/Technical%20File(PDF)/Flash开启指引（C
 
 
 📕 [Photo](https://taoste.github.io/Hello-World/Technical%20File(PDF)/README.md) ：
+> 
+<a href="https://twitter.com/williamlong/status/1158166031434563585" title="Twitter : 月光博客 @williamlong : 互联网行业招聘“黑话”，了解一下">月光博客 @williamlong : 互联网行业招聘“黑话”，了解一下" 
+  <img src="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/heihua.jpg?raw=true"/></a>
 
 <img src="https://github.com/taoste/Hello-World/blob/master/GFW/近视眼的成因.jpg?raw=true"/>
 
