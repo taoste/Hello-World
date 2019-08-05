@@ -56,7 +56,7 @@ HTML 代码< <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/
 
 - 🎦 [**AVS添加图片水印**](https://www.bfdz.ink/2017/09/10/50/) | [**BFDZ**](https://www.bfdz.ink/)
 
-代码:
+> 代码:
 
 <pre><code>
 img=ImageSource("水印文件", pixel_type="RGB32")
@@ -170,7 +170,7 @@ title=" 圖片文字標示，當滑鼠移經圖片，自動顯示的文字。 " 
 
 关于视频的自适应看到 [google 自适应设置建议](https://developers.google.com/web/fundamentals/media/video/size-videos-correctly?hl=zh-cn#section) 这个介绍的很好
 
-主要是这段代码:
+> 主要是这段代码:
 
 `
 .video-container {
