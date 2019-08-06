@@ -25,8 +25,7 @@
  </p>
 
 >  罗辑思维 （ 微信公众号：luojisw ）
-
-<p><img src="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NjAxOTU4MA==&mid=3009227683&idx=1&sn=5ca9c3f490f1a6712f46be4b87b30eb0&send_time=" width="298" height="298"  alt="(罗辑思维/微信公众号：luojisw 二维码)" title="微信扫一扫，关注该公众号(罗辑思维/微信公众号：luojisw 二维码)">
-微信扫一扫，关注该公众号 </p>
+>> <p><img src="https://camo.githubusercontent.com/1432ba3c5b0dc5d5d14247bdc617a6b652029ed3/68747470733a2f2f6d702e77656978696e2e71712e636f6d2f6d702f7172636f64653f7363656e653d31303030303030342673697a653d313032265f5f62697a3d4d6a4d354e6a41784f5455344d413d3d266d69643d33303039323237363833266964783d3126736e3d35636139633366343930663161363731326634366265346238376233306562302673656e645f74696d653d" width="298" height="298"  alt="(罗辑思维/微信公众号：luojisw 二维码)" title="微信扫一扫，关注该公众号(罗辑思维/微信公众号：luojisw 二维码)"></p>
+>> <p>微信扫一扫<br>关注该公众号</p> 
 
 >> 《[罗辑思维: 怎样体检才有用？这些实用好懂的建议给你答案](https://mp.weixin.qq.com/s/_4Sa9kgHanIe2fg8mAVc4A)》( 2019年8月5日)
