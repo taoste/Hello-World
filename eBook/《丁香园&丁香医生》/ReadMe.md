@@ -17,3 +17,11 @@
 > <p>微信扫一扫 ，关注 丁香医生 （ 微信公众号：DingXiangYiSheng ）</p> 
 
 >> 《[丁香医生:  收好这份体检攻略，让你不花冤枉钱](https://mp.weixin.qq.com/s/3qqKjV76JhM3KK6SplB1CA)》( 2017-05-14 )
+
+---------------------------------------------------------------------------
+
+- [**体检中心**-体检项目预约-**每天健康官网**](https://www.mytijian.com/) ( https://www.mytijian.com/ )
+
+>> [杭州每天健康管理有限公司](https://www.tianyancha.com/search?key=杭州每天健康管理有限公司) ( 客户服务热线：400-0185-800 )
+
+> [套餐列表页](https://www.mytijian.com/m/jyyy/meal?hospitalId=59&openId=unJoin&from=singlemessage&isappinstalled=0 )
