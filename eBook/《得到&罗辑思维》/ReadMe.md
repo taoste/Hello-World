@@ -23,3 +23,10 @@
 <a href="https://luoji-img.oss-cn-beijing.aliyuncs.com/fe-oss/default/%E5%BE%97%E5%88%B0%E6%A0%A1%E6%8B%9B2019.mp4">
 <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E3%80%8A%E5%BE%97%E5%88%B0%26%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4%E3%80%8B/%E5%BE%97%E5%88%B0%E6%A0%A1%E6%8B%9B2019(%E8%A7%86%E9%A2%91mp4%E4%BA%8C%E7%BB%B4%E7%A0%81).png" width="298" height="298"  alt="得到校招2019(视频mp4二维码)" title="【视频】得到校招2019.mp4"></a>
  </p>
+
+>  罗辑思维 （ 微信公众号：luojisw ）
+
+<p><img src="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5NjAxOTU4MA==&mid=3009227683&idx=1&sn=5ca9c3f490f1a6712f46be4b87b30eb0&send_time=" width="298" height="298"  alt="(罗辑思维/微信公众号：luojisw 二维码)" title="微信扫一扫，关注该公众号(罗辑思维/微信公众号：luojisw 二维码)">
+微信扫一扫，关注该公众号 </p>
+
+>> 《[罗辑思维: 怎样体检才有用？这些实用好懂的建议给你答案](https://mp.weixin.qq.com/s/_4Sa9kgHanIe2fg8mAVc4A)》( 2019年8月5日)
