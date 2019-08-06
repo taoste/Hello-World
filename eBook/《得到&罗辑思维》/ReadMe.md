@@ -1,5 +1,7 @@
 -  **【[得到App](https://www.igetget.com/)】，知识就在得到 ( https://www.igetget.com/ )** 《[罗辑思维的自频道-优酷视频](https://i.youku.com/luojisw)》
 >  [登录](https://sso.luojilab.com/) | 内部账号登录 - 统一登录平台 ( https://sso.luojilab.com/ )  [北京思维造物信息科技股份有限公司](https://www.tianyancha.com/search?key=%E5%8C%97%E4%BA%AC%E6%80%9D%E7%BB%B4%E9%80%A0%E7%89%A9%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8) 
+>>>  [罗辑思维旗舰店-天猫Tmall.com](https://luojisiwei.tmall.com/)
+>>>  [罗辑思维的自频道-优酷视频](https://i.youku.com/luojisw) 
 >>  生活作风（sao.luojilab.com）- 移动电商运营系统 | 首页 https://www.sao.cn/ 
 
 > [跨年演讲](https://www.igetget.com/speech) | [得到大学](https://www.igetget.com/university) | [校园招聘](https://www.igetget.com/join) | [新闻报道](https://www.igetget.com/news) | [App 下载](https://www.igetget.com/download) | [企业服务](https://qiye.igetget.com/)
