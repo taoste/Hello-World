@@ -37,8 +37,9 @@
 <br>
 「力微休负重，言轻莫劝人。无钱休入众，遭难莫寻亲。」—— 《增广贤文》
 
-后来有人续了两句更为传神「待到成功后，把酒言初心」。
-<br>
+后来有人续了两句更为传神「待到成功后，把酒言初心」。<br>
+
+<hr>
 
 <a href="https://twitter.com/Justso_CN/status/1158821963143323649">引用：<br>
 基本上搞清楚了《长安十二时辰》里，大量的现代化抄袭套路：<br>
@@ -48,14 +49,22 @@
 剧中基本都是现代心理学和侦察/反侦察/刑侦/反恐手段/叙事/节奏/人际应对，<br>
 和唐代只有官场、民俗等马伯庸掉书袋区别</a><br>
 
+<hr>
+
 <a href="https://twitter.com/Fei66202064/status/1158768459486060544">引用：<br>
 科普：艾滋病阻断药，72小时内有效，2小时内最好。<br>
 三联药：拉替拉韦、恩曲他滨、替诺福韦，<br>
 每天1-2次，连服28天，总费用约2000-6000元；<br>
 阻断率约99%！（请转发救无辜同胞也是善！🙏）当真？</a><br>
 
-<a href="https://twitter.com/abojD9oDLSqDOVw/status/1159023692107485187">
-<img src=https://pbs.twimg.com/media/EBTKv8PUYAYaRev?format=jpg&name=360x360" alt="👍" title="👍川普荣获全球最棒的美国棒球手因为他被中国封为“搞习棍”！"></a><br>
+<hr>
+
+<a href="https://twitter.com/abojD9oDLSqDOVw/status/1159023692107485187">楼下保安员说：今天的新闻联播不骂街了，金句（搞屎棍）也见不到了，看似被川老中医扇了几巴掌后理智了好多。
+<p><img src="https://camo.githubusercontent.com/b25cb81ecc9537a3f996d012f04d961b4ba6a86f/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4542544b76384f5559414148562d643f666f726d61743d6a7067266e616d653d736d616c6c" alt="👍" title="👍楼下保安员说：今天的新闻联播不骂街了，金句（搞屎棍）也见不到了，看似被川老中医扇了几巴掌后理智了好多。" width="360px" height="360px">
+<img src="https://camo.githubusercontent.com/396cc6830ea549d838da4139019cfda2066dd39a/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4542544b76385055594159615265763f666f726d61743d6a7067266e616d653d33363078333630" alt="👍" title="👍川普荣获全球最棒的美国棒球手因为他被中国封为“搞习棍”！" width="360px" height="360px"><p>
+</a><br>
+                                                                                                                             
+<hr>
 
 <a href="https://twitter.com/zhu0588/status/1158794887610822656">
 <img src="https://camo.githubusercontent.com/a054a452c0e4b065913e1be5c090910939b4d164/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f454254647a6d3356414141346477623f666f726d61743d6a7067266e616d653d6c61726765" alt="👍陈丹青语录" title="👍陈丹青语录"></a>
