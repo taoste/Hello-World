@@ -54,6 +54,9 @@
 每天1-2次，连服28天，总费用约2000-6000元；<br>
 阻断率约99%！（请转发救无辜同胞也是善！🙏）当真？</a><br>
 
+<a href="https://twitter.com/abojD9oDLSqDOVw/status/1159023692107485187">
+<img src=https://pbs.twimg.com/media/EBTKv8PUYAYaRev?format=jpg&name=360x360" alt="👍" title="👍川普荣获全球最棒的美国棒球手因为他被中国封为“搞习棍”！"></a><br>
+
 <a href="https://twitter.com/zhu0588/status/1158794887610822656">
 <img src="https://camo.githubusercontent.com/a054a452c0e4b065913e1be5c090910939b4d164/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f454254647a6d3356414141346477623f666f726d61743d6a7067266e616d653d6c61726765" alt="👍陈丹青语录" title="👍陈丹青语录"></a>
 
