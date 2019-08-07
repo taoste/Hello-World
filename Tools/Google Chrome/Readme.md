@@ -6,6 +6,8 @@
 
 ( chrome://net-internals/#hsts )
 
+( 政策 chrome://policy/ ) 
+> 参阅资料：《[cnBeta | 个人电脑上的 Chrome 被企业托管了，什么情况？](https://www.cnbeta.com/articles/tech/875243.htm )》
 
  -------------------------------------------
  
