@@ -6,7 +6,7 @@
 
 ( chrome://net-internals/#hsts )
 
-( 政策 chrome://policy/ ) 
+( <a href="https://support.google.com/chrome/a/answer/9024365?hl=zh-Hans" title="查看设备当前的Chrome 政策- Google Chrome Enterprise帮助">查看设备当前的Chrome 政策</a> chrome://policy/ ) 
 > 参阅资料：《[cnBeta | 个人电脑上的 Chrome 被企业托管了，什么情况？](https://www.cnbeta.com/articles/tech/875243.htm )》
 
  -------------------------------------------
