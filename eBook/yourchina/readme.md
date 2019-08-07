@@ -5,7 +5,7 @@
 
 <hr>
 
-<a href="https://twitter.com/zhu0588/status/1158794050218033153">引用<br>：
+<a href="https://twitter.com/zhu0588/status/1158794050218033153">引用：<br>
 中国大学的悲剧在于“官督商办”。<br>
 中国大学，既是衙门，又是企业，偏偏不是学校;<br>
 学校领导，既是官员，又是经理，偏偏不是教师。<br>
@@ -14,7 +14,7 @@
 
 <hr>
 
-<a href="https://twitter.com/zhu0588/status/1158956208549593088">引用<br>：
+<a href="https://twitter.com/zhu0588/status/1158956208549593088">引用：<br>
  日本和美国制裁别人，一般有两招：<br>
 1，你们不许来；<br>
 2，你们不许买我们的东西。<br>
@@ -30,7 +30,7 @@
 
 <br><br>
 
-<a href="https://twitter.com/Justso_CN/status/1158821963143323649">引用<br>：
+<a href="https://twitter.com/Justso_CN/status/1158821963143323649">引用：<br>
 基本上搞清楚了《长安十二时辰》里，大量的现代化抄袭套路：<br>
 比如，望楼=现代通讯网络+满街摄像头；<br>
 户籍，侦查数据=现代电子计算机网络数据库；<br>
