@@ -4,10 +4,18 @@
 
 [[Note](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome)] 🚀 [谷歌 Google 系列 · Issue #9](https://github.com/taoste/taoste.github.io/issues/9) · [Go : taoste/Hello-World](http://go.choong.net/google)
 
+-------------------------------------------
+
 ( chrome://net-internals/#hsts )
 
 ( <a href="https://support.google.com/chrome/a/answer/9024365?hl=zh-Hans" title="查看设备当前的Chrome 政策- Google Chrome Enterprise帮助">查看设备当前的Chrome 政策</a> chrome://policy/ ) 
-> 参阅资料：《[cnBeta | 个人电脑上的 Chrome 被企业托管了，什么情况？](https://www.cnbeta.com/articles/tech/875243.htm )》
+
+> 参阅资料：
+
+>> 《[cnBeta | 个人电脑上的 Chrome 被企业托管了，什么情况？](https://www.cnbeta.com/articles/tech/875243.htm )》
+
+>> 《[Google Developers | Chromium 的弹窗机制](https://developers.google.com/web/updates/2017/03/dialogs-policy?hl=zh-cn)》
+
 
  -------------------------------------------
  
