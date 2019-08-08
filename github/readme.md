@@ -26,6 +26,8 @@
 
 - [30个漂亮优雅的婚礼英文字体](http://www.shejidaren.com/30个漂亮优雅的婚礼英文字体.html) | [**设计达人**](http://www.shejidaren.com/) (  一月 30, 2012 发表于: 网页设计 & 灵感 )
 
+- [设计师也得学文案，180句惊艳文案含13大修辞手法！](http://www.shejidaren.com/180-chaungyi-wenan.html) | [**设计达人**](http://www.shejidaren.com/) (  五月 22, 2019 发表于: 网页设计 & 灵感 )
+
 - [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
 
 > 值得使用的3个理由：
