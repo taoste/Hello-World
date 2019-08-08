@@ -45,6 +45,19 @@
 > 
 > 体裁： 托寓， 长篇小说， 讽刺， 寓言， 影射小说， 政治讽刺， 恶托邦虚构， 政治虚构
 
+- **[乔治·奥威尔](https://zh.wikipedia.org/zh-hans/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94) ( 作家 )**
+> 乔治·奥威尔，本名埃里克·亚瑟·布莱尔，英国左翼作家，新闻记者和社会评论家。 《动物庄园》和《一九八四》为奥威尔的传世作品。 维基百科
+> 
+> 生于： 1903 年 6 月 25 日，印度莫蒂哈里
+> 
+> 逝世于： 1950 年 1 月 21 日，英国伦敦倫大學院附屬醫院
+> 
+> 全名： Eric Arthur Blair
+> 
+> 电影： 一九八四， Animal Farm， 人望低处， 動物農莊 (1999年電影)， [更多](https://www.google.com/search?hl=zh_CN&q=%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94+%E7%94%B5%E5%BD%B1&stick=H4sIAAAAAAAAAOPgE-LQz9U3MDZJKtaSyE620i9IzS_ISQVSRcX5eVa5-WWZqcWLWCWe7JzybNPuQ9ufLl36dEXj0w1TFJ5P2fp070YAR-A1pkEAAAA&sa=X&ved=2ahUKEwiYvtuJ-vLjAhVHZt4KHcaqAFwQ44YBKAUwGnoECA0QFg)
+> 
+> 随笔： 猎象记， 政治与英语， 我为何写作， 絞首刑， A Nice Cup of Tea， [更多](https://www.google.com/search?hl=zh_CN&q=%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94+%E9%9A%8F%E7%AC%94&stick=H4sIAAAAAAAAAAFGALn_CA4SCC9tLzAzNGJzKh1odzovY29sbGVjdGlvbi9hdXRob3JzOmVzc2F5c6IFGOS5lOayu8K35aWl5aiB5bCUIOmaj-eslHNe3KVGAAAA&sa=X&ved=2ahUKEwiYvtuJ-vLjAhVHZt4KHcaqAFwQ44YBKAYwG3oECA0QHw)
+
 -------------------------------------------------------------------
 
  💗  P2P工具 ：
