@@ -20,7 +20,7 @@
 
 ---------------------------------
 
-- [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | 设计达人 (  八月 8, 2019 发表于: 网页设计 & 灵感 )
+- [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) (  八月 8, 2019 发表于: 网页设计 & 灵感 )
 
 ---------------------------------
 
