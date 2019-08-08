@@ -20,6 +20,10 @@
 
 ---------------------------------
 
+- [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | 设计达人 (  八月 8, 2019 发表于: 网页设计 & 灵感 )
+
+---------------------------------
+
 - Twitter:@[ruanyf](https://twitter.com/ruanyf/) ([下午5:32 - 2019年5月16日](https://twitter.com/ruanyf/status/1129198091813367810))
  
 <blockquote cite="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/ruby">
