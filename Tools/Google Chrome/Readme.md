@@ -44,6 +44,8 @@ https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh
 
  -------------------------------------------
  
+ - [**解决导致 Chrome 无法成功更新的问题**](https://support.google.com/chrome/answer/111996?visit_id=637008252529475702-4063015524&p=update_error&rd=1) - Google Chrome帮助
+ 
  (注：谷歌浏览器从v50开始不支持XP，WinXP用户请使用v49)
  
  Google Chrome 49.0.2623.112 XP系统最终版官方下载地址( WinXP推荐👍： [32-bit](https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x71lor5zzkliyh8fv3sryayu5uk5zi20ep7dwfnwr143dzxqijv/49.0.2623.112_chrome_installer.exe) / [64-bit](https://dl.google.com/release2/va5qxmf7d3oalefqdjoubnamxboyf9zt3o6zj33pzo2r3adq2cjea9an8hhc6tje8y4jiieqsruld9oyajv9i6atj40utl3hpl2/49.0.2623.112_chrome_installer_win64.exe) ) ( 👍**我的Go短链接**：[32-bit](https://go.choong.net/google/xp32) /  [64-bit](https://go.choong.net/google/xp64) )
