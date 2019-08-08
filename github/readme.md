@@ -22,6 +22,14 @@
 
 - [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) (  八月 8, 2019 发表于: 网页设计 & 灵感 )
 
+- [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
+
+> 内容引用：
+```
+软件名称：remove.bg
+网站地址：https://www.remove.bg
+客户端：Windows/Linux/Mac
+```
 ---------------------------------
 
 - Twitter:@[ruanyf](https://twitter.com/ruanyf/) ([下午5:32 - 2019年5月16日](https://twitter.com/ruanyf/status/1129198091813367810))
