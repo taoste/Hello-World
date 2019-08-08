@@ -34,6 +34,15 @@
 
 - [这创意个人网站竞用 Excel 设计！](http://www.shejidaren.com/nicky-tesla-ge-ren-wang-zhan-she-ji.html) | 设计达人
 
+>> 资源引用：
+
+```
+设计师：Nicky Tesla
+个人主页：https://nickytes.la
+
+PS: 因为使用了 google Excel,不会爬墙就不要访问了，直接看小编截图介绍即可^_^
+```
+
 - [16组有意义的文字动效设计](http://www.shejidaren.com/16-type-in-motion.html) | [**设计达人**](http://www.shejidaren.com/) 
 
 >> 资源引用：
