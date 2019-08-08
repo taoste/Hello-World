@@ -30,6 +30,8 @@
 
 - [这些中文名片设计，印刷工艺让我印象深刻](http://www.shejidaren.com/zhongwen-mingpian-yinshua-gongyi.html) | [**设计达人**](http://www.shejidaren.com/) (  五月 16, 2019 发表于: 网页设计 & 灵感 )
 
+- [设计师的名片就应该这样设计](http://www.shejidaren.com/designers-business-card.html) | [**设计达人**](http://www.shejidaren.com/) (  四月 21, 2019 发表于: 网页设计 & 灵感 )
+
 - [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
 
 > 值得使用的3个理由：
