@@ -24,7 +24,7 @@
 
 - [设计师必须了解的色彩理论基础指南](http://www.shejidaren.com/a-guide-to-the-fundamentals-of-color-theory.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 20, 2019 发表于: 网页设计 & 灵感 )
 
-- [30个漂亮优雅的婚礼英文字体](http://www.shejidaren.com/30%E4%B8%AA%E6%BC%82%E4%BA%AE%E4%BC%98%E9%9B%85%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%8B%B1%E6%96%87%E5%AD%97%E4%BD%93.html) | [**设计达人**](http://www.shejidaren.com/) (  二月 11, 2011 发表于: 网页设计 & 灵感 )
+- [30个漂亮优雅的婚礼英文字体](http://www.shejidaren.com/30个漂亮优雅的婚礼英文字体.html) | [**设计达人**](http://www.shejidaren.com/) (  一月 30, 2012 发表于: 网页设计 & 灵感 )
 
 - [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
 
