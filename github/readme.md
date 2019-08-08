@@ -22,6 +22,8 @@
 
 - [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) (  八月 8, 2019 发表于: 网页设计 & 灵感 )
 
+- [设计师必须了解的色彩理论基础指南](http://www.shejidaren.com/a-guide-to-the-fundamentals-of-color-theory.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 20, 2019 发表于: 网页设计 & 灵感 )
+
 - [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
 
 > 值得使用的3个理由：
