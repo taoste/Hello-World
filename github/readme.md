@@ -25,10 +25,21 @@
 - [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
 
 > 内容引用：
+
 ```
+
 软件名称：remove.bg
 网站地址：https://www.remove.bg
 客户端：Windows/Linux/Mac
+
+Windows版抠图软件下载地址：
+链接: https://pan.baidu.com/s/1vNo5hDqVHlJl7OSwdWigSQ
+提取码: ua5h
+
+MAC版抠图软件下载地址：
+链接: https://pan.baidu.com/s/1JMcDc_gACuEKVrjSQ61Y8g
+提取码: u22e
+
 ```
 ---------------------------------
 
