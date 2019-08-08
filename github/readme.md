@@ -32,16 +32,25 @@
 
 - [设计师的名片就应该这样设计](http://www.shejidaren.com/designers-business-card.html) | [**设计达人**](http://www.shejidaren.com/) (  四月 21, 2019 发表于: 网页设计 & 灵感 )
 
+- [16组有意义的文字动效设计](http://www.shejidaren.com/16-type-in-motion.html) | [**设计达人**](http://www.shejidaren.com/) (  三月 15, 2019 发表于: 网页设计 & 灵感 )
+
+>> 资源引用：
+
+```
+设计师：Mindaugas Dudenas
+个人主页：be.net/mindaugasdudenas
+```
+
 - [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
 
-> 值得使用的3个理由：
+>> 值得使用的3个理由：
 ```
     无需下载PS就能全自动抠图，速度非常快；
     支持在线抠图和客户端抠图，客户端支持Windows/Mac/Linux 三大主流系统；
     可批量抠图，人像连发丝也能抠干净。
 ```
 
-> 资源引用：
+>> 资源引用：
 
 ```
 
