@@ -20,19 +20,21 @@
 
 ---------------------------------
 
-- [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) (  八月 8, 2019 发表于: 网页设计 & 灵感 )
+- [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) 
 
-- [设计师必须了解的色彩理论基础指南](http://www.shejidaren.com/a-guide-to-the-fundamentals-of-color-theory.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 20, 2019 发表于: 网页设计 & 灵感 )
+- [设计师必须了解的色彩理论基础指南](http://www.shejidaren.com/a-guide-to-the-fundamentals-of-color-theory.html) | [**设计达人**](http://www.shejidaren.com/) 
 
-- [30个漂亮优雅的婚礼英文字体](http://www.shejidaren.com/30个漂亮优雅的婚礼英文字体.html) | [**设计达人**](http://www.shejidaren.com/) (  一月 30, 2012 发表于: 网页设计 & 灵感 )
+- [30个漂亮优雅的婚礼英文字体](http://www.shejidaren.com/30个漂亮优雅的婚礼英文字体.html) | [**设计达人**](http://www.shejidaren.com/) 
 
-- [设计师也得学文案，180句惊艳文案含13大修辞手法！](http://www.shejidaren.com/180-chaungyi-wenan.html) | [**设计达人**](http://www.shejidaren.com/) (  五月 22, 2019 发表于: 网页设计 & 灵感 )
+- [设计师也得学文案，180句惊艳文案含13大修辞手法！](http://www.shejidaren.com/180-chaungyi-wenan.html) | [**设计达人**](http://www.shejidaren.com/) 
 
-- [这些中文名片设计，印刷工艺让我印象深刻](http://www.shejidaren.com/zhongwen-mingpian-yinshua-gongyi.html) | [**设计达人**](http://www.shejidaren.com/) (  五月 16, 2019 发表于: 网页设计 & 灵感 )
+- [这些中文名片设计，印刷工艺让我印象深刻](http://www.shejidaren.com/zhongwen-mingpian-yinshua-gongyi.html) | [**设计达人**](http://www.shejidaren.com/) 
 
-- [设计师的名片就应该这样设计](http://www.shejidaren.com/designers-business-card.html) | [**设计达人**](http://www.shejidaren.com/) (  四月 21, 2019 发表于: 网页设计 & 灵感 )
+- [设计师的名片就应该这样设计](http://www.shejidaren.com/designers-business-card.html) | [**设计达人**](http://www.shejidaren.com/) 
 
-- [16组有意义的文字动效设计](http://www.shejidaren.com/16-type-in-motion.html) | [**设计达人**](http://www.shejidaren.com/) (  三月 15, 2019 发表于: 网页设计 & 灵感 )
+- [这创意个人网站竞用 Excel 设计！](http://www.shejidaren.com/nicky-tesla-ge-ren-wang-zhan-she-ji.html) | 设计达人
+
+- [16组有意义的文字动效设计](http://www.shejidaren.com/16-type-in-motion.html) | [**设计达人**](http://www.shejidaren.com/) 
 
 >> 资源引用：
 
@@ -41,7 +43,7 @@
 个人主页：be.net/mindaugasdudenas
 ```
 
-- [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) (  七月 23, 2019 发表于: 网页设计 & 灵感 )
+- [还用PS抠图？请试试自动抠图软件，支持客户端和在线抠图](http://www.shejidaren.com/zidong-kou-tu-ruanjian.html) | [**设计达人**](http://www.shejidaren.com/) 
 
 >> 值得使用的3个理由：
 ```
