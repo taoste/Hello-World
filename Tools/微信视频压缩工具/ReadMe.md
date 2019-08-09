@@ -1,5 +1,5 @@
 
-- 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/
+- 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/)
 
 > iMovie 导出的视频文件体积很大。文章开头那个三分种的视频（ [优酷](https://v.youku.com/v_show/id_XNDI3MzA5ODY5Mg==.html)，[Youtube](https://www.youtube.com/watch?v=3Kh5-sEE_kk) ），原始导出的体积是 500MB。为了减少文件体积，我后来又安装了 [**VLC 播放器**](https://www.videolan.org/vlc/index.html)，它菜单里的"文件/转换"功能支持H.264协议压缩视频，压缩后的 MP4 文件是 70MB 左右，这个体积就比较能接受了。
 >>  VLC 播放器 https://www.videolan.org/vlc/index.html
