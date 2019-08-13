@@ -10,7 +10,7 @@
 
 ---------------------------------------------
 
--  《**小狗钱钱**》 - 教你开始建立自己的资产金鹅 | 理财就要从娃娃抓起
+-  《[**小狗钱钱**](https://taoste.github.io/Hello-World/eBook/“财务自由”终极书单：从入门到进阶/小狗钱钱.pdf)》 - 教你开始建立自己的资产金鹅 | 理财就要从娃娃抓起
 
 > [喜马拉雅FM](https://www.ximalaya.com/) :《**小狗钱钱**》 [第一部（已完结）](https://www.ximalaya.com/ertong/4705684/) | [第二部（已完结）](https://www.ximalaya.com/ertong/6129557/)  by：[乱乱亲子故事会](https://www.ximalaya.com/zhubo/20674107/)
 
@@ -38,6 +38,10 @@
  
  
  **其它：**
+ 
+  《[利用高端信用卡巧触人生电火花.pdf](https://taoste.github.io/Hello-World/eBook/“财务自由”终极书单：从入门到进阶/利用高端信用卡巧触人生电火花.pdf)》
+ 
+ 《[招商银行信用卡高端卡授信政策介绍【内部资料】.pdf](https://taoste.github.io/Hello-World/eBook/“财务自由”终极书单：从入门到进阶/招商银行信用卡高端卡授信政策介绍【内部资料】.pdf)》
  
  <a href="https://t66y.com/htm_data/7/1903/3469166.html" title="金融从业者教你如何还债 - 技術討論區 | 草榴社區 - t66y.com">
 <img src="https://camo.githubusercontent.com/37bbc8aac162427d370bcc16fcd220764a898c26/687474703a2f2f6936372e74696e797069632e636f6d2f31316d63646a6e2e6a70673f7261773d74727565?raw=true"/>
