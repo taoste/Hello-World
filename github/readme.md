@@ -18,6 +18,11 @@
 
 < hr >
 
+-  [< kbd >](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/kbd) - [HTML（超文本标记语言）](https://developer.mozilla.org/zh-CN/docs/Web/HTML)  - [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
+`HTML键盘输入元素( < kbd > )  用于表示用户输入，它将产生一个行内元素，以浏览器的默认 monospace字体显示。`如：<kbd>cmd</kbd> / <kbd>Ctrl</kbd> + <kbd>F</kbd>
+
+<img src="https://camo.githubusercontent.com/54aa14aeb071f2ed3449ea7d127448bd49126d0f/68747470733a2f2f696d672e6c616f642e636e2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f36346262383366346c79316668716136626f396b6e6a3230676f3062337133692e6a7067"/>
+
 ---------------------------------
 
 - [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) 
