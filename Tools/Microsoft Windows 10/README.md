@@ -282,6 +282,13 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 ---------------------------------------------------------------------------------------------------------
 
+- [修复错误 0x80004005](https://support.microsoft.com/zh-cn/help/4028090/windows-fix-error-0x80004005):
+
+>这适用于 Windows 8、Windows 8.1、Windows Server 2012、Windows Server 20212 R2、Windows 10 和 Windows 10 版本 1511 中的 Internet Explorer 中的 Adobe Flash Player 以及 Windows 10 和 Windows 10 版本 1511 中的 Microsoft Edge 中的 Adobe Flash Player。
+
+>   <p>Microsoft 发布了一个安全更新，用于解决 Internet Explorer 和 Microsoft Edge 中的 Adobe Player 中的漏洞。 我们建议你在电脑上转到“更新和安全”，立即安装更新。 选择 <b>“开始”</b> <span class=\"win-icon win-icon-WindowsLogo\"></span> 按钮，然后依次选择<b>“设置”</b> <span class=\"win-icon win-icon-Settings\"></span>><b>“更新和安全”</b> <span class=\"win-icon win-icon-Sync\"></span>><b>“检查更新”</b>。</p>
+      
+
 - [修复 Windows 更新错误](https://support.microsoft.com/zh-cn/help/10164):**运行 Windows 更新疑难解答程序**
 
 >    [微软官方：Windows Update疑难解答修复工具（修复Windows 更新错误）](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/WindowsUpdate.diagcab)
