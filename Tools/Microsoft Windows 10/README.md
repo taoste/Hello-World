@@ -282,7 +282,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 ---------------------------------------------------------------------------------------------------------
 
-- [修复错误 0x80004005](https://support.microsoft.com/zh-cn/help/4028090/windows-fix-error-0x80004005):
+- [修复错误 0x80004005](https://support.microsoft.com/zh-cn/help/4028090/windows-fix-error-0x80004005) : 
+>> 适用于： Windows 10
 
 >这适用于 Windows 8、Windows 8.1、Windows Server 2012、Windows Server 20212 R2、Windows 10 和 Windows 10 版本 1511 中的 Internet Explorer 中的 Adobe Flash Player 以及 Windows 10 和 Windows 10 版本 1511 中的 Microsoft Edge 中的 Adobe Flash Player。
 
