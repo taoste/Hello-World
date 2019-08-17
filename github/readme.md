@@ -25,6 +25,27 @@
 
 <img src="https://camo.githubusercontent.com/54aa14aeb071f2ed3449ea7d127448bd49126d0f/68747470733a2f2f696d672e6c616f642e636e2f77702d636f6e74656e742f75706c6f6164732f323031372f30382f36346262383366346c79316668716136626f396b6e6a3230676f3062337133692e6a7067"/>
 
+<h2 id="属性">属性</h2>
+
+<p>该元素仅支持<a href="/en-US/docs/HTML/Global_attributes" title="HTML/Global attributes">全局属性</a>.</p>
+
+<h2 id="示例">示例</h2>
+
+<pre class="brush: html">&lt;p&gt;Type the following in the Run dialog: &lt;kbd&gt;cmd&lt;/kbd&gt;&lt;br /&gt;Then click the OK button.&lt;/p&gt;
+
+&lt;p&gt;Save the document by pressing &lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt;&lt;/p&gt;</pre>
+
+<h3 id="结果">结果</h3>
+
+<p>Type the following in the Run dialog: <kbd>cmd</kbd><br>
+ Then click the OK button.</p>
+
+<p>Save the document by pressing <kbd>Ctrl</kbd> + <kbd>S</kbd></p>
+
+<h4 id="结果说明：">结果说明：</h4>
+
+<p style="text-indent: 2em;">此显示效果为 MDN 特殊显示效果，无法更改。具体显示效果请自行测试。</p>
+
 ---------------------------------
 
 - [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) 
