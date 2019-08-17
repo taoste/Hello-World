@@ -48,6 +48,11 @@ https://taoste.github.io/Hello-World/Technical%20File(PDF)/Flash开启指引（C
 > 
 <a href="https://twitter.com/williamlong/status/1158166031434563585" title="Twitter : 月光博客 @williamlong : 互联网行业招聘“黑话”，了解一下">月光博客 @williamlong : 互联网行业招聘“黑话”，了解一下" 
   <img src="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/heihua.jpg?raw=true"/></a>
+  
+<p>平面设计必备字体 : (预览图)</br>
+   <a href="https://www.zcool.com.cn/work/ZNTAwMDI0OA==.html" alt="平面设计必备字体-预览图.jpg" title="平面设计必备字体">    
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/github/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%BF%85%E5%A4%87%E5%AD%97%E4%BD%93-%E9%A2%84%E8%A7%88%E5%9B%BE.jpg?raw=true"/>
+</a></p>
 
 <img src="https://github.com/taoste/Hello-World/blob/master/GFW/近视眼的成因.jpg?raw=true"/>
 
