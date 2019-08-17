@@ -291,6 +291,12 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
    
 >>  今天在配置网络连接共享时，提示0x80004005错误信息：后来通过 启用 **Windows 防火墙服务** 的方式解决了。
 
+> [win10局域网共享错误代码0x80004005的解决方法 - Win10故障修复_Win10蓝屏,启动错误等问题解决方法大全 - W10之家](http://m.w10zj.com/Win10xy/Win10xf_9182.html)
+
+> [无法启用共享访问，错误0x80004005，报错的解决-百度经验](https://jingyan.baidu.com/article/d169e186a98f29436611d8fb.html)
+
+---------------------------------------------------------------------------------------------------------
+
 - [修复 Windows 更新错误](https://support.microsoft.com/zh-cn/help/10164):**运行 Windows 更新疑难解答程序**
 
 >    [微软官方：Windows Update疑难解答修复工具（修复Windows 更新错误）](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/WindowsUpdate.diagcab)
