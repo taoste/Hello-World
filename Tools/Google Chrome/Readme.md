@@ -8,7 +8,7 @@
 
 ( chrome://net-internals/#hsts )
 
-<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Tools/Google%20Chrome/Google%20chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BE%E7%BD%AE.PNG">
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Tools/Google%20Chrome/Google%20chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BE%E7%BD%AE.PNG" border="0" alt="Google chrome浏览器设置.PNG" title="Google chrome浏览器设置.PNG">
 
 ( <a href="https://support.google.com/chrome/a/answer/9024365?hl=zh-Hans" title="查看设备当前的Chrome 政策- Google Chrome Enterprise帮助">查看设备当前的Chrome 政策</a> chrome://policy/ ) 
 
