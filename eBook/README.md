@@ -7,6 +7,8 @@
 
 <a href="https://twitter.com/0792z/status/1150922079761522689">我认同反脆弱的观点，你需要有个副业，哪怕你的副业带来的收入特别少，他也部分地给了你选择的权利。你在一个岗位干得越久，积累经验是个假象，本质是你作为一个衰败的螺丝拧得越来越深，已经无法脱离开这个行业这个岗位，然后说着自己不愿意说的话做着自己不愿意做的事情，就是所谓的油腻吧。</a>
 
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E8%B0%88.PNG">
+
 -------------------------------------------------------------------------------
 - [**自助书城(小说阅读7站合一版)v1.53绿色版**](https://github.com/taoste/Hello-World/tree/master/Tools/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E(%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88)) / [本地下载](https://github.com/taoste/Hello-World/blob/master/Tools/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E(%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88)/%E8%87%AA%E5%8A%A9%E4%B9%A6%E5%9F%8E7%E7%AB%99%E5%90%88%E4%B8%80%E7%89%88zzsc1.53.rar?raw=true)- [太平洋下载中心](https://dl.pconline.com.cn/download/2313314.html)
 
