@@ -8,6 +8,8 @@
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
 一生的风平浪静，都不足以让你感恩命运；<br>
  而那些不幸的事情，只发生一次，就足以让你置疑人生。<br>愿大家都能被命运的温柔以待。</a><br>
+ 
+ <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-08-21.png">
 
 <hr>
 
