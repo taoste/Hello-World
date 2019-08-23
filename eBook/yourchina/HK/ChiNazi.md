@@ -1,4 +1,4 @@
-> 共产党 China + 纳粹 Nazi = Chinazi（中国纳粹共产党） [香港人这个新造词汇太贴切了](https://webcache.googleusercontent.com/search?q=cache:TO9Rgsy5HbsJ:https://www.thestandnews.com/politics/%25E7%25B4%258D%25E7%25B2%25B9%25E4%25B8%25AD%25E5%259C%258B-chinazi/+&cd=1&hl=zh-CN&ct=clnk&gl=tw)
+> 共产党 China + 纳粹 Nazi = Chinazi（中国纳粹共产党） [**香港人这个新造词汇太贴切了**](https://webcache.googleusercontent.com/search?q=cache:TO9Rgsy5HbsJ:https://www.thestandnews.com/politics/%25E7%25B4%258D%25E7%25B2%25B9%25E4%25B8%25AD%25E5%259C%258B-chinazi/+&cd=1&hl=zh-CN&ct=clnk&gl=tw)
 
 >> 去年中國流亡作家余杰曾出版《納粹中國》一書，該書意旨簡而言之，就是敘述當今中國正出現邁向納粹德國的勢態。但我們活在 2019 年的香港，納粹中國可不是 future tense。而在過去一個月，Twitter 和 Instagram 都興起 Chinazi 這個 hashtag ，音近廣東話「癡乸綫」，語境也非常貼切。
 
