@@ -1,8 +1,49 @@
 - 《[历史的先声 —-— 半个世纪前的庄严承诺](https://drive.google.com/folderview?id=0BwINummC-6PZfmlCbTRKalE2dVAzSHptOVRVaUlUS0lHeXpzdUdsWEpWTWFrbUtSeWxobnc&usp=sharing)》
 
-> 《新华日报》、《解放日报》社论选
+> 《新华日报》、《解放日报》社论选 
+
+>> @[维基百科](ttps://zh.wikipedia.org/wiki/历史的先声): 《历史的先声——半个世纪前的庄严承诺》由笑蜀编撰，1999年汕头大学出版社出版，2002年香港博思出版社出版。笑蜀称，出版后，被时任中共中央宣传部部长丁关根在内部会议上重点抨击，随后全国查禁。书籍内容是中国共产党媒体发布的各种支持民主的言论，包括1941至1946年来自《新华日报》、《解放日报》、《党史通讯》、《人民日报》等的短评、讲话、社论、文件等。
 
 > 编者：笑蜀
+>> 每天大事小事不断发生，深呼吸，冷思考，见解自然独到。**笑蜀**，1962年11月生，1984年毕业于中山大学历史系。曾任南方周末高级评论员、《中国改革》杂志执行主编。著有《刘文彩真相》、《背上十字架的科学——苏联遗传学劫难纪实》等书。
+
+<table>  
+
+  <tr>
+        <td><B>名称：</B></td>
+        <td><B>历史的先声</B></td>
+        <td><B>类别：</B></td>
+        <td><B>图书</B></td>
+    </tr> 	
+
+  <tr>
+        <td><B>语种：</B></td>
+        <td><B>中文</B></td>
+        <td><B>ISBN：</B></td>
+        <td><B>9787810363457</B></td>
+    </tr> 
+
+  <tr>
+        <td><B>出版社：</B></td>
+        <td><B>汕头大学出版社</B></td>
+        <td><B>开本：</B></td>
+        <td><B>16开</B></td>
+    </tr> 	
+
+  <tr>
+        <td><B>出版时间：</B></td>
+        <td><B>1999年</B></td>
+        <td><B>装帧：</B></td>
+       <td><B>平装</B></td>
+    </tr> 
+
+<tr>
+        <td><B>版次：</B></td>
+        <td><B>1</B></td>
+        <td><B>.</B></td>
+       <td><B>.</B></td>
+    </tr> 
+</table>
 
 > 📚 [在线阅读](https://taoste.github.io/Hello-World/eBook/yourchina/历史的先声——半个世纪前的庄严承诺/扫描版.pdf) ：[PDF扫描版](https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E2%80%94%E2%80%94%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D%E7%9A%84%E5%BA%84%E4%B8%A5%E6%89%BF%E8%AF%BA/%E6%89%AB%E6%8F%8F%E7%89%88.pdf) | [PDF文字版](https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E2%80%94%E2%80%94%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D%E7%9A%84%E5%BA%84%E4%B8%A5%E6%89%BF%E8%AF%BA/%E6%96%87%E5%AD%97%E7%89%88.pdf)
 
