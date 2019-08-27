@@ -77,7 +77,7 @@
     </tr> 
 </table>
 
-> 📚 [在线阅读](https://taoste.github.io/Hello-World/eBook/yourchina/历史的先声——半个世纪前的庄严承诺/扫描版.pdf) ：[PDF扫描版](https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E2%80%94%E2%80%94%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D%E7%9A%84%E5%BA%84%E4%B8%A5%E6%89%BF%E8%AF%BA/%E6%89%AB%E6%8F%8F%E7%89%88.pdf) | [PDF文字版](https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0%E2%80%94%E2%80%94%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D%E7%9A%84%E5%BA%84%E4%B8%A5%E6%89%BF%E8%AF%BA/%E6%96%87%E5%AD%97%E7%89%88.pdf)
+> 📚 [在线阅读](https://taoste.github.io/Hello-World/eBook/yourchina/历史的先声——半个世纪前的庄严承诺/扫描版.pdf) ：[PDF扫描版](https://taoste.github.io/Hello-World/eBook/yourchina/历史的先声——半个世纪前的庄严承诺/扫描版.pdf) | [PDF文字版](https://taoste.github.io/Hello-World/eBook/yourchina/历史的先声——半个世纪前的庄严承诺/文字版.pdf)
 
 > 🔗 7z压缩打包: 点击图片下载全书（PDF格式）：
 
