@@ -3,7 +3,7 @@
 > @[维基百科](https://zh.wikipedia.org/wiki/历史的先声) : 
 >> 《历史的先声——半个世纪前的庄严承诺》由笑蜀编撰，1999年汕头大学出版社出版，2002年香港博思出版社出版。笑蜀称，出版后，被时任中共中央宣传部部长丁关根在内部会议上重点抨击，随后全国查禁。书籍内容是中国共产党媒体发布的各种支持民主的言论，包括1941至1946年来自《新华日报》、《解放日报》、《党史通讯》、《人民日报》等的短评、讲话、社论、文件等。 ( [其他](https://webcache.googleusercontent.com/search?q=cache:8THFMIweA3AJ:https://www.modernchinastudies.org/cn/issues/past-issues/75-mcs-2001-issue-4/592-2012-01-03-12-11-52.html+&cd=3&hl=zh-CN&ct=clnk&gl=sg)：@[互动百科](http://www.baike.com/wiki/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0) )
 
-> 编者：@[笑蜀](https://zh.wikipedia.org/wiki/笑蜀) : 
+>  [编者](https://webcache.googleusercontent.com/search?q=cache:-O07S6WRE-8J:beijingspring.com/c7/xw/wlwz/20131112180404.htm+&cd=2&hl=zh-CN&ct=clnk&gl=tw)：@[笑蜀](https://zh.wikipedia.org/wiki/笑蜀) : 
 >> 每天大事小事不断发生，深呼吸，冷思考，见解自然独到。**笑蜀**，1962年11月生，1984年毕业于中山大学历史系。曾任南方周末高级评论员、《中国改革》杂志执行主编。著有《刘文彩真相》、《背上十字架的科学——苏联遗传学劫难纪实》等书。
 
 <table>  
