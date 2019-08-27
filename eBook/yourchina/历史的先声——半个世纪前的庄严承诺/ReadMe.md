@@ -1,4 +1,4 @@
-- 《[历史的先声 —-— 半个世纪前的庄严承诺](https://drive.google.com/folderview?id=0BwINummC-6PZfmlCbTRKalE2dVAzSHptOVRVaUlUS0lHeXpzdUdsWEpWTWFrbUtSeWxobnc&usp=sharing)》 | 《新华日报》、《解放日报》社论选 
+- 《[**历史的先声 —-— 半个世纪前的庄严承诺**](https://drive.google.com/folderview?id=0BwINummC-6PZfmlCbTRKalE2dVAzSHptOVRVaUlUS0lHeXpzdUdsWEpWTWFrbUtSeWxobnc&usp=sharing)》 | 《新华日报》、《解放日报》社论选 
 
 > @[维基百科](https://zh.wikipedia.org/wiki/历史的先声) : 
 >> 《历史的先声——半个世纪前的庄严承诺》由笑蜀编撰，1999年汕头大学出版社出版，2002年香港博思出版社出版。笑蜀称，出版后，被时任中共中央宣传部部长丁关根在内部会议上重点抨击，随后全国查禁。书籍内容是中国共产党媒体发布的各种支持民主的言论，包括1941至1946年来自《新华日报》、《解放日报》、《党史通讯》、《人民日报》等的短评、讲话、社论、文件等。 ( [其他](https://webcache.googleusercontent.com/search?q=cache:jNqymZfi7xYJ:www.baike.com/wiki/%25E5%258E%2586%25E5%258F%25B2%25E7%259A%2584%25E5%2585%2588%25E5%25A3%25B0+&cd=8&hl=zh-CN&ct=clnk&gl=sg)：@[互动百科](http://www.baike.com/wiki/%E5%8E%86%E5%8F%B2%E7%9A%84%E5%85%88%E5%A3%B0) )
