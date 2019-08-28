@@ -106,13 +106,13 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 > 
 > 【参阅】電腦玩物:《[**安裝 Google 新工具幫你隨時自動檢查各網站密碼是否依然安全**](https://www.playpcesor.com/2019/02/google-Password-Checkup.html)》
 
-- [x] 👍[**谷歌服务助手**](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/) （ 支持 [Chrome](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/cgncbhnhlkbdieckbbmeppcefokppagh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)）
+- [x] 👍《[**谷歌服务助手**](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)》 （ 支持 [Chrome](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/cgncbhnhlkbdieckbbmeppcefokppagh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)）
  ( [Chrome](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/) 同类插件：[**谷歌上网助手（Ghelper）**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN)， 👍[**我的Go下载短链接**](https://go.choong.net/google/g/) ）
  
-- [x] 👍[**To Google Translate 谷歌快译**](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/)
+- [x] 👍《[**To Google Translate 谷歌快译**](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/)》
 > 右键单击一段文本，点击它旁边的“翻译”图标，即可翻译或收听它的发音。
 
-- [x] 👍[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
+- [x] 👍《[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)》（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
 1. [Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
 > 少数派: [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解](https://zhuanlan.zhihu.com/p/28869740) - [知乎](https://www.zhihu.com/)
 
@@ -146,7 +146,8 @@ https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%
 
 - [x] [**ChatZilla**](https://addons.mozilla.org/firefox/addon/chatzilla/) （官方网站 | [chatzilla.hacksrus.com](http://chatzilla.hacksrus.com/) ）是Mozilla浏览器下的IRC客户端程序，基于JavaScript和XUL语言编写的。（@[维基百科](https://zh.wikipedia.org/wiki/ChatZilla)）( **提示：不兼容 Firefox Quantum** )
 
-- [x]  [**HTTPS Everywhere**](https://addons.mozilla.org/zh-CN/firefox/addon/https-everywhere/?src=ss) - 是电子前哨基金会（EFF）的免费浏览器插件，它可以强制网页使用“HTTPS”的方式加密访问，避免被不良宽带商和中间人篡改。
+- [x]  《[**HTTPS Everywhere**](https://addons.mozilla.org/zh-CN/firefox/addon/https-everywhere/?src=ss)》 - 是电子前哨基金会（EFF）的免费浏览器插件，它可以强制网页使用“HTTPS”的方式加密访问，避免被不良宽带商和中间人篡改。
+> 加密网络！HTTPS Everywhere 是一个保护通信的 Firefox 扩展。它对支持加密的网站自动开启 HTTPS 通信加密，即使你在输入网址时没有加上 https: 前缀也一样。
 
 - [x]  [**Adblock Plus**](https://addons.mozilla.org/zh-CN/firefox/addon/adblock-plus/?src=hp-dl-mostpopular) - 是老牌知名的**广告屏蔽插件**，网页广告内置了大量的跟踪代码，使用这款插件可减少广告的干扰。
 
