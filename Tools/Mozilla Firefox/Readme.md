@@ -109,6 +109,8 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x] 👍[**谷歌服务助手**](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/) （ 支持 [Chrome](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/cgncbhnhlkbdieckbbmeppcefokppagh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)）
  ( [Chrome](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/) 同类插件：[**谷歌上网助手（Ghelper）**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN)， 👍[**我的Go下载短链接**](https://go.choong.net/google/g/) ）
  
+- [x] 👍[**To Google Translate 谷歌快译**](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/)
+> 右键单击一段文本，点击它旁边的“翻译”图标，即可翻译或收听它的发音。
 
 - [x] 👍[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
 1. [Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
