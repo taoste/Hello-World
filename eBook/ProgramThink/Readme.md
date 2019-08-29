@@ -57,7 +57,19 @@
    >> 必须在 2009-01-15（开博日）之后，今天之前（含）   
    >> （如果搜索范围含【评论】，时间跨度越大，搜索越慢）
 ```
-- [编程随想/2017年5月6日 《分享各类电子书（政治、历史、IT 等，39本）》回复](https://program-think.blogspot.com/2017/05/share-books.html?comment=1494168395703) ：
+
+- [编程随想/2019年8月26日《每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）》](https://program-think.blogspot.com/2019/08/weekly-share-136.html?comment=1566971057556&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author) ：
+```
+TO	15楼的网友
+类似问题，前2年已经有读者（挪威森林猫）问过，俺的回答如下：
+https://program-think.blogspot.com/2017/05/share-books.html?comment=1494168395703
+
+当年俺提到的4条建议，都曾经写过相关的博文。
+尤其是第一条——【提升个人综合能力】，俺写了很多这方面的博文
+（参见博客界面右侧栏，俺把一些比较有价值的博文分类汇总了）
+```
+
+> [编程随想/2017年5月6日 《分享各类电子书（政治、历史、IT 等，39本）》回复](https://program-think.blogspot.com/2017/05/share-books.html?comment=1494168395703) ：
 ```
 TO 挪威森林猫
 关于如何自保
