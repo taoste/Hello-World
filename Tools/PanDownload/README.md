@@ -37,7 +37,7 @@ https://twitter.com/EbookPlan/status/1134012290779320320
 
 【更新日志】
 
-```
+----------
 
 v[2.1.3](https://pandownload.com/2.1.3)
 更新时间: 2019-08-22
@@ -45,7 +45,7 @@ v[2.1.3](https://pandownload.com/2.1.3)
 
     修复bug
     
-```
+----------
 
 v[2.1.1](https://pandownload.com/2.1.1)
 更新时间: 2019-06-22
@@ -55,21 +55,25 @@ v[2.1.1](https://pandownload.com/2.1.1)
     秒传链接功能优化
     修复部分bug
 
-```
+----------
 
 v[2.1.0](https://pandownload.com/2.1.0)
 更新时间: 2019-04-22
 更新内容:
 
 修复bug
+
 ----------
+
 v[2.0.9](https://pandownload.com/2.0.9)
 更新时间: 2019-04-12
 更新内容:
 
 支持远程下载
 修复部分bug
+
 ----------
+
 v[2.0.6](https://pandownload.com/2.0.6)
 更新时间: 2019-02-04
 更新内容:
@@ -77,7 +81,9 @@ v[2.0.6](https://pandownload.com/2.0.6)
 新增批量转存功能
 支持多账号文件搜索
 优化使用体验及bug修复
+
 ----------
+
 v[2.0.5](https://pandownload.com/2.0.5)
 更新时间: [2018-11-16](https://www.lanzous.com/i2dwx4j)
 更新内容:
