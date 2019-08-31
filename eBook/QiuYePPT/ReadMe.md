@@ -1,10 +1,10 @@
 <img scr="https://mmbiz.qpic.cn/mmbiz_png/alGSYfaf9EXKne1t0nibERvvCMgEtDKpqllE0NicRoYApvNX6ic1q3cvocqUhTzC1dRYLVc0SD8xb11rdVpdnRribw/640">
 
-- [**Costco这么牛，学了《市场营销》你应该看见啥？**](https://mp.weixin.qq.com/s/Aagxrg4lXOCzOjxmoUL_Gw)   原创： 秋叶大叔	（2019-08-31） 
+- 《[**Costco这么牛，学了《市场营销》你应该看见啥？**](https://mp.weixin.qq.com/s/Aagxrg4lXOCzOjxmoUL_Gw)》 （ 原创： 秋叶大叔	2019-08-31 ） 
 
-> 在学校给学生上《市场营销》，讲到做竞品调研，我就谈到最近爆火的Costco这个案例，也给大家聊聊我的看法。
+>          在学校给学生上《市场营销》，讲到做竞品调研，我就谈到最近爆火的Costco这个案例，也给大家聊聊我的看法。
 > 
->                                                                          ——秋叶大叔
+>                                                                                ——秋叶大叔
 
 > Costco的开业搞成了满网跟的大新闻：
 ```
