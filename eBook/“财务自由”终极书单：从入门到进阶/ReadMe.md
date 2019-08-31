@@ -21,17 +21,7 @@
 > **引导孩子正确认识财富、创造财富的金钱童话**
 
 ------------------------
-```
-你好呀，感谢关注简七，大礼包送上
 
-【简七理财】从0开始学理财大礼包 
-链接: https://pan.baidu.com/s/1kt6p4GRhMKB4cozd45gbRw 
-提取码: b3ew
-
-每天晚上9点半，简七教你学理财
-为了不错过每天的推送，欢迎星标️置顶哦
-```
-------------------------
 
 <p>
 <img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E2%80%9C%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E2%80%9D%E7%BB%88%E6%9E%81%E4%B9%A6%E5%8D%95%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6/qrcode/0.png?raw=true"/>
