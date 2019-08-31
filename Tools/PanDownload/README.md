@@ -1,4 +1,4 @@
-百度网盘不限速下载器 | [PanDownload官网](http://pandownload.com/) 
+百度网盘不限速下载器 | [PanDownload官网](https://pandownload.com/) 
 
 PanDownload 一款第三方百度网盘下载工具，采用了Aria 2技术，
 
@@ -27,7 +27,7 @@ https://twitter.com/EbookPlan/status/1134012290779320320
 
 【下载地址】
 
-本地下载 http://pandownload.com/2.1.0
+本地下载 https://pandownload.com/2.1.0
 
 网盘下载 https://www.lanzous.com/i3vfwde
 
@@ -35,20 +35,20 @@ https://twitter.com/EbookPlan/status/1134012290779320320
 
 ```
 
-v[2.1.0](http://pandownload.com/2.1.0)
+v[2.1.0](https://pandownload.com/2.1.0)
 更新时间: 2019-04-22
 更新内容:
 
 修复bug
 ----------
-v[2.0.9](http://pandownload.com/2.0.9)
+v[2.0.9](https://pandownload.com/2.0.9)
 更新时间: 2019-04-12
 更新内容:
 
 支持远程下载
 修复部分bug
 ----------
-v[2.0.6](http://pandownload.com/2.0.6)
+v[2.0.6](https://pandownload.com/2.0.6)
 更新时间: 2019-02-04
 更新内容:
 
@@ -56,7 +56,7 @@ v[2.0.6](http://pandownload.com/2.0.6)
 支持多账号文件搜索
 优化使用体验及bug修复
 ----------
-v[2.0.5](http://pandownload.com/2.0.5)
+v[2.0.5](https://pandownload.com/2.0.5)
 更新时间: [2018-11-16](https://www.lanzous.com/i2dwx4j)
 更新内容:
 
@@ -66,7 +66,7 @@ v[2.0.5](http://pandownload.com/2.0.5)
     
 ----------
 
-v[2.0.4](http://pandownload.com/2.0.4)
+v[2.0.4](https://pandownload.com/2.0.4)
 更新时间: [2018-10-17](https://www.lanzous.com/i24ls9e)
 更新内容:
 
@@ -85,7 +85,7 @@ v2.0.3
 
 ----------
 
-v[2.0.1](http://pandownload.com/2.0.1)
+v[2.0.1](https://pandownload.com/2.0.1)
 
 更新时间: [2018-09-01](https://www.lanzous.com/i1s35uh)
 更新内容:
