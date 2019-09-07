@@ -5,8 +5,7 @@
 
 <hr>
 
-深入思考：透过表象、看清本质，直达内核：
-
+深入思考：透过表象、看清本质，直达内核： 
 
 <p>1.
 <ruby>
@@ -60,6 +59,22 @@
 </ruby>
 </p>
 
+<p>
+ <ruby>
+信息不对称：
+<rp>(</rp><rt>asymmetric information</rt><rp>)</rp>
+</ruby>
+ - 》
+ <ruby>
+控制/垄断/孤立/隔绝/引导/抹黑/污名化
+<rp>(</rp><rt>【实施的方式和途径】</rt><rp>)</rp>
+</ruby>
+ 《 - 》
+<ruby>
+信息开放/透明完整/自由流通/多元化多角度<rp>(</rp><rt>最佳解决之道 / CCP是抗拒的</rt><rp>)</rp>
+</ruby>
+<br>
+</p>
 <hr>
 
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
