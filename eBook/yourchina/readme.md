@@ -73,8 +73,8 @@
 <ruby>
 信息开放/透明完整/自由流通/多元化多角度<rp>(</rp><rt>最佳解决之道 / CCP是抗拒的</rt><rp>)</rp>
 </ruby>
-<br>
 </p>
+<br>
 <hr>
 
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
