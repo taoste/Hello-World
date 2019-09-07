@@ -74,7 +74,7 @@
 信息开放/完整/自由流通/深入独立思考<rp>(</rp><rt>最佳解决之道 / CCP是抗拒的</rt><rp>)</rp>
 </ruby>
 </p>
-<br>
+
 <hr>
 
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
