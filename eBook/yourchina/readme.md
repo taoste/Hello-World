@@ -5,6 +5,9 @@
 
 <hr>
 
+ <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/ccp.png">
+
+<blockquote>
 深入思考：透过表象、看清本质，直达内核： 
 
 <p>1.
@@ -74,7 +77,7 @@
 信息开放/完整/自由流通/深入独立思考<rp>(</rp><rt>最佳解决之道 / CCP是抗拒的</rt><rp>)</rp>
 </ruby>
 </p>
-
+</blockquote>
 <hr>
 
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
