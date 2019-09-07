@@ -4,7 +4,6 @@
 [不为君王唱赞歌，只为苍生说人话;<br>岂有文章倾社稷，从来佞幸覆乾坤](https://t66y.com/htm_data/7/1906/3546885.html)
 
 <hr>
-
  <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/ccp.png">
 
 <blockquote>
@@ -120,6 +119,7 @@
 ...... 他们比猴子多穿了一套衣服。"></a>
 </p>
 
+> [[活很好]董大姐，有关你小孩国籍的问题问你几个问题](https://t66y.com/htm_data/1909/7/3640048.html)
 
 <br>
 「力微休负重，言轻莫劝人。无钱休入众，遭难莫寻亲。」—— 《增广贤文》
