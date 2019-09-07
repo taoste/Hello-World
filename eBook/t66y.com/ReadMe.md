@@ -3,6 +3,9 @@
   
 <img src="https://camo.githubusercontent.com/af797cec507dc27db9d9c56c6d86511a3d2d354c/68747470733a2f2f743636792e636f6d2f696e6465782e6769663f7261773d74727565?raw=true"/>
 
+>  <a href="https://t66y.com/htm_data/1909/7/3640014.html" title="[微博谈20190906]  香港回归以来最黑暗的一天 - 技術討論區 | 草榴社區 - t66y.com"><img src="https://www.nsaimg.com/2019/09/06/5d72220df1d0b.png?raw=true"/></a>
+
+
 -----------------------------
 
 - [**磁力管家**](https://66cili.xyz/) - 男人都爱上的磁力连接搜索引擎 ( https://66cili.xyz/ )
