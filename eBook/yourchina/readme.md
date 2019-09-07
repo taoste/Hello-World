@@ -5,6 +5,63 @@
 
 <hr>
 
+深入思考：透过表象、看清本质，直达内核：
+
+
+<p>1.
+<ruby>
+枪杆子<rp>(</rp><rt>qiāng gǎn zi</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+暴力<rp>(</rp><rt>本质</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+军/警/法/特/国家暴力机关<rp>(</rp><rt>【实施的方式和途径】</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+恐惧<rp>(</rp><rt>作用</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+怕我<rp>(</rp><rt>目的</rt><rp>)</rp>
+</ruby>
+《 - 》
+<ruby>
+军队国家化/非党卫军<rp>(</rp><rt>最佳解决之道/党是抗拒的</rt><rp>)</rp>
+</ruby>
+<br>
+</p>
+<p>2.
+<ruby>
+笔杆子<rp>(</rp><rt>bǐ gǎn zi</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+谎言<rp>(</rp><rt>本质</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+新闻/媒体/网络/学校/教育<rp>(</rp><rt>【实施的方式和途径】</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+洗脑<rp>(</rp><rt>作用</rt><rp>)</rp>
+</ruby>
+- 》
+<ruby>
+信我<rp>(</rp><rt>目的</rt><rp>)</rp>
+</ruby>
+《 - 》
+<ruby>
+新闻自由/言论自由<rp>(</rp><rt>最佳解决之道/党是抗拒的</rt><rp>)</rp>
+</ruby>
+</p>
+
+<hr>
+
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
 一生的风平浪静，都不足以让你感恩命运；<br>
  而那些不幸的事情，只发生一次，就足以让你置疑人生。<br>愿大家都能被命运的温柔以待。</a><br>
