@@ -48,6 +48,8 @@
 
 我十分有把握地道：“你经常换女友，一定是房事无节制，造成肾虚。来，张嘴让我看看你的舌苔，分辨下是肾阴虚还是肾阳虚，如果肾阴虚就服六味地黄丸，肾阳虚可服用金匮肾气丸”
 ```
+>>> [肾阴虚还是肾阳虚 - Google 搜索](
+https://www.google.com/search?hl=zh_CN&source=hp&ei=Dmp4Xa2wJIWA-QavvanACg&q=%E8%82%BE%E9%98%B4%E8%99%9A%E8%BF%98%E6%98%AF%E8%82%BE%E9%98%B3%E8%99%9A&oq=%E8%82%BE%E9%98%B4%E8%99%9A%E8%BF%98%E6%98%AF%E8%82%BE%E9%98%B3%E8%99%9A&gs_l=psy-ab.3...1371.1371..2618...0.0..0.86.86.1......0....2j1..gws-wiz.0mHQ0XKwfFw&ved=0ahUKEwit77SC6sfkAhUFQN4KHa9eCqgQ4dUDCAU&uact=5)
 ```
 财富意味着机会，也意味着选择人生的自由。
 贫穷大多时候并非因为懒惰，而是长期处于稀缺状态中，形成一种狭隘的短视思维，丧失了选择的自由。
