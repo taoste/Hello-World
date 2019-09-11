@@ -3,6 +3,7 @@
 
 [不为君王唱赞歌，只为苍生说人话;<br>岂有文章倾社稷，从来佞幸覆乾坤](https://t66y.com/htm_data/7/1906/3546885.html)
 
+国庆70周年 活动标识
 <hr>
  <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/ccp.png">
 
