@@ -127,7 +127,7 @@ For the glory of Hong Kong.
 
 ---------------------------------------------------------------------------------
 
-- Twitter : Jian Alan Huang @[hnjhj](https://twitter.com/hnjhj) [下午1:57 · 2019年9月13日](https://twitter.com/hnjhj/status/1172509518418235394?s=19)
+- [Twitter](https://twitter.com/search?q=%E6%84%BF%E8%8D%A3%E5%85%89%E5%BD%92%E9%A6%99%E6%B8%AF%20%E5%9B%BD%E8%AF%AD%E7%89%88&src=typed_query) : Jian Alan Huang @[hnjhj](https://twitter.com/hnjhj) [下午1:57 · 2019年9月13日](https://twitter.com/hnjhj/status/1172509518418235394?s=19)
 > 《愿荣光归香港》全城响彻绕梁不绝，甚至各种语言的版本纷纷出现。在这样风起云涌的大时代，缺少来自大陆的声音是不应该的。因此我再次召集大陆背景的推友录制国语版《愿荣光归香港》，以表达我们对于香港手足的支持和祝福。细节稍后跟帖推出。
 ```
 >> 参与细节：
