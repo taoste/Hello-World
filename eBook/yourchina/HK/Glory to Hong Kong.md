@@ -1,4 +1,4 @@
-- 《[**愿荣光归香港**](https://zh.wikipedia.org/wiki/願榮光歸香港)》 --YouTube上的《愿荣光归香港》@[合唱团版](https://www.youtube.com/watch?v=y7yRDOLCy4Y&t=0h0m0s)| @[英文版](https://www.youtube.com/watch?v=koOAJHt9UO8&t=0h0m0s)
+- 《[**愿荣光归香港**](https://zh.wikipedia.org/wiki/願榮光歸香港)》 -- YouTube上的《愿荣光归香港》@[合唱团版](https://www.youtube.com/watch?v=y7yRDOLCy4Y&t=0h0m0s) | @[英文版](https://www.youtube.com/watch?v=koOAJHt9UO8&t=0h0m0s)
 > @[维基百科](https://zh.wikipedia.org/wiki/願榮光歸香港)：《愿荣光归香港》（英语：Glory to Hong Kong），又名《我愿荣光归香港》，简称《愿荣光》，是一首由2019年香港反对逃犯条例修订草案运动中的抗争者创作的歌曲，由化名“Thomas dgx yhl”的香港音乐人作词作曲（经连登讨论区网民协作修改），在运动中广为传唱。
 
 ----------------------------------------------------------------
@@ -127,3 +127,4 @@ For the glory of Hong Kong.
 
 《[抗争歌《愿荣光归香港》8时31分响遍全港勿忘受伤示威者](http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20190911-%E6%8A%97%E4%BA%89%E6%AD%8C%E6%84%BF%E8%8D%A3%E5%85%89%E5%BD%92%E9%A6%99%E6%B8%AF8%E6%97%B631%E5%88%86%E5%93%8D%E9%81%8D%E5%85%A8%E6%B8%AF%E5%8B%BF%E5%BF%98%E5%8F%97%E4%BC%A4%E7%A4%BA%E5%A8%81%E8%80%85)》 (法广 - 时事与新闻直播 - 法国国际广播电台 | 发表时间： 11/09/2019 - 12:16)
 
+[《愿荣光归香港》词曲道出示威者心声](https://www.voachinese.com/a/Hong-Kong-Protests-Anthem-Glory-To-HK-20190913/5082166.html) (VOA - 美国之音 | 发表时间： 2019年9月13日 18:40 )
