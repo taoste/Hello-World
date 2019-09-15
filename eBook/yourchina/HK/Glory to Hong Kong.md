@@ -73,7 +73,7 @@ For the glory of Hong Kong.
 
 - 2019-09-14:《[抛砖引玉，愿荣光归香港，**国语版歌词**](https://www.pincong.rocks/article/5010)》 - 新·品葱 
 
-<img src="https://pbs.twimg.com/media/EEfX-3CU4AAk8sl?format=jpg&name=360x360" alt="《愿荣光归香港》原粤语版歌词及曲谱" title="《愿荣光归香港》原粤语版歌词及曲谱" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/HK/Glory%20to%20Hong%20Kong.jpg" alt="《愿荣光归香港》原粤语版歌词及曲谱" title="《愿荣光归香港》原粤语版歌词及曲谱" width="100px" height="100px" />
 
 
 > 只是希望这首昂扬的歌曲能够有大陆人民的声音，如不嫌弃，请随意改良使用。
