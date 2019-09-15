@@ -1,3 +1,7 @@
+[会计考试 site:github.io](https://www.google.com/search?hl=zh_CN&ei=Rah9Xf2GDJDN-Qayn7Ag&q=%E4%BC%9A%E8%AE%A1%E8%80%83%E8%AF%95+site%3Agithub.io) - Google 搜索
+
+------------------------------------------------
+
 - 《[**我就随便写写** – Stay hungry, Stay foolish](https://hejiayuan1998.github.io/)》| （  [关于](https://hejiayuan1998.github.io/about/) ：[博客样式汇总](https://hejiayuan1998.github.io/2018/01/11/style-summary/) | [Markdown 介绍及使用教程](https://hejiayuan1998.github.io/2018/05/03/the-introduction-of-markdown/) ）
  > 《[环球网校 - 初会学习资料（初级会计实务）](https://hejiayuan1998.github.io/2019/04/27/iukkxtxiziln/)》 |  （  2019-04-27 ）
  > 
