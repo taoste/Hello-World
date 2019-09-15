@@ -1,7 +1,7 @@
 - 《[**愿荣光归香港**](https://zh.wikipedia.org/wiki/願榮光歸香港)》 -- YouTube上的《愿荣光归香港》@[合唱团版](https://www.youtube.com/watch?v=y7yRDOLCy4Y&t=0h0m0s) | @[英文版](https://www.youtube.com/watch?v=koOAJHt9UO8&t=0h0m0s)
 > @[维基百科](https://zh.wikipedia.org/wiki/願榮光歸香港)：《愿荣光归香港》（英语：Glory to Hong Kong），又名《我愿荣光归香港》，简称《愿荣光》，是一首由2019年香港反对逃犯条例修订草案运动中的抗争者创作的歌曲，由化名“Thomas dgx yhl”的香港音乐人作词作曲（经连登讨论区网民协作修改），在运动中广为传唱。
 
-<img src="https://pbs.twimg.com/media/EEfWPIaUcAAJrC2"/>
+<img src="https://pbs.twimg.com/media/EEfWPIaUcAAJrC2" alt="替代文字二" title="範例圖片二" width="100px" height="100px" />
 
 ----------------------------------------------------------------
 
@@ -73,6 +73,8 @@ For the glory of Hong Kong.
 
 - 2019-09-14:《[抛砖引玉，愿荣光归香港，**国语版歌词**](https://www.pincong.rocks/article/5010)》 - 新·品葱 
 
+<img src="https://pbs.twimg.com/media/EEfX-3CU4AAk8sl?format=jpg&name=360x360" alt="《愿荣光归香港》原粤语版歌词及曲谱" title="《愿荣光归香港》原粤语版歌词及曲谱" width="100px" height="100px" />
+
 
 > 只是希望这首昂扬的歌曲能够有大陆人民的声音，如不嫌弃，请随意改良使用。
 
@@ -124,6 +126,23 @@ For the glory of Hong Kong.
 
 
 ---------------------------------------------------------------------------------
+
+- Twitter : Jian Alan Huang @[hnjhj](https://twitter.com/hnjhj) [下午1:57 · 2019年9月13日](https://twitter.com/hnjhj/status/1172509518418235394?s=19)
+> 《愿荣光归香港》全城响彻绕梁不绝，甚至各种语言的版本纷纷出现。在这样风起云涌的大时代，缺少来自大陆的声音是不应该的。因此我再次召集大陆背景的推友录制国语版《愿荣光归香港》，以表达我们对于香港手足的支持和祝福。细节稍后跟帖推出。
+```
+>> 参与细节：
+- 原版歌词，普通话演唱。
+- 戴耳机跟唱，必须使用这个版本：https://youtube.com/watch?v=YxptkMBYk2A
+- 只录清唱不含背景音乐。
+- 不需要画面。
+- 背景必须安静无明显噪音。
+- 可录整首也可录任意一段。
+- 音频发到：http://hk.song.cn@gmail.com
+- 可以分段录，不需要一气呵成。
+- 可用推特ID署名亦可匿名。
+- 截止9月18日。
+
+```
 
 🔗其他链接：
 
