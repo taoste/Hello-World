@@ -1,7 +1,9 @@
 - 《[**愿荣光归香港**](https://zh.wikipedia.org/wiki/願榮光歸香港)》 -- YouTube上的《愿荣光归香港》@[合唱团版](https://www.youtube.com/watch?v=y7yRDOLCy4Y&t=0h0m0s) | @[英文版](https://www.youtube.com/watch?v=koOAJHt9UO8&t=0h0m0s)
 > @[维基百科](https://zh.wikipedia.org/wiki/願榮光歸香港)：《愿荣光归香港》（英语：Glory to Hong Kong），又名《我愿荣光归香港》，简称《愿荣光》，是一首由2019年香港反对逃犯条例修订草案运动中的抗争者创作的歌曲，由化名“Thomas dgx yhl”的香港音乐人作词作曲（经连登讨论区网民协作修改），在运动中广为传唱。
 
-<img src="https://pbs.twimg.com/media/EEfWPIaUcAAJrC2" alt="替代文字二" title="範例圖片二" width="100px" height="100px" />
+<img src="https://pbs.twimg.com/media/EEfWPIaUcAAJrC2" alt="願榮光歸香港" title="範例圖片二" width="85%" height="85%" />
+
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/HK/Glory%20to%20Hong%20Kong.jpg" alt="《愿荣光归香港》原粤语版歌词及曲谱" title="《愿荣光归香港》原粤语版歌词及曲谱" width="85%" height="100%" />
 
 ----------------------------------------------------------------
 
@@ -72,8 +74,6 @@ For the glory of Hong Kong.
 ---------------------------------------------------------------------------------
 
 - 2019-09-14:《[抛砖引玉，愿荣光归香港，**国语版歌词**](https://www.pincong.rocks/article/5010)》 - 新·品葱 
-
-<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/HK/Glory%20to%20Hong%20Kong.jpg" alt="《愿荣光归香港》原粤语版歌词及曲谱" title="《愿荣光归香港》原粤语版歌词及曲谱" width="100px" height="100px" />
 
 
 > 只是希望这首昂扬的歌曲能够有大陆人民的声音，如不嫌弃，请随意改良使用。
