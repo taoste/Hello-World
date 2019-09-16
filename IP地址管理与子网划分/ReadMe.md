@@ -17,7 +17,9 @@ VLan:
 - 无线路由器 [**斐讯k2p**](https://www.google.com/search?hl=zh_CN&source=hp&ei=neB-Xd2zGsHXhwOwyJbYDA&q=%E6%96%90%E8%AE%AFk2p+site%3Agithub.io) [site:github.io](https://cn.bing.com/search?q=%E6%96%90%E8%AE%AFk2p+site%3Agithub.io) | [恩山无线论坛](https://www.right.com.cn/)
 
 >> [快上车——玩路由(MTK板、洋垃圾网件、斐讯)的闲言碎语](https://zklhp.github.io/2018/08/01/Get-on-board-quickly/) | M-x Chris-An-Emacser
->> 
+>>
+>> [告别后门：斐讯K2路由器刷入华硕固件](https://laod.cn/tools/phicomm-k2-gujian.html) - 老D博客
+>>
 >> [斐讯 k2p 刷机](https://einverne.github.io/post/2018/01/k2p-flash-firmware.html) | Verne in GitHub
 
 ------------------------------------------
