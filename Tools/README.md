@@ -32,6 +32,16 @@
 >> 《[**代餐为何如此流行？**](https://mp.weixin.qq.com/s/7zOEd1TH35yuJl_eqBwvQQ)》 ( 原创：严徽因	@三联生活周刊 2019-09-08 )
 
 - [**「液体便当」开创者 | 若饭官网**](https://www.ruffood.com/) ( [关于](https://www.ruffood.com/index/contacts.html) ： [**若饭@淘宝店**](https://ruffood.taobao.com/)-[**天猫店**](https://ruofansp.tmall.com/)\ [**若饭@京东旗舰店**](https://mall.jd.com/index-720799.html)  )
+
+<table>  
+  <tr>
+        <td>
+        <a href="https://github.com/ruffood/ruofan/blob/master/README.md" title="我是谁？"><img src="https://camo.githubusercontent.com/0625034ee5acb831d9be4b6fecf84114699f58a3/68747470733a2f2f7374617469632e727566666f6f642e636f6d2f617373657473332f696d616765732f7573312e6a70673f7261773d74727565"/></a></td>
+<td>💗我是谁？一名理想主义患者<br><br>
+花名「伯恩」，虽然是物理系，但自学了编程，干了8年的Linux相关工作，参与开源软件推进联盟，试图挑战微软霸权，当年比较擅长Linux环境的C语言开发；自学了法律，读了法学硕士，不过没做成律师；自学了营养师，成立了公司，做起了若饭项目，现在团队有专业的营养师和食品专家。之前还自学干过不少岗位技能，想在这个世界留下点什么痕迹。Wechat:ruofan0529，加好友时最好注明下「github」。</td>
+     </tr>
+ </table>
+    
 <table>  
   <tr>
         <td><B>💗【联系我们】</B><br>
