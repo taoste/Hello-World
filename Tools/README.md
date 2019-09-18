@@ -42,8 +42,8 @@
  <td><B>💗【相关自媒体】</B><br>
 这些地方都可以找到我们，您随意^_^<br>
 1.微信公众号：搜索「若饭」<br>
-2.微博：www.weibo.com/ruffood<br>
-3.Github：www.github.com/ruffood </td>
+2.微博：https://weibo.com/ruffood<br>
+3.Github：https://github.com/ruffood </td>
  </tr>
  </table>
  
