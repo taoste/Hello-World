@@ -28,6 +28,10 @@
 
 ---------------------------------------
 
+- 《[**代餐饮料「若饭」评测记**](https://imtx.me/archives/2715.html)》 | ( [I'm TualatriX](https://imtx.me/)   Oct 11, 2018 )
+>> 《[**代餐为何如此流行？**](https://mp.weixin.qq.com/s/7zOEd1TH35yuJl_eqBwvQQ)》 ( 原创：严徽因	@三联生活周刊 2019-09-08 )
+
+---------------------------------------
 <table>  
   <tr>
         <td><B>💗 推荐：<a href="https://github.com/taoste/Hello-World/tree/master/Tools/apk">手机APK-导航</a>:</B></td>
