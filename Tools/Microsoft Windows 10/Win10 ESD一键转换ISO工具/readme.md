@@ -7,6 +7,10 @@ Win10专业版激活密钥：　　W269N-WFGWX-YVC9B-4J6C9-T83GX
 Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG9
 
 　　（ 由于激活密钥不能保证100%激活，推荐使用[Win10激活工具](http://www.xitongzhijia.net/zt/78039.html)。/【[激活工具(HEU_KMS_Activator)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/Sys-Tools.rar?raw=true)】）
+
+------------------------------------------------------------------------
+
+- 《[**在 macOS Mojave 上通过 Boot Camp 安装最新的 Windows 10**](https://imtx.me/archives/2725.html)》 | I'm TualatriX  
   
 ------------------------------------------------------------------------
 
