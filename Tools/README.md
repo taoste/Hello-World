@@ -30,11 +30,27 @@
 
 - 《[**代餐饮料「若饭」评测记**](https://imtx.me/archives/2715.html)》 | ( [I'm TualatriX](https://imtx.me/)   Oct 11, 2018 )
 >> 《[**代餐为何如此流行？**](https://mp.weixin.qq.com/s/7zOEd1TH35yuJl_eqBwvQQ)》 ( 原创：严徽因	@三联生活周刊 2019-09-08 )
->>> [**「液体便当」开创者 | 若饭官网**](https://www.ruffood.com/)
-  >>>
-  >>> [**若饭官方店-淘宝网**](https://ruffood.taobao.com/)
-  >>>
-  >>>[**若饭旗舰店 - 京东**](https://mall.jd.com/index-720799.html) 
+>>> [**「液体便当」开创者 | 若饭官网**](https://www.ruffood.com/) ( [**若饭@淘宝网官方店**](https://ruffood.taobao.com/)\[**若饭@京东旗舰店**](https://mall.jd.com/index-720799.html)  )
+```
+饭友您好：
+
+感谢您关注「液体便当」开创者：若饭
+
+我们是一家探索未来食物的科技公司，一家以「若饭」为主打产品的饮食服务公司。
+我们不是快消品公司，也很少做电商相关的促销活动。
+只希望若饭能让您吃饭多一个省心的选择。
+
+
+对于新加入的饭友们，我们决定送上一份首吃优惠。
+
+优惠码点此领取-> http://www.ruffood.com/coupon
+
+zeo@若饭客户经理
+微信「ruofan55z」
+2019-09-18 15:54:01
+www.ruffood.com
+```
+
 ---------------------------------------
 <table>  
   <tr>
