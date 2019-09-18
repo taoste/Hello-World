@@ -6,7 +6,7 @@
 国庆70周年 活动标识
 -------------------------------------
 
-- [人生概述 | 王康](https://www.wangkangchina.com/)( https://www.wangkangchina.com/ )
+- [人生概述 | **王康**](https://www.wangkangchina.com/) ( https://www.wangkangchina.com/ )
 
 ```
 1949年（孔子誕辰2500年，民國末年，共和元年）生於中國抗戰首都重慶。
