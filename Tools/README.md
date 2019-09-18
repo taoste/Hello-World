@@ -33,37 +33,37 @@
 >>> [**「液体便当」开创者 | 若饭官网**](https://www.ruffood.com/) ( [关于](https://www.ruffood.com/index/contacts.html) ： [**若饭@淘宝网官方店**](https://ruffood.taobao.com/) \ [**若饭@京东旗舰店**](https://mall.jd.com/index-720799.html)  )
 <table>  
   <tr>
-        <td><B>💗【联系我们】<br>
+        <td><B>💗【联系我们】</B><br>
 您可以在线提交表单与我们联络。<br>
 电话：400-040-1022<br>
 邮箱：hi@ruofan.me<br>
-地址：浙江省杭州市余杭区文一西路1218号恒生科技园1号楼10楼</B></td>
- <td><B>💗【相关自媒体】<br>
+地址：浙江省杭州市余杭区文一西路1218号恒生科技园1号楼10楼</td>
+ <td><B>💗【相关自媒体】</B><br>
 这些地方都可以找到我们，您随意^_^<br>
 1.微信公众号：搜索「若饭」<br>
 2.微博：www.weibo.com/ruffood<br>
-3.Github：www.github.com/ruffood </B></td>
+3.Github：www.github.com/ruffood </td>
  </tr>
  </table>
  
 <table>  
   <tr>
-        <td><B>
+        <td>
 💗饭友您好：<br>
 
 感谢您关注「液体便当」开创者：若饭<br>
 
 我们是一家探索未来食物的科技公司，<br>一家以「若饭」为主打产品的饮食服务公司。<br>
 我们不是快消品公司，也很少做电商相关的促销活动。<br>
-只希望若饭能让您吃饭多一个省心的选择。</B></td>
- <td><B>💗对于新加入的饭友们，我们决定送上一份首吃优惠。<br>
+只希望若饭能让您吃饭多一个省心的选择。</td>
+ <td>💗对于新加入的饭友们，我们决定送上一份首吃优惠。<br>
 
 优惠码点此领取-> http://www.ruffood.com/coupon<br>
 
 zeo@若饭客户经理 ( 微信「ruofan55z」)<br>
 2019-09-18 15:54:01<br>
 www.ruffood.com
-</B></td>
+</td>
  </tr>
  </table>
 
