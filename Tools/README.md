@@ -32,6 +32,19 @@
 >> 《[**代餐为何如此流行？**](https://mp.weixin.qq.com/s/7zOEd1TH35yuJl_eqBwvQQ)》 ( 原创：严徽因	@三联生活周刊 2019-09-08 )
 >>> [**「液体便当」开创者 | 若饭官网**](https://www.ruffood.com/) ( [关于](https://www.ruffood.com/index/contacts.html) ： [**若饭@淘宝网官方店**](https://ruffood.taobao.com/) \ [**若饭@京东旗舰店**](https://mall.jd.com/index-720799.html)  )
 ```
+【联系我们】
+您可以在线提交表单与我们联络。
+电话：400-040-1022
+邮箱：hi@ruofan.me
+地址：浙江省杭州市余杭区文一西路1218号恒生科技园1号楼10楼
+
+【相关自媒体】
+这些地方都可以找到我们，您随意^_^
+1.微信公众号：搜索「若饭」
+2.微博：www.weibo.com/ruffood
+3.Github：www.github.com/ruffood
+```
+```
 饭友您好：
 
 感谢您关注「液体便当」开创者：若饭
