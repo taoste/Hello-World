@@ -15,6 +15,7 @@ Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG
 - 《[**MacBook Pro 2018 和 MacBook Pro 2017 对比评测**](https://imtx.me/archives/2724.html)》 | [I'm TualatriX](https://imtx.me/)   
 
 - 《[**代餐饮料「若饭」评测记**](https://imtx.me/archives/2715.html)》 | [I'm TualatriX](https://imtx.me/)   
+>> 《[**代餐为何如此流行？**](https://mp.weixin.qq.com/s/7zOEd1TH35yuJl_eqBwvQQ)》 ( 原创：严徽因	@三联生活周刊 2019-09-08 )
 
 ------------------------------------------------------------------------
 
