@@ -28,7 +28,7 @@ VLan:
 >>
 >> [是时候翻出你尘封的PHICOMM 斐讯 K2P了！一支烟的功夫，我们玩起来！（刷机+去广告）](https://post.smzdm.com/p/605650/) - 什么值得买
 >>
->> [**](**) | Verne in GitHub
+>> [斐讯K2P刷梅林之后如何更新SSR服务的GFW列表](https://webcache.googleusercontent.com/search?q=cache:rZqbeY_XgckJ:https://www.aladown.com/2018/10/%25E6%2596%2590%25E8%25AE%25AFk2p%25E5%2588%25B7%25E6%25A2%2585%25E6%259E%2597%25E4%25B9%258B%25E5%2590%258E%25E5%25A6%2582%25E4%25BD%2595%25E6%259B%25B4%25E6%2596%25B0ssr%25E6%259C%258D%25E5%258A%25A1%25E7%259A%2584gfw%25E5%2588%2597%25E8%25A1%25A8/+&cd=16&hl=zh-CN&ct=clnk&gl=hk)  – [ALADOWN—阿拉下载](https://www.aladown.com/2018/10/%E6%96%90%E8%AE%AFk2p%E5%88%B7%E6%A2%85%E6%9E%97%E4%B9%8B%E5%90%8E%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0ssr%E6%9C%8D%E5%8A%A1%E7%9A%84gfw%E5%88%97%E8%A1%A8/)
 
 ------------------------------------------
 
