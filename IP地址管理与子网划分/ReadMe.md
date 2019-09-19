@@ -22,13 +22,13 @@ VLan:
 >>
 >> [2019年最新无线路由器购买推荐](https://laod.cn/black-technology/2019-luyouqi.html) - 老D博客
 >>
->> [斐讯 k2p 刷机](https://einverne.github.io/post/2018/01/k2p-flash-firmware.html) | Verne in GitHub
+>> [斐讯 k2p 刷机](https://einverne.github.io/post/2018/01/k2p-flash-firmware.html) | Verne in [GitHub](https://github.com/einverne/einverne.github.io)
 >>
 >> [斐讯K2P博通版 梅林固件刷机教程，加koolproxy、S-S R等](https://www.tenlonstudio.com/1152.html) - 腾龙工作室
 >>
 >> [是时候翻出你尘封的PHICOMM 斐讯 K2P了！一支烟的功夫，我们玩起来！（刷机+去广告）](https://post.smzdm.com/p/605650/) - 什么值得买
 >>
->> [斐讯 k2p 刷机](https://einverne.github.io/post/2018/01/k2p-flash-firmware.html) | Verne in GitHub
+>> [**](**) | Verne in GitHub
 
 ------------------------------------------
 
