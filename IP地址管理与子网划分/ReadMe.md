@@ -14,7 +14,7 @@ VLan:
 
 - [虚拟机 网络实验环境](https://www.google.com/search?newwindow=1&hl=zh_CN&source=hp&ei=KJQcXLv2KsOe8QXXkYDoDQ&q=%E8%99%9A%E6%8B%9F%E6%9C%BA+%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E7%8E%AF%E5%A2%83+site%3Agithub.io) [site:github.io](https://cn.bing.com/search?q=%E8%99%9A%E6%8B%9F%E6%9C%BA+%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E7%8E%AF%E5%A2%83+site%3Agithub.io)
 
-- 无线路由器 [**斐讯k2p**](https://www.google.com/search?hl=zh_CN&source=hp&ei=neB-Xd2zGsHXhwOwyJbYDA&q=%E6%96%90%E8%AE%AFk2p+site%3Agithub.io) [site:github.io](https://cn.bing.com/search?q=%E6%96%90%E8%AE%AFk2p+site%3Agithub.io) | [恩山无线论坛](https://www.right.com.cn/)
+- 无线路由器 [**斐讯k2p**](https://www.google.com/search?hl=zh_CN&source=hp&ei=neB-Xd2zGsHXhwOwyJbYDA&q=%E6%96%90%E8%AE%AFk2p+site%3Agithub.io) [site:github.io](https://cn.bing.com/search?q=%E6%96%90%E8%AE%AFk2p+site%3Agithub.io) / [K2P SSR](https://cn.bing.com/search?q=K2P+SSR) - [Google 搜索](https://www.google.com/search?q=K2P+SSR&hl=zh_CN) | [恩山无线论坛](https://www.right.com.cn/)
 
 >> [快上车——玩路由(MTK板、洋垃圾网件、斐讯)的闲言碎语](https://zklhp.github.io/2018/08/01/Get-on-board-quickly/) | M-x Chris-An-Emacser
 >>
