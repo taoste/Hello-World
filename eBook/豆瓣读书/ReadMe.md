@@ -17,7 +17,7 @@
 > > 章献忠@<a href="https://twitter.com/0792z/">0792z</a> 上午9:33 · 2019年9月20日
 
 <a href="https://twitter.com/0792z/status/1175059287250542592">引用</a> ：
-> [[**转**](https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/2019-08-30.jpg)如何把你手里的人民币合法快速合法地换成美元（技术帖）](https://t66y.com/htm_data/1909/7/3647630.html) - 技術討論區 | 草榴社區 - t66y.com
+> [**转**](https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/2019-08-30.jpg) [如何把你手里的人民币合法快速合法地换成美元（技术帖）](https://t66y.com/htm_data/1909/7/3647630.html) - 技術討論區 | 草榴社區 - t66y.com
 >> 章献忠@<a href="https://twitter.com/0792z/">0792z</a> 下午2:49 · 2019年9月20日
 >>>>地球上有一个神奇的地方，凭借土共一带一路大撒币迅速发展，并且距离中国很近，全国30%的人口讲中文，最重要的是，这个国家的通用货币是美元。对，你没看错，美元！这就是柬埔寨！Cambodia！
 >>>>柬埔寨对中国采取落地签政策，但你不是去旅游的，所以你一定要找旅行社办理一年多次往返商务签证，没有拒签率，携程飞猪去哪儿花钱就能办。中国各大城市每天都有去柬埔寨首都金边和港口城市西哈努克（简称“西港”）的班机，提前一周买就能买到不错价格的机票。
