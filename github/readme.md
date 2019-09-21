@@ -64,6 +64,9 @@
 
 >> 资源引用：
 
+Twitter : ruanyf(@[ruanyf](https://twitter.com/ruanyf/)) [下午2:47 · 2019年9月20日](https://twitter.com/ruanyf/status/1175058791156445187)
+> 《中国传统颜色手册》是一个方便使用的在线色表，列出中国古典的常见颜色。https://works.yangerxiao.com/chinese-colors/
+
 ```
 设计师：Nicky Tesla
 个人主页：https://nickytes.la
