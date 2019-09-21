@@ -65,7 +65,7 @@
 >> 资源引用：
 
 Twitter : ruanyf(@[ruanyf](https://twitter.com/ruanyf/)) [下午2:47 · 2019年9月20日](https://twitter.com/ruanyf/status/1175058791156445187)
-> 《中国传统颜色手册》是一个方便使用的在线色表，列出中国古典的常见颜色。https://works.yangerxiao.com/chinese-colors/
+> 《[中国传统颜色手册](https://works.yangerxiao.com/chinese-colors/)》是一个方便使用的在线色表，列出中国古典的常见颜色。( https://works.yangerxiao.com/chinese-colors/ )
 >> <a href="https://works.yangerxiao.com/chinese-colors/"><img src="https://camo.githubusercontent.com/e550a371130bacdb03f30f0033594b51fb3edd7b/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4545366c764758556341634f4363473f666f726d61743d6a7067266e616d653d736d616c6c" border="0" alt="《中国传统颜色手册》是一个方便使用的在线色表，列出中国古典的常见颜色。" title="《中国传统颜色手册》是一个方便使用的在线色表，列出中国古典的常见颜色。"></a>
 
 
