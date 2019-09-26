@@ -35,6 +35,11 @@ Alt+F4 关机快捷键。
 
 **Microsoft 官网** : [**面向使用辅助技术的客户的 Windows 10 免费升级优惠**](https://www.microsoft.com/zh-cn/accessibility/windows10upgrade) -  (  活动已过期 )
 
+- 【免费】 [来自设备制造商的 **HEVC 视频扩展**](https://www.microsoft.com/zh-cn/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq) - Microsoft Store zh-CN 
+> 在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。这些扩展旨在利用某些较新设备(例如配备 Intel 第 7 代 Core 处理器和较新 GPU 的设备)上的硬件功能支持 4K 和 Ultra HD 内容。对于没有硬件支持 HEVC 视频的设备，将提供软件支持，但播放体验可能会因视频分辨率和电脑性能而有所不同。这些扩展还允许你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
+
+>> 《[[技巧]如何在Microsoft Store上免费获得HEVC编码支持](https://www.cnbeta.com/articles/tech/893455.htm)》 - cnBeta.COM (2019年09月26日) 
+
 - [**欢迎使用 Internet Explorer**](https://www.microsoft.com/zh-cn/welcomeie11/)
 > 您不妨试用一下 Microsoft Edge
 > 
