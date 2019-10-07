@@ -26,6 +26,9 @@
 
 - [迅捷PDF编辑器（破解版）](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/)
 
+- []()
+> 《[压缩包密码“破解”教程 | 阿虚同学的博客](https://axutongxue.github.io/2019/06/14/%E5%8E%8B%E7%BC%A9%E5%8C%85%E5%AF%86%E7%A0%81%E2%80%9C%E7%A0%B4%E8%A7%A3%E2%80%9D%E6%95%99%E7%A8%8B/)》
+
 ---------------------------------------
 
 - 《[**代餐饮料「若饭」评测记**](https://imtx.me/archives/2715.html)》 | ( [I'm TualatriX](https://imtx.me/)   Oct 11, 2018 )
