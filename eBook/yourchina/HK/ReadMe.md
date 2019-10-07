@@ -55,7 +55,7 @@
 >> CCP 之所以要愚民这就是案例，要是大陆人也和香港人一样的认知CCP早完蛋了
 
 ----------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/HK/HKer.jpg" border="0" alt="《致香港人》中国诗人：杨炼" title="《致香港人》--中国诗人：杨炼
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/HK/HKer.jpg" border="0" alt="2019:《致香港人》中国诗人：杨炼" title="2019:《致香港人》--中国诗人：杨炼
 你们是星，我们是夜；
 你们点燃，我们熄灭；
 你们是汉，我们是奸；
