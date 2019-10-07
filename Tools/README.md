@@ -26,6 +26,7 @@
 
 - [迅捷PDF编辑器（破解版）](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/)
 
+- [侠客密码查看工具.zip](https://github.com/taoste/Hello-World/blob/master/Tools/%E4%BE%A0%E5%AE%A2%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%B7%A5%E5%85%B7.zip?raw=true)
 - [【密码恢复】 Advanced Office PasswordRecovery_5.3.541.0_XiaZaiBa.exe](https://github.com/taoste/Hello-World/blob/master/Tools/%E3%80%90%E5%AF%86%E7%A0%81%E6%81%A2%E5%A4%8D%E3%80%91%20Advanced%20Office%20PasswordRecovery_5.3.541.0_XiaZaiBa.exe?raw=true)
 > 《[压缩包密码“破解”教程 | 阿虚同学的博客](https://axutongxue.github.io/2019/06/14/%E5%8E%8B%E7%BC%A9%E5%8C%85%E5%AF%86%E7%A0%81%E2%80%9C%E7%A0%B4%E8%A7%A3%E2%80%9D%E6%95%99%E7%A8%8B/)》
 
