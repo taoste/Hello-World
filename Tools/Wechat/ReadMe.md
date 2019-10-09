@@ -1,2 +1,2 @@
 - 《[史上最简单 1分钟教你在电脑上开启多个PC版微信](https://www.cnbeta.com/articles/soft/897111.htm)》 - Tencent WeChat 腾讯微信 - cnBeta.COM  
-> <img src="https://static.cnbetacdn.com/article/2019/1009/ba9bb9703e4eab3.jpg"/>
+> <p><a href="https://static.cnbetacdn.com/article/2019/1009/ba9bb9703e4eab3.jpg"><img src="https://camo.githubusercontent.com/e97934cac225e1410dd4ff792ec8c4ddb7ac8d1e/68747470733a2f2f7374617469632e636e6265746163646e2e636f6d2f61727469636c652f323031392f313030392f6261396262393730336534656162332e6a7067" title="史上最简单 1分钟教你在电脑上开启多个PC版微信" /></a></p>
