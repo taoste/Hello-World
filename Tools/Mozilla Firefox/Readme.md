@@ -222,6 +222,7 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 > - ( 提供方：网易出品 @[惠惠网](https://www.huihui.cn/) - [惠惠购物助手](https://zhushou.huihui.cn/)- [收藏夹](https://www.huihui.cn/myzhushou/deal) -  [插件下载](https://zhushou.huihui.cn/help#/doc/install/browsers/)/[插件备份](https://github.com/taoste/Hello-World/tree/master/Tools/%E7%BD%91%E6%98%93%26%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6) )
 
 - [ ] [**Infinity 新标签页(Pro)**](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/) （支持 [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
+>> moz-extension://e1314a8c-e60c-4463-a145-42b0519057d4/pages/newtab.html
 > - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
 ) （ 提供方：https://cn.infinitynewtab.com ）
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
