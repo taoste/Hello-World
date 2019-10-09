@@ -141,7 +141,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > 修复淘宝某些页面遮挡二维码的问题
 
 - [ ] 11. **Infinity 新标签页(Pro)** （ [Chrome](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/infinity-new-tab-pro-firefox/)）
-
+>> moz-extension://e1314a8c-e60c-4463-a145-42b0519057d4/pages/newtab.html
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
 
 > - [详细信息](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-cn)
