@@ -13,7 +13,10 @@
 
  >> 《[问：何以取得真经？答：翻墙。](https://github.com/bingoohuang/blog/issues/13)》 · [Issue #13](https://github.com/bingoohuang/blog/issues/13) · [bingoohuang](https://github.com/bingoohuang/) / [blog](https://github.com/bingoohuang/blog/)  
  
-> 《[消除公网出口单点问题](https://github.com/bingoohuang/blog/issues/14)》 ·  [Issue #14](https://github.com/bingoohuang/blog/issues/14) · [bingoohuang](https://github.com/bingoohuang/) / [blog](https://github.com/bingoohuang/blog/)  
+> 《[消除公网出口单点问题](https://github.com/bingoohuang/blog/issues/14)》 ·  [Issue #14](https://github.com/bingoohuang/blog/issues/14) · [bingoohuang](https://github.com/bingoohuang/) / [blog](https://github.com/bingoohuang/blog/)
+
+> 《[使用古诗词创建好记的密码](https://github.com/bingoohuang/blog/issues/22)》 ·  [Issue #22](https://github.com/bingoohuang/blog/issues/22) · [bingoohuang](https://github.com/bingoohuang/) / [blog](https://github.com/bingoohuang/blog/)
+
 -------------------------------------------------------------------
 
 - **反乌托邦小说《[一九八四](https://zh.wikipedia.org/zh-cn/%E4%B8%80%E4%B9%9D%E5%85%AB%E5%9B%9B)》（[乔治·奥威尔](https://zh.wikipedia.org/zh-hans/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94) 著 / 1949年）**
