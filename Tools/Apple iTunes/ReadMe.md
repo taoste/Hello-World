@@ -1,4 +1,4 @@
-💗 **推荐**：[苹果Apple-Tool导航](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes) :
+Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/bingoohuang/blog/issues/86 💗 **推荐**：[苹果Apple-Tool导航](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes) :
 
 <p><a href="https://github.com/taoste/Hello-World/blob/master/Tools/Apple%20iTunes/Apple-qrcode?raw=true" title="扫描二维码可以访问【苹果Apple-Tool导航】">
 <img src="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true"/></a>
@@ -35,3 +35,9 @@ https://www.appinn.com/ubuntu-in-windows-store/
 安装 Ubuntu 的系统要求为 Windows 10 版本 16190.0 或更高，并且必须 64 位系统。
 
 安装地址在这里：https://www.microsoft.com/zh-cn/store/p/ubuntu/9nblggh4msv6
+
+--------------------------------------------------------------------------------------------
+
+《[Mac上录制屏幕和声音](https://github.com/bingoohuang/blog/issues/86)》 · Issue #86 · bingoohuang/blog 
+
+《[Mac自用软件](https://github.com/bingoohuang/blog/issues/88) · Issue #88 · bingoohuang/blog  
