@@ -11,6 +11,7 @@
 
 [Note] 🛡️ [科学上网 系列 · Issue #1](https://github.com/taoste/taoste.github.io/issues/1) 
 
+ > 《[问：何以取得真经？答：翻墙。](https://github.com/bingoohuang/blog/issues/13)》 · Issue #13 · bingoohuang/blog  
 -------------------------------------------------------------------
 
 - **反乌托邦小说《[一九八四](https://zh.wikipedia.org/zh-cn/%E4%B8%80%E4%B9%9D%E5%85%AB%E5%9B%9B)》（[乔治·奥威尔](https://zh.wikipedia.org/zh-hans/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94) 著 / 1949年）**
