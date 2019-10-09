@@ -128,6 +128,7 @@
 ⑧ 对不听话的驴大刑伺候；
 ⑨ 树立典型对表现好的驴多给饲料
 ```
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/Chinaer.jpg">
 ----------------------------------------------------------------------------------
 
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
