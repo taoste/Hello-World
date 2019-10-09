@@ -223,9 +223,7 @@ TO 28楼的网友
 不论是法轮功的支持者还是反对者，你都应该明白，权贵集团才是中国最大的敌人。
 如果真的爱国，就应该想办法推翻朝廷，推翻权贵集团的统治。
 ```
-- [编程随想★★★★★《近期安全动态和点评（2019年3季度）》 2019年9月30日 回复](https://program-think.blogspot.com/2019/09/Security-News.html?comment=1570292597370&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author) ：
-```
+- [编程随想★★★★★《近期安全动态和点评（2019年3季度）》 2019年10月6日 回复](https://program-think.blogspot.com/2019/09/Security-News.html?comment=1570292597370&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author) ：
 TO 31楼的网友
-如果你对现状感到悲观，建议看看如下这篇：
-```
- >> 《 [“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”](https://program-think.blogspot.com/2012/01/stockdale-paradox.html) 》
+> 如果你对现状感到悲观，建议看看如下这篇：
+>> 《 [“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”](https://program-think.blogspot.com/2012/01/stockdale-paradox.html) 》
