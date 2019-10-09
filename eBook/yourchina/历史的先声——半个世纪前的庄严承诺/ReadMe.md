@@ -103,3 +103,8 @@
 >>>> https://www.youtube.com/watch?v=J1dGf4rxXEY&feature=youtu.be
 
 >>>> https://www.youtube.com/watch?v=Ld1qSi9m1wk&feature=youtu.be
+
+```
+我们生下来时，共产党就贪脏枉法/独裁专政/践踏人权/出卖国土————这是我们一代人的无奈；
+等到我们的孩子长大了，共产党依然故我甚至变本加厉————那就是我们这代人的无能！
+```
