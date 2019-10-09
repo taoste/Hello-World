@@ -40,4 +40,6 @@ https://www.appinn.com/ubuntu-in-windows-store/
 
 《[Mac上录制屏幕和声音](https://github.com/bingoohuang/blog/issues/86)》 · Issue #86 · bingoohuang/blog 
 
-《[Mac自用软件](https://github.com/bingoohuang/blog/issues/88) · Issue #88 · bingoohuang/blog  
+《[MAC常用快捷键](https://github.com/bingoohuang/blog/issues/73)》 · Issue #73 · bingoohuang/blog  
+
+《[Mac自用软件](https://github.com/bingoohuang/blog/issues/88)》 · Issue #88 · bingoohuang/blog  
