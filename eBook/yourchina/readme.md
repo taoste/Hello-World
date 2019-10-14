@@ -139,14 +139,18 @@
 
 <hr>
 
-<a href="https://twitter.com/zhu0588/status/1158794050218033153">引用：<br>
+ <table><tr>
+        <td>
+<a href="https://twitter.com/zhu0588/status/1158794050218033153">引用：☆☆☆☆☆<br>
 中国大学的悲剧在于“官督商办”。<br>
 中国大学，既是衙门，又是企业，偏偏不是学校;<br>
 学校领导，既是官员，又是经理，偏偏不是教师。<br>
 大学教育，既讲政治，又讲效益，偏偏不讲文化。<br>
- --李沉简</a><br>
- 
- <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-10-14.jpg" title="荒唐" width="45%" height="45%">
+ --李沉简</a><br></td>
+  <td>
+ <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-10-14.jpg" title="荒唐" width="55%" height="60%">
+     </td>
+    </tr> </table>
 
 <hr>
 
