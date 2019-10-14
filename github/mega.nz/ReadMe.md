@@ -1,7 +1,7 @@
 💗 [**推荐一款好用的国外网盘 MEGA**](https://github.com/taoste/Hello-World/blob/master/Tools/MEGA网盘/)：
 ( [MEGA](https://taoste.github.io/Hello-World/github/mega.nz/index.html) | 
 [view-source](index.html) : https://mega.nz/ 打包下载：[View Raw](https://github.com/taoste/Hello-World/blob/master/github/mega.nz/mega.nz.7z) / [Download](
-https://github.com/taoste/Hello-World/blob/master/github/mega.nz/mega.nz?raw=true) )
+https://github.com/taoste/Hello-World/blob/master/github/mega.nz/mega.nz.7z?raw=true) )
 
 <table><tr>
         <td>☆☆☆☆☆</td>
