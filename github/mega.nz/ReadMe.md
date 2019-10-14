@@ -24,10 +24,6 @@ https://github.com/taoste/Hello-World/blob/master/github/mega.nz/mega.nz?raw=tru
         </td>
     </tr> </table>
  
-- 
-
-
-
 - [**关于**](https://mega.nz/about) | [MEGA](https://mega.nz/startpage):
 ```
 2013年初MEGA发布之时，有人提出政府会「以恐怖主义为借口，对全球网络进行大规模监控」。
