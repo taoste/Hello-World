@@ -146,7 +146,7 @@
 大学教育，既讲政治，又讲效益，偏偏不讲文化。<br>
  --李沉简</a><br>
  
- <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-10-14.jpg">
+ <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-10-14.jpg" title="荒唐" width="45%" height="45%">
 
 <hr>
 
