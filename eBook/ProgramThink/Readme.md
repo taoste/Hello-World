@@ -6,6 +6,8 @@
 >  引用罗曼·罗兰的名言,与大伙儿共勉——
 >> 【世上只有一种英雄主义——就是在认清生活的真相之后依然热爱生活】
 
+- 《[美国选举制度为啥这样设计？——兼谈其历史演变](https://program-think.blogspot.com/2016/11/USA-Elections.html)》 @ 编程随想的博客 (2016年11月19日)
+
 [其它](http://www.zaoanyulu.com/):《[早安语录生成器](http://www.xhmbz.com/ZaoAn/index-PC-XH.htm)》@[传播企业正能量 DIY个性祝福语](https://club.dingding.xin/topic/2369/%E7%BE%A4%E6%97%A9%E5%AE%89%E8%AF%AD%E5%BD%95%E7%94%9F%E6%88%90%E5%99%A8-diy%E4%B8%AA%E6%80%A7%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 
 - 维基百科：[**史翠珊效应**](https://zh.wikipedia.org/wiki/史翠珊效应)
