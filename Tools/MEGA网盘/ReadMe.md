@@ -4,7 +4,7 @@
         <td>☆☆☆☆☆</td>
         <td> <a href="https://mega.nz/" title="MEGA(sync网盘-中文界面)https://mega.nz/
           可靠安全的云端服务就是这么简单！现在就在MEGA终端至终端加密云端协作平台上创建一个帐号，并获得 50 GB *免费储存空间！">MEGA</a> </td>
-          <td>https://mega.nz/z</td>
+          <td>https://mega.nz/</td>
         <td> Web  </td>
         <td>MEGA(Sync 网盘) <br>
           关于 | <a href="https://mega.nz/start" title="MEGA(Sync 网盘)">下载</a>:
