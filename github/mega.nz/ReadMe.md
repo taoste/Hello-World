@@ -1,4 +1,7 @@
 💗 [**推荐一款好用的国外网盘 MEGA**](https://github.com/taoste/Hello-World/blob/master/Tools/MEGA网盘/)：
+( [MEGA](https://taoste.github.io/Hello-World/github/mega.nz/index.html) | 
+[view-source](index.html) : https://mega.nz/ 打包下载：[View Raw](https://github.com/taoste/Hello-World/blob/master/github/mega.nz/mega.nz.7z) / [Download](
+https://github.com/taoste/Hello-World/blob/master/github/mega.nz/mega.nz?raw=true) )
 
 <table><tr>
         <td>☆☆☆☆☆</td>
@@ -19,8 +22,11 @@
 高级用户：GitHub包含有关MEGA桌面应用程序的功能以及每个平台的使用说明，并描述了如何从我们的公共源GItHub存储库构建它。">GitHub</a> /
           <a href="https://www.jianshu.com/p/44741a9e243f" title="网盘可以良心到什么程度? 试试MEGA吧! - 简书">参阅</a>
         </td>
-    </tr> 
-</table>
+    </tr> </table>
+ 
+- 
+
+
 
 - [**关于**](https://mega.nz/about) | [MEGA](https://mega.nz/startpage):
 ```
