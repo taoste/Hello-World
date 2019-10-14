@@ -145,6 +145,8 @@
 学校领导，既是官员，又是经理，偏偏不是教师。<br>
 大学教育，既讲政治，又讲效益，偏偏不讲文化。<br>
  --李沉简</a><br>
+ 
+ <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-10-14.jpg">
 
 <hr>
 
