@@ -148,19 +148,6 @@
  <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-08-21.png">
 
 <hr>
-```
-活着这个词在中国的语境里充满了力量，
-它的力量不是来自于呐喊，也不是来自于反抗，
-而是要忍受，去忍受现实中的苦难和平庸，
-去忍受生命中本不该有的不公与不义。
-在这样的世界里，
-有一种心眼坏了，叫知足常乐；
-有一种眼睛瞎了，叫岁月静好；
-有一种耳朵聋了，叫与世无争。
-中国是这三种人的天堂。
-                 ——余华
-```
-<hr>
  <table><tr>
         <td>
 <a href="https://twitter.com/zhu0588/status/1158794050218033153">引用：☆☆☆☆☆<br>
@@ -172,6 +159,16 @@
   <td>
  <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-10-14.jpg" title="荒唐" width="55%" height="60%">
      </td>
+<td>活着这个词在中国的语境里充满了力量，
+它的力量不是来自于呐喊，也不是来自于反抗，
+而是要忍受，去忍受现实中的苦难和平庸，
+去忍受生命中本不该有的不公与不义。
+在这样的世界里，
+有一种心眼坏了，叫知足常乐；
+有一种眼睛瞎了，叫岁月静好；
+有一种耳朵聋了，叫与世无争。
+中国是这三种人的天堂。
+                 ——余华</td>
     </tr> </table>
 
 <hr>
