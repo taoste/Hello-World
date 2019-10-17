@@ -52,3 +52,19 @@
 霸道的共产党，迂腐的国民党，顽固的民进党。
 
 “中国模式”的核心竞争力就是【压榨劳动力】--- 谢国忠（经济学家）
+
+---------------------------------------------------------------------
+
+- 《[每周转载：每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）](https://program-think.blogspot.com/2019/10/weekly-share-138.html)》 @ 编程随想的博客 （ 2019年10月15日 ）
+
+
+◇“赤纳粹”是啥意思？
+
+　　“赤纳粹”是英文合成词【Chinazi】的中文谐音。这个单词混合了 China ＆ Nazi，以影射天朝的【中共】政权类似于纳粹的【极权主义】。
+　　早先已有网民设计了相关的旗帜（如下）
+  
+  （图片来源：维基百科）
+
+　　香港的示威抗议者，在8月31日的街头游行中，也展示以一面巨大的“赤纳粹”旗帜（如下）
+  https://lh4.googleusercontent.com/sbKnoKLOP8WraX4oELrXt6e60hNpq3BcVHb4-eQMWaJRLL0gdqU-XaXA52zOaGD2_rHHHrGUz9S1PByHsTbuBekkLEIATZFpEgA0saxm83b88r7bg5zo6NtdVjEOugcnQB5xu48dXCY
+  （照片来源：维基百科）
