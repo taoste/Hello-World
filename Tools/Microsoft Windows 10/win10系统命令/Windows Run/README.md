@@ -1,4 +1,10 @@
-远程桌面协助： mstsc
+运行：mstsc，远程桌面协助 （ C:\WINDOWS\system32\mstsc.exe ）
+
+运行：ncpa.cpl，网络连接 （ %windir%\system32\ncpa.cpl ）
+
+运行：desk.cpl，显示属性 ( %windir%\system32\desk.cpl )
+
+运行：inetcpl.cpl，IE设置 ( %windir%\system32\inetcpl.cpl )
 
 一键休眠
 > %windir%\System32\rundll32.exe powrprof.dll,SetSuspendState
