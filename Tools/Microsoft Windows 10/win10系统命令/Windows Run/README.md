@@ -1,3 +1,13 @@
+远程桌面协助： mstsc
+
+一键休眠
+> %windir%\System32\rundll32.exe powrprof.dll,SetSuspendState
+
+一键锁屏(Win+L) 快捷键或可设为F2
+> %windir%\System32\rundll32.exe user32.dll,LockWorkStation
+
+----------------------------------------------------------------------
+
 - [最绿色最高效，用win+r启动常用程序和文档](http://xbeta.info/win-run.htm  ) – 善用佳软                   
 
 > 本文可概括为一句话：“建立.lnk，改名.lnk以便于记忆和输入，集中lnk到某目录(如 C:\Windows)，加此目录到path变量”。
