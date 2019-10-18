@@ -142,7 +142,7 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 > 
 > 例如：
 > 
-> %windir%\System32\rundll32.exe user32.dll,LockWorkStation
+> **%windir%\System32\rundll32.exe user32.dll,LockWorkStation**
  
 > 更多》[如何使用笔记本的快捷按钮调用Windows快捷键的功能](http://iknow.f5.lenovo.com.cn/detail/dc_C173291.html) - 联想知识库
 
@@ -153,11 +153,11 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 > 如果要制作关机快捷键，那么“shutdown.exe -s -t 10”中的-s不可更改，其他步骤同上。
 
-> 》**系统休眠**
+> 》**系统休眠**（一键休眠）
 
 > 1.右键单击桌面空白处，指向“新建”，然后单击“快捷方式”。
 > 
-> 2.在“请输入项目的位置”框中，输入： %windir%\system32\rundll32.exe powrprof.dll,SetSuspendState ，输入的全部为半角字符，rundll32.exe后有一个空格键，字母大小写也不能随意更改，然后单击“下一步”按钮。
+> 2.在“请输入项目的位置”框中，输入： **%windir%\system32\rundll32.exe powrprof.dll,SetSuspendState** ，输入的全部为半角字符，rundll32.exe后有一个空格键，字母大小写也不能随意更改，然后单击“下一步”按钮。
 > 
 > 3.在“键入该快捷方式的名称”框中输入想要在图标下显示的名称，比如输入“一键休眠”，然后单击“完成”按钮，则在桌面上生成一个名为“一键休眠”的图标。
 > 
