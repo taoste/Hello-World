@@ -1,3 +1,6 @@
+#万能命令-快捷寻找和直达你想要的各类工具 https://wn.run/cn/ 
+-----------------------------------------------------------
+
 百度网盘不限速下载器 | [PanDownload官网](https://pandownload.com/) | [PanDownload网页版](https://www.baiduwp.com/) 
 
 PanDownload 一款第三方百度网盘下载工具，采用了Aria 2技术，
