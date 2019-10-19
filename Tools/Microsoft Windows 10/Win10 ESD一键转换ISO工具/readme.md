@@ -21,6 +21,10 @@ Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG
 
 ------------------------------------------------------------------------
 
+> 《[fdisk/mbr 命令是什么，主引导区是什么？](https://www.jb51.net/os/other/41881.html)》_其它系统_操作系统_脚本之家 
+
+------------------------------------------------------------------------
+
 - 《[**在 macOS Mojave 上通过 Boot Camp 安装最新的 Windows 10**](https://imtx.me/archives/2725.html)》 | [I'm TualatriX](https://imtx.me/)  
 
 - 《[**MacBook Pro 2018 和 MacBook Pro 2017 对比评测**](https://imtx.me/archives/2724.html)》 | [I'm TualatriX](https://imtx.me/)   
