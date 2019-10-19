@@ -1,4 +1,4 @@
-最新windows xp sp3序列号(通过正版验证) MRX3F-47B9T-2487J-KWKMF-RPWBY(工行版)
+- 最新windows xp sp3序列号(通过正版验证) MRX3F-47B9T-2487J-KWKMF-RPWBY(工行版)
 
 [Win10专业版激活密钥分享](http://www.xitongzhijia.net/xtjc/20180117/117935.html)-系统之家
 
@@ -7,6 +7,15 @@ Win10专业版激活密钥：　　W269N-WFGWX-YVC9B-4J6C9-T83GX
 Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG9
 
 　　（ 由于激活密钥不能保证100%激活，推荐使用[Win10激活工具](http://www.xitongzhijia.net/zt/78039.html)。/【[激活工具(HEU_KMS_Activator)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/Sys-Tools.rar?raw=true)】）
+  
+  - 《[地表最强悍win10版本-win10专业工作站版本永久激活方法](https://mp.weixin.qq.com/s/rfPE4o_tuOu3BPUukvXXwA)》（2019-10-16）
+  
+> win10专业工作站版本激活密钥：
+
+>> Windows 10 Pro for Workstation Key：BX9P2-R2N2V-Q98CQ-4KBV8-W46FH
+
+> 正常情况下直接输入密钥即可永久激活，如果直接输入密钥无法激活，可以采用电话激活或者强制导入密钥的方法激活。
+当然，每个密钥都具有时效性和激活次数限制，如果密钥失效或者被用完，小编vx: jhtd004 ，获取最新可用密钥。
 
 ------------------------------------------------------------------------
 
