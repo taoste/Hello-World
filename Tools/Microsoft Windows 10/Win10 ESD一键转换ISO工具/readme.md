@@ -24,7 +24,19 @@ Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG
 > 《[fdisk/mbr 命令是什么，主引导区是什么？](https://www.jb51.net/os/other/41881.html)》_其它系统_操作系统_脚本之家 
 
 > 《[Windows引导修复](https://blog.csdn.net/oouxx/article/details/80151524)》 - oouxx的博客 - CSDN博客
+···
+【BIOS】
 
+出错情况一：由于病毒或者误操作，将C:\bootmgr，C:\boot\bcd，C:\windows\system32\winload.exe 任一文件删除，可想而知，肯定无法启动啦。
+解决方法：从网上下载，或者从别人电脑上将此文件复制进自己U盘，通过winPE进入系统，将这些文件放到相应位置。
+出错情况二：上述文件都还在，但是一不小心将开机引导条目删除，双系统的同学知道，开机时会让你选进哪个系统，就是指那个，单系统的话就一个系统，不会让你选直接就进了。
+
+解决方法：用U盘制作PE进入系统（设置U盘为首选启动项，或者按f12）
+进去后应该会有引导修复工具，用bootice引导修复工具,菜单栏选择BCD编辑，新建BCD,选择C:\boot\bcd,进入编辑界面后，按照下图填写（以Windows10为例）。然后重启就能正常进入系统了。 
+————————————————
+版权声明：本文为CSDN博主「oouxx」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/oouxx/article/details/80151524
+···
 ------------------------------------------------------------------------
 
 - 《[**在 macOS Mojave 上通过 Boot Camp 安装最新的 Windows 10**](https://imtx.me/archives/2725.html)》 | [I'm TualatriX](https://imtx.me/)  
