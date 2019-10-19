@@ -23,7 +23,7 @@ Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG
 
 > 《[fdisk/mbr 命令是什么，主引导区是什么？](https://www.jb51.net/os/other/41881.html)》_其它系统_操作系统_脚本之家 
 
-> [PDF](https://taoste.github.io/Hello-World/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/Windows%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%20-%20oouxx%E7%9A%84%E5%8D%9A%E5%AE%A2%20-%20CSDN%E5%8D%9A%E5%AE%A2.pdf)《[Windows引导修复](https://blog.csdn.net/oouxx/article/details/80151524)》 - oouxx的博客 - CSDN博客
+> [Google](https://www.google.com/search?q=win10引导修复工具) ：《[Windows引导修复](https://blog.csdn.net/oouxx/article/details/80151524)》 - oouxx的博客 - CSDN博客 【[PDF](https://taoste.github.io/Hello-World/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/Windows%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%20-%20oouxx%E7%9A%84%E5%8D%9A%E5%AE%A2%20-%20CSDN%E5%8D%9A%E5%AE%A2.pdf)】
 ```
 【BIOS】
 
