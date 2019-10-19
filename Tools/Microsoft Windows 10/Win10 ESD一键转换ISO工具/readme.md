@@ -101,3 +101,134 @@ slmgr.vbs -dlv
 </tr>
 </tbody>
 </table>
+--------------------------------------------------------
+
+- 《[送Win10专业版/家庭版激活密钥|赠Win10各版本激活密钥最新分享](http://www.xitongzu.com/jc/32382.html)》 - 系统族 (发布时间:2019-10-18)
+
+```
+一、Win10各版本激活密钥：
+
+1、win10家庭版永久密钥
+
+　　Win 10 Home （Core） Edition OEM版
+
+　　OEM NON SLP:
+
+　　[Key]：KCYRD-QNR4K-6RY36-MPQMM-F9CHG
+
+　　[Key]：YNG79-9PXTP-4RDWY-67P9V-CYT3T
+
+　　Win 10 Home（Core） Retail零售版
+
+　　[Key]：2RKXW-PFNVQ-4R49T-TCQBT-3V63V
+
+　　[Key]：4THMG-NFHRJ-WWQGD-CK8PM-X4R7H
+
+　　[Key]：64HKH-N3RTH-63XBV-QB2DF-R3KQV
+
+　　[Key]：C7BNF-CV9HF-T82R9-RRX4M-K763V
+
+　　[Key]：4THMG-NFHRJ-WWQGD-CK8PM-X4R7H
+
+2、win10专业版永久激活密钥
+
+　　Win 10 Professional Volume:MAK批量授权版
+
+　　[Key]：BXW2K-N7JJT-TK3PJ-QYY3Y-FGDGY
+
+　　[Key]：TNBWH-T4GVX-QQ2VD-GWXYF-VMH3B
+
+　　[Key]：NJ7PR-KTK74-RQBBG-3C2TW-W44DB
+
+　　[Key]：RG7ND-MT8WG-FVD78-RQ8YX-BKMQB
+
+　　[Key]：WTBNX-Y7BPK-JV4QP-C82YG-C9XTY
+
+　　[Key]：FMH4B-BNFJ7-WQWHB-3DT93-2WF9M
+
+　　Win 10 Professional Retail零售版
+
+　　[Key]：28YMN-RMKKW-4PKDK-MHVB2-XTPKG
+
+　　[Key]：28TWN-9VDVQ-CKQ4M-J8BJM-XBT6T
+
+　　[Key]：28JGX-WN9C4-VHWCG-HPHPW-CPQGT
+
+　　[Key]：H8NRX-YCJY2-K8V2T-PHT7F-FC2KG
+
+　　[Key]：C69YJ-9TN28-43YY2-82FP3-BG9TT
+
+　　[Key]：2X7P3-NGJTH-Q9TJF-8XDP9-T83GT
+
+3、win10企业版产品密钥
+
+　　Win 10 Enterprise Volume:MAK批量授权版
+
+　　[Key]：N4KHC-23X7Y-FHCDH-6F2Q4-YTDF4
+
+　　[Key]：PN9QD-8RKPX-9Q2T9-WKG37-4C2JR
+
+　　[Key]：W77WN-TP36G-VBJFX-C77HK-2YT44
+
+　　[Key]：8QPWX-N9JB8-74W2J-4W2R4-FC2JR
+
+　　[Key]：9DKNB-8HTHW-V7TBP-77K4V-G6PJR
+
+　　[Key]：9XN4J-QPX7Q-BYHHV-WWH96-9KXR4
+
+　　Win 10 EnterpriseS 2016 Volume:MAK （ Enterprise LTSB ）长期服务分支
+
+　　[Key]：JFVW7-XNC3Y-TD2M6-HFCD2-GQ8WQ
+
+　　[Key]：PGDVN-GKX6K-MGJDR-CRVDV-HXPJQ
+
+4、win10教育版序列号
+
+　　Win 10 Education Volume:MAK批量授权版
+
+　　[Key]：WQX7T-XN7BH-GY44W-BTM32-9QBM3
+
+　　[Key]：QYYHN-DJB2P-7XWGC-D9BHT-WXCJD
+
+　　Win 10 Education N Volume:MAK批量授权版
+
+　　[Key]：VJGPC-QNQWQ-TD22C-J26V8-MTDFX
+
+　　
+
+送Win10专业版/家庭版激活密钥|赠Win10各版本激活密钥最新分享
+
+
+
+二、Windows10 KMS客户端安装密钥Volume:GVLK
+
+　　Windows 10 专业版：W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+　　Windows 10 专业版 N：MH37W-N47XK-V7XM9-C7227-GCQG9
+
+　　Windows 10 专业工作站：NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+
+　　Windows 10 专业工作站 N：9FNHH-K3HBT-3W4TD-6383H-6XYWF
+
+　　Windows 10 专业教育版：6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
+
+　　Windows 10 专业教育版 N：YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
+
+　　Windows 10 教育版：NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+
+　　Windows 10 教育版 N：2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+
+　　Windows 10 企业版：NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+　　Windows 10 企业版 N：DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
+　　Windows 10 企业版 G：YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+
+　　Windows 10 企业版 G N：44RPN-FTY23-9VTTB-MP9BX-T84FV
+
+　　Windows 10 企业版 LTSC 2019：M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+
+　　Windows 10 企业版 N LTSC 2019：2NFX-8DJQP-P6BBQ-THF9C-7CG2H
+
+小编所要分享的Win10各版本激活密钥，到这里就全部分享完了，如果还有用户使用未激活的Win10系统，可以来上面的内容里，找对应版本的密钥去进行激活，希望本文分享之后，能有更多的用户成功激活好Win10系统。
+```
