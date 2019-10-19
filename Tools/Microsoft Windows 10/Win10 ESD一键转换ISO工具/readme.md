@@ -234,3 +234,12 @@ slmgr.vbs -dlv
 ```
 
 - 《[2019最新win10专业工作站版永久一键激活操作步骤](http://www.laoyoutiao.net/dnjc/win10jc_701.html)》 -老油条装机大师 (2019-10-17)
+```
+输入命令
+
+slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+slmgr /skms ms kms.03k.org
+
+slmgr /ato
+```
