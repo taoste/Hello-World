@@ -37,6 +37,11 @@ Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG
 进去后应该会有引导修复工具，用bootice引导修复工具,菜单栏选择BCD编辑，新建BCD,选择C:\boot\bcd,
 进入编辑界面后，按照下图填写（以Windows10为例）。然后重启就能正常进入系统了。 
 ```
+
+> 《[如何修复Windows 10引导记录损坏故障](https://jingyan.baidu.com/article/1876c8526112f5890b137638.html)》-百度经验  
+
+> 《[win10如何进入高级启动模式?win10开机F8没反应](https://jingyan.baidu.com/article/75ab0bcbcec227d6874db275.html)》-百度经验   
+
 ------------------------------------------------------------------------
 
 - 《[**在 macOS Mojave 上通过 Boot Camp 安装最新的 Windows 10**](https://imtx.me/archives/2725.html)》 | [I'm TualatriX](https://imtx.me/)  
