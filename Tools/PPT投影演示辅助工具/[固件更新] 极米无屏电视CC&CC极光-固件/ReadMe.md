@@ -3,18 +3,26 @@
 极米CC&CC极光 V1.2.38固件UI3.0
 
 刷机必读：**请确认您的设备当前固件是UI3.0，才可以刷此固件，以前的UI2.0版本无法刷此固件**，如果无法确认，请联系在线客服
-```
-请使用FAT32格式的U盘进行升级
-GMUI版本:3.1.3.10
 
-USB强刷包链接：迅雷下载
+请使用FAT32格式的U盘进行升级
+
+> GMUI版本:3.1.3.10
+
+>> USB强刷包链接：[迅雷下载](http://support.xgimi.net/firmware/NewCc/v1.2.38/GIMI_G10V_BENNET_CC_WMP.bin)
+```
 MD5码：80e876353cb07c16dc065f33bc3046fd
 文件名：GIMI_G10V_BENNET_CC_WMP.bin
+```
 
-OTA升级包链接：迅雷下载
+>> OTA升级包链接：[迅雷下载](http://support.xgimi.net/firmware/NewCc/v1.2.38/update_bennet_cc_full_v1.2.38.zip)
+```
 MD5码:：6efaacb5ac42246a85b52a79cde7086f
+文件名：update_bennet_cc_full_v1.2.38.zip
+```
 
-更新与修正
+
+更新与修正:
+```
 修复
 1.修复偶现遥控器关机后无法遥控器唤醒的问题；
 2.修复分辨率切换时偶现花屏问题 ；
