@@ -15,7 +15,7 @@ https://www.google.com/chrome/eula.html?standalone=1
 https://dl.google.com/chrome/install/{version number}/chrome_installer.exe 
 
 其中的Version number代表你要下载的Chrome版本号的后面两个数字，
-比如4.0.223.11的离线包下载地址就是http://dl.google.com/chrome/install/223.11/chrome_installer.exe；
+比如4.0.223.11的离线包下载地址就是 https://dl.google.com/chrome/install/223.11/chrome_installer.exe；
 同理，3.0.195.0的下载Version number就是195.0。
 
 其实，这个方法非常适合下载较老版本的Chrome浏览器，稳定版Chrome也可以使用这样的方法下载之前版本。
