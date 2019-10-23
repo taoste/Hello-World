@@ -403,6 +403,14 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
  <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/2019-08-21.png">
 
 <hr>
+```
+黄鼠狼跟鸡说，把你下的蛋每个月给我几个，我帮你存着，等你老了不能下蛋了，我再还给你 ......
+就这样，整个村里的鸡都按照约定把蛋给了黄鼠狼，
+黄鼠狼就每天胡吃海喝 ......
+鸡老了，想问黄鼠狼取回蛋的时候 ......
+黄鼠狼又喝了一顿老母鸡汤。
+```
+<hr>
  <table><tr>
         <td>
 <a href="https://twitter.com/zhu0588/status/1158794050218033153">引用：☆☆☆☆☆<br>
