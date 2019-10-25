@@ -50,8 +50,8 @@ OCLC 编号： 01755507
 <img src="https://camo.githubusercontent.com/14c1d6f6730491efb1660cd74807f51309799afa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4f6f797969636d5a6f6a71464a75664c636c314c6d776963656e69616b49794536696150655531356a696371313438726f6a6963426c78704c4d6961544e5479625434566e71376571656e79386b4b7530456754377074696175594c58512f3634303f77785f666d743d6a7065672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d313f7261773d74727565?raw=true" width="640px" height="640px" alt="图书《都是好时光：一位乳腺癌患者的康复笔记》" title="《都是好时光：一位乳腺癌患者的康复笔记》作者：肖于 著，出版时间:2018年10月,出版社：化学工业出版社"/></a>
 
 > 《<a href="https://book.douban.com/subject/30324747/" title=" 《都是好时光：一位乳腺癌患者的康复笔记》 (豆瓣)"/>都是好时光：一位乳腺癌患者的康复笔记</a>》
->> [作者](https://baike.sogou.com/v176213790.htm)：肖于 著
->>
+>> [作者](https://baike.sogou.com/v176213790.htm)：<a href="https://www.douban.com/people/fishmm/" title="豆瓣：《都是好时光：一位乳腺癌患者的康复笔记》作者：肖于（fishmm）【fishmm，真实待确定/2019年10月25日】"/>肖于</a> 著
+>>  
 >> [出版时间](http://product.dangdang.com/1520168467.html) : <a href="http://book.ifeng.com/a/20181009/118172_0.shtml" title="凤凰读书《都是好时光：一位乳腺癌患者的康复笔记》"/>2018年10月</a>;
 >> [出版社](http://product.dangdang.com/25342841.html) ：化学工业出版社; 
 >>   开 本：32开;
