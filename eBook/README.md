@@ -6,6 +6,8 @@
 >  [思维导图 python site:github.io](https://www.google.com/search?hl=zh_CN&ei=G4lkXbmSI8zi-Aauiq3oDg&q=思维导图+python+site%3Agithub.io)
 >> [【笔记】四幅思维导图学会 Python 爬虫：Requests，BeautifulSoup & Scrapy](https://woaielf.github.io/2018/04/28/scrappy/)
 
+- 《[比别人获得知识更容易，用这3种工具](https://www.jianshu.com/p/10816c84ca16)》 - 简书
+
 -------------------------------------------------------------------------------
 
 ```
