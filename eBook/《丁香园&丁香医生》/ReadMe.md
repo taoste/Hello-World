@@ -68,3 +68,7 @@ OCLC 编号： 01755507
 >> [杭州每天健康管理有限公司](https://www.tianyancha.com/search?key=杭州每天健康管理有限公司) ( 客户服务热线：400-0185-800 )
 
 > [套餐列表页](https://www.mytijian.com/m/jyyy/meal?hospitalId=59&openId=unJoin&from=singlemessage&isappinstalled=0 )
+
+http://2dzcx.cdpf.org.cn/taiji/app/zclFwpt/resource/image/search/img_cjrz.jpg
+
+- [中国政府网](http://www.gov.cn/) -《 [残疾人](http://www.cdpf.org.cn/) [服务专栏](http://www.gov.cn/fuwu/cjr/index.htm) 》
