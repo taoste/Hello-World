@@ -55,6 +55,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [Firefox 同步 故障解决](https://support.mozilla.org/zh-CN/kb/Firefox同步故障解决) | [Mozilla 技术支持](https://support.mozilla.org/zh-CN/)
 
 - [实时书签功能](https://support.mozilla.org/zh-CN/kb/%E5%AE%9E%E6%97%B6%E4%B9%A6%E7%AD%BE%E5%8A%9F%E8%83%BD) ( [Firefox的收取点阅读器替代](https://support.mozilla.org/zh-CN/kb/Firefox%E7%9A%84%E6%94%B6%E5%8F%96%E7%82%B9%E9%98%85%E8%AF%BB%E5%99%A8%E6%9B%BF%E4%BB%A3) ) | Firefox 帮助
+> 推荐/下载 🦊 Firefox 扩展（zh-CN）- [**Feedbro**](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/?src=search) 
 
 - 参阅：
 《[Mozilla决定：从Firefox 64开始 移除原生RSS订阅和即时书签功能-火狐,RSS,浏览器](https://news.mydrivers.com/1/598/598453.htm)》 ——快科技(原驱动之家)--全球最新科技资讯专业发布平台
