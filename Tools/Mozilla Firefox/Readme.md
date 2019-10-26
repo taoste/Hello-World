@@ -54,6 +54,8 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 - [Firefox 同步 故障解决](https://support.mozilla.org/zh-CN/kb/Firefox同步故障解决) | [Mozilla 技术支持](https://support.mozilla.org/zh-CN/)
 
+- 参阅：
+《[Mozilla决定：从Firefox 64开始 移除原生RSS订阅和即时书签功能-火狐,RSS,浏览器](https://news.mydrivers.com/1/598/598453.htm)》 ——快科技(原驱动之家)--全球最新科技资讯专业发布平台
 -------------------------------------------------------------------
 
 - Mozilla 正式发布私密文件分享服务 [**Firefox Send**](https://send.firefox.com)，最高支持 2.5GB 文件：https://send.firefox.com
