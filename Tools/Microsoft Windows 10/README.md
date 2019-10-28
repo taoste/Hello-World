@@ -62,7 +62,7 @@ Alt+F4 关机快捷键。
 - 《[或许能成为你的 Windows 默认浏览器，大改版的 Edge 稳定版终于来了](https://mp.weixin.qq.com/s/05QoUqoMfNEyDOIyM440Xw)》
 (  原创： 化学心情下2 @少数派 2019-10-28 )
 
-> 用 Windows 电脑打开即可直接下载：https://url.cn/57pEdMQ（手机打开是乱码哦）
+> 用 Windows 电脑打开即可直接下载： https://url.cn/57pEdMQ （手机打开是乱码哦）
 
 >> Edge 官网：[https://url.cn/5fqXwlJ](https://www.microsoftedgeinsider.com/zh-cn/download/)
 
