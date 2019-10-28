@@ -66,6 +66,9 @@
 
 - 《[2019年美国欧美剧《切尔诺贝利第一季》**迅雷下载**](https://www.dy2018.com/i/100790.html)》_ [电影天堂](https://www.dy2018.com/) 
 
+>> <a href="https://www.dy2018.com/i/100790.html">
+<img src="https://img.18qweasd.com/d/file/html/tv/oumeitv/2019-05-09/f3a51d5cfa3ffafcbbfa8145f4bdd2a0.jpg" border="0" alt="2019年美国欧美剧《切尔诺贝利第一季》" title="HBO“神剧”：2019年美国欧美剧《切尔诺贝利第一季》"></a>
+
 > 剧情简介:
 >> Craig Mazin执笔﹑Johan Renck执导的HBO/Sky合拍5集迷你剧《切尔诺贝利 Chernobyl》顾名思义就是那宗闻名的人为灾难事件，背景在1986年的乌克兰，剧中将会描述当时究竟发生了甚么引致这事故，而且当年勇敢的众人是如何牺牲自己拯救处于灾难中的欧洲。
 >>
@@ -74,33 +77,10 @@
 >> Emily Watson饰演苏联核物理学家Ulana Khomyuk，她致力调查切尔诺贝利的真相，好使未来不会再发生同类事件。但调查期间令她与想埋葬可怕秘密的人造成冲突，为了真相她得冒着失去自由，甚至生命的危险。Jared Harris饰演苏联科学家Valery Legasov，被克里姆林宫指派调查该事故。
 
 > 【下载地址】magnet推荐使用utorrent、BitComet等bt客户端下载
-</div>
- <tbody>
-  <tr>
-   <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><a href="ftp://m:m@tv.kaida365.com:2199/切尔诺贝利01.mp4">ftp://m:m@tv.kaida365.com:2199/切尔诺贝利01.mp4</a></td>
-     </tr>
-   </tbody>
-   
- <tbody>
-  <tr>
-   <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><a href="ftp://m:m@tv.kaida365.com:2199/切尔诺贝利02.mp4">ftp://m:m@tv.kaida365.com:2199/切尔诺贝利02.mp4</a></td>
-     </tr>
-   </tbody>
-   
- <tbody>
-  <tr>
-   <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><a href="ftp://m:m@tv.kaida365.com:2199/切尔诺贝利03.mp4">ftp://m:m@tv.kaida365.com:2199/切尔诺贝利03.mp4</a></td>
-     </tr>
-   </tbody>
-   
-  <tbody>
-  <tr>
-   <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><a href="ftp://m:m@tv.kaida365.com:2199/切尔诺贝利04.mp4">ftp://m:m@tv.kaida365.com:2199/切尔诺贝利04.mp4</a></td>
-     </tr>
-   </tbody>
-   
-  <tbody>
-  <tr>
-   <td style="WORD-WRAP: break-word" bgcolor="#fdfddf"><a href="ftp://m:m@tv.kaida365.com:2199/切尔诺贝利05.mp4">ftp://m:m@tv.kaida365.com:2199/切尔诺贝利05.mp4</a></td>
-     </tr>
-   </tbody>
+```
+ftp://m:m@tv.kaida365.com:2199/切尔诺贝利05.mp4   
+ftp://m:m@tv.kaida365.com:2199/切尔诺贝利04.mp4   
+ftp://m:m@tv.kaida365.com:2199/切尔诺贝利03.mp4   
+ftp://m:m@tv.kaida365.com:2199/切尔诺贝利02.mp4   
+ftp://m:m@tv.kaida365.com:2199/切尔诺贝利01.mp4  
+```
