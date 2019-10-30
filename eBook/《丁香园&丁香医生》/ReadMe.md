@@ -72,3 +72,7 @@ OCLC 编号： 01755507
 http://2dzcx.cdpf.org.cn/taiji/app/zclFwpt/resource/image/search/img_cjrz.jpg
 
 - [中国政府网](http://www.gov.cn/) -《 [残疾人](http://www.cdpf.org.cn/) [服务专栏](http://www.gov.cn/fuwu/cjr/index.htm) 》
+
+---------------------------------------------------------------------------
+
+- 《[**我想说说农村的医疗保险**](https://t66y.com/htm_data/1910/7/3692549.html)》 - 技術討論區 | 草榴社區 - t66y.com  
