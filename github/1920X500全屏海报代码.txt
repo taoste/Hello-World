@@ -1,0 +1,11 @@
+<div style="height:640px;">
+  <div class="sn-simple-logo" style="padding:0px;left:50%;top:auto;">
+    <div class="sn-simple-logo" style="padding:0px;left:-960px;top:auto;">
+	<!--可以HTML代码替换本区域  开始-->
+         <img src="http://img02.taobaocdn.com/imgextra/i2/679339632/T2SS6aXC0XXXXXXXXX_!!679339632.jpg" width="1920px" height="640px" border="0" />
+	   </a>
+	<!--可以HTML代码替换本区域  结束-->
+    </div>
+  </div>
+</div>
+   
