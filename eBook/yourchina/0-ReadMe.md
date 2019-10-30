@@ -393,7 +393,8 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
 中国是这三种人的天堂。
                  ——余华
 ```
-<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/Chinaer.jpg">
+<p><img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/Chinaer.jpg">
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/Dubook.jpg"></p>
 ----------------------------------------------------------------------------------
 
 <a href="https://twitter.com/0792z/status/1159026428211601413">引用：<br>
