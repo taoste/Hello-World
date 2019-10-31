@@ -38,6 +38,8 @@ OCLC 编号： 01755507
 >> 《[丁香医生:  收好这份体检攻略，让你不花冤枉钱](https://mp.weixin.qq.com/s/3qqKjV76JhM3KK6SplB1CA)》( 2017-05-14 )
 
 >> 《[“冻胚移植”可靠性获证实—论文—科学网](http://paper.sciencenet.cn/htmlpaper/20181181452831845605.shtm)》( 2018/1/18 )
+
+>> 《[我是中科院博士李雷,从遗传学如何看67岁自然受孕生产,问我吧!](https://www.thepaper.cn/asktopic_detail_10017288)》_ [澎湃新闻](https://www.thepaper.cn/)-ThePaper   ( 2019/10/30 )
 ---------------------------------------------------------------------------
 
 - 《[发现这七个症状，就离脑梗不远了，赶紧去医院做个检查！](https://mp.weixin.qq.com/s/nMkjPDVqUE2MaTARFxrAiA)》(原创：赵文博 小大夫漫画 2019-09-15) 
