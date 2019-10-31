@@ -12,6 +12,7 @@
 > 链接: [https://douc.cc/0LlrkD](https://pan.baidu.com/share/init?surl=7IF2C10unst9BaoHsTpTcQ) 提取码: usqg。
 >
 > 文档设置了密码保护，口令是taiwan。
-
-> Pizuzu@catfeidudu 回复 @0792z
+```
+ Pizuzu@catfeidudu 回复 @0792z
 >>  想当年这门课叫《公民与道德》
+```
