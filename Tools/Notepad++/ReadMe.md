@@ -1,6 +1,7 @@
-- **Notepad++**  [官网](https://notepad-plus-plus.org/) / @[Github](https://github.com/notepad-plus-plus/notepad-plus-plus)
+# **Notepad++**  [**官网**](https://notepad-plus-plus.org/) ( @[Github](https://github.com/notepad-plus-plus/notepad-plus-plus) )
+------------------------------------------------------------
 
-@[维基百科](https://zh.wikipedia.org/zh-cn/Notepad%2B%2B) ：
+> @[维基百科](https://zh.wikipedia.org/zh-cn/Notepad%2B%2B) ：
 ``` 
 Notepad++是自由软件的纯文本编辑器，由侯今吾基于同是开放源代码的Scintilla文本编辑组件并独力研发，
 整个项目起初托管于SourceForge.net之上，截止到2011年，已被下载超过2700万次，
