@@ -13,7 +13,8 @@
 
 > [关于情色电影，我推荐这8部，实在太经典！（韩国篇）](https://zhuanlan.zhihu.com/p/23128683) - 知乎
 
-
+- 《重庆同志浴室探秘（ [上篇](https://freewechat.com/a/MzIxMTU0MDgwNw==/2247483781/1) / [下篇](https://freewechat.com/a/MzIxMTU0MDgwNw==/2247483770/2
+) ）》 | [**自由微信**](https://freewechat.com/) | FreeWeChat (2018年2月2日)
 ------------------------------------------------------------
 
 - [1024分辨率《猛男诞生记》BD中字迅雷下载](https://www.dy2018.com/html/gndy/jddy/20091031/22608.html
