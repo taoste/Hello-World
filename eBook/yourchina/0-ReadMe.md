@@ -10,7 +10,7 @@
 > 《[专栏 | 中国透视：中共庆典中的“八旗子弟”心态](
 https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)》（2019-10-10）
 
--Twitter: 陈小平 ( @[MJTVxchen15]((https://twitter.com/MJTVxchen15/) ) [下午2:14 · 2019年10月31日](https://twitter.com/MJTVxchen15/status/1189787769448620032)
+- Twitter: 陈小平 ( @[MJTVxchen15]((https://twitter.com/MJTVxchen15/) ) [下午2:14 · 2019年10月31日](https://twitter.com/MJTVxchen15/status/1189787769448620032)
 > 这些天，中国关于孩子的新闻有些吓人，刚有14的不爱国的少年被立案调查，现在又看到网络浙江有学校给小学生带上脑机接口监测头环。[https://bit.ly/34ctJes](https://www.thepaper.cn/newsDetail_forward_4826013) 这国厉害。
 >>  《[家长谈学生戴头环监测走神：高考比分数_七环视频_澎湃新闻](https://www.thepaper.cn/newsDetail_forward_4826013)》
 
