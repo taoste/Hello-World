@@ -13,7 +13,7 @@
 
 -----------------------------------------------------------------------
 
-【Tips】 PPT 小技巧 ：
+💗 【Tips】[**秋叶PPT专题**](https://github.com/taoste/Hello-World/tree/master/eBook/QiuYePPT) - PPT 小技巧 ：
 
 - [ppt内如何插入动态时间](https://jingyan.baidu.com/article/af9f5a2d2bff2843150a4555.html)_百度经验
 
