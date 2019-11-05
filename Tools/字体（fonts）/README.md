@@ -13,14 +13,13 @@
 
 > [心形桃心字体](http://font.chinaz.com/180831566150.htm) - 站长字体 
 
-```
 爱心字体是款非常可爱的字体，字体中都加入了爱心效果，用来进行海报制作很不错，小编这里带来的字体有3款，网友们可以随意挑选哦！
 
 【字体说明】
 
 三款可爱爱心字体安装方法是直接将字体文件复制到C:WINDOWSFonts即可。
-三款字体分别是HeartlandRegular、Hole-HeartlandRegular、Kinkee。
-```
+三款字体分别是[HeartlandRegular](http://font.chinaz.com/13074714139.htm)、Hole-HeartlandRegular、Kinkee。
+
 
 - 【[**艺术字体在线生成器 艺术字转换器 字体转换器**](https://www.qt86.com/)】 
 
