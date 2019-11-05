@@ -17,7 +17,7 @@
 
 《[别在因为字体丑而发愁了，9800款珍藏版顶级字体免费送给你！](https://zhuanlan.zhihu.com/p/57423793)》 - 知乎  
 
-《[幼儿园最常用的27种字体，直接打印也能做出漂亮的字！](http://www.youshibaodian.com/a/50efd588dfdf494aa833d57cdca923da.html)》 - 幼师宝典官网  
+《[幼儿园最常用的27种字体，直接打印也能做出漂亮的字！](http://www.youshibaodian.com/a/50efd588dfdf494aa833d57cdca923da.html)》 - (幼儿园墙面创设,幼儿园教案,幼儿园舞蹈视频,儿歌大全,幼师资格证报考条件) - [幼师宝典官网](http://www.youshibaodian.com/) （ http://www.youshibaodian.com/ ） 
 
 ----------------
 
