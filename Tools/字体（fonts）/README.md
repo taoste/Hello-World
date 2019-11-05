@@ -7,7 +7,7 @@
 
 > [48个英语音标表-附一个flash实现的音标的读音_中英文对照](https://www.jb51.net/article/9270.htm) _ 脚本之家
 
-- 【[**迷你简菱心字体**](http://font.chinaz.com/120210022850.htm)】 - 站长字体  
+- 【[**迷你简菱心字体**](http://font.chinaz.com/120210022850.htm)】 - 【[**心形字体下载**](http://font.chinaz.com/tag_font/XinXing.html )】 | 站长字体 
 
 ----------------
 
