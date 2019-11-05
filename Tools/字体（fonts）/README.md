@@ -17,6 +17,8 @@
 
 《[别在因为字体丑而发愁了，9800款珍藏版顶级字体免费送给你！](https://zhuanlan.zhihu.com/p/57423793)》 - 知乎  
 
+《[幼儿园最常用的27种字体，直接打印也能做出漂亮的字！](http://www.youshibaodian.com/a/50efd588dfdf494aa833d57cdca923da.html)》 - 幼师宝典官网  
+
 ----------------
 
 Windows 运行（Win + R ）：%windir%\fonts
