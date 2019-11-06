@@ -51,7 +51,7 @@
 >> 英国广播公司（BBC）发布官网的暗网版本 https://www.bbcnewsv2vjtpsuy.onion/ ，只能通过 Tor 浏览器访问。
 这可能是第一个发布暗网版本的大型网站。https://www.bbc.com/news/technology-50150981
 
-- 《[Tor Browser洋葱浏览器中文版-以Firefox为界面的隐藏IP科学上网软件](https://www.xiaoyuanjiu.com/641.html)》(2018年2月28日) _ 小媛啾 
+- 《[Tor Browser洋葱浏览器中文版-以Firefox为界面的隐藏IP科学上网软件](https://www.xiaoyuanjiu.com/641.html)》(2018年2月28日) _ [小媛啾](https://www.xiaoyuanjiu.com/) 
 
 --------------------------------------------------------------------------------
 
