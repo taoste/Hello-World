@@ -45,3 +45,5 @@ https://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&mid=2650455136&idx=1&sn=5e9199
 
 >  想对Mary说，年轻如你，自然阅历浅，读书也还偏少，对人世间的苦难，既缺乏直接体验，也缺乏间接认识，所以才会对苦难有着不切实际的“生活在别处”的浪漫空想。
 > 
+
+-《[年轻时，你要尽可能多地接触各种偏见](https://mp.weixin.qq.com/s?__biz=MzI2MzQ4ODcwMg==&mid=2247483867&idx=1&sn=f59157e617b50c1e6ac68c3ea0c378f5&chksm=eaba540addcddd1cb4887c547a0164729b1eba52af8366b1fb397c37f8017f6c75840f7bd5dc&scene=21#wechat_redirect)》
