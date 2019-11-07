@@ -29,7 +29,6 @@
 
 > **《老友记》（1-10季全集) - 在线播放** : @[爱奇艺](http://www.iqiyi.com/dianshiju/friends.html) / @[搜狐视频](http://tv.sohu.com/s2012/friends/)
 
-
 -《[你的青春里，有没有<老友记>](https://henix.github.io/feeds/weixin.sogou.hiyeka/2019-05-06-1000000100.html)》 [henix](https://github.com/henix/) [遥远的街市](https://blog.henix.info/) https://henix.github.io/feeds/index.html
 
 > **引用**：我虽然人到中年才看《老友记》，但里面的一些情节还是让我深有感触。如果我年轻时就看到这样的电视剧，我的世界观有可能会更早就朝着多元和开阔的方向转变，不至于遇到一些事情便大惊小怪，会以更平淡的心情看待之。比如，《老友记》里钱德勒的父母，都是一言难尽之人；菲比的身世，让她看上去像是个通常意义的苦主。但这俩人，在纽约那样一个开放包容的环境中，都能放松下来，向朋友倾诉自己的苦恼，还能从朋友那里获得看待事物的不同角度，随时调整自己的认知。菲比时有让人咋舌之举，比如亲自给弟弟一家代孕，产下三胞胎。但看过那两集，你又会觉得一切都在情理之中，只觉得人间自有真情在，很温暖，一心想为她祝福。 
@@ -40,6 +39,8 @@
 >
 > 《[文明的反方与正方](
 https://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&mid=2650455136&idx=1&sn=5e919954c87539a55bdcbcc3bd2ca6e2&chksm=83dd5697b4aadf81fc7e2e5712aa32a5f18850c06b6d49abb6d920f8d9d91657552bd6bb5ccb&scene=21#wechat_redirect)》
+
+-《[学英语（持续更新）](https://jasonim.github.io/2015/09/28/how_learn_english/)》  | JasonThink's Blog
 
 -《[AI编剧续写《老友记》-- 基于 GPT2 开源版](https://adi0229.github.io/2019/06/27/2019-06-27-gpt2-friends/)》  | 电光石火
 
