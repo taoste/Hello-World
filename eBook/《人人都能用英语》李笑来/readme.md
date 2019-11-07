@@ -40,7 +40,7 @@
 > 《[文明的反方与正方](
 https://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&mid=2650455136&idx=1&sn=5e919954c87539a55bdcbcc3bd2ca6e2&chksm=83dd5697b4aadf81fc7e2e5712aa32a5f18850c06b6d49abb6d920f8d9d91657552bd6bb5ccb&scene=21#wechat_redirect)》
 
--《[学英语（持续更新）](https://jasonim.github.io/2015/09/28/how_learn_english/)》  | JasonThink's Blog
+-《[学英语（持续更新）](https://jasonim.github.io/2015/09/28/how_learn_english/)》  | [JasonThink's Blog](https://jasonim.github.io/)
 
 -《[AI编剧续写《老友记》-- 基于 GPT2 开源版](https://adi0229.github.io/2019/06/27/2019-06-27-gpt2-friends/)》  | 电光石火
 
