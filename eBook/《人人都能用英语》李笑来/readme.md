@@ -41,6 +41,8 @@
 > 《[文明的反方与正方](
 https://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&mid=2650455136&idx=1&sn=5e919954c87539a55bdcbcc3bd2ca6e2&chksm=83dd5697b4aadf81fc7e2e5712aa32a5f18850c06b6d49abb6d920f8d9d91657552bd6bb5ccb&scene=21#wechat_redirect)》
 
+-《[AI编剧续写《老友记》-- 基于 GPT2 开源版](https://adi0229.github.io/2019/06/27/2019-06-27-gpt2-friends/)》  | 电光石火
+
 -《[年轻的你，是不是一直生活在别处](https://mp.weixin.qq.com/s?__biz=MzI2MzQ4ODcwMg==&mid=2247484006&idx=1&sn=167be0e267c0178e14bd2ee6e62e7470&chksm=eaba57b7ddcddea18a2c72df43abcc3421b50d373c9d0d8ae6ad49fa6d8897f56d26fb63eccc&token=1650863325&lang=zh_CN#rd)》
 
 >  想对Mary说，年轻如你，自然阅历浅，读书也还偏少，对人世间的苦难，既缺乏直接体验，也缺乏间接认识，所以才会对苦难有着不切实际的“生活在别处”的浪漫空想。
