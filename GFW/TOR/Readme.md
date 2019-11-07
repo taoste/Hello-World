@@ -11,9 +11,9 @@
 
 它的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
 
-> 官方网站是 https://www.torproject.org/
+> 官方网站是 https://www.torproject.org/zh-CN/
 
-> Tor浏览器 https://www.torproject.org/projects/torbrowser.html.en
+> Tor浏览器 https://www.torproject.org/zh-CN/download/
 
 > （[必须翻墙才能访问](https://www.torproject.org/zh-CN/download/)） 
 
