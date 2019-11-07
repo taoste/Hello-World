@@ -27,7 +27,7 @@
 >>
 >> 集数： 全236集（全10季）
 
-> 《老友记》（1-10季全集) - **在线视频播放** : @[爱奇艺](http://www.iqiyi.com/dianshiju/friends.html) / @[搜狐视频](http://tv.sohu.com/s2012/friends/)
+> **在线视频播放** -《老友记》（1-10季全集) : @[爱奇艺](http://www.iqiyi.com/dianshiju/friends.html) / @[搜狐视频](http://tv.sohu.com/s2012/friends/)
 
 > **资源下载：[《老友记/都市六人行1-10季全集》打包下载720P|1080P迅雷高清下载_BT种子百度网盘下载 - 电影蜜蜂](https://www.dybee.tv/13512.html)**
 
