@@ -34,5 +34,6 @@
 > 英语口语的训练则蕴含在平时的娱乐中——美剧，有一个暑假我几乎天天开着Friends睡觉。——- 摘自《我的南大七年》/刘未鹏
 >> 刘未鹏，公众号：思维改变生活 
 >>>  2016-12-22:《[父母，和我们自己](http://mp.weixin.qq.com/s?__biz=MzIzNTA4ODA2Ng==&mid=2247483679&idx=1&sn=4b6c78e95047eafe5556dd834a3e5f4c&chksm=e8ed30b2df9ab9a447f11b4b6f880fd238d02ad9856e1bacd78b22685116f8290ae13c1e7030#rd)》
+>
 > 《[文明的反方与正方](
 https://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&mid=2650455136&idx=1&sn=5e919954c87539a55bdcbcc3bd2ca6e2&chksm=83dd5697b4aadf81fc7e2e5712aa32a5f18850c06b6d49abb6d920f8d9d91657552bd6bb5ccb&scene=21#wechat_redirect)》
