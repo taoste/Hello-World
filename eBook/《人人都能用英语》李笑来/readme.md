@@ -12,3 +12,17 @@
 链接: http://pan.baidu.com/s/1c0QSI1E 密码: 915v 
 还有一种音频是故事和绘本的音频，我们可以把它当做背景音播放。
 ```
+
+- **Google 搜索** : [老友记 site:github.io](https://www.google.com/search?hl=zh_CN&biw=1920&bih=969&ei=hLbDXdfFH4qGr7wPtZO54As&q=%E8%80%81%E5%8F%8B%E8%AE%B0+site%3Agithub.io) - 全季236集（第1~10季）
+
+> 《老友记/六人行》是一部由David Crane与Marta Kauffman共同创作的美国情景喜剧。该剧于1994年9月22日在NBC播出，于2004年5月6日结束，共播出十季，剧情主要围绕着一众好友在纽约曼哈顿的生活展开。 @[维基百科](https://zh.wikipedia.org/zh-cn/老友记)
+
+>> 开播时间： 1994 年 9 月 22 日
+>>
+>> 剧终时间： 2004 年 5 月 6 日
+>>
+>> 美国演员工会奖： 喜剧类最佳群戏·女演员
+>>
+>> 每集长度： 约27分钟
+>>
+>> 集数： 全236集（全10季）
