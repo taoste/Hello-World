@@ -5,7 +5,7 @@
 </p>
 
 [**Tor Project | 匿名上网**](https://www.torproject.org/zh-CN/)
-
+（ [下载你的语言的 Tor 浏览器](https://www.torproject.org/zh-CN/download/languages/) ）
 
 “TOR”是老牌的翻墙工具，并且是“开源项目”。
 
@@ -68,9 +68,7 @@
 
 Tor Browser 更新日志：view-source:**about:tbupdate**
 
-Tor最新版 - [官网下载](https://www.torproject.org/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周一 , 2018年12月10日 （最新版 Tor Browser v 8.0.4 :[32bit](https://www.torproject.org/dist/torbrowser//8.0.3/torbrowser-install-8.0.4_zh-CN.exe) / [64bit](https://dist.torproject.org/torbrowser//8.0.4/torbrowser-install-win64-8.0.4_zh-CN.exe)  --  (Tor Browser v8.0.4 [说明](https://blog.torproject.org/new-release-tor-browser-804))
-
-https://dist.torproject.org/torbrowser//8.0.4/torbrowser-install-win64-8.0.4_zh-CN.exe
+Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周二 , 2019年11月5日 （最新版 Tor Browser v 9.0.1 :[32bit](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-9.0.1_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-9.0.1_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-win64-9.0.1_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-win64-9.0.1_zh-CN.exe.asc))  --  (Tor Browser v9.0.1 [说明](https://blog.torproject.org/new-release-tor-browser-901))
 
 > **关于Tor:**  ( view-source:**about:tor**  )
 > 
