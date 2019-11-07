@@ -27,6 +27,8 @@
 >>
 >> 集数： 全236集（全10季）
 
+> 《老友记》（1-10季全集) - **在线视频播放** : @[爱奇艺](http://www.iqiyi.com/dianshiju/friends.html) / @[搜狐视频](http://tv.sohu.com/s2012/friends/)
+
 > **资源下载：[《老友记/都市六人行1-10季全集》打包下载720P|1080P迅雷高清下载_BT种子百度网盘下载 - 电影蜜蜂](https://www.dybee.tv/13512.html)**
 
 >> 老友记/都市六人行1-10季全集（百度网盘秒离线）：[老友记1-10季全集](https://pan.baidu.com/s/1c1SNduS) 百度云密码：fuff
@@ -42,8 +44,6 @@
 >> 
 >> 老友记Friends.Complete.BluRay.720p.x264.AAC-iSCG
 >>> magnet:?xt=urn:btih:D563EF792A247A5547D8D1191B41F2CBE0B2382E
-
-> **《老友记》（1-10季全集) - 在线播放** : @[爱奇艺](http://www.iqiyi.com/dianshiju/friends.html) / @[搜狐视频](http://tv.sohu.com/s2012/friends/)
 
 -《[你的青春里，有没有<老友记>](https://henix.github.io/feeds/weixin.sogou.hiyeka/2019-05-06-1000000100.html)》 [henix](https://github.com/henix/) [遥远的街市](https://blog.henix.info/) https://henix.github.io/feeds/index.html
 
