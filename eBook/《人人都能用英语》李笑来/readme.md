@@ -38,7 +38,7 @@
 >> 老友记全十季.Friends.Complete.720p.BluRay.x264.AAC-iHD
 >>> magnet:?xt=urn:btih:1C9E5E3D05FEA72C198C7548B335E81C05314D0F
 >> 
->> 老友记.全十季.1994-2004.中英字幕￡CMCT触摸春天
+>> [老友记.全十季.1994-2004.中英字幕￡CMCT触摸春天](https://github.com/taoste/Hello-World/raw/master/eBook/%E3%80%8A%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%94%A8%E8%8B%B1%E8%AF%AD%E3%80%8B%E6%9D%8E%E7%AC%91%E6%9D%A5/%E8%80%81%E5%8F%8B%E8%AE%B0.%E5%85%A8%E5%8D%81%E5%AD%A3.1994-2004.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95%EF%BF%A1CMCT%E8%A7%A6%E6%91%B8%E6%98%A5%E5%A4%A9.torrent)
 >>> magnet:?xt=urn:btih:A697AD9AB61EF9B994EC74CA3ED0C5848B9E38AC
 >> 
 >> 老友记1-10季全集
