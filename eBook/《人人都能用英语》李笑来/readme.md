@@ -28,3 +28,5 @@
 >> 集数： 全236集（全10季）
 
 -《[你的青春里，有没有<老友记>](https://henix.github.io/feeds/weixin.sogou.hiyeka/2019-05-06-1000000100.html)》 [henix](https://github.com/henix/) [遥远的街市](https://blog.henix.info/) https://henix.github.io/feeds/index.html
+> 《[文明的反方与正方](
+https://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&mid=2650455136&idx=1&sn=5e919954c87539a55bdcbcc3bd2ca6e2&chksm=83dd5697b4aadf81fc7e2e5712aa32a5f18850c06b6d49abb6d920f8d9d91657552bd6bb5ccb&scene=21#wechat_redirect)》
