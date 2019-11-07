@@ -31,12 +31,17 @@
 
 >> 老友记/都市六人行1-10季全集（百度网盘秒离线）：[老友记1-10季全集](https://pan.baidu.com/s/1c1SNduS) 百度云密码：fuff
 >> 
->> [老友记全十季.Friends.Complete.720p.BluRay.x264.AAC-iHD](magnet:?xt=urn:btih:1C9E5E3D05FEA72C198C7548B335E81C05314D0F)
+>> 老友记全十季.Friends.Complete.720p.BluRay.x264.AAC-iHD
+>>> magnet:?xt=urn:btih:1C9E5E3D05FEA72C198C7548B335E81C05314D0F
 >> 
->> [老友记.全十季.1994-2004.中英字幕￡CMCT触摸春天](magnet:?xt=urn:btih:A697AD9AB61EF9B994EC74CA3ED0C5848B9E38AC)
->> [老友记1-10季全集](magnet:?xt=urn:btih:90480988A0B16B91386D62CD07C3C98247685406)
+>> 老友记.全十季.1994-2004.中英字幕￡CMCT触摸春天
+>>> magnet:?xt=urn:btih:A697AD9AB61EF9B994EC74CA3ED0C5848B9E38AC
 >> 
->> [老友记Friends.Complete.BluRay.720p.x264.AAC-iSCG](magnet:?xt=urn:btih:D563EF792A247A5547D8D1191B41F2CBE0B2382E)
+>> 老友记1-10季全集
+>>> magnet:?xt=urn:btih:90480988A0B16B91386D62CD07C3C98247685406
+>> 
+>> 老友记Friends.Complete.BluRay.720p.x264.AAC-iSCG
+>>> magnet:?xt=urn:btih:D563EF792A247A5547D8D1191B41F2CBE0B2382E
 
 > **《老友记》（1-10季全集) - 在线播放** : @[爱奇艺](http://www.iqiyi.com/dianshiju/friends.html) / @[搜狐视频](http://tv.sohu.com/s2012/friends/)
 
