@@ -250,7 +250,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/language
 
 > 什么是 [Orbot](https://guardianproject.info/apps/orbot/) ？
 
->> Orbot是一款免费的代理应用程序，可让其他应用程序更安全地使用互联网。Orbot使用Tor加密您的Internet流量，然后通过在世界各地的一系列计算机反弹来隐藏它。Tor是免费软件和开放网络，可帮助您防御威胁个人自由和隐私，机密业务活动和关系以及状态安全（称为流量分析）的网络监视形式。Orbot创建了真正的私人移动互联网连接。 **下载 Orbot：[Google Play](https://market.android.com/details?id=org.torproject.android) | [F-Droid](https://guardianproject.info/fdroid) | [直接下载（.apk）](https://guardianproject.info/releases/orbot-latest.apk)**
+>> Orbot是一款免费的代理应用程序，可让其他应用程序更安全地使用互联网。Orbot使用Tor加密您的Internet流量，然后通过在世界各地的一系列计算机反弹来隐藏它。Tor是免费软件和开放网络，可帮助您防御威胁个人自由和隐私，机密业务活动和关系以及状态安全（称为流量分析）的网络监视形式。Orbot创建了真正的私人移动互联网连接。 **下载 Orbot：[Google Play](https://market.android.com/details?id=org.torproject.android) | [F-Droid](https://guardianproject.info/fdroid) | [直接下载](https://guardianproject.info/releases/orbot-latest.apk)（[.apk](https://github.com/taoste/Hello-World/blob/master/GFW/TOR/orbot-latest.apk?raw=true)）**
 
 **源代码** ： [Tor Gitweb](https://gitweb.torproject.org/orbot.git) | [GitHub 镜像](https://github.com/n8fr8/orbot)
 
