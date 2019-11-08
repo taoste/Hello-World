@@ -1,4 +1,4 @@
-[会计考试 site:github.io](https://www.google.com/search?hl=zh_CN&ei=Rah9Xf2GDJDN-Qayn7Ag&q=%E4%BC%9A%E8%AE%A1%E8%80%83%E8%AF%95+site%3Agithub.io) - Google 搜索
+[会计考试 site:github.io](https://cn.bing.com/search?q=%E4%BC%9A%E8%AE%A1%E8%80%83%E8%AF%95+site%3Agithub.io) - [Google 搜索](https://www.google.com/search?hl=zh_CN&ei=Rah9Xf2GDJDN-Qayn7Ag&q=%E4%BC%9A%E8%AE%A1%E8%80%83%E8%AF%95+site%3Agithub.io)
 
 - 2019年注册会计师全国统一考试练习试卷 http://cpademo.cicpa.org.cn/ 
 > 特别提示  如果要考的小伙伴还没练习过，建议今天必须进国家指定的练习中心练习。注会机考，模拟练习系统http://cpademo.cicpa.org.cn/
