@@ -16,6 +16,10 @@
 >>>> 微信号：lucky9816888 (王公举)
 >>>>> 王敏，上海财经大学硕士，注册会计师、注册税务师，高级会计师。注册会计师一次过，税务师一次过，云南省唯一30岁以下高级会计师获得者。吾爱财经是b站会计类播放第一的机构。18年实现了35个满分，上海市第一，第八名都出自吾爱，50多人计入全国会计领军人才，60000多人次考过。微信w18107910960 
 ------------------------------------------------
+
+- [**东奥图书旗舰店**](https://dongaots.tmall.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.3bc67936jGbHnG&shop_id=112529566 ) | [202011狂欢首页-**东奥旗舰店**](https://dongaofw.tmall.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.3bc67936jGbHnG&shop_id=105168601) - 天猫Tmall.com  
+------------------------------------------------
+
 - [推荐](https://github.com/taoste/Hello-World/tree/master/github/d.gaodun.cn/ReadMe.md) ：[**高顿财经网站**](https://www.gaodun.cn/) - ACCA培训|CFA培训|CMA培训|CPA培训|FRM培训|会计培训 ( https://www.gaodun.cn/  )
 
 ```
