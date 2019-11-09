@@ -19,7 +19,7 @@
 >> 
 >> 2.《[柏图 适配新款2014全新New Kindle保护套 499元版新Kindle电子书皮套 新Kindle休眠皮套 可携带电容笔 全机框包裹 抗摔防](https://www.amazon.cn/gp/product/B00JPCSBB4/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)》( 卖家: [数码精品店](https://www.amazon.cn/gp/help/seller/at-a-glance.html/ref=ppx_yo_dt_b_sellerprofile_o07_s00?ie=UTF8&isAmazonFulfilled=1&marketplaceSeller=1&orderID=C02-8433821-0672802&seller=AKH2XKHVAHNHS) ￥ 49.00 ) 
 
-【亚马逊客户回访】
+- 【亚马逊客户回访】
 ```
 尊敬的客户：
 您好！
