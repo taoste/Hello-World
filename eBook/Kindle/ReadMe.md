@@ -1,3 +1,5 @@
+# [**亚马逊**](https://www.amazon.cn/) - [Kindle专题](https://github.com/taoste/Hello-World/blob/master/eBook/Kindle/)
+---------------------------
 - [**亚马逊**](https://www.amazon.cn/) （ https://www.amazon.cn/ 方便好记的短域名: [**z.cn**](https://z.cn) ） [**帮助 HELP**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 
 > **2008.3.14** 老用户，如果您不知道您的Kindle是哪个型号，请访问 [**我的Kindle设备有哪些特性？**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 来查询。( 开启/关闭 ：[Amazon 两步验证](https://www.amazon.cn/a/settings/approval/setup/howto)  )
 
