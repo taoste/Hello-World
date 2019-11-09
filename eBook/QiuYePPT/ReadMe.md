@@ -4,7 +4,9 @@
 
 ------------------------------------------------------------------------------
 
-- 《[**Costco这么牛，学了《市场营销》你应该看见啥？**](https://mp.weixin.qq.com/s/Aagxrg4lXOCzOjxmoUL_Gw)》 （ 原创： 秋叶大叔	2019-08-31 ） 
+- 《[**自媒体能作为长期职业吗？**](https://mp.weixin.qq.com/s/2_3SjIQOADSSC72Em1NBfg)》（ 原创： @秋叶大叔 2019-11-09 ） 
+
+- 《[**Costco这么牛，学了《市场营销》你应该看见啥？**](https://mp.weixin.qq.com/s/Aagxrg4lXOCzOjxmoUL_Gw)》 （ 原创： @秋叶大叔	2019-08-31 ） 
 
 >          在学校给学生上《市场营销》，讲到做竞品调研，我就谈到最近爆火的Costco这个案例，也给大家聊聊我的看法。
 > 
@@ -29,3 +31,5 @@
 - 《[**30岁后如何跳出死工资困局完成逆袭？**](https://mp.weixin.qq.com/s/eoJ-BSCre8zgbH_LQ6iRCQ)》 ( WPS会员 2019-10-14 )
 
 - 《[**【视频教程】1 分钟学会在线协作和身份证提取**](https://mp.weixin.qq.com/s/BrlAx2LK0LOCgDFQClltiA)》  ( WPS会员 2019-10-14 )
+
+ 
