@@ -1,5 +1,5 @@
 - [**亚马逊**](https://www.amazon.cn/) （ https://www.amazon.cn/ 方便好记的短域名: [**z.cn**](https://z.cn) ） [**帮助 HELP**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 
-> 2008.3.14 老用户，如果您不知道您的Kindle是哪个型号，请访问 [**我的Kindle设备有哪些特性？**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 来查询。
+> **2008.3.14** 老用户，如果您不知道您的Kindle是哪个型号，请访问 [**我的Kindle设备有哪些特性？**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 来查询。
 
 >> 亚马逊 帮助: [**Kindle（第7代）电子书阅读器帮助**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201584980)  ( 
 [联系客服](https://www.amazon.cn/gp/help/customer/contact-us/ref=hp_ss_qs_v3_dv_cu_t2&initialIssue=asin-order?ie=UTF8&ref_=hp_ss_qs_v3_dv_oc#b) )
@@ -55,6 +55,6 @@ https://www.amazon.cn/gp/help/customer/display.html?nodeId=202048000
 通过短域名Z.cn ，可直接访问亚马逊网站。
 感谢您对亚马逊中国的支持与厚爱，期待您再次光临！ 
 ```
-- 亚马逊 帮助 : [Kindle电子阅读器软件更新](https://www.amazon.cn/gp/help/customer/display.html?nodeId=G54HPVAW86CHYHKS) 
+- [亚马逊 帮助](https://www.amazon.cn/gp/help/customer/display.html?nodeId=202048000) : [Kindle电子阅读器软件更新](https://www.amazon.cn/gp/help/customer/display.html?nodeId=G54HPVAW86CHYHKS) 
 > Kindle（第7代）    [5.12.2 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.bin)
 
