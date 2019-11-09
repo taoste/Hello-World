@@ -2,7 +2,7 @@
 > 如果您不知道您的Kindle是哪个型号，请访问 [**我的Kindle设备有哪些特性？**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 来查询。
 
 >> 亚马逊 帮助: [**Kindle（第7代）电子书阅读器帮助**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201584980)  ( 
-[联系我们](https://www.amazon.cn/gp/help/customer/contact-us/ref=hp_ss_qs_v3_dv_cu_t2&initialIssue=asin-order?ie=UTF8&ref_=hp_ss_qs_v3_dv_oc#b) )
+[联系客服](https://www.amazon.cn/gp/help/customer/contact-us/ref=hp_ss_qs_v3_dv_cu_t2&initialIssue=asin-order?ie=UTF8&ref_=hp_ss_qs_v3_dv_oc#b) )
 
 >>> Kindle（第7代）产品特性
 >>>
