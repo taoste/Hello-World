@@ -54,3 +54,6 @@ https://www.amazon.cn/gp/help/customer/display.html?nodeId=202048000
 通过短域名Z.cn ，可直接访问亚马逊网站。
 感谢您对亚马逊中国的支持与厚爱，期待您再次光临！ 
 ```
+- 亚马逊 帮助 : [Kindle电子阅读器软件更新](https://www.amazon.cn/gp/help/customer/display.html?nodeId=G54HPVAW86CHYHKS) 
+> Kindle（第7代）    [5.12.2 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.bin)
+
