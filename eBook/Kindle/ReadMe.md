@@ -1,5 +1,5 @@
 - [**亚马逊**](https://www.amazon.cn/) （ https://www.amazon.cn/ 方便好记的短域名: [**z.cn**](https://z.cn) ） [**帮助 HELP**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 
-> **2008.3.14** 老用户，如果您不知道您的Kindle是哪个型号，请访问 [**我的Kindle设备有哪些特性？**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 来查询。
+> **2008.3.14** 老用户，如果您不知道您的Kindle是哪个型号，请访问 [**我的Kindle设备有哪些特性？**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201263790) 来查询。( 开启/关闭 ：[Amazon 两步验证](https://www.amazon.cn/a/settings/approval/setup/howto)  )
 
 >> 亚马逊 帮助: [**Kindle（第7代）电子书阅读器帮助**](https://www.amazon.cn/gp/help/customer/display.html?nodeId=201584980)  ( 
 [联系客服](https://www.amazon.cn/gp/help/customer/contact-us/ref=hp_ss_qs_v3_dv_cu_t2&initialIssue=asin-order?ie=UTF8&ref_=hp_ss_qs_v3_dv_oc#b) )
