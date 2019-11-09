@@ -16,7 +16,7 @@
 >>>
 >>>    注意： “第7代”包含在此设备的名称中，这是因为它是即将发布的第7代Kindle电子书阅读器；并非所有阅读器都以此方法命名。并非所有各代产品均在Amazon.com之外的全球市场出售。
 
-( Amazon.cn：[管理我的内容和设备](https://www.amazon.cn/hz/mycd/myx#/home/content/booksAll/dateDsc/) | 开启/关闭 ：[Amazon 两步验证](https://www.amazon.cn/a/settings/approval/setup/howto)  )
+( Amazon.cn：[管理我的内容和设备](https://www.amazon.cn/hz/mycd/myx#/home/content/booksAll/dateDsc/) | 开启/关闭 ：[Amazon 两步验证](https://www.amazon.cn/a/settings/approval/setup/howto)  ) 搜索阅读专题：[知乎](https://www.amazon.cn/s?k=%E7%9F%A5%E4%B9%8E) 
 
 > 参考：（订单 2014年11月11日 总价￥ 548.00）
 >> 1.《[Kindle电子书阅读器(入门版）：167 ppi电子墨水触控屏、无内置阅读灯、超长续航-Kindle商店-亚马逊中国](https://www.amazon.cn/gp/product/B00KDRNYO4/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)》( 卖家: 亚马逊 ￥ 499.00 )
