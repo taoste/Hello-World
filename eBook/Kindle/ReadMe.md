@@ -29,7 +29,8 @@
 
 如果您的Kindle电子书阅读器无法自动下载最新版本软件，您可手动下载并安装更新：
 
-1. 在电脑上下载设备适用的软件更新文件：https://www.amazon.cn/gp/help/customer/display.html?nodeId=G54HPVAW86CHYHKS
+1. 在电脑上下载设备适用的软件更新文件：
+    https://www.amazon.cn/gp/help/customer/display.html?nodeId=G54HPVAW86CHYHKS
 2. 打开Kindle，使用USB连接线把设备连接至电脑。
 3. 把软件更新文件拖拽到设备上。请确保不要把文件拖到Kindle drive的子文件夹。
 4. 监控文件传输。文件传输完成之后，选择从电脑安全弹出Kindle设备。
