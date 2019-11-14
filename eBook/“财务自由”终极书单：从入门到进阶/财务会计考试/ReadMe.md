@@ -3,7 +3,7 @@
 - 2019年注册会计师全国统一考试练习试卷 http://cpademo.cicpa.org.cn/ 
 > 特别提示  如果要考的小伙伴还没练习过，建议今天必须进国家指定的练习中心练习。注会机考，模拟练习系统http://cpademo.cicpa.org.cn/
 
-- 【[**财政部-官网**](http://www.mof.gov.cn/)】[全国会计专业技术初级资格考试网上报名](http://kjbm.mof.gov.cn/) ( http://kjbm.mof.gov.cn/ )
+- 【[**财政部会计资格评价中心**](http://kzp.mof.gov.cn)】[全国会计专业技术初级资格考试网上报名](http://kjbm.mof.gov.cn/) ( http://kjbm.mof.gov.cn/ )
 > [浙江会计之家](http://kjzj.zjczt.gov.cn/AccountHome/front/index.html) ( http://kjzj.zjczt.gov.cn/ )
 ------------------------------------------------
 
