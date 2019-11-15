@@ -1,6 +1,8 @@
 - 成人网站 [Pornhub](https://www.Pornhub.com)
 
-> 网红主播之SpicyGum/June Liu刘玥截止20190801全部收藏 | 视觉知识博客 | 分享你的福利吧 https://fulizs.net/article/69.html 
+> Pornhub 网红主播之： SpicyGum/June Liu刘玥  @[Pornhub](https://www.pornhub.com/pornstar/june-liu) 、 @[Twitter](https://twitter.com/spicyguml) 于 2019年7月 加入
+
+> [截止20190801全部收藏](https://fulizs.net/article/69.html) | 视觉知识博客 | 分享你的福利吧  
 
 >> 磁力链接下载：magnet:?xt=urn:btih:805329C5FC072C002A8C09A2252D5E9BAF55F628
 
