@@ -1,4 +1,4 @@
-- 成人网站 [Pornhub](https://www.Pornhub.com)
+- 成人网站 [Pornhub](https://www.Pornhub.com)  （年龄验证：Pornhub是一个包含年龄限制内容的成人社区。您必须年满18岁才能进入。）
 
 > Pornhub 网红主播之： SpicyGum/June Liu刘玥  @[Pornhub](https://www.pornhub.com/pornstar/june-liu) 、 @[Twitter](https://twitter.com/spicyguml) 于 2019年7月 加入
 
