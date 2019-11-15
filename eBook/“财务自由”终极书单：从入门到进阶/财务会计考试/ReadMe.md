@@ -5,6 +5,12 @@
 
 - 【[**财政部会计资格评价中心**](http://kzp.mof.gov.cn)】[全国会计专业技术初级资格考试网上报名](http://kjbm.mof.gov.cn/) ( http://kjbm.mof.gov.cn/ )
 > [浙江会计之家](http://kjzj.zjczt.gov.cn/AccountHome/front/index.html) ( http://kjzj.zjczt.gov.cn/ )
+```
+2018年起，浙江省不再统一订购考试教材，考生需自行订购考试教材，
+订购途径可通过财政部会计资格评价中心网站
+（网址：http://kzp.mof.gov.cn/list_warning_bmds.jsp或http://60.208.116.164:9001/kjbook/ ）直接订购，
+也可通过新华书店购买等其他方式。
+```
 ------------------------------------------------
 
 - 《2020年初级会计考试大纲》赶紧领取吧！
