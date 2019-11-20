@@ -29,6 +29,13 @@
 >
 > 天朝的外语教育是世界上最失败的，绝大多数人学了十几年英语，口语能力还是非常差，学校的老师可不会告诉你们上面提到的这些原因。
 
+引申阅读：
+
+《[6个月学会任何一种外语 (豆瓣) ](https://book.douban.com/subject/25953019/)》
+
+《[我们总把要求放的太高《6个月学会任何一种外语》读后感](https://zhuanlan.zhihu.com/p/27570477)》 - 知乎  
+
+
 -------------------------------------------
 
 - [**Google 搜索**](https://www.google.com/search?hl=zh_CN&biw=1920&bih=969&ei=hLbDXdfFH4qGr7wPtZO54As&q=%E8%80%81%E5%8F%8B%E8%AE%B0+site%3Agithub.io) : [老友记 site:github.io](https://cn.bing.com/search?q=%E8%80%81%E5%8F%8B%E8%AE%B0+site%3Agithub.io) - 全季236集（第1~10季）
