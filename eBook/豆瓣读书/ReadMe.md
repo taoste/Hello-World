@@ -7,7 +7,7 @@
 
 - 《【[知乎圆桌](https://www.zhihu.com/topic/19793502)】[别人家的办公室](https://www.zhihu.com/roundtable/office) : [你见过的最舒适的办公环境是什么？](https://www.zhihu.com/question/38868266/answer/858124747)》 - 知乎  
 
-- 《李安解读立体电影](https://m.douban.com/time/column/174/ )》（ [豆瓣时间](https://m.douban.com/time/) ） 
+- 《[李安解读立体电影](https://m.douban.com/time/column/174/)》（ [豆瓣时间](https://m.douban.com/time/) ） 
 
 ------------------------------------------------
 
