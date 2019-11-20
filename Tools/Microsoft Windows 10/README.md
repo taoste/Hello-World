@@ -44,8 +44,6 @@ Alt+F4 关机快捷键。
 
 【 [**Windows10易升**](https://www.microsoft.com/zh-cn/software-download/windows10) 】Windows 10 April 2018 Update 现已推出
 
-
-
 **更新助手** 可以帮助你更新到 Windows 10 的最新版本。若要开始更新，请单击“**立即更新**”。 ( [Win10激活](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md) )
 
 ( **Windows10易升 官方下载：( [Windows10Upgrade9252](https://go.microsoft.com/fwlink/?LinkID=799445)**) 
@@ -92,6 +90,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 > <a href="https://support.microsoft.com/zh-cn/help/4057281/windows-7-support-will-end-on-january-14-2020">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Windwos7.jpg?raw=true" border="0" alt="Windows 7 支持将于 2020 年 1 月 14 日终止" title="【Windows 7 支持生命周期】
 Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为期 10 年的产品支持。在为期 10 年的期限结束后，Microsoft 将停止为 Windows 7 提供支持，以便将精力专注于支持较新的技术和出色的新体验。对 Windows 7 的终止支持具体日期将是 2020 年 1 月 14 日。此后，我们将不再为该产品提供技术帮助和 Windows 更新中有助于保护电脑的软件更新。Microsoft 强烈建议你在 2020 年 1 月之前的某个时间升级到 Windows 10，以避免无法获得所需的服务或支持。"></a>
+
+> [Windows 7 停止支持信息](https://www.microsoft.com/zh-cn/windows/windows-7-end-of-life-support-information) Microsoft  
 
 - [SecurAble - CPU 虚拟化/D.E.P./位数查询](https://www.appinn.com/securable/) - [小众软件](https://www.appinn.com/)
 
