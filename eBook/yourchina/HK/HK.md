@@ -57,6 +57,7 @@ CCTV央视非要用各种办法告诉我们的结论是“香港人是石头”�
 > 別跟我說「閉嘴跪下」就可以免於被中共殺害...納粹怎麼對待猶太人的，難道中共比納粹溫良恭謙讓？
 
 >> <p><a href="https://blog.akanelee.me/2019/11/20/auschwitz-concentration-camp/"><img src="https://pbs.twimg.com/card_img/1197088664154566661/4Sfw26ZW?format=jpg&name=small" border="0" alt="《記住歷史的傷痛：奧斯威辛集中營》" title="《記住歷史的傷痛：奧斯威辛集中營》 · 嫁給 RD 的 UI Designer"></a></p>
+> @[维基百科](https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E5%A8%81%E8%BE%9B%E9%9B%86%E4%B8%AD%E8%90%A5)：
 ```
 奧斯維辛集中營運作時間為 1940 年 5 月～1945 年 1 月，有超過 130 萬人送到此地，約有 110 萬猶大人、23000 吉普賽人、15000 蘇聯戰犯、25000 波蘭政治犯與戰犯等等，最後活著的不到 20 萬人。四年半的時間約有110 萬人在奧斯維辛集中營被殺。
 ```
