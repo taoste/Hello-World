@@ -26,7 +26,12 @@
 
 ```
 
-- 《[**请把这张图打印出来，下次做PPT时对照检查！**](https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA)》 （ @曹将 秋叶PPT 2019-11-22 ）  
+- 《[**请把这张图打印出来，下次做PPT时对照检查！**](https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA)》 （ @曹将 秋叶PPT 2019-11-22 ）
+>> 经常给大家分享PPT技巧，但是很多小伙伴留言告诉我们：需要做整套PPT的时候，还是会大脑空白、手忙脚乱。
+>> 
+>> 今天曹将给大家分享他总结的「演示设计工作清单」，帮你理清PPT演示步骤，提高效率！
+>> 
+>>> 作者：曹将  来源：曹将(ID：CJPPTAO)
 > <p><a href="https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/oxJBB1QtCdoJCP7323kdPibwQm286WPianHIZ5LYkgtic7pxTJLkibMiaOZGUDhTK6mNe251L4B9NK1ws9h6BEfoGXw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" border="0" alt="演示设计工作清单" title="请把这张图打印出来，下次做PPT时对照检查！"></a></p>
 
 ------------------------------------------------------------------------------
