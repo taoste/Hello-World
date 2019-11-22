@@ -41,3 +41,7 @@ CCTV央视非要用各种办法告诉我们的结论是“香港人是石头”�
 >> 回复 @PXAIyJqEyNMyRbv:
 >>
 >>全部應驗
+
+
+<p><a href="https://twitter.com/7NHgRK1ld8rKPpX/status/1197518089786540033">
+<img src="https://pbs.twimg.com/media/EJ5wWJ4U0AAo96a?format=jpg&name=medium" border="0" alt="替代文字二" title="你这么爱国爱党，那你赵老爷让你出2000块孝敬一下，你就不干了？"></a></p>
