@@ -26,6 +26,9 @@
 
 ```
 
+- 《[**请把这张图打印出来，下次做PPT时对照检查！**](https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA)》 （ @曹将 秋叶PPT 2019-11-22 ）  
+> <p><a href="https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/oxJBB1QtCdoJCP7323kdPibwQm286WPianHIZ5LYkgtic7pxTJLkibMiaOZGUDhTK6mNe251L4B9NK1ws9h6BEfoGXw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" border="0" alt="演示设计工作清单" title="请把这张图打印出来，下次做PPT时对照检查！"></a></p>
+
 ------------------------------------------------------------------------------
 
 - 《[**30岁后如何跳出死工资困局完成逆袭？**](https://mp.weixin.qq.com/s/eoJ-BSCre8zgbH_LQ6iRCQ)》 ( WPS会员 2019-10-14 )
