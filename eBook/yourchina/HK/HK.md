@@ -29,6 +29,8 @@ CCTV央视非要用各种办法告诉我们的结论是“香港人是石头”�
 > 
 > 一个为了颜面的故事引发蝴蝶效应！从此改变铁打的江山！
 
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/yourchina/HK/2019.png"/>
+
 - Twitter：心悦白云 （@[PXAIyJqEyNMyRbv](https://twitter.com/PXAIyJqEyNMyRbv/)) · [上午9:21 · 2019年11月21日](https://twitter.com/PXAIyJqEyNMyRbv/status/1197444838712438784)
 > 胡适离开大陆后說：大陆从此必成为一个流氓社会，人心糜烂，道德信仰无存，奢淫虛假并存，成王败寇的流氓法则必貫穿始终，斗与抢成為主旋律，权力与金钱成为行尸走肉的唯一追求，民族全体堕落，历史再无荣光！
 >>
