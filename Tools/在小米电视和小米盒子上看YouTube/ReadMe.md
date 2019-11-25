@@ -32,4 +32,15 @@
 
 - <a href="http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253">[CC/CC极光 - 极米固件|极米刷机|极米升级 - XGIMI</a>
 
+--------------------------------
+
+- 小爱触屏音箱 - @[小米商城(￥249元-299元) ](https://www.mi.com/aispeaker-touch?cfrom=search) | @[拼多多(￥195元)](https://mobile.yangkeduo.com/goods2.html?refer_share_id=Wd9Rf7kOLXCM2BPD2P673iKsVIXf8anY&refer_share_channel=copy_link&refer_share_uid=4983113097&_x_msgid=8425355888214-msg-1568-oXT1yKstQ-ios0-b5b497&_wvx=10&_x_pRec=%7B%22app_name%22%3A%22push_message%22%2C%22m%22%3A%22view_sim_2%22%2C%22goods_id%22%3A%2225198193969%22%7D&_wv=41729&share_uin=LJQ4X42ML7JQPCKBSHKPQCQOBA_GEXDA&page_from=0&_x_src=mkt_push&share_uid=4983113097&_x_campaign=ios_gmv&goods_id=9069960344#pushState) 
+
+<video width="320" height="240" controls="controls">
+  <source src="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/89e12f9be9aeeee877f13a6e7884a466.mp4" type="video/mp4" />
+  <object data="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/89e12f9be9aeeee877f13a6e7884a466.mp4" width="320" height="240">
+  </object>
+</video>
+
+<a href="https://www.mi.com/aispeaker-touch?cfrom=search" rel="tag"><img src="https://i1.mifile.cn/f/i/16/chain/aispeaker-touch/aispeaker-touch-16.jpg" alt="小爱触屏音箱@小米商城" /></a>
 
