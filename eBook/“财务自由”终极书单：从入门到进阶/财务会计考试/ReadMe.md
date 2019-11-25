@@ -27,7 +27,9 @@
 
 - [**东奥会计在线**](http://www.dongao.com/) - 会计职称考试培训「专注会计职业教育21年」( http://www.dongao.com/ )
 
-> [**东奥图书旗舰店**](https://dongaots.tmall.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.3bc67936jGbHnG&shop_id=112529566 ) | [202011狂欢首页-**东奥旗舰店**](https://dongaofw.tmall.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.3bc67936jGbHnG&shop_id=105168601) - 天猫Tmall.com  
+> [**2020年初级会计备考干货精编，名师视频课程抢先学！**](http://www.dongao.com/cjks/mszd/201911051192803.shtml) _东奥会计在线 
+
+- [**东奥图书旗舰店**](https://dongaots.tmall.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.3bc67936jGbHnG&shop_id=112529566 ) | [202011狂欢首页-**东奥旗舰店**](https://dongaofw.tmall.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.3bc67936jGbHnG&shop_id=105168601) - 天猫Tmall.com  
 ------------------------------------------------
 
 - [推荐](https://github.com/taoste/Hello-World/tree/master/github/d.gaodun.cn/ReadMe.md) ：[**高顿财经网站**](https://www.gaodun.cn/) - ACCA培训|CFA培训|CMA培训|CPA培训|FRM培训|会计培训 ( https://www.gaodun.cn/  )
