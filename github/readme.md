@@ -59,6 +59,8 @@ https://github.com/iptv-org/iptv
 
 ---------------------------------
 
+- [**16进制颜色代码（完全）**](https://www.jb51.net/web/19216.html) _ HTML/Xhtml _ 网页制作 _ 脚本之家  
+
 - [设计师收藏精选：今年流行的UI与网页配色](http://www.shejidaren.com/ui-wang-ye-pei-se.html) | [**设计达人**](http://www.shejidaren.com/) 
 
 - [设计师必须了解的色彩理论基础指南](http://www.shejidaren.com/a-guide-to-the-fundamentals-of-color-theory.html) | [**设计达人**](http://www.shejidaren.com/) 
