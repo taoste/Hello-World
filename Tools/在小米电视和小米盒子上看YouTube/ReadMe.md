@@ -21,9 +21,7 @@
 <p>　　Smart YouTube TV里登陆Google账号后，你会发现，YouTube里的订阅、上传、历史什么的功能全部可以正常使用了，完美支持小米遥控器控制，观看视频体验极佳，完全不亚于官方的应用。</p>
 
 <p>　　当然，用户也可以选择安装官方的YouTube应用，但必须安装Google框架等一堆东西，使用体验可能还未必好。</p>
-</div></div>
-
-  
+</div></div>  
 
 <img src="https://camo.githubusercontent.com/707e83049ddab4c941efae7c3e789ebb045f9514/68747470733a2f2f7777772e77696c6c69616d6c6f6e672e696e666f2f75706c6f61642f353632345f312e6a7067" alt="在小米电视和小米盒子上看YouTube-月光博客" width="675" height="" />
 
@@ -42,5 +40,5 @@
   </object>
 </video>
 
-<a href="https://www.mi.com/aispeaker-touch?cfrom=search" rel="tag"><img src="https://i1.mifile.cn/f/i/16/chain/aispeaker-touch/aispeaker-touch-16.jpg" alt="小爱触屏音箱@小米商城" /></a>
+<a href="https://www.mi.com/aispeaker-touch?cfrom=search" rel="tag"><img src="https://camo.githubusercontent.com/7eb2e6b90fbe2967f5b928b0b63e1debbb1ab490/68747470733a2f2f69312e6d6966696c652e636e2f662f692f31362f636861696e2f6169737065616b65722d746f7563682f6169737065616b65722d746f7563682d31362e6a7067" alt="https://i1.mifile.cn/f/i/16/chain/aispeaker-touch/aispeaker-touch-16.jpg" title="小爱触屏音箱@小米商城"/></a>
 
