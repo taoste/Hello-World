@@ -18,6 +18,11 @@
 ```
 --------------------------------------
 
+- Twitter : 冷眼（@[charles984681](https://twitter.com/charles984681/)）  [上午12:43 · 2019年11月25日](https://twitter.com/charles984681/status/1198764029210062850) · Twitter for iPhone
+记者在日本街头采访民众，请问：你愿意为国家献出生命吗？回答：国家存在的目的是让它的国民活的更好，如果一个国家要民众为他而死，那么这个国家就该死，让它死就好了
+
+--------------------------------------
+
 - Twitter : 陆小凤（@[shujuzongzhan](https://twitter.com/shujuzongzhan)）  [下午1:35 · 2019年10月5日](https://twitter.com/shujuzongzhan/status/1180476581300461568) · Twitter for iPhone
 
 > 何谓经济? 经济就是做蛋糕。 
