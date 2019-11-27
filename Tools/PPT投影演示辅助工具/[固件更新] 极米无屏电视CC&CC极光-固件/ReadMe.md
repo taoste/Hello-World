@@ -1,5 +1,7 @@
 - [VPS/购物-微型投影仪✔](https://github.com/Xu-Jian/VPS/blob/master/%E8%B4%AD%E7%89%A9-%E5%BE%AE%E5%9E%8B%E6%8A%95%E5%BD%B1%E4%BB%AA%E2%9C%94) · [Xu-Jian](https://github.com/Xu-Jian/) / [VPS](https://github.com/Xu-Jian/VPS) · GitHub
 
+- [创业公司项目第一发---能上油管的极米](https://jiusanzhou.github.io/Frist-Project/)
+
 ----------------------------------------------------------------------------------------------
 
 - 《[[固件更新] 极米CC&CC极光 V1.2.38固件UI3.0](http://bbs.xgimi.cn/forum.php?mod=viewthread&tid=146397&extra=page%3D1%26filter%3Dtypeid%26typeid%3D253)》 - [固件更新](http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253) - [极米社区官方论坛](http://bbs.xgimi.cn) - XGIMI
