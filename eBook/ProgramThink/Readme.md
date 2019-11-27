@@ -1,5 +1,6 @@
 - [python3入门书籍与在线资料](https://wdd.js.org/python-books-comments.html) | 洞香春
 
+- [一些 HTML 与 JS 的小技巧](https://mi.js.org/2017-10/%E4%B8%80%E4%BA%9BHTML%E4%B8%8EJS%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/) | 米米的博客
 
 ----------------------------------------------------
 
