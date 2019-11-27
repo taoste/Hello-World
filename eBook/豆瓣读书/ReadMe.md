@@ -9,6 +9,8 @@
 
 - 《[李安解读立体电影](https://m.douban.com/time/column/174/)》（ [豆瓣时间](https://m.douban.com/time/) ） 
 
+- 《[时间花在哪里，你就会成为什么样的人](https://wdd.js.org/where-time-you-spend-what-you-will-be.html)》  | [洞香春](https://wdd.js.org/)
+
 ------------------------------------------------
 
 <a href="https://twitter.com/0792z/status/1150922079761522689">引用</a> ：
