@@ -25,6 +25,10 @@ GitHub for mobile https://github.com/mobile
 
 ---------------------------------
 
+- [组织在召唤：如何免费获取一个js.org的二级域名](https://wdd.js.org/how-to-get-jsorg-sub-domain.html) | 洞香春 ( 2018-01-29 )
+
+---------------------------------
+
 iptv-org/iptv: Collection of 8000+ publicly available IPTV channels from all over the world 
 
 https://github.com/iptv-org/iptv 
