@@ -2,6 +2,9 @@
 
 - [创业公司项目第一发---能上油管的极米](https://jiusanzhou.github.io/Frist-Project/)
 
+- [安卓盒子，极米等投影仪免root免谷歌Play服务看youtube，可登录](https://voxhuang.com/document/2018/05/09/SmartYoutube.html) - VoxHuang Blog ( 2018年 05月09日 )
+
+
 ----------------------------------------------------------------------------------------------
 
 - 《[[固件更新] 极米CC&CC极光 V1.2.38固件UI3.0](http://bbs.xgimi.cn/forum.php?mod=viewthread&tid=146397&extra=page%3D1%26filter%3Dtypeid%26typeid%3D253)》 - [固件更新](http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253) - [极米社区官方论坛](http://bbs.xgimi.cn) - XGIMI
