@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------
 
-- 《[[固件更新] 极米CC&CC极光 V1.2.38固件UI3.0](http://bbs.xgimi.cn/forum.php?mod=viewthread&tid=146397&extra=page%3D1%26filter%3Dtypeid%26typeid%3D253)》 - 固件更新 - 极米社区官方论坛 - XGIMI
+- 《[[固件更新] 极米CC&CC极光 V1.2.38固件UI3.0](http://bbs.xgimi.cn/forum.php?mod=viewthread&tid=146397&extra=page%3D1%26filter%3Dtypeid%26typeid%3D253)》 - [固件更新](http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253) - [极米社区官方论坛](http://bbs.xgimi.cn) - XGIMI
 
 极米CC&CC极光 V1.2.38固件UI3.0
 
