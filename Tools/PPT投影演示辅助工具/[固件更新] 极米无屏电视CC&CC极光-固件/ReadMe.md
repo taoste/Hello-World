@@ -4,6 +4,7 @@
 
 - [安卓盒子，极米等投影仪免root免谷歌Play服务看youtube，可登录](https://voxhuang.com/document/2018/05/09/SmartYoutube.html) - VoxHuang Blog ( 2018年 05月09日 )
 
+米米的博客 https://mi.js.org/
 
 ----------------------------------------------------------------------------------------------
 
