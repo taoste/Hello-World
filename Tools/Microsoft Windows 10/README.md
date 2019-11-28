@@ -20,6 +20,8 @@ Win + I 快速打开Win10设置栏。
 Ctrl+Alt+Del 快速打开任务管理器。
 Alt+F4 关机快捷键。
 ```
+> <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/Realtek.jpg" alt="Realtek高清晰音频管理器-界面截图" title="Realtek高清晰音频管理器"/>
+
 ---------------------------------------
 
 - 《[使用快速助手通过远程连接来解决电脑问题](https://support.microsoft.com/zh-cn/help/4027243/windows-10-solve-pc-problems-with-quick-assist)》(适用于： Windows 10) - [Windows 支持](https://support.microsoft.com/zh-cn/help/)
