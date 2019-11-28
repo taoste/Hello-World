@@ -20,4 +20,4 @@ Alt+F4 关机快捷键。
 ```
 ---------------------------------------
 
-<img scr="https://raw.githubusercontent.com/taoste/Hello-World/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/Realtek.jpg"/>
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/Realtek.jpg" alt="Realtek高清晰音频管理器-界面截图" title="Realtek高清晰音频管理器"/>
