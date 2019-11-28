@@ -4,6 +4,9 @@
 
 - 格言语录:[历史上的今天](https://mi.js.org/2019-06/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/) | 米米的博客
 >> 项目地址：[TodayInHistory-Crawler](https://github.com/stevenjoezhang/TodayInHistory-Crawler) ，可以打包下载所有文件。
+
+- [使用python集合进行EXCEL数据分析](https://www.jianshu.com/p/da1eca0283e9) - 简书  (2019.10.29)
+
 ----------------------------------------------------
 
 >  读书是在别人思想的帮助下建立自己的思想
