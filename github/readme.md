@@ -1,4 +1,4 @@
-GitHub for mobile https://github.com/mobile | [配置双重身份验证](https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication ) - GitHub 帮助
+GitHub for mobile https://github.com/mobile | [配置双重身份验证](https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication ) - [GitHub 帮助](https://help.github.com/cn)
 -----------------------------------------------
 🎦 Github Code 编码：
 
