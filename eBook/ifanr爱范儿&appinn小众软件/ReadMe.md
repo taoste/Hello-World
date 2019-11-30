@@ -12,3 +12,4 @@
 -----------------------------------------------------------------------------
 
 - 《[iPhone 6 & 6 Plus 各个国家与地区版本对比兼选购建议](https://gao.md/blog/2014/11/16/iphone-6-buyers-guide/)》  · Mengdi Gao
+>> TL;DR: 进入 [苹果在线商店](https://www.apple.com.cn/cn/iphone/)，用 [招商银行信用卡12期免费分期](https://www.apple.com.cn/cn_cmb/shop/browse/finance/installment_landing) ，国行 iPhone  /  Plus，买买买！
