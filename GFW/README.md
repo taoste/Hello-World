@@ -18,6 +18,7 @@
 > 《[使用古诗词创建好记的密码](https://github.com/bingoohuang/blog/issues/22)》 ·  [Issue #22](https://github.com/bingoohuang/blog/issues/22) · [bingoohuang](https://github.com/bingoohuang/) / [blog](https://github.com/bingoohuang/blog/)
 
 - Github@[evil-huawei](https://github.com/evil-huawei): [Evil Huawei - 华为作过的恶](https://github.com/evil-huawei/evil-huawei)
+( https://evil-huawei.github.io/evil-huawei/ )
 
 -------------------------------------------------------------------
 
