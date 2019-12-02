@@ -6,3 +6,6 @@
 
 - 《[重磅！佛山放松限购，本科首套房不受户籍、个税、社保限制！](https://freewechat.com/a/MjM5NzExODYzNw==/2667509006/1)》| [自由微信 | FreeWeChat](https://freewechat.com/)
 (原创： 八卦女星子 @地产八卦女 2019年11月30日)
+
+- 《[社会崩溃前往往只有几个人才知道真相： 楼塌了，这820条人命你救不救？ ](https://freewechat.com/a/MzU0MTY5NzY0Mg==/2247490365/1)》| [自由微信 | FreeWeChat](https://freewechat.com/)
+(@遮眼看天 2019年11月28日)
