@@ -30,3 +30,4 @@
 
 > 4. [btsync 体验](https://einverne.github.io/post/2016/04/btsync-review.html) | Verne in GitHub (12/25/2016 by Ein Verne) ( <a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/%E7%A5%9Ekey/ReadMe.md">推荐几个常用 KEY</a> )
 
+> 5. [使用 Resilio Sync 备份手机相册](https://mp.weixin.qq.com/s/tTA28OdnQjL-504a-vS1wg) （ 原创： 林兴陆 网林 2019-04-19 ）
