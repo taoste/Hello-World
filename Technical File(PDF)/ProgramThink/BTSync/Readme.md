@@ -22,7 +22,7 @@
 
 > 1. [Resilio Sync - 神奇的文件同步软件，无需服务器让多台电脑互相同步！](https://www.iplaysoft.com/bittorrent-sync.html) | [异次元软件下载](https://www.iplaysoft.com/) ( 2013-08-07 )
 
->> 1.1 [Syncthing - 免费开源替代 Resilio / BT Sync 的文件夹同步工具神器 (搭建同步网盘)](https://www.iplaysoft.com/syncthing.html)( 2017-08-31 )
+>>> 1.1 [Syncthing - 免费开源替代 Resilio / BT Sync 的文件夹同步工具神器 (搭建同步网盘)](https://www.iplaysoft.com/syncthing.html)( 2017-08-31 )
 
 > 2. [科·学·上·网·工·具 与 V·P·N 服务推荐 - 口碑不错的国内外优秀稳定网络加·速·器收集](https://www.iplaysoft.com/fq.html)  | [异次元软件下载](https://www.iplaysoft.com/) 
 
@@ -31,4 +31,5 @@
 > 4. [btsync 体验](https://einverne.github.io/post/2016/04/btsync-review.html) | Verne in GitHub (12/25/2016 by Ein Verne) ( <a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/%E7%A5%9Ekey/ReadMe.md">推荐几个常用 KEY</a> )
 
 > 5. [使用 Resilio Sync 备份手机相册](https://mp.weixin.qq.com/s/tTA28OdnQjL-504a-vS1wg) （ 原创： 林兴陆 网林 2019-04-19 ）
->>  5.1 [使用Resilio Sync轻松构建跨平台P2P资源共享网络](https://mp.weixin.qq.com/s/2ltxUwnJyp5fEhg6GF_HCA) （ 原创： 林兴陆 网林 2019-04-17 ） 
+>>>  5.1 [使用Resilio Sync轻松构建跨平台P2P资源共享网络](https://mp.weixin.qq.com/s/2ltxUwnJyp5fEhg6GF_HCA) （ 原创： 林兴陆 网林 2019-04-17 ） 
+>>>  5.2 [Resilio Sync Home分享指南（续）](https://mp.weixin.qq.com/s/1c1YZPaOBoGOD6yYp5k-jg) （ 原创： 林兴陆 网林 2019-04-18 ）  
