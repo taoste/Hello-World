@@ -89,6 +89,11 @@ http://2dzcx.cdpf.org.cn/taiji/app/zclFwpt/resource/image/search/img_cjrz.jpg
 
 - [中国政府网](http://www.gov.cn/) -《 [残疾人](http://www.cdpf.org.cn/) [服务专栏](http://www.gov.cn/fuwu/cjr/index.htm) 》
 
+
+- [中国残疾人联合会](http://www.cdpf.org.cn) ( http://www.cdpf.org.cn ) 服务热线：12385
+
+> [中国残疾人服务平台](https://service.cdpf.org.cn/api?method=zclWssp.home.index) -[中华人民共和国第二代残疾人证查询服务](http://2dzcx.cdpf.org.cn/cdpf)  （[RSS订阅 | 必应搜索：第三代残疾人证](https://cn.bing.com/search?q=%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%AE%8B%E7%96%BE%E4%BA%BA%E8%AF%81&format=rss)）
+
 ---------------------------------------------------------------------------
 
 - 《[**我想说说农村的医疗保险**](https://t66y.com/htm_data/1910/7/3692549.html)》 - 技術討論區 | 草榴社區 - t66y.com  
