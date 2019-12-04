@@ -100,7 +100,7 @@ Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/language
 >    The Tor Project 是一家美国 501(c)(3) 非营利组织，致力于在线匿名与隐私的研究、开发与教育。 [了解更多有关 The Tor Project 的信息 »](https://www.torproject.org/about/overview.html.en)
 >    
 
-- [ ] 网桥中继  https://bridges.torproject.org  ( 收集[备份](https://github.com/taoste/taoste.github.io/blob/taoste-pages/intl/Tool/hosts/BridgeDB) )
+- [ ] 网桥中继  https://bridges.torproject.org/?lang=zh_CN  ( 收集[备份](https://github.com/taoste/taoste.github.io/blob/taoste-pages/intl/Tool/hosts/BridgeDB) )
 
 第 1 步 下载 [Tor 浏览器](https://www.torproject.org/projects/torbrowser.html)
 第 2 步 获取 [bridges](https://bridges.torproject.org/options)
