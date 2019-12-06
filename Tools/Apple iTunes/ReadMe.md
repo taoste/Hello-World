@@ -8,7 +8,9 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 ( 扫二维码快捷访问 [苹果Apple-Tool](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes)  )
 
+--------------------------------------------------------------------------------------------
 
+- 2019年08月16日：《[苹果为什么老跟“电池”过不去？](https://www.cnbeta.com/articles/tech/879085.htm)》 - Apple iPhone - cnBeta.COM  
 
 --------------------------------------------------------------------------------------------
 
