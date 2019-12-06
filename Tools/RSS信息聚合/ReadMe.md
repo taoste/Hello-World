@@ -4,7 +4,7 @@
 
 - 《[Feedbro Reader Chrome扩展汉化](https://www.52pojie.cn/thread-992569-1-1.html)》 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 
-> 官方最新版可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。
+> 官方最新版可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。（★备注：实测可用）
 ```
 关于RSS可以看这里→
 https://www.runningcheese.com/rss-feed (当我们谈论RSS时，我们谈论些什么？ 出处：奔跑吧奶酪)
