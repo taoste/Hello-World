@@ -42,6 +42,12 @@
         
 --------------------------------------------
 
+- [x] [Feedbro Reader](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) – 带过滤规则、获取全文的 **RSS 信息聚合阅读器** （ 支持：[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) ）
+
+>> [**官方最新版**](https://nodetics.com/feedbro/)（ 支持：[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) ）可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。（★备注：实测可用）
+
+--------------------------------------------
+
 - [**AutoProxy官方网站**](http://autoproxy.org/) -  自定义规则分组
 @[维基百科](https://zh.wikipedia.org/wiki/AutoProxy) 
 
