@@ -10,7 +10,7 @@
 
 - [**下载 Firefox** — 免费网络浏览器](https://www.mozilla.org/zh-CN/firefox/new/) - 最新版 **Firefox Quantum「火狐量子浏览器」** 
 
-( https://www.mozilla.org/zh-CN/firefox/new/ ) (👍点击： 高级安装选项和其他平台 )
+( https://www.mozilla.org/zh-CN/firefox/new/ ) (👍[扩展](https://www.one-tab.com/page/4uICjbl0QLSYFnvLoGdmKA)： 高级安装选项和其他平台 )
 
 Mozilla Firefox 网络浏览器 — [**下载本地化的 Firefox**](https://www.mozilla.org/zh-CN/firefox/all/) — Mozilla
 
