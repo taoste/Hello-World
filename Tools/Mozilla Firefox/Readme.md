@@ -64,6 +64,10 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 《[Mozilla决定：从Firefox 64开始 移除原生RSS订阅和即时书签功能-火狐,RSS,浏览器](https://news.mydrivers.com/1/598/598453.htm)》 ——快科技(原驱动之家)--全球最新科技资讯专业发布平台
 -------------------------------------------------------------------
 
+- 《[Firefox 隐私声明（ 2019 年 9 月 10 日生效 ）](https://www.mozilla.org/zh-CN/privacy/firefox/)》 — Mozilla  
+
+-------------------------------------------------------------------
+
 - Mozilla 正式发布私密文件分享服务 [**Firefox Send**](https://send.firefox.com)，最高支持 2.5GB 文件：https://send.firefox.com
 
 <a href="https://send.firefox.com"><img src="https://camo.githubusercontent.com/d81f3442aca6b98723fe02e0fe1ac61839c2d48c/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4431673463646d55594141716672652e6a7067" border="0" title="Mozilla 正式发布私密文件分享服务 Firefox Send，最高支持 2.5GB 文件：https://send.firefox.com"> </a>
