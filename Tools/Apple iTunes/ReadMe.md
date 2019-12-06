@@ -16,6 +16,13 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 --------------------------------------------------------------------------------------------
 
+- [Apple - 技术支持 - 解决方案](https://getsupport.apple.com/) 
+
+> 《[iPhone、iPad 或 iPod touch 维修前的准备工作](https://support.apple.com/zh-cn/HT201557)》 - Apple 支持
+
+
+--------------------------------------------------------------------------------------------
+
 - 更新到最新版本的 iTunes
 
 (文稿类型: Document) 2018-5-7了解如何在 Mac 或 PC 上获取最新版本的  iTunes。
