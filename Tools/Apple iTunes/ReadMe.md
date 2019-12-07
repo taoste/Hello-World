@@ -10,6 +10,8 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 --------------------------------------------------------------------------------------------
 
+- 2019年12月06日：《[关闭这些设置 你的iPhone再也不用一天两充](https://tech.sina.com.cn/q/life/2019-12-06/doc-iihnzhfz3891036.shtml)》_新浪科技_新浪网  
+
 - 2019年08月16日：《[苹果为什么老跟“电池”过不去？](https://www.cnbeta.com/articles/tech/879085.htm)》 - Apple iPhone - cnBeta.COM  
 
 - 2018年09月27日：《[再过3个月 苹果低价更换iPhone电池的福利就要取消](https://www.cnbeta.com/articles/tech/772393.htm)》  - Apple iPhone - cnBeta.COM  
