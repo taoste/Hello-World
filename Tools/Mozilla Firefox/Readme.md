@@ -288,6 +288,9 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 -no-remote 可以同时运行多个实例
 -private 以隐私模式启动
 
+```
+Chrome 多用户分别建快捷方式（默认参数）：--profile-directory=Default
+```
 > IE浏览器是 -private，chrome是 -incognito ，
 > 这样我们每次启动它们就都是隐身模式了，
 > 而不用每次都要**Firefox：`Ctrl+Shift+p`**或者**chrome：`Ctrl+shift+n`** 。
