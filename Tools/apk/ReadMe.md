@@ -15,6 +15,11 @@
 
 ----------------------------------
 
+💗[**爱思助手**官网](https://www.i4.cn/)_苹果助手_苹果刷机助手_苹果越狱助手 ( https://www.i4.cn/ ) 
+
+----------------------------------
+
+
 💗 [**小众软件**](https://www.appinn.com/) :
 
 - [Forghetti - 不保存密码数据的密码管理器](https://www.appinn.com/forghetti/) @[Download](https://www.forghetti.com/eng/download/a) - [小众软件](https://www.appinn.com/)
