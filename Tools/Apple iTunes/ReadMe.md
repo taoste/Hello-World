@@ -22,7 +22,8 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 > 《[iPhone、iPad 或 iPod touch 维修前的准备工作](https://support.apple.com/zh-cn/HT201557)》 - Apple 支持
 
-
+> 《[在 iPhone 上使用低电量模式延长电池续航能力](https://support.apple.com/zh-cn/HT205234)》 - Apple 支持
+ 
 --------------------------------------------------------------------------------------------
 
 - 更新到最新版本的 iTunes
