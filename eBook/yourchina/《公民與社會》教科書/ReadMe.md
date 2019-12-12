@@ -24,7 +24,7 @@
 
 --------------------------------------
 
-- Twitter : 陆小凤（@[shujuzongzhan](https://twitter.com/shujuzongzhan)）  [下午1:35 · 2019年10月5日](https://twitter.com/shujuzongzhan/status/1180476581300461568) · Twitter for iPhone
+- Twitter : 陆小凤（@[shujuzongzhan](https://twitter.com/shujuzongzhan)） · [下午1:35 · 2019年10月5日](https://twitter.com/shujuzongzhan/status/1180476581300461568) · Twitter for iPhone
 
 > 何谓经济? 经济就是做蛋糕。 
 > 
@@ -39,3 +39,17 @@
 > 最坏制度：分蛋糕的人先拿，还不让人知道他们拿了多少。 
 > 
 > 何谓宣传？宣传就是，让做蛋糕的，感激分蛋糕的。
+
+- Twitter : 朱韵和（@[zhu0588](https://twitter.com/zhu0588/)） · [上午5:56 · 2019年12月12日](https://twitter.com/zhu0588/status/1205003545872715776) 
+```
+@律师邓树林 
+翻阅人民司法史:
+反右时先把律师废了，检察官们很兴奋，没了死对头。
+隔几年我党明察秋毫，把检察院废了。
+没有律师，要检察院何用？
+这回法官很兴奋，自已说了算。
+不久我党再次明察秋毫，把法院废了！
+没有控辩双方，要法官何用？公安说了算。
+这回公安很兴奋。
+然后呢？然后公安被部队军管了
+```
