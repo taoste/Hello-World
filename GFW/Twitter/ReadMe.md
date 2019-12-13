@@ -37,6 +37,12 @@
 这是人性，甚至可以说是人性的弱点。
 因为这样的人性会让人失去对自我能力和客观现实状况的判断能力。
 ```
+> [下午1:47 · 2019年12月12日]()·[TweetDeck](https://help.twitter.com/using-twitter/how-to-tweet#source-labels)
+```
+你们有没有这种同事，一点活就营造出一副全世界他最忙最累的景象，
+白天划水，晚上在公司群里或者发朋友圈说自己加班到凌晨，目的是让领导看见。
+```
+
 > [上午1:10 · 2019年12月13日](https://twitter.com/0792z/status/1205293759639912448)·[TweetDeck](https://help.twitter.com/using-twitter/how-to-tweet#source-labels)
 ```
 大公司一般是冗余组织，作为员工被买断时间，哪怕是偷空干其他的，你都处于待命状态。
