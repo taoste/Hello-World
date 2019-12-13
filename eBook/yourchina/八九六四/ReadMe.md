@@ -45,3 +45,4 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 - 《[**2019民心片行动**](https://wildweiguan.github.io/post/minxinpian2009/)》 | [野生关注](https://wildweiguan.github.io/)  （ 2019-12-10 ）
+> <p><a href="https://wildweiguan.github.io/post/minxinpian2009/"><img src="https://wildweiguan.github.io//post-images/minxinpian2009.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/1575960081190.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/1575960292221.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "></a></p>
