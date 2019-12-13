@@ -72,3 +72,8 @@ CCTV央视非要用各种办法告诉我们的结论是“香港人是石头”�
 約有 110 萬猶大人、23000 吉普賽人、15000 蘇聯戰犯、25000 波蘭政治犯與戰犯等等，最後活著的不到 20 萬人。
 四年半的時間約有110 萬人在奧斯維辛集中營被殺。
 ```
+-------------------------------------------------------------------------------------------------------------
+
+- 声援同道:《[**2019民心片行动**](https://wildweiguan.github.io/post/minxinpian2009/)》 | [野生关注](https://wildweiguan.github.io/)  （ 2019-12-10 ）
+>>  <a href="https://wildweiguan.github.io/post/about/" title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/about.jpg"></a>
+> <p><a href="https://wildweiguan.github.io/post/minxinpian2009/"><img src="https://wildweiguan.github.io//post-images/minxinpian2009.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 ">    <img src="https://wildweiguan.github.io//post-images/1575960081190.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/1575960292221.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/1575961061055.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "></a></p>
