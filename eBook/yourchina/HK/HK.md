@@ -74,6 +74,6 @@ CCTV央视非要用各种办法告诉我们的结论是“香港人是石头”�
 ```
 -------------------------------------------------------------------------------------------------------------
 
-- 声援同道:《[**2019民心片行动**](https://wildweiguan.github.io/post/minxinpian2009/)》 | [野生关注](https://wildweiguan.github.io/)  （ 2019-12-10 ）
->>  <a href="https://wildweiguan.github.io/post/about/" title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/about.jpg"></a>
+- [**声援同道**](https://wildweiguan.github.io/post/stand-with-HK-dalu/) : 《[**2019民心片行动**](https://wildweiguan.github.io/post/minxinpian2009/)》 | [野生关注](https://wildweiguan.github.io/)  （ 2019-12-10 ）
+>>  <a href="https://wildweiguan.github.io/post/stand-with-HK-dalu/" title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/about.jpg"></a>
 > <p><a href="https://wildweiguan.github.io/post/minxinpian2009/"><img src="https://wildweiguan.github.io//post-images/minxinpian2009.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 ">    <img src="https://wildweiguan.github.io//post-images/1575960081190.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/1575960292221.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "><img src="https://wildweiguan.github.io//post-images/1575961061055.png" border="0" alt="2019民心片行动 | 野生关注 " title="2019民心片行动 | 野生关注 "></a></p>
