@@ -12,6 +12,8 @@
 
 - 《[**一个上海底层市民家庭半个世纪的奋斗**](https://mp.weixin.qq.com/s/Pom0SzILDVFojGQlkVI-Tg)》（原创： 自拍 @自PAI 2019-10-29）
 
+ <a href="https://www.zhihu.com/question/22316395/answer/268567820" title="如何用保险保障自己的一生？ - 知乎"><img src="https://pic1.zhimg.com/80/v2-28ecfaf993cf9ee05c43a370e939aa39_hd.jpg"/></a>
+
 ---------------------------------------------
 
 -  《[**小狗钱钱**](https://taoste.github.io/Hello-World/eBook/“财务自由”终极书单：从入门到进阶/小狗钱钱.pdf)》 - 教你开始建立自己的资产金鹅 | 理财就要从娃娃抓起
