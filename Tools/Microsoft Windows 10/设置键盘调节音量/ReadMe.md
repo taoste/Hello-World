@@ -1,4 +1,6 @@
 -   [更 Win10 **杜比全景声2019** 最新版本支持2.0-7.1声道（另附**杜比音效**）](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1025537&ctid=1767) - 『精品软件区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
+> 下载地址：内附自己录制的安装教程（超慢动作录制）
+>> 链接: https://pan.baidu.com/s/10zV9NvMI7DfSTjvc-VmxyA 提取码: u5m3
 >  关于杜比均衡器，想听音乐低音或电音的调音方法
 >> 测试音乐：https://music.163.com/#/artist?id=854363
 
