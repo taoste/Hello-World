@@ -2,7 +2,7 @@
 
 - 《[强大的Tiny Tiny RSS替代品Feedbro-适合新手，无需搭建](https://zhuanlan.zhihu.com/p/62331418)》 - 知乎  
 
-- 《[Feedbro Reader Chrome扩展汉化](https://www.52pojie.cn/thread-992569-1-1.html)》 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+- 《[Feedbro Reader Chrome扩展汉化](https://www.52pojie.cn/thread-992569-1-1.html)》 - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 
 > [**RSS 信息聚合阅读器-Feedbro官方最新版**](https://nodetics.com/feedbro/)（ 支持：[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=zh-CN)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) ）可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。（★[备注](https://github.com/inchoong/go/blob/master/tips/feedbro-subscriptions-20191206-131500.opml)：实测可用）
 ```
