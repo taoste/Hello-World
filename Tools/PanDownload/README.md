@@ -1,6 +1,14 @@
 - 《[微云嘉年华 幸运大抽奖](https://act.qzone.qq.com/vip/meteor/blockly/p/2607x8c16b?trace_detail=%7B%22appid%22%3A%22vab_qboss%22%2C%22ad_id%22%3A137839%7D)》  
 >> 超级会员低至￥0.52元/天
 >> (活动时间：自2019年12月2日至2019年12月11日)
+-----------------------------------------------------------
+
+- 《[**在线查询百度网盘提取码**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=920211&ctid=1767)》 - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
+> 闲着没事做了个在线查询百度网盘提取码的工具，大牛轻喷～！
+>> 命令行版源码：https://github.com/wu-dada/baidupankey
+>> <img scr="https://attach.52pojie.cn/forum/201904/04/000826yyepgkzytok77dt9.png"/>
+
+-----------------------------------------------------------
 
 #万能命令-快捷寻找和直达你想要的各类工具 https://wn.run/cn/ 
 -----------------------------------------------------------
