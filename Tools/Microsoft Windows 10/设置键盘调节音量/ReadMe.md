@@ -1,4 +1,8 @@
-- [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
+-   [更 Win10 **杜比全景声2019** 最新版本支持2.0-7.1声道（另附**杜比音效**）](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1025537&ctid=1767) - 『精品软件区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
+
+---------------------------------------
+
+-   [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
 > [**导入注册表**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/ReadMe.md) (在网上找到了一个导入注册表的方法。)
 ```
