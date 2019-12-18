@@ -7,6 +7,8 @@ https://github.com/taoste/Hello-World/blob/master/github/pnote.net/pan.7z?raw=tr
 
 [**引用**](https://github.com/taoste/Hello-World/blob/master/Tools/PanDownload/README.md) : [**武大大的笔记**](https://pnote.net/) | [百度网盘&蓝奏网盘提取码查询](https://pnote.net/pan/)  ( https://pnote.net/pan/ )
 
+> 2016-12-10:《[**银行卡号,每隔4位数字加一个空格**](https://pnote.net/yin-xing-qia-hao-mei-ge-4wei-shu-zi-jia-yi-ge-kong-ge/)》 
+
 -----------------------------------------------------------
 
 - 《[**在线查询百度网盘提取码**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=920211&ctid=1767)》 - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
