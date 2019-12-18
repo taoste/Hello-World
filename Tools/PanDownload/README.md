@@ -8,6 +8,9 @@
 >> 命令行版源码：https://github.com/wu-dada/baidupankey
 >> <img src="https://attach.52pojie.cn/forum/201904/04/000826yyepgkzytok77dt9.png"/>
 
+- [**武大大的笔记**](https://pnote.net/)  ( https://pnote.net/ )
+>> [百度网盘&蓝奏网盘提取码查询](https://pnote.net/pan/) | 武大大的笔记  ( https://pnote.net/pan/ )
+
 -----------------------------------------------------------
 
 #万能命令-快捷寻找和直达你想要的各类工具 https://wn.run/cn/ 
