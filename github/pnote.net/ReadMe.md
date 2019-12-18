@@ -10,6 +10,7 @@ https://github.com/taoste/Hello-World/blob/master/github/pnote.net/pan.7z?raw=tr
 > 2016-12-10:《[**银行卡号,每隔4位数字加一个空格**](https://pnote.net/yin-xing-qia-hao-mei-ge-4wei-shu-zi-jia-yi-ge-kong-ge/)》 
 
 >> 1. 原生js写法
+
 `
 !function () {
     document.getElementById('bankCard').onkeyup = function (event) {
@@ -22,6 +23,7 @@ https://github.com/taoste/Hello-World/blob/master/github/pnote.net/pan.7z?raw=tr
 `
 
 >> 2. jQuery写法
+
 `
 !function () {
     $('#J_BankCard').on('keyup mouseout input', function () {
