@@ -8,7 +8,7 @@
 
 >> 命令行版源码：https://github.com/wu-dada/baidupankey
 
-> 引用：[**武大大的笔记**](https://pnote.net/) | [百度网盘&蓝奏网盘提取码查询](https://pnote.net/pan/)  ( https://pnote.net/pan/ )
+> [**引用**](https://github.com/taoste/Hello-World/tree/master/github/pnote.net) ：[**武大大的笔记**](https://pnote.net/) | [百度网盘&蓝奏网盘提取码查询](https://pnote.net/pan/)  ( https://pnote.net/pan/ )
 
 >> 2018-03-05:《[**查询百度网盘提取密码**](https://pnote.net/cha-xun-bai-du-wang-pan-ti-qu-mi-ma/)》 
 
