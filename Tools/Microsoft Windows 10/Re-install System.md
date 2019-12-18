@@ -1,3 +1,7 @@
+- [Win10数字激活工具，永久激活。](https://www.52pojie.cn/forum.php?mod=viewthread&tid=988945&ctid=1767) - 『精品软件区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+
+-------------------------------------
+
 【清单list-知识梳理】操作系统-Win10重装-必备软件([Re-install System](https://go.choong.net/win10/Re)):
 
 ❤  办公类：-----------------------
