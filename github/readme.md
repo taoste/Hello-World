@@ -71,6 +71,7 @@ https://github.com/iptv-org/iptv
 ```
 <center>居中显示</center>
 ```
+[**HTML 属性**](https://www.w3school.com.cn/html/html_attributes.asp)： 
 ```
  align="center" 
  ```
