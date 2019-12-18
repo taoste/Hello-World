@@ -6,7 +6,7 @@
 - 《[**在线查询百度网盘提取码**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=920211&ctid=1767)》 - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
 > 闲着没事做了个在线查询百度网盘提取码的工具，大牛轻喷～！
 >> 命令行版源码：https://github.com/wu-dada/baidupankey
->> <img scr="https://attach.52pojie.cn/forum/201904/04/000826yyepgkzytok77dt9.png"/>
+>> <img src="https://attach.52pojie.cn/forum/201904/04/000826yyepgkzytok77dt9.png"/>
 
 -----------------------------------------------------------
 
