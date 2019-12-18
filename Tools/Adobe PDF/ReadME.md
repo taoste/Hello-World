@@ -131,6 +131,19 @@ Creative Cloud 2019 应用程序
 
 >（ [**Adobe cc 2019全系列破解补丁**](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe2019%E5%85%A8%E7%B3%BB%E7%A0%B4%E8%A7%A3%E6%96%87%E4%BB%B6-MPT%E5%87%BA%E5%93%81-%E5%8E%8B%E7%BC%A9%E5%82%A8%E5%A4%87%20(%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%811207).rar?raw=true) 由**知名破解团队MPT组织**制作。[**注释[1](https://xiaobaiol.com/post/6.html)、注释[2](https://blog.csdn.net/WeilaPls/article/details/85521113)]** ）
 
+❤ [**帮女友P图不求人【PSCC插件合集】**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1014342&ctid=1767) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+> 怎么载入？也就是说怎么调出来？
+
+>> 将文件夹解压
+>>
+>> 将解压后的文件夹extensions替换C:\Program Files\Common Files\Adobe\CEP中的extensions文件夹，如果没有\Adobe \CEP这两个文件夹的话按照顺序创建文件夹；
+>>
+>> 打开ps打开窗口，动作，右上角点一下，选择载入动作，将C:\Program Files\Common Files\Adobe\CEP\extensions\Actions中及子文件夹中的动作文件（atn格式文件）载入；
+>>
+>> 打开PS，窗口，扩展功能面板可以看到安装的插件；
+>>
+>> 激活photoback cartoon插件，激活号在另一个文本文档里，亲测2019可用，假如无法使用请尝试插件合集中其他，不要吊死在一棵树上：）
+
 --------------------------------------------------------------------
 
 - 《[**[正则软件] 替代爱剪辑的视频软件[破解附带素材插件资源][58P]**](https://t66y.com/htm_data/1910/7/3682358.html)》 - 技術討論區 | 草榴社區 
