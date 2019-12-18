@@ -131,6 +131,26 @@ Creative Cloud 2019 应用程序
 
 >（ [**Adobe cc 2019全系列破解补丁**](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/Adobe2019%E5%85%A8%E7%B3%BB%E7%A0%B4%E8%A7%A3%E6%96%87%E4%BB%B6-MPT%E5%87%BA%E5%93%81-%E5%8E%8B%E7%BC%A9%E5%82%A8%E5%A4%87%20(%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%811207).rar?raw=true) 由**知名破解团队MPT组织**制作。[**注释[1](https://xiaobaiol.com/post/6.html)、注释[2](https://blog.csdn.net/WeilaPls/article/details/85521113)]** ）
 
+❤ [**PS顶级修图插件最新加强版DR5.0一键完成大师级磨皮**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=976189&ctid=1627) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+内附插件安装教程
+> 此插件只适用于PS 2015-2019版
+>>
+>> 一、 将下载下来的文件夹里面的“DeliciousRetouch 5”文件夹复制到“C:\Program Files（X86）\Common Files\Adobe\CEP\extensions”目录下。
+>>
+>> 二、再把文件夹里的HDRToning 拷贝到“C:\Program Files\Adobe”目录
+>>
+>> 然后打开PS软件，点击菜单栏“窗口”，选择“拓展功能”，再点击“DeliciousRetouch5”即可打开插件面板。
+>>
+>> 三、出现“无法加载扩展，因为它未正确签署”
+>>
+>> 进入第三个文件夹（无法加载扩展,未经正确签署解决方案）双击运行.reg，再次进入PS即可使用扩展了
+>>
+> 【链接已补上，不知道怎么挂了】
+>>
+>> 链接: https://pan.baidu.com/s/1_b20WLDpWX4hWoRr4euXbQ 提取码: bccr
+>>
+>> 链接: https://pan.baidu.com/s/17Eo9Vj8R9nEBe1NOrRYhIQ 提取码: ntfc 
+
 ❤ [**帮女友P图不求人【PSCC插件合集】**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1014342&ctid=1767) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 > 怎么载入？也就是说怎么调出来？
 
