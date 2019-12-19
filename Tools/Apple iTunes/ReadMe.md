@@ -18,9 +18,11 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 --------------------------------------------------------------------------------------------
 
-# Apple 儿童账户
+# Apple 儿童账户 - 家长控制
 
 - [Apple 支持](https://support.apple.com/zh-cn/)：
+
+> 《[使用您孩子的 iPhone、iPad 和 iPod touch 上的“家长控制” ](https://support.apple.com/zh-cn/HT201304)》 - Apple 支持  
 
 > 《[适用于儿童的“家人共享”和 Apple ID](https://support.apple.com/zh-cn/HT201084)》 - Apple 支持  
 
