@@ -18,6 +18,18 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 --------------------------------------------------------------------------------------------
 
+#Apple 儿童账户
+
+> 《[帮助您的孩子设置 iPhone、iPad 或 iPod touch](https://support.apple.com/zh-cn/HT205763)》 - Apple 支持  
+
+其它：
+
+> 《[作为家长如何管理儿童使用智能设备？iOS 和 Mac 可以帮您](https://sspai.com/flipboard/post/45422)》 - 少数派
+
+> 《[苹果的「家人共享」是怎么用的？这篇全面的指南教你把它用成利器](https://zhuanlan.zhihu.com/p/32154459)》 - 知乎
+
+--------------------------------------------------------------------------------------------
+
 - [Apple - 技术支持 - 解决方案](https://getsupport.apple.com/) 
 
 > 《[iPhone、iPad 或 iPod touch 维修前的准备工作](https://support.apple.com/zh-cn/HT201557)》 - Apple 支持
