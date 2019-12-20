@@ -31,6 +31,15 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 - [组织在召唤：如何免费获取一个js.org的二级域名](https://wdd.js.org/how-to-get-jsorg-sub-domain.html) | 洞香春 ( 2018-01-29 )
 
+
+---------------------------------
+
+- 《脚本之家:[**javascript 详解 window.open()方法**](https://www.jb51.net/article/64130.htm)》 - [百度经验](https://jingyan.baidu.com/article/d3b74d64d1af711f76e60955.html)
+
+<code><pre>
+javascript:window.open('http://wpa.qq.com/msgrd?v=3&uin=335090968&site=qq&menu=yes')
+</code></pre>
+
 ---------------------------------
 
 iptv-org/iptv: Collection of 8000+ publicly available IPTV channels from all over the world 
