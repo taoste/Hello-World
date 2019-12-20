@@ -42,4 +42,4 @@
 
 - 《[**【视频教程】1 分钟学会在线协作和身份证提取**](https://mp.weixin.qq.com/s/BrlAx2LK0LOCgDFQClltiA)》  ( WPS会员 2019-10-14 )
 
- 
+- 《[**专业性，才是摆脱职场焦虑的灵药**](https://www.zreading.cn/archives/7418.html)》 – 左岸读书 (2019-12-19) 
