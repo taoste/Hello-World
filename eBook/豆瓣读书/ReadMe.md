@@ -2,6 +2,8 @@
 
 >> <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/%E7%9F%A5%E4%B9%8E%EF%BC%9A%E9%81%93%E7%90%86%E7%B2%BE%E5%8D%8E-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.jpg?raw=true"/> 
 
+- 《[学霸的作息是怎样的，为什么都不会困？](https://www.zhihu.com/question/267346432/answer/790988428)》- 知乎 
+
 ------------------------------------------------
 
 - 《[十年前的你看到现在的自己会不会很失望？](https://mp.weixin.qq.com/s/fJbM2BMenPiuYxboAmChoA)》（ 原创： warfalcon 2019-09-19 ）
