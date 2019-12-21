@@ -1,6 +1,6 @@
 - 《[你有什么道理后悔没有早点知道？](https://www.zhihu.com/question/23819007/answer/770099327)》 - 黛西巫巫的回答 - 知乎
 
->> <img src="https://taoste.github.io/Hello-World/eBook/豆瓣读书/知乎：道理精华-思维导图.jpg?raw=true"/> 
+>> <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/%E7%9F%A5%E4%B9%8E%EF%BC%9A%E9%81%93%E7%90%86%E7%B2%BE%E5%8D%8E-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.jpg?raw=true"/> 
 
 ------------------------------------------------
 
