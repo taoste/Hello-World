@@ -12,8 +12,6 @@
 
 
 > <a href="https://t66y.com/read.php?tid=3478021&page=2 "><img src="https://camo.githubusercontent.com/f32b034c4aeeb80d7d7ed4f5dd19847940088147/687474703a2f2f696d6730322e637765622d7069782e636f6d2f696d616765732f323031352f31312f31362f353436326539326539326664653135392e6a7067" border="0" title="[人间故事20190328113]守了半世清高，到头来又有何用？ - 技術討論區 | 草榴社區 - t66y.com"> </a>
-
   
 
-
-
+> <a href="https://t66y.com/htm_data/1912/7/3745582.html" title="小草上为什么没人谈论爆料革命 - 技術討論區 | 草榴社區 - t66y.com"><img src="https://www.nsaimg.com/2019/12/09/5dee5c0ef0c3d.gif " border="0" title="大唐卫国公"> </a>
