@@ -12,3 +12,5 @@
 >>> 2019年07月08日：《[树莓派4B - 64位Debian-Pi-Aarch64 2.0系统上手](https://www.cnbeta.com/articles/soft/865307.htm)》 - 系统工具 - cnBeta.COM  
 
 >>> 2019年06月24日：《[树莓派4正式发布：性能飙升 配件丰富 依然35美元起售](https://www.cnbeta.com/articles/tech/860439.htm)》 - 硬件 - cnBeta.COM  
+
+>>> 2017年12月17日：《[树莓派真的适合学习Linux系统吗？](https://www.cnbeta.com/articles/tech/680619.htm)》 - Linux - cnBeta.COM  
