@@ -1,3 +1,8 @@
+- 《[你有什么道理后悔没有早点知道？](https://www.zhihu.com/question/23819007/answer/770099327)》 - 黛西巫巫的回答 - 知乎
+
+>> <img src="https://taoste.github.io/Hello-World/eBook/豆瓣读书/知乎：道理精华-思维导图.jpg?raw=true"/> 
+
+------------------------------------------------
 
 - 《[十年前的你看到现在的自己会不会很失望？](https://mp.weixin.qq.com/s/fJbM2BMenPiuYxboAmChoA)》（ 原创： warfalcon 2019-09-19 ）
  
