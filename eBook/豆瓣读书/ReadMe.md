@@ -4,6 +4,13 @@
 
 - 《[学霸的作息是怎样的，为什么都不会困？](https://www.zhihu.com/question/267346432/answer/790988428)》- 知乎 
 
+> 1.饮食
+
+>> 常见食物的综合营养质量指数评分（ONQI）：
+
+>>> <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/NQI食谱图.jpg?raw=true"/> 
+
+
 ------------------------------------------------
 
 - 《[十年前的你看到现在的自己会不会很失望？](https://mp.weixin.qq.com/s/fJbM2BMenPiuYxboAmChoA)》（ 原创： warfalcon 2019-09-19 ）
