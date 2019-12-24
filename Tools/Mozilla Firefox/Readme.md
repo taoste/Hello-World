@@ -189,7 +189,7 @@ https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%
 
 > [**官方最新版**](https://nodetics.com/feedbro/)（ 支持：[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) ）可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。（★备注：实测可用）
 
-- [x]  [护眼扩展](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/?src=search)
+- [x]  [护眼扩展](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/?src=search) （ 支持：[Chrome](https://chrome.google.com/webstore/detail/protect-eye/mkbaaakkfpacbbcpichcnmjdmgagalfa?hl=zh-CN)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/) ）
 这个扩展会将网页背景中刺眼的白色替换为橄榄色、淡黄色、护眼绿色以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力
 
 - [x]  [**Pocket (稍后读)**](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search) － **保存文章、视频等的最佳方式** （支持 [Chrome](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/pocket-select-all/?src=search)）
