@@ -74,6 +74,9 @@ ID：lloccabjgblebdmncjndmiibianflabo
 
 >> [**官方最新版**](https://nodetics.com/feedbro/)（ 支持：[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=zh-CN)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) ）可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。（★备注：实测可用）
 
+- [x]  [**护眼扩展**](https://chrome.google.com/webstore/detail/protect-eye/mkbaaakkfpacbbcpichcnmjdmgagalfa?hl=zh-CN) （ 支持：[Chrome](https://chrome.google.com/webstore/detail/protect-eye/mkbaaakkfpacbbcpichcnmjdmgagalfa?hl=zh-CN)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/protect-eye/) ）
+这个扩展会将网页背景中刺眼的白色替换为橄榄色、淡黄色、护眼绿色以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力
+
 - [ ] 3. **TabCopy**
 > - 快速复制chrome标签页的网站标题和网址链接
 > - [详细信息](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb?hl=zh-cn)
