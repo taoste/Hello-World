@@ -10,6 +10,17 @@
 
 ------------------------------------------------------------------------------------------
 
+- 《[**视频剪辑编辑器 ShotCut v19.09.14 中文绿色便携版*](https://www.52pojie.cn/thread-1062061-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+
+<p><a href="https://www.52pojie.cn/thread-1062061-1-1.html" title="视频剪辑编辑器 ShotCut v19.09.14 中文绿色便携版 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn ">
+<img src="https://attach.52pojie.cn/forum/201911/25/002828q6hpnskes1sphrbc.png"/></p>
+  
+> 链接：https://pan.baidu.com/s/1ElpANrUGtGZBZY8VE3yslg 提取码：kzp8
+
+>> https://www.lanzous.com/i7k7jve
+
+------------------------------------------------------------------------------------------
+
 - [**微信视频压缩工具**](http://mydown.yesky.com/pcsoft/107251473.html) _ [正版免费下载](http://yesky.xzstatic.com/2017/03/15/weixinshipingyasuo.zip)【视频压缩】_天极下载
 
 > 微信视频压缩工具 1.0 （ [本地备份下载](https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7%20v1.0.zip) ）
