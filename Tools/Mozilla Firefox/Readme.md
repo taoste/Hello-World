@@ -126,6 +126,9 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x] 👍《[**To Google Translate 谷歌快译**](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/)》
 > 右键单击一段文本，点击它旁边的“翻译”图标，即可翻译或收听它的发音。
 
+- [x] 👍《[**搜狗**](https://addons.mozilla.org/zh-CN/firefox/addon/sogou/)》 – 下载 🦊 Firefox 搜索工具（zh-CN）
+> 搜狗搜索是搜狐公司于2004年8月3日推出的全球首个第三代互动式中文搜索引擎，域名 www.sogou.com 。搜狗以搜索技术为核心，致力于中文互联网信息的深度挖掘，帮助中国上亿网民加快信息获取速度，为用户创造价值。
+
 - [x] 👍《[**暴力猴**](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN) / [**油猴子**](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)》（支持 [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)） - [Greasy Fork](https://greasyfork.org/zh-CN) - 安全、实用的用户**脚本大全** ( **油猴**官网 https://greasyfork.org/zh-CN )
 1. [Tampermonkey](https://www.zhihu.com/topic/19908612/top-answers) - [知乎](https://www.zhihu.com/)
 > 少数派: [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解](https://zhuanlan.zhihu.com/p/28869740) - [知乎](https://www.zhihu.com/)
