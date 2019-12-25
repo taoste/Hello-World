@@ -29,7 +29,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 - view-source:[**优酷土豆路由宝**](http://wifi.youku.com/) 
-<code><pre>
+```
 <!doctype html>
 <html>
 <head>
@@ -110,4 +110,4 @@ $(document).ready(function(){
 </script>
 </body>
 </html>
-</code></pre>
+```
