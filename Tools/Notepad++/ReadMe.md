@@ -22,7 +22,7 @@ Notepad++不仅有语法高亮度显示，也有语法折叠功能，并且支�
 
 > 2、选择菜单栏上的"settings"，进入"preferences..."。即设置下的首选项，通常用于设置界面的语言、面板和标签。
 
-> 3、进入到首选项界面，选择本地localization下的中文简体，关闭close
+> 3、进入到首选项界面，选择本地[**localization**](https://github.com/taoste/Hello-World/raw/master/Tools/Notepad%2B%2B/localization.7z)下的中文简体，关闭close
 
 > 4、我们可以看到菜单栏上全部显示为中文字符。中文简体设置成功
 
