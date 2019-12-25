@@ -77,6 +77,10 @@ https://github.com/iptv-org/iptv
 ---------------------------------
 
 - [**w3school 在线教程**](https://www.w3school.com.cn/index.html) 
+
+- HTML “展开折叠内容”
+> 《[可折叠的自动伸缩侧边菜单](https://www.mycodes.net/152/7451.htm)》 - HTML源码 - 源码之家 
+
 ```
 <center>居中显示</center>
 ```
