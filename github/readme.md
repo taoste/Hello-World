@@ -79,6 +79,17 @@ https://github.com/iptv-org/iptv
 - [**w3school 在线教程**](https://www.w3school.com.cn/index.html) 
 
 - HTML “展开折叠内容”
+```
+<!DOCTYPE HTML>
+<html>
+<body>
+   <details>
+     <summary>Copyright 2011.</summary>
+     <p>All pages and graphics on this web site are the property of W3School.</p>
+   </details>
+</body>
+</html>
+```
 > 《[可折叠的自动伸缩侧边菜单](https://www.mycodes.net/152/7451.htm)》 - HTML源码 - 源码之家 
 
 ```
