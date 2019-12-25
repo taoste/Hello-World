@@ -1,6 +1,14 @@
-- 《[**微信读书网页版悄然上线：体验优秀**](https://www.cnbeta.com/articles/tech/914049.htm) - Tencent WeChat 腾讯微信 - cnBeta.COM  
+- 《[**微信读书网页版悄然上线：体验优秀**](https://www.cnbeta.com/articles/tech/914049.htm)》 - Tencent WeChat 腾讯微信 - cnBeta.COM  
 ( 日期：2019年11月23日 18:33 )
 >微信读书网页版：地址 https://weread.qq.com/ 。
+
+- 《[**微信文章导出工具**](https://www.52pojie.cn/thread-1076387-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+
+> 分享一款微信文章导出为word、pdf的工具！最重要是免费的！
+
+>> 链接：https://pan.baidu.com/s/1GdXoYjGGaOragjmwNDoYjQ
+>> 提取码：9cmr 
+>> img src="https://attach.52pojie.cn/forum/201912/19/111111oiirr888xgmu5rg8.png"/>
 
 ------------------------------------------------------------------------------------------
 - 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/) ( 日期： 2019年7月15日 )
