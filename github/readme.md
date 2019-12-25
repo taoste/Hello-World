@@ -48,7 +48,7 @@ https://github.com/iptv-org/iptv
 
 ---------------------------------
 
--  [<img>](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img) ：图像嵌入元素 - HTML（超文本标记语言） | MDN
+-  [< img >](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img) ：图像嵌入元素 - HTML（超文本标记语言） | MDN
 
 
 -  [< kbd >](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/kbd) - [HTML（超文本标记语言）](https://developer.mozilla.org/zh-CN/docs/Web/HTML)  - [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
