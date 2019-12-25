@@ -1,4 +1,4 @@
-# **Notepad++**  [**官网**](https://notepad-plus-plus.org/) ( @[Github](https://github.com/notepad-plus-plus/notepad-plus-plus) )
+# **Notepad++(文本编辑器)**  [**官网**](https://notepad-plus-plus.org/) ( @[Github](https://github.com/notepad-plus-plus/notepad-plus-plus) ) 本地下载：[npp V7.8.2.bin.minimalist.x64 绿色多国语言版](https://github.com/taoste/Hello-World/raw/master/Tools/Notepad%2B%2B/Notepad%2B%2BV7.8.2.bin.minimalist.x64.7z) / [npp V6.1.2  绿色多国语言版](https://github.com/taoste/Hello-World/raw/master/Tools/Notepad%2B%2B/Notepad%2B%2BV6.1.2.rar)
 ------------------------------------------------------------
 
 > @[维基百科](https://zh.wikipedia.org/zh-cn/Notepad%2B%2B) ：
