@@ -14,6 +14,11 @@
 
 - [深入浅出Python 巴里著 中文 PDF版 [37M] 电子书 下载](https://www.jb51.net/books/67325.html) - [脚本之家](https://www.jb51.net/)
 
+- [《**零基础学Python**》全彩版**PDF**](https://www.52pojie.cn/thread-1032896-1-1.html) - 『电子书屋』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn
+
+>>  下载：https://pan.baidu.com/s/1C8T38c7_okAsmYCVHU8yAg
+>>  秘钥：k8ih
+> <img scr="https://attach.52pojie.cn/forum/201910/04/073403k33x1sozxus2msaz.jpg"/>
 --------------------------------------------------------
 
 - [《**从零开始学Python网络爬虫**》 ISBN:978-7-111-57999-1](http://www.hzcourse.com/web/refbook/detail/7515/208) – [华章课堂](http://www.hzcourse.com/)
