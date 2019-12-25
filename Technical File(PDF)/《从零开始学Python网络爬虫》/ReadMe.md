@@ -18,7 +18,7 @@
 
 >>  下载：https://pan.baidu.com/s/1C8T38c7_okAsmYCVHU8yAg
 >>  秘钥：k8ih
-> <img scr="https://attach.52pojie.cn/forum/201910/04/073403k33x1sozxus2msaz.jpg"/>
+>  <a href="https://www.52pojie.cn/thread-1032896-1-1.html"><img src="https://attach.52pojie.cn/forum/201910/04/073403k33x1sozxus2msaz.jpg" alt="《零基础学Python》全彩版PDF"></a>
 --------------------------------------------------------
 
 - [《**从零开始学Python网络爬虫**》 ISBN:978-7-111-57999-1](http://www.hzcourse.com/web/refbook/detail/7515/208) – [华章课堂](http://www.hzcourse.com/)
