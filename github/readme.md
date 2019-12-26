@@ -31,7 +31,7 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 - [组织在召唤：如何免费获取一个js.org的二级域名](https://wdd.js.org/how-to-get-jsorg-sub-domain.html) | 洞香春 ( 2018-01-29 )
 
-
+- [利用Github和hexo搭建个人免费博客详细过](https://lures2019.github.io/2019/12/08/%E5%88%A9%E7%94%A8Github%E5%92%8Chexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E8%BF%87%EF%BC%9A/)  | 空谷小莜蓝 ( 2019-12-08 )
 ---------------------------------
 
 - 《脚本之家:[**javascript 详解 window.open()方法**](https://www.jb51.net/article/64130.htm)》 - [百度经验](https://jingyan.baidu.com/article/d3b74d64d1af711f76e60955.html)
