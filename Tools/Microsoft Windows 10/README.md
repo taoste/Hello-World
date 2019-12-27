@@ -58,7 +58,7 @@ Alt+F4 关机快捷键。
 
 **更新助手** 可以帮助你更新到 Windows 10 的最新版本。若要开始更新，请单击“**立即更新**”。 ( [Win10激活](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md) )
 
-( **Windows10易升 官方下载：( [Windows10Upgrade9252](https://go.microsoft.com/fwlink/?LinkID=799445)**) 
+( **[Windows10易升](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/Windows10Upgrade9252.exe) [官方下载](https://url.cn/5DMm2wi) ：( [Windows10Upgrade9252](https://go.microsoft.com/fwlink/?LinkID=799445)**) 
 
 系统ISO文件下载完成后务必进行SHA1校验（推荐使用[iHasher](iHasher-v0.2.exe)）
 
