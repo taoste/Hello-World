@@ -31,6 +31,13 @@
 
 -----------------------------------------------------------------------
 
+- [可编辑世界地图、中国地图及中国各省份地图PPT模板](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1067222&ctid=1668) - 『福利经验』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
+
+>> 链接：https://pan.baidu.com/s/1G1O7HkMrZujtlHUuaFqTcw
+>> 提取码：t6ss 
+
+-----------------------------------------------------------------------
+
 💗 【提词器】 手机app / iPAD变身提词器：
 
 - [Parrot Teleprompter - 适合于拍摄视频的「提词器」](https://www.appinn.com/parrot-teleprompter/) (@[iPhone / iPad](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn)) - [小众软件](https://www.appinn.com/p)
