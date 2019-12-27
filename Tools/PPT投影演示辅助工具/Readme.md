@@ -10,6 +10,19 @@
 
 > 【图示】*ZoomIt基本功能与快捷键操作*(思维导图)
  <img src="https://github.com/taoste/Hello-World/blob/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/ZoomIt%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%B8%8E%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%93%8D%E4%BD%9C(%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE).png?raw=true"/>
+ 
+-----------------------------------------------------------------------
+
+- [政府采购版的WPS专业版，无广告，无弹窗，欢迎下载。](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1057762&ctid=1668) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
+```
+本版本为珠海市政府采购的专业版，安装包内已内含注册码，安装即可永久使用。
+
+如果不喜开始界面的政府商标，在安装文件夹中删除OEM文件夹即可。
+
+这个政府采购版是WPS专业版，经过本人安装使用，亲测无广告，无弹窗，欢迎下载。
+```
+>> 下载链接：https://pan.baidu.com/s/1l0YmYJaL8vycZh-au2FJiA
+>> 提取码：j9ww
 
 -----------------------------------------------------------------------
 
