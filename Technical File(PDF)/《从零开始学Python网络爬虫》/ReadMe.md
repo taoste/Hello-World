@@ -1,4 +1,8 @@
-- [【139MB】从零开始学Python网络爬虫PDF下载](https://blog.sina.com.cn/s/blog_af19001e0102x466.html)_新浪博客
+- [[小甲鱼]**零基础入门学习Python**](https://www.bilibili.com/video/av4050443/?p=1) _[哔哩哔哩](https://www.bilibili.com/) (゜-゜)つロ 干杯~-bilibili (**615.5万播放 · 12.9万弹幕**) 
+
+--------------------------------------------------------
+
+-[【139MB】从零开始学Python网络爬虫PDF下载](https://blog.sina.com.cn/s/blog_af19001e0102x466.html)_新浪博客
 
 > 链接：https://share.weiyun.com/54PJTxE 密码：yu8tw9
 
