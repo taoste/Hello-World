@@ -48,9 +48,9 @@ Alt+F4 关机快捷键。
  （ 少数派 2019-12-27 ）
 > 关注少数派（ID：sspaime），在后台回复「Win」即可获得下载链接，如下。
 
->> [**易升**](https://url.cn/5DMm2wi)：https://url.cn/5DMm2wi
+>> [**易升**](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/Windows10Upgrade9252.exe)：https://url.cn/5DMm2wi
 
->> [**Windows Media Creation Tool**](https://url.cn/5WZjGPC) ：https://url.cn/5WZjGPC
+>> [**Windows Media Creation Tool**](https://www.microsoft.com/zh-cn/software-download/windows10) ：https://url.cn/5WZjGPC
 
 ---------------------------------------
 
