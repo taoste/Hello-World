@@ -1,4 +1,4 @@
-- [[小甲鱼]**零基础入门学习Python**](https://www.bilibili.com/video/av4050443/?p=1) _[哔哩哔哩](https://www.bilibili.com/) (゜-゜)つロ 干杯~-bilibili (**615.5万播放 · 12.9万弹幕**) 
+- 2016-03-09：[[小甲鱼]**零基础入门学习Python**](https://www.bilibili.com/video/av4050443/?p=1) _[哔哩哔哩](https://www.bilibili.com/) (゜-゜)つロ 干杯~-bilibili (**615.5万播放 · 12.9万弹幕**) 
 
 >> 2013-8-8：《[每个程序员都应该学习使用Python或Ruby](https://fishc.com.cn/thread-35584-1-1.html)》,Python交流,技术交流区,鱼C论坛 - Powered by Discuz!  
 
