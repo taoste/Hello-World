@@ -7,6 +7,7 @@
 - [Python 资源大全中文版](https://www.52pojie.cn/thread-1081229-1-1.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn 
 
 - [Pythone新手学习导图](https://www.52pojie.cn/thread-806162-1-5.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+>> 链接：https://pan.baidu.com/s/1jyqfswuUTnmMZV0gMUDuww   提取码：6ccf
 
 ----------------------------------------------------------------------------------------------------------------
 
