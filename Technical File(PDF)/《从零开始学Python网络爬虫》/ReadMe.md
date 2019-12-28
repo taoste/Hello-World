@@ -9,6 +9,8 @@
 - [Pythone新手学习导图](https://www.52pojie.cn/thread-806162-1-5.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 >> 链接：https://pan.baidu.com/s/1jyqfswuUTnmMZV0gMUDuww   提取码：6ccf
 
+- [Python统计三国演义人物出场次数](https://www.52pojie.cn/thread-1033479-1-11.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
+
 ----------------------------------------------------------------------------------------------------------------
 
 - [三合一收款二维码](https://www.52pojie.cn/thread-699943-1-3.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|  www.52pojie.cn  
