@@ -18,6 +18,8 @@
 > 免费通道
 >> 链接：https://pan.baidu.com/s/1qZwaW48 密码：d9pq
 
+> [35套模板的五合一收款码小程序源码](https://www.52pojie.cn/thread-961035-1-11.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+
 - [在线二维码图片生成器](http://topscan.com/) _二维码扫描软件下载_二维码 
 
 - [【分享】某音去水印播放](https://www.52pojie.cn/thread-754899-1-5.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
