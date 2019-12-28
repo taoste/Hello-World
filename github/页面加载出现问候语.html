@@ -1,0 +1,48 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>页面加载出现问候语-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+</style>
+</head>
+<body>
+<div>
+    <p>hi&nbsp;!&nbsp;<span id="Hello"></span></p>
+</div>
+
+<script>
+// 在页面加载是就掉用这个函数
+window.onload = function() {
+    // 定义一个变量，获取当前时间
+    var h = (new Date()).getHours();
+    // var h = 12; //可以随便输入数字测试效果。
+    // 如果h大于8小于12，则输出上午好，否则往下执行。
+    if (h >= 8 && h < 12)
+        // 在定义一个变量用来定义 问候语 有两种写法
+        // var s = '<span>上午好</span>';
+        // document.getElementById("Hello").innerHTML = s;
+        // 可以这么写
+        document.getElementById("Hello").innerHTML = '<span>上午好</span>';
+    if (h >= 12 && h < 14)
+        var s = '<span>中午好</span>';
+    // 获取到这个id, 同时将html代码 插进去。
+    document.getElementById("Hello").innerHTML = s;
+    if (h >= 14 && h < 18)
+        var s = '<span>下午好</span>';
+    document.getElementById("Hello").innerHTML = s;
+    if (h >= 18 && h <= 24)
+        var s = '<span>晚上好</span>';
+    document.getElementById("Hello").innerHTML = s;
+    if (h >= 0 && h <= 5)
+        var s = '<span>凌晨好</span>';
+    document.getElementById("Hello").innerHTML = s;
+    if (h >= 5 && h < 8)
+        var s = '<span>早上好</span>';
+    document.getElementById("Hello").innerHTML = s;
+}
+</script>
+
+</body>
+</html>

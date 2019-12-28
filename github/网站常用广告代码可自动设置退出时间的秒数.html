@@ -1,0 +1,122 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>网站常用广告代码可自动设置退出时间的秒数-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+<style>
+* {
+	margin:0 auto;
+	padding:0;
+}
+a {
+	text-decoration:none;
+}
+.body-img {
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:2%;
+}
+.body-img .close>a.off {
+	float:right;
+	width:40px;
+	height:40px;
+	background-color:red;
+	text-align:center;
+	line-height:40px;
+}
+.close {
+	float:right;
+	position:relative;
+	right:35%;
+}
+.time {
+	float:right;
+}
+
+.body {
+	display:block;
+	margin:200px auto  200px 600px;
+}</style>
+</head>
+<body>
+<div class="body-img">
+    <div class="close">      
+       <a href="javascript:void(0)" class="off">X</a>
+    </div>
+    <p class="time">   倒计时&nbsp;<span id="conedown"></span>&nbsp;秒广告自动结束</p>
+    <div>
+        
+        <img src="http://www.jq22.com/img/cs/500x300-1.png" width="100%">
+    </div>
+</div>
+
+
+<div class="body">
+    <p>作用是可以用来做大屏广告,因为公司需要,我是在jquery中找了两个例子,来参考的,插件库里都是大神,膜拜</p>
+    <p>注释标注的很详细,可以看看,也没有什么太难的,(因为我也不会,哈哈哈),还请大家见谅,多多指教</p>
+    <p>想弄的图片没弄上难受</p>
+    <p>随意一点,给您个惊喜,祝您生活愉快,万事如意.</p>
+    <p>我目前的梦想是成为一名全栈大神,然后挣钱,出去旅游,加油!</p>
+</div>
+
+
+<script>
+window.setInterval(function() {
+      {
+          // 可以将animate换成fadein  这个效果你们可以看看
+          $(".body-img").animate(); //直接调取函数中的 class类.可以查手册 animate 匹配正在执行动画效果的元素
+      }
+  }); //换成fadein的话要记的在  })这个里面加数字,比如   },1000);
+  $(function() {
+      //这是个点击事件,  判断点击关闭
+      $(".body-img .off,.body-img").click(function() {
+          $(".body-img").fadeOut(200); //这个是  淡出效果明显,可以随意增改查看效果.
+      });
+  });
+  window.setTimeout(function() {
+      {
+          $(".body-img").remove(); //删除获取的元素，将之清空,直接删除
+      }
+  }, 5000);
+
+
+
+  // 获取时间 秒数
+  $(function() {
+      //定义了一个函数
+      var autoJump = {
+          // 定义的秒数,可以随意更改
+          t: 5,
+          timer: null,
+          // 要获取时间的  ID
+          el: '#conedown',
+          render: function() {
+              // 调用这个ID  和要获取的秒数时间
+              $(this.el).html(this.t);
+          },
+          // 初始化函数
+          init: function() {
+              // 调用 render 函数
+              this.render();
+              var _this = this;
+              _this.timer = setInterval(function() {
+                  // 调用上面定义好的  t  来判断,如果大于1  就--
+                  if (_this.t < 1) {
+                      _this.jump();
+                      clearInterval(_this.timer);
+                  } else {
+                      _this.t--;
+                      _this.render();
+                  }
+              }, 1000)
+          }
+      };
+      // 初始化这个数值
+      autoJump.init();
+  })
+</script>
+
+</body>
+</html>

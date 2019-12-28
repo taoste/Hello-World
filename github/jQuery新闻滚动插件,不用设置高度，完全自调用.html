@@ -1,0 +1,132 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jQuery新闻滚动插件,不用设置高度，完全自调用-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,img {
+	margin:0;
+	padding:0;
+}
+ul,ol {
+	list-style:none;
+}
+a {
+	color:#666;
+	text-decoration:none;
+}
+h3 {
+	margin:0 auto;
+	width:750px;
+	margin-top:200px;
+}
+.box {
+	width:750px;
+	margin:0 auto;
+	height:500px;
+	padding-top:50px;
+}
+/* 核心CSS --下面*/
+        .scroll-wrap {
+	position:relative;
+	width:100%;
+	overflow:hidden;
+}
+#scroll {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+/* 核心CSS --上面 */
+        #scroll li {
+	font-size:30px;
+}
+/* 核心CSS */</style>
+</head>
+<body>
+<h3>新闻滚动插件---3秒滚动一次</h3>
+<div class="box">
+    <div class="scroll-wrap">
+        <ul id="scroll">
+            <li>
+                <a href="#">
+                            今天是新闻事件1
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件2
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件3
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件4
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件5
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件6
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件7
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件8
+                        </a>
+            </li>
+            <li>
+                <a href="#">
+                            今天是新闻事件9
+                        </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<script>
+scroll_new()
+
+function scroll_new() {
+    var flag = 0 //初始化移动次数
+    var $ul_yd_height = 0
+    $ul = $('#scroll')
+    $li = $('#scroll li')
+    $li_height = $li.height() //获取li的高度
+    $li.first().clone(true).appendTo($ul);
+    $('.scroll-wrap').height($li_height)
+
+    function scroll() {
+        $ul_yd_height += $li_height //累加li移动的高度
+        flag++ //动一次加一次
+        if (flag === $li.length + 1) { //让动几次与li的个数作对比，如果相等，则初始化代码
+            $ul_yd_height = 0 //初始化 ul定位的top
+            $ul.css({ //初始化 ul定位的top 静默操作
+                'top': 0
+            })
+            flag = 0 //初始化标记
+        }
+        $ul.animate({
+            'top': -$ul_yd_height
+        }, 400)
+    }
+    setInterval(scroll, 3000) //在指定的时间调用函数
+}
+</script>
+
+</body>
+</html>

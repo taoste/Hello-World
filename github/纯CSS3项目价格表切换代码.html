@@ -1,0 +1,228 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>纯CSS3项目价格表切换代码-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
+	* {
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.frame {
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:400px;
+	height:400px;
+	margin-top:-200px;
+	margin-left:-200px;
+	border-radius:2px;
+	box-shadow:4px 8px 16px 0 rgba(0,0,0,0.1);
+	overflow:hidden;
+	background:#12c2e9;
+	background:linear-gradient(45deg,#f64f59,#c471ed,#12c2e9);
+	color:#333;
+	font-family:'Open Sans',Helvetica,sans-serif;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+}
+.center {
+	position:absolute;
+	top:50%;
+	left:50%;
+	-webkit-transform:translate(-50%,-50%);
+	transform:translate(-50%,-50%);
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+p {
+	text-align:center;
+	color:#666;
+	font-size:0.7rem;
+	margin-bottom:10px;
+}
+p.title {
+	font-size:0.8rem;
+	font-weight:700;
+	background:#12c2e9;
+	color:#f0f0f0;
+	padding:10px 0;
+}
+p .cost {
+	display:block;
+	font-weight:700;
+	font-size:2rem;
+}
+hr {
+	color:#eee;
+	border:0;
+	height:0;
+	border-top:3px solid rgba(0,0,0,0.1);
+	border-bottom:4px solid rgba(255,255,255,0.3);
+	width:60%;
+	margin:2px auto;
+}
+hr:nth-of-type(2n+2) {
+	width:50%;
+}
+.pack {
+	width:110px;
+	box-shadow:2px 2px 2px rgba(0,0,0,0.3);
+	background:#fff;
+	height:160px;
+	display:flex;
+	flex-direction:column;
+	transition:all 0.5s ease;
+}
+.pack:hover {
+	-webkit-transform:scale(1.1);
+	transform:scale(1.1);
+}
+.pack:hover .title {
+	background:#c471ed;
+}
+.pack.pro {
+	margin:0 10px;
+}
+.pack.pro:hover ~ .stats .users .progress .value {
+	width:50%;
+}
+.pack.pro:hover ~ .stats .space .progress .value {
+	width:66%;
+}
+.pack.pro:hover ~ .stats .projects .progress .value {
+	width:42%;
+}
+.pack.basic:hover ~ .stats .users .progress .value {
+	width:2%;
+}
+.pack.basic:hover ~ .stats .space .progress .value {
+	width:5%;
+}
+.pack.basic:hover ~ .stats .projects .progress .value {
+	width:7%;
+}
+.pack.premium:hover ~ .stats .users .progress .value {
+	width:100%;
+}
+.pack.premium:hover ~ .stats .space .progress .value {
+	width:100%;
+}
+.pack.premium:hover ~ .stats .projects .progress .value {
+	width:100%;
+}
+.stats {
+	width:350px;
+	height:160px;
+	background:rgba(255,255,255,0.4);
+	font-size:0.7rem;
+	color:#333;
+	margin-top:20px;
+	padding:10px;
+}
+.stats > div {
+	display:flex;
+	flex-direction:column;
+}
+.stats > div .labels {
+	display:flex;
+	justify-content:space-between;
+}
+.stats > div .progress {
+	width:100%;
+	height:10px;
+	background:#ddd;
+	margin-top:5px;
+	border-radius:5px;
+}
+.stats > div .progress .value {
+	background:linear-gradient(to right,#00d2ff,#3a7bd5);
+	height:100%;
+	border-radius:5px;
+	width:0;
+	transition:all 0.7s ease;
+}
+.stats .space {
+	margin:20px 0;
+}
+</style>
+</head>
+<body>
+<div class="frame">
+    <div class="center">
+        <div class="pack basic">
+            <p class="title">Basic</p>
+            <p><span class="cost">$5</span> per month</p>
+            <div class="hr">
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+            </div>
+        </div>
+        <div class="pack pro">
+            <p class="title">Pro</p>
+            <p><span class="cost">$10</span> per month</p>
+            <div class="hr">
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+            </div>
+        </div>
+        <div class="pack premium">
+            <p class="title">Premium</p>
+            <p><span class="cost">$20</span> per month</p>
+            <div class="hr">
+                <hr>
+                <hr>
+                <hr>
+                <hr>
+            </div>
+        </div>
+        <div class="stats">
+            <div class="users">
+                <div class="labels">
+                    <span class="min">5 Users</span>
+                    <span class="max">100 Users</span>
+                </div>
+                <div class="progress">
+                    <div class="value"></div>
+                </div>
+            </div>
+            <div class="space">
+                <div class="labels">
+                    <span class="min">20GB</span>
+                    <span class="max">200GB</span>
+                </div>
+                <div class="progress">
+                    <div class="value"></div>
+                </div>
+
+            </div>
+            <div class="projects">
+                <div class="labels">
+                    <span class="min">1 Project</span>
+                    <span class="max">50 Projects</span>
+                </div>
+                <div class="progress">
+                    <div class="value"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="text-align:center;margin:50px 0; font:normal 14px/24px 'MicroSoft YaHei';">
+</div>
+
+<script>
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>图像的阴影处理-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+body {
+	background:green;
+	padding:0;
+	margin:0;
+}
+.cover {
+	width:100vw;
+	height:100vh;
+	background-image:url("https://picsum.photos/id/545/800/600");
+	background-size:100vw 100vh;
+	filter:grayscale(1);
+	overflow:hidden;
+}
+.cursor {
+	top:0;
+	left:0;
+	position:absolute;
+	height:300px;
+	width:300px;
+	border-radius:50%;
+	background:url("https://picsum.photos/id/545/800/600");
+	background-attachment:fixed;
+	background-size:100vw 100vh;
+	border:1px dashed;
+}
+</style>
+</head>
+<body>
+<div class="cover"></div>
+<div class="cursor"></div>
+
+<script>
+let doc = document.getElementsByTagName('html')[0];
+let circle = document.querySelector(".cursor");
+
+function move(e) {
+    let y = e.pageY - 150 + "px";
+    let x = e.pageX - 150 + "px";
+    // console.log(y,x);
+    circle.style.top = y;
+    circle.style.left = x;
+}
+
+doc.addEventListener("mousemove", move, false);
+window.addEventListener("devicemotion", function() {
+    let x = event.accelerationIncludingGravity.x;
+    let y = event.accelerationIncludingGravity.y;
+
+    circle.style.top = y * 150 + "px";
+    circle.style.left = x * -150 + "px";
+}, false);
+</script>
+
+</body>
+</html>

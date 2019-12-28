@@ -1,0 +1,260 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>模拟微信互发信息-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+* {
+	margin:0px;
+	padding:0px;
+}
+#main {
+	width:90%;
+	margin:10px auto;
+}
+#box {
+	float:left;
+	margin:20px 120px;
+}
+#top {
+	width:310px;
+	padding:10px 20px;
+	color:white;
+	background-color:lightgreen;
+	font-size:18px;
+	font-family:"微软雅黑";
+	font-weight:bold;
+}
+#content {
+	background-color:white;
+}
+select {
+	width:350px;
+	height:470px;
+	background-color:white;
+	padding:10px;
+	border:2px solid red;
+}
+#bottom {
+	width:310px;
+	background-color:red;
+	padding:10px 20px;
+}
+.sendText {
+	height:25px;
+	width:210px;
+	font-size:16px;
+}
+.sendBtn {
+	width:65px;
+	height:30px;
+	float:right;
+	background-color:gold;
+	color:white;
+	text-align:center;
+	font-size:18px;
+}
+span {
+	background-color:lightgreen;
+	color:#000;
+	padding:10px 30px;
+}
+option {
+	padding:5px 10px;
+	margin-top:10px;
+	border-radius:5px;
+	width:10px;
+	min-height:20px;
+}
+.optionRight {
+	background-color:lightgreen;
+}
+.optionLeft {
+	background-color:lightblue;
+}
+</style>
+</head>
+<body>
+<p id="main">
+
+    </p><table width="800" border="1">
+        <tbody><tr>
+            <td>
+                <p id="box">
+
+                    </p><p id="top" align="left"><span>你</span></p>
+                <p></p>
+
+
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                <p id="box">
+
+                    </p><p id="top"><span>他</span> </p>
+                <p></p>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p id="content">
+
+                    <select multiple="multiple" id="leftcontent">
+   </select>
+                </p>
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                <p id="content">
+                    <select name="select" multiple="multiple" id="rightcontent">
+   </select>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p id="bottom">
+
+                    <input type="text" class="sendText" id="leftText">
+                    <input type="button" id="leftdBtn" class="sendBtn" value="发送">
+
+                </p>
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                <p id="bottom">
+                    <input name="text" type="text" class="sendText" id="rightText">
+                    <input type="button" id="rightBtn" class="sendBtn" value="发送">
+                </p>
+            </td>
+        </tr>
+    </tbody></table>
+
+<script>
+//当前时间
+//var a = new Date();
+//var b = a.toLocaleTimeString();
+//var c = a.toLocaleDateString();
+//strTime = c + " " + b;
+
+
+
+$(function() {
+    $("#leftdBtn").bind("click", sendLeft);
+    $("#rightBtn").bind("click", sendRight);
+
+    function sendLeft() {
+        //-------------可以把以下内容写进外部js文件中------------ 
+        var today = new Date(); //获取当前系统时间
+        var hours = today.getHours(); //获取小时
+        var minutes = today.getMinutes(); //获取分
+        var seconds = today.getSeconds(); //获取秒
+        if (minutes < 10) { //分小于10就在前面补0
+            minutes = "0" + minutes;
+        }
+        if (seconds < 10) { //秒小于10就在前面补0
+            seconds = "0" + seconds;
+        }
+        //把时分秒拼起来得到时间
+        var time = hours + ":" + minutes + ":" + seconds;
+        //把时间显示在div上,您自己可以放在网页任何位置,反正时间就是time
+        // document.getElementById("div").innerHTML=time;
+        //-------------可以把以上内容写进外部js文件中------------
+
+
+        //1. 获取输入框中的内容
+        var text = $("#leftText").val();
+        //2. 生成标签
+        var option = $("<option></option>");
+        option.addClass("optionLeft");
+        //2.1 生成标签的样式
+        var len = text.length;
+        //option.css("width", len * 15 + "px","marginLeft", 350 - len * 15 - 60 + "px")
+        option.css("width", len * 12 + "px");
+        option.css("marginLeft", 300 - len * 15 - 60 + "px");
+        //2.2 生成标签的内容（带时间）
+        text = text + '\n' + time;
+        option.html(text);
+        //3. 将内容追加到select中。
+        $("#leftcontent").append(option);
+        //4. 追加生成的标签(右侧)
+        var option1 = $("<option></option>");
+        option1.addClass("optionRight");
+        option1.css("width", len * 15 + "px");
+        option1.css("marginLeft", 10 + "px");
+        option1.html(text);
+        $("#rightcontent").append(option1);
+        //5. 清除文本框的内容
+        $("#leftText").val("");
+        //每隔一秒更新一次时间
+        window.setTimeout("sendLeft()", 1000);
+    }
+
+
+    function sendRight() {
+        //-------------可以把以下内容写进外部js文件中------------ 
+        var today = new Date(); //获取当前系统时间
+        var hours = today.getHours(); //获取小时
+        var minutes = today.getMinutes(); //获取分
+        var seconds = today.getSeconds(); //获取秒
+        if (minutes < 10) { //分小于10就在前面补0
+            minutes = "0" + minutes;
+        }
+        if (seconds < 10) { //秒小于10就在前面补0
+            seconds = "0" + seconds;
+        }
+        //把时分秒拼起来得到时间
+        var time = hours + ":" + minutes + ":" + seconds;
+        //把时间显示在div上,您自己可以放在网页任何位置,反正时间就是time
+        // document.getElementById("div").innerHTML=time;
+        //-------------可以把以上内容写进外部js文件中------------
+
+        //1. 获取输入框中的内容
+        var text = $("#rightText").val();
+        //2. 生成标签
+        var option = $("<option></option>");
+        option.addClass("optionLeft");
+        //2.1 生成标签的样式
+        var len = text.length;
+        //option.css("width", len * 15 + "px","marginLeft", 350 - len * 15 - 60 + "px")
+        option.css("width", len * 12 + "px");
+        option.css("marginLeft", 300 - len * 15 - 60 + "px");
+        //2.2 生成标签的内容（带时间）
+        text = text + '\n' + time;
+        option.html(text);
+        //3. 将内容追加到select中。
+        $("#rightcontent").append(option);
+        //4. 追加生成的标签(右侧)
+        var option1 = $("<option></option>");
+        option1.addClass("optionRight");
+        option1.css("width", len * 15 + "px");
+        option1.css("marginLeft", 10 + "px");
+        option1.html(text);
+        $("#leftcontent").append(option1);
+        //5. 清除文本框的内容
+        $("#rightText").val("");
+        //每隔一秒更新一次时间
+        window.setTimeout("sendRight()", 1000);
+    }
+
+
+    $(document).keydown(function(event) {
+        var txt1 = $("#leftText").val();
+        var txt2 = $("#rightText").val()
+        if (event.keyCode == 13) {
+            if (txt1.trim() != "") {
+                sendLeft();
+            }
+            if (txt2.trim() != "") {
+                sendRight();
+            }
+        }
+    });
+
+})
+</script>
+
+</body>
+</html>

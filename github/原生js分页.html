@@ -1,0 +1,241 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>原生js分页-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+ html,body {
+	padding:0;
+	margin:0;
+}
+p {
+	padding:0;
+	margin:0;
+}
+#page {
+	width:460px;
+	margin:10px auto;
+}
+.Paging {
+	overflow:hidden;
+	width:100%;
+}
+.Paging-item {
+	float:left;
+	cursor:pointer;
+	padding:5px 10px;
+	background-color:rgb(250,250,250);
+	color:rgb(51,51,51);
+	border:1px solid rgb(221,221,221);
+	margin-left:-1px;
+	text-decoration:none;
+	text-decoration:none;
+	font-size:14px;
+}
+.Paging a.Paging-item:first-child {
+	margin-left:0;
+}
+.Paging-item-active {
+	padding:5px 10px;
+	background-color:rgb(56,142,60);
+	color:rgb(255,255,255);
+	border:1px solid rgb(221,221,221);
+	margin-left:-1px;
+	text-decoration:none;
+	pointer-events:none;
+	/*不可点击*/
+}
+</style>
+</head>
+<body>
+<div id="page"></div>
+
+<script>
+//分页组件类
+function Paging(container, opt) {
+    this.eventHandlers = {};
+    this.config = {
+        curPage: 1,
+        totalPage: 0,
+        count: 0,
+        size: 10,
+        showSize: 5,
+        isfirst: true,
+        callback: function() {}
+    };
+    if (opt) {
+        this.extend(this.config, opt)
+    }
+    this.Box = null;
+    this.render(container)
+}
+Paging.prototype = {
+    constructor: Paging,
+    on: function(eventType, eventHandler) {
+        if (typeof this.eventHandlers[eventType] === 'undefined') {
+            this.eventHandlers[eventType] = []
+        }
+        this.eventHandlers[eventType].push(eventHandler)
+    },
+    fire: function(eventType) {
+        if (this.eventHandlers[eventType] instanceof Array) {
+            var len = this.eventHandlers[eventType].length;
+            for (var i = 0; i < len; i += 1) {
+                this.eventHandlers[eventType][i]()
+            }
+        }
+    },
+    renderUI: function() {
+        if (document.getElementsByClassName('Paging').length > 0) {
+            document.getElementsByClassName('Paging')[0].remove()
+        }
+        this.Box = document.createElement('div');
+        this.Box.className = 'Paging';
+        var showSize = this.config.showSize;
+        var curPage = this.config.curPage;
+        var totalPage = this.config.totalPage;
+        if (totalPage <= 1) {
+            return
+        }
+        if (curPage >= 4 && totalPage >= 6) {
+            var pageA = document.createElement('a');
+            pageA.className = 'Paging-item Paging-item-start';
+            pageA.href = '#1';
+            pageA.innerHTML = '首页';
+            this.Box.appendChild(pageA)
+        };
+        if (curPage >= 2) {
+            var pageA = document.createElement('a');
+            pageA.className = 'Paging-item Paging-item-pre';
+            pageA.href = '#' + (curPage - 1);
+            pageA.innerHTML = '上一页';
+            this.Box.appendChild(pageA)
+        }
+        if (totalPage <= showSize) {
+            for (var i = 1; i <= totalPage; i += 1) {
+                var pageA = document.createElement('a');
+                pageA.className = 'Paging-item';
+                pageA.href = '#' + i;
+                if (curPage == i) {
+                    pageA.className = 'Paging-item Paging-item-active';
+                    pageA.innerHTML = i
+                } else {
+                    pageA.innerHTML = i
+                }
+                this.Box.appendChild(pageA)
+            }
+        } else {
+            for (var i = 1; i <= showSize; i += 1) {
+                var pageA = document.createElement('a');
+                pageA.className = 'Paging-item';
+                pageA.href = '#' + (curPage - 3 + i);
+                if (curPage === 1 || curPage === 2) {
+                    pageA.href = '#' + i;
+                    if (curPage === i) {
+                        pageA.className = 'Paging-item Paging-item-active';
+                        pageA.innerHTML = i
+                    } else {
+                        pageA.innerHTML = i
+                    }
+                } else if ((totalPage - curPage) === 0 || (totalPage - curPage) === 1) {
+                    pageA.href = '#' + ((totalPage - showSize) + i);
+                    if ((totalPage - curPage) === 0 && i === showSize) {
+                        pageA.className = 'Paging-item Paging-item-active';
+                        pageA.innerHTML = ((totalPage - showSize) + i)
+                    } else if ((totalPage - curPage) === 1 && i === (showSize - 1)) {
+                        pageA.className = 'Paging-item Paging-item-active';
+                        pageA.innerHTML = ((totalPage - showSize) + i)
+                    } else {
+                        pageA.innerHTML = ((totalPage - showSize) + i)
+                    }
+                } else {
+                    if (curPage === (curPage - 3 + i)) {
+                        pageA.className = 'Paging-item Paging-item-active';
+                        pageA.innerHTML = (curPage - 3 + i)
+                    } else {
+                        pageA.innerHTML = (curPage - 3 + i)
+                    }
+                }
+                this.Box.appendChild(pageA)
+            }
+        }
+        if ((totalPage - curPage) >= 1) {
+            var pageA = document.createElement('a');
+            pageA.className = 'Paging-item Paging-item-next';
+            pageA.href = '#' + (curPage + 1);
+            pageA.innerHTML = '下一页';
+            this.Box.appendChild(pageA)
+        }
+        if ((totalPage - curPage) >= 3 && totalPage >= 6) {
+            var pageA = document.createElement('a');
+            pageA.className = 'Paging-item Paging-item-end';
+            pageA.href = '#' + totalPage;
+            pageA.innerHTML = '尾页';
+            this.Box.appendChild(pageA)
+        }
+    },
+    bindUI: function(container) {
+        this.config.callback(this.config.curPage, this.config.totalPage, this.config.isfirst);
+        var self = this;
+        self.Box.onclick = function(e) {
+            var e = e || window.event;
+            var target = e.target || e.srcElement;
+            if (typeof e.target.getAttribute('href') === 'string') {
+                var curPage = parseInt(target.getAttribute('href').substring(1));
+                self.Box.innerHTML = '';
+                new Paging(container, {
+                    curPage: curPage,
+                    totalPage: self.config.totalPage,
+                    count: self.config.count,
+                    size: self.config.size,
+                    showSize: self.config.showSize,
+                    isfirst: false,
+                    callback: self.config.callback
+                })
+            }
+            return
+        }
+    },
+    render: function(container) {
+        this.renderUI();
+        this.bindUI(container);
+        if (container) {
+            var con = document.getElementById(container);
+            con.appendChild(this.Box)
+        } else {
+            document.body.appendChild(this.Box)
+        }
+    },
+    extend: function(obj1, obj2) {
+        for (attr in obj2) {
+            obj1[attr] = obj2[attr]
+        }
+        obj1.curPage = obj2.curPage < 1 ? 1 : obj2.curPage;
+        obj1.totalPage = Math.ceil(obj2.count / obj2.size);
+    }
+};
+
+//初始化调用 
+new Paging('page', {
+    curPage: 1, //当前页（默认1）
+    count: 22, //总数据
+    size: 10, //页码尺寸（默认10）
+    showSize: 6, //最多可显示的页面(默认5)
+    callback: function(curPage, totalCount, isfirst) {
+        console.log('当前页：' + curPage);
+        //          console.log('总页：'+totalCount); 
+
+        //首次不执行
+        if (!isfirst) {
+            //do something
+            //              console.log(curPage);
+
+        }
+
+    }
+});
+</script>
+
+</body>
+</html>

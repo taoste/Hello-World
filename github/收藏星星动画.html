@@ -1,0 +1,122 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>收藏星星动画-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<style>
+label::after{
+        content: "点击收藏";
+    }
+
+    body{
+        height: 70vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #222222;
+    }
+
+    label{
+        /* border: 1px red solid; */
+        position:relative;
+    }
+    label::before{
+        content: "";
+        position:absolute;
+        box-sizing: border-box;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        border: 30px gold solid;
+        z-index: -1;
+        transform: scale(0);
+    }
+    label::after{
+        content: "点击收藏";
+        position: absolute;
+        width: 100%;
+        color: silver;
+        font-size: 36px;
+        text-align: center;
+    }
+    label svg{
+        fill: silver;
+    }
+    #fav-btn{
+        display: none;
+    }
+
+    /* 星星动画 */
+    @keyframes star{
+        0%{
+            fill: silver;
+           transform: scale(1); 
+        }
+        20%{
+            fill: gold;
+            transform: scale(0); 
+        }
+        30%{
+            transform: scale(1.2); 
+        }
+        40%{
+            transform: scale(1); 
+        }
+        50%{
+            transform: scale(.8); 
+        }
+        75%{
+            transform: scale(1); 
+        }
+        90%{
+            transform: scale(.9); 
+        }
+        100%{
+            fill: gold;
+            transform: scale(1); 
+        }
+    }
+    /* 当input控件被选中状态时（点击），动画才执行 */
+    #fav-btn:checked + label svg{
+        animation: star 1.5s forwards ease-in;
+    }
+
+    @keyframes circle{
+        from{
+            transform: scale(0);
+            border-width: 30px;
+        }
+        to{
+            transform: scale(1.3);
+            border-width: 0px;
+        }
+
+    }
+
+
+    #fav-btn:checked + label::before{
+        animation: circle .6s;
+    }
+
+
+    #fav-btn:checked + label::after{
+        content: "已收藏";
+        color: gold;
+    }
+</style>
+</head>
+<body>
+<input type="checkbox" id="fav-btn">
+<label for="fav-btn">
+        <svg t="1562567183725" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1976" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+            <path d="M956 398.496q-8-23.488-26.496-39.008t-42.496-19.488l-204.992-31.008-92-195.008q-11.008-24-32.992-36.992Q536.032 64 512.032 64t-44.992 12.992q-22.016 12.992-32.992 36.992l-92 195.008-204.992 31.008q-24 4-42.496 19.488t-26.496 39.008-2.496 47.008 22.496 41.504l151.008 154.016-36 218.016q-6.016 40 20 70.496t66.016 30.496q22.016 0 42.016-11.008l180.992-100 180.992 100q20 11.008 42.016 11.008 40 0 66.016-30.496t20-70.496l-36-218.016 151.008-154.016q16.992-18.016 22.496-41.504t-2.496-47.008z" p-id="1977"></path>
+        </svg>
+</label>
+
+<script>
+
+</script>
+
+</body>
+</html>

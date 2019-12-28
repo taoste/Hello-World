@@ -1,0 +1,69 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jQuery鼠标悬停显示大图-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+<style>
+.smallImg {
+	width:200px;
+	height:130px;
+}
+</style>
+</head>
+<body>
+<ul>
+    <li>
+        <a href="http://www.jq22.com/img/cs/500x300-1.png" class="tooltip" title="我的图片1">
+            <img src="http://www.jq22.com/img/cs/500x300-1.png" alt="我的图片1" class="smallImg">
+        </a>
+    </li>
+    <li>
+        <a href="http://www.jq22.com/img/cs/500x300-2.png" class="tooltip" title="我的图片2">
+            <img src="http://www.jq22.com/img/cs/500x300-2.png" alt="我的图片2" class="smallImg">
+        </a>
+    </li>
+    <li>
+        <a href="http://www.jq22.com/img/cs/500x300-3.png" class="tooltip" title="我的图片3">
+            <img src="http://www.jq22.com/img/cs/500x300-3.png" alt="我的图片3" class="smallImg">
+        </a>
+    </li>
+</ul>
+
+<script>
+$(function() {
+    //定义X初始坐标量
+    var x = 10;
+    //定义Y初始坐标量
+    var y = 20;
+    $("a.tooltip").mouseover(function(e) {
+        //声明变量存储超链接TITLE
+        this.myTitle = this.title;
+        //清空超链接TITLE
+        this.title = "";
+        //封装图片TITLE
+        var imgTitle = this.myTitle ? "<br/>" + this.myTitle : "";
+        //声明层对象
+        var tooltip = "<div id='tooltip' style='position:absolute'><img src='" + this.href + "' alt='产品预览图' />" + imgTitle + "</div>";
+        //将层追加到文档中
+        $("body").append(tooltip);
+        //设置层样式
+        $("#tooltip").css({
+            "top": (e.pageY + y) + "px",
+            "left": (e.pageX + x) + "px"
+        });
+    }).mouseout(function() {
+        this.title = this.myTitle;
+        //移除层
+        $("#tooltip").remove();
+    }).mousemove(function(e) {
+        $("#tooltip").css({
+            "top": (e.pageY + y) + "px",
+            "left": (e.pageX + x) + "px"
+        });
+    });
+});
+</script>
+
+</body>
+</html>

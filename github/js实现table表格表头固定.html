@@ -1,0 +1,213 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>js实现table表格表头固定-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<style>
+table {
+	border-collapse:collapse;
+}
+th {
+	background:#EEE;
+}
+th,td {
+	border:1px solid #000;
+	text-align:center;
+}
+</style>
+</head>
+<body>
+<div style="position:relative;">
+    <div id="hDiv" style=" width:500px;height: 24px;overflow:hidden;position:absolute; ">
+        <table id="tb0" style="position:absolute; " width="800px">
+            <thead>
+                <tr>
+                        <th width="80">B0</th>
+						<th width="80">B1</th>
+						<th width="80">B2</th>
+						<th width="80">B3</th>
+						<th width="80">B4</th>
+						<th width="80">B5</th>
+						<th width="80">B6</th>
+						<th width="80">B7</th>
+						<th width="80">B8</th>
+						<th width="80">B9</th>
+				</tr>
+            </thead>
+        </table>
+    </div>
+
+    <div id="dDiv" style="position:absolute; height:210px;top:23px; width:500px;overflow:auto;">
+        <table id="tb1" width="800px">
+            <tbody><tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+            <tr>
+                <td width="80">00</td>
+                <td width="80">11</td>
+                <td width="80">22</td>
+                <td width="80">33</td>
+                <td width="80">44</td>
+                <td width="80">55</td>
+                <td width="80">66</td>
+                <td width="80">77</td>
+                <td width="80">88</td>
+                <td width="80">99</td>
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+
+<script>
+var hDiv = document.getElementById('hDiv');
+var dDiv = document.getElementById('dDiv');
+var tb0 = document.getElementById('tb0');
+dDiv.onscroll = function() {
+    tb0.style.left = dDiv.scrollLeft * -1 + 'px'
+}
+</script>
+
+</body>
+</html>

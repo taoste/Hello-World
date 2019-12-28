@@ -1,0 +1,193 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>自定义搜索引擎-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+* {
+	box-sizing:border-box;
+}
+body {
+	margin:0;
+	padding:0;
+	font-weight:500;
+	font-family:"Microsoft YaHei","宋体","Segoe UI","Lucida Grande",Helvetica,Arial,sans-serif,FreeSans,Arimo;
+}
+#container {
+	width:100%;
+	height:50px;
+	margin:0 auto;
+}
+div.search {
+	padding:10px 0;
+}
+form {
+	position:relative;
+	width:30%;
+	margin:0 auto;
+}
+input,button {
+	border:none;
+	outline:none;
+}
+.bar input {
+	width:100%;
+	height:42px;
+	padding-left:13px;
+	border:2px solid #54a0ff;
+	border-radius:5px;
+	background:transparent;
+	top:0;
+	left:0;
+}
+@media (max-width:1199px) {
+	form {
+	width:50%;
+}
+}@media (max-width:991px) {
+	form {
+	width:60%;
+}
+}@media (max-width:768px) {
+	form {
+	width:70%;
+}
+}.bar button {
+	height:42px;
+	width:100px;
+	cursor:pointer;
+	position:absolute;
+	background:#54a0ff;
+	border-radius:0 5px 5px 0;
+	font-size:17px;
+	color:white;
+	text-align:justify;
+	top:0;
+	right:0;
+}
+.bar button:hover {
+	background:#1e90ff;
+}
+/* 下拉框 */
+        .select {
+	position:absolute;
+	top:0;
+	right:0;
+	margin:0;
+}
+.box {
+	margin:0;
+	padding:0;
+}
+.title {
+	top:0;
+	height:42px;
+	width:42px;
+	background-color:#54a0ff;
+	text-align:center;
+	line-height:45px;
+	font-size:20px;
+	color:white;
+	border-radius:0 5px 5px 0;
+}
+.title:hover {
+	background:#1e90ff;
+}
+.content {
+	position:absolute;
+	left:-42px;
+	border-radius:5px;
+}
+.content li {
+	height:0px;
+	width:50px;
+	background-color:#54a0ff;
+	transition:all .3s linear;
+	overflow:hidden;
+	line-height:42px;
+	text-align:center;
+}
+.box:hover .content li {
+	height:42px;
+}
+.content li:nth-child(1) {
+	transition-delay:0ms
+}
+.content li:nth-child(2) {
+	transition-delay:100ms
+}
+.content li:nth-child(3) {
+	transition-delay:200ms
+}
+.content li:nth-child(4) {
+	transition-delay:300ms
+}
+ul,li {
+	list-style:none;
+	cursor:pointer;
+}
+.content li:hover {
+	background:#1e90ff;
+}
+</style>
+</head>
+<body>
+<div id="container">
+    <div class="search bar">
+        <form onsubmit="return search()">
+            <input autofocus="" id="search_input" class="search-txt" type="text" autocomplete="off">
+            <button id="btn" type="submit" onclick="return search()">百 度</button>
+
+            <div class="select">
+                <ul class="box">
+                    <li class="title">↓</li>
+                    <ul class="content">
+                        <li class="list" onclick="baidu()">百度</li>
+                        <li class="list" onclick="ssz()">360</li>
+                        <li class="list" onclick="bing()">必应</li>
+                        <li class="list" onclick="google()">谷歌</li>
+                    </ul>
+                </ul>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+var btn = document.getElementById('btn')
+var h = "https://www.baidu.com/s?wd=";
+
+function search() {
+    if (document.getElementById("search_input").value != "") {
+
+        //window.location.href = h + document.getElementById("search_input").value; //在本窗口打开链接
+        window.open(h + document.getElementById("search_input").value, '_blank'); //在新的窗口打开链接
+        document.getElementById("search_input").value = "";
+    }
+    return false;
+}
+
+function baidu() {
+    h = "https://www.baidu.com/s?wd=";
+    btn.innerHTML = '百 度'
+}
+
+function ssz() {
+    h = "https://www.so.com/s?q=";
+    btn.innerHTML = '3 6 0'
+}
+
+function bing() {
+    h = 'https://cn.bing.com/search?q=';
+    btn.innerHTML = '必 应'
+}
+
+function google() {
+    h = 'https://www.google.com/search?q=';
+    btn.innerHTML = '谷 歌'
+}
+</script>
+
+</body>
+</html>

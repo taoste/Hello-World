@@ -1,0 +1,154 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>怦然心动（原创）-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+body {
+	padding:40px 0;
+	font-family:'bebas',sans-serif;
+	background-color:#fff;
+}
+body .textcontainer {
+	padding:40px 0;
+	text-align:center;
+}
+body .particletext {
+	text-align:center;
+	font-size:48px;
+	position:relative;
+}
+body .particletext.hearts > .particle {
+	opacity:0;
+	position:absolute;
+	background-color:#cc2a5d;
+	-webkit-animation:hearts 3s ease-in infinite;
+	animation:hearts 3s ease-in infinite;
+}
+body .particletext.hearts > .particle:before,body .particletext.hearts > .particle:after {
+	position:absolute;
+	content:'';
+	border-radius:100px;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	background-color:#cc2a5d;
+}
+body .particletext.hearts > .particle:before {
+	-webkit-transform:translateX(-50%);
+	transform:translateX(-50%);
+}
+body .particletext.hearts > .particle:after {
+	-webkit-transform:translateY(-50%);
+	transform:translateY(-50%);
+}
+@-webkit-keyframes hearts {
+	0% {
+	opacity:0;
+	-webkit-transform:translate(0,0%) rotate(45deg);
+	transform:translate(0,0%) rotate(45deg);
+}
+20% {
+	opacity:0.8;
+	-webkit-transform:translate(0,-20%) rotate(45deg);
+	transform:translate(0,-20%) rotate(45deg);
+}
+100% {
+	opacity:0;
+	-webkit-transform:translate(0,-1000%) rotate(45deg);
+	transform:translate(0,-1000%) rotate(45deg);
+}
+}@keyframes hearts {
+	0% {
+	opacity:0;
+	-webkit-transform:translate(0,0%) rotate(45deg);
+	transform:translate(0,0%) rotate(45deg);
+}
+20% {
+	opacity:0.8;
+	-webkit-transform:translate(0,-20%) rotate(45deg);
+	transform:translate(0,-20%) rotate(45deg);
+}
+100% {
+	opacity:0;
+	-webkit-transform:translate(0,-1000%) rotate(45deg);
+	transform:translate(0,-1000%) rotate(45deg);
+}
+}@keyframes heart {
+	0% {
+	transform:scale(0.8) rotate(45deg);
+	opacity:0.8
+}
+50% {
+	transform:scale(1) rotate(45deg);
+	opacity:1
+}
+100% {
+	transform:scale(0.8) rotate(45deg);
+	opacity:0.8;
+}
+}.heart {
+	width:50px;
+	height:50px;
+	background-color:#cc2a5d;
+	position:relative;
+	margin:50px auto;
+	transform:rotate(45deg);
+	animation:heart 1s ease-in infinite;
+}
+.heart:after,.heart:before {
+	content:'';
+	width:100%;
+	height:100%;
+	background-color:#cc2a5d;
+	position:absolute;
+	top:0;
+	left:0;
+	border-radius:50%;
+}
+.heart:after {
+	transform:translateY(-50%);
+}
+.heart:before {
+	transform:translateX(-50%);
+}
+</style>
+</head>
+<body>
+<div class="textcontainer">
+    <span class="particletext hearts">Hearts</span>
+</div>
+
+<div class="heart"></div>
+
+<script>
+function initparticles() {
+    hearts();
+}
+
+
+
+function hearts() {
+    $.each($(".particletext.hearts"), function() {
+        var heartcount = ($(this).width() / 50) * 5;
+        for (var i = 0; i <= heartcount; i++) {
+            var size = ($.rnd(60, 120) / 10);
+            $(this).append('<span class="particle" style="top:' + $.rnd(20, 80) + '%; left:' + $.rnd(0, 95) + '%;width:' + size + 'px; height:' + size + 'px;animation-delay: ' + ($.rnd(0, 30) / 10) + 's;"></span>');
+        }
+    });
+}
+
+
+jQuery.rnd = function(m, n) {
+    m = parseInt(m);
+    n = parseInt(n);
+    return Math.floor(Math.random() * (n - m + 1)) + m;
+}
+
+initparticles();
+</script>
+
+</body>
+</html>

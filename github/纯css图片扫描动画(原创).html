@@ -1,0 +1,63 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>纯css图片扫描动画(原创)-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+.box {
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	width:100%;
+	height:800px
+}
+.con {
+	position:relative;
+}
+.con .img {
+	-webkit-filter:grayscale(100%);
+	filter:grayscale(100%);
+	width:100%;
+}
+.conshowed {
+	position:absolute;
+	width:0;
+	height:100%;
+	top:0;
+	left:0;
+	background:url(http://www.jq22.com/img/cs/500x300-1.png) no-repeat;
+	animation:mymove 3s linear infinite;
+	-webkit-animation:mymove 3s linear infinite;
+	/*Safari and Chrome*/z-index:99
+}
+@keyframes mymove {
+	from {
+	width:0;
+}
+to {
+	width:100%;
+}
+}@-webkit-keyframes mymove /*Safari and Chrome*/ {
+	from {
+	width:0;
+}
+to {
+	width:100%;
+}
+}</style>
+</head>
+<body>
+<div class="box">
+    <div class="con">
+        <div class="conshowed"></div>
+        <img src="http://www.jq22.com/img/cs/500x300-1.png" class="img">
+    </div>
+</div>
+
+<script>
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>方便的颜色转换工具界面(原创)-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+.showDiv {
+	width:80%;
+	margin:0 auto;
+	height:500px;
+}
+.showBox {
+	float:left;
+	width:48%;
+	margin:0px 1%;
+	height:500px;
+	box-sizing:border-box;
+	border:1px solid #F0F0F0;
+}
+</style>
+</head>
+<body>
+<div class="showDiv">
+    <div>RGB颜色值转换成十六进制颜色码：</div>
+    <table cellspacing="4" cellpadding="0" border="0">
+        <tbody>
+            <tr>
+                <td width="800">
+                    <input name="r1e" value="255" class="rle" maxlength="3" onkeypress="getkey(event,0);">
+                    <input name="r1e" value="180" class="rle" maxlength="3" onkeypress="getkey(event,0);">
+                    <input name="r1e" value="0" class="rle" maxlength="3" onkeypress="getkey(event,0);">
+                    <input onclick="showRGB()" type="button" value="转换" name="button">
+                </td>
+                <td id="color1" width="50"></td>
+                <td id="a_mo2" width="80"></td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <div>十六进制颜色码转换成RGB颜色值：</div>
+    <table cellspacing="4" cellpadding="0" border="0">
+        <tbody>
+            <tr>
+                <td width="800">
+                    <input name="rgb2" value="#CC00FF" size="8" maxlength="7" onkeypress="getkey(event,1);">
+                    <input onclick="showRGB2()" type="button" value="转换" name="button">
+                </td>
+                <td id="color2" width="50"></td>
+                <td id="a_mo3" width="80"></td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <div>操作历史：</div>
+    <div id="showBoxL" class="showBox"></div>
+    <div id="showBoxR" class="showBox"></div>
+</div>
+
+<script>
+function showRGB() {
+    hexcode = "#";
+    for (x = 0; x < 3; x++) {;
+        var n = document.getElementsByName("r1e")[x].value;
+        if (n == "") n = "0";
+        if (parseInt(n) != n) return alert("请输入数字！");
+        if (n > 255) return alert("数字在0-255之间！");
+        var c = "0123456789ABCDEF",
+            b = "",
+            a = n % 16;
+        b = c.substr(a, 1);
+        a = (n - a) / 16;
+        hexcode += c.substr(a, 1) + b
+    }
+    document.getElementById("color1").bgColor = a_mo2.innerHTML = hexcode
+    document.getElementById("showBoxL").innerHTML += "<p>" + hexcode +
+        " <span style='background:" + hexcode + ";'>         </span></p>";
+}
+
+function showRGB2() {;
+    var a = document.getElementsByName("rgb2")[0].value;
+    var c = a;
+    if (a.substr(0, 1) == "#") a = a.substring(1);
+    if (a.length != 6) return alert("请输入正确的十六进制颜色码！")
+    document.getElementById("color2").bgColor = "#" + a;
+    a = a.toLowerCase();
+    b = new Array();
+    for (x = 0; x < 3; x++) {
+        b[0] = a.substr(x * 2, 2)
+        b[3] = "0123456789abcdef";
+        b[1] = b[0].substr(0, 1)
+        b[2] = b[0].substr(1, 1)
+        b[20 + x] = b[3].indexOf(b[1]) * 16 + b[3].indexOf(b[2])
+    }
+    var returnTxt = "rgb(" + b[20] + "," + b[21] + "," + b[22] + ")";
+    a_mo3.innerHTML = returnTxt;
+    document.getElementById("showBoxR").innerHTML += "<p>" + c + "->" + returnTxt +
+        " <span style='background:" + c + ";'>         </span></p>";
+}
+
+function getkey(e, n) {
+    var keynum;
+    if (window.event) keynum = e.keyCode;
+    else if (e.which) keynum = e.which;
+    if (keynum == 13) {
+        if (n == 0) showRGB();
+        else showRGB2();
+    }
+}
+</script>
+
+</body>
+</html>

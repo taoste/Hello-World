@@ -1,0 +1,226 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jquery炫酷钟表-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+ * {
+	padding:0;
+	margin:0;
+}
+body {
+	background:black;
+	overflow:scroll;
+	overflow-x:hidden;
+	overflow-y:hidden;
+}
+#box {
+	width:1000px;
+	height:1000px;
+	border-radius:50%;
+	margin:0px auto;
+	position:relative;
+	top:100px;
+	color:#dedede;
+}
+.second {
+	width:10px;
+	height:50px;
+	position:absolute;
+}
+#box2 {
+	width:800px;
+	height:800px;
+	border-radius:50%;
+	margin:0px auto;
+	position:relative;
+	top:-800px;
+	color:white;
+}
+#box3 {
+	width:600px;
+	height:600px;
+	border-radius:50%;
+	margin:0px auto;
+	position:relative;
+	top:-1500px;
+	transform:scale(1.2);
+	color:white;
+}
+#box4 {
+	width:400px;
+	height:400px;
+	border-radius:50%;
+	margin:0px auto;
+	position:relative;
+	top:-2000px;
+	color:white;
+}
+#box5 {
+	width:280px;
+	height:280px;
+	border-radius:50%;
+	margin:0px auto;
+	position:relative;
+	top:-2340px;
+	color:white;
+}
+#box6 {
+	width:160px;
+	height:160px;
+	border-radius:50%;
+	margin:0px auto;
+	position:relative;
+	top:-2560px;
+	color:white;
+}
+</style>
+</head>
+<body>
+<div id="box"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+<div id="box4"></div>
+<div id="box5"></div>
+<div id="box6"></div>
+
+<script>
+ var box = document.getElementById("box");
+ var box2 = document.getElementById("box2");
+ var box3 = document.getElementById("box3");
+ var box4 = document.getElementById("box4");
+ var box5 = document.getElementById("box5");
+ var box6 = document.getElementById("box6");
+ for (var i = 0; i < 60; i++) {
+     var node = document.createElement("div");
+     node.style.left = 500 * Math.sin(Math.PI / 180 * 6 * i) + 500 - 5 + "px";
+     node.style.top = 500 - 500 * Math.cos(Math.PI / 180 * 6 * i) - 25 + "px";
+     node.style.transform = "rotate(" + 6 * i + "deg)";
+     node.className = "second";
+     node.innerHTML = i + 1 + "秒";
+     box.appendChild(node);
+ }
+ for (var i = 0; i < 60; i++) {
+     var node = document.createElement("div");
+     node.style.left = 400 * Math.sin(Math.PI / 180 * 6 * i) + 400 - 5 + "px";
+     node.style.top = 400 - 400 * Math.cos(Math.PI / 180 * 6 * i) - 25 + "px";
+     node.style.transform = "rotate(" + 6 * i + "deg)";
+     node.className = "second";
+     node.innerHTML = i + 1 + "分";
+     box2.appendChild(node);
+ }
+ for (var i = 0; i < 24; i++) {
+     var node = document.createElement("div");
+     node.style.left = 300 * Math.sin(Math.PI / 180 * 15 * i) + 300 - 5 + "px";
+     node.style.top = 300 - 300 * Math.cos(Math.PI / 180 * 15 * i) - 25 + "px";
+     node.style.transform = "rotate(" + 15 * i + "deg)";
+     node.className = "second";
+     node.innerHTML = i + "点";
+     box3.appendChild(node);
+ }
+ for (var i = 0; i < 7; i++) {
+     var node = document.createElement("div");
+     node.style.left = 200 * Math.sin(Math.PI / 180 * (360 / 7) * i) + 200 - 5 + "px";
+     node.style.top = 200 - 200 * Math.cos(Math.PI / 180 * (360 / 7) * i) - 25 + "px";
+     node.style.transform = "rotate(" + (360 / 7) * i + "deg)";
+     node.className = "second";
+     node.innerHTML = "星期" + (i + 1) + "";
+     box4.appendChild(node);
+ }
+ for (var i = 0; i < 30; i++) {
+     var node = document.createElement("div");
+     node.style.left = 140 * Math.sin(Math.PI / 180 * (360 / 30) * i) + 140 - 5 + "px";
+     node.style.top = 140 - 140 * Math.cos(Math.PI / 180 * (360 / 30) * i) - 25 + "px";
+     node.style.transform = "rotate(" + (360 / 30) * i + "deg)";
+     node.className = "second";
+     node.innerHTML = "" + (i + 1) + "号";
+     box5.appendChild(node);
+ }
+ for (var i = 0; i < 12; i++) {
+     var node = document.createElement("div");
+     node.style.left = 80 * Math.sin(Math.PI / 180 * (360 / 12) * i) + 80 - 5 + "px";
+     node.style.top = 80 - 80 * Math.cos(Math.PI / 180 * (360 / 12) * i) - 25 + "px";
+     node.style.transform = "rotate(" + (360 / 12) * i + "deg)";
+     node.className = "second";
+     node.innerHTML = "" + (i + 1) + "月";
+     box6.appendChild(node);
+ }
+
+ var deg = 0;
+ var deg2 = 0;
+ var deg3 = 0;
+ var deg4 = 0;
+ var deg5 = 0;
+ var deg6 = 0;
+
+ var interval = setInterval(xz, 16.7);
+
+ function xz() {
+     $("#box").children().css({
+         color: "white"
+     })
+     $("#box2").children().css({
+         color: "white"
+     })
+     $("#box3").children().css({
+         color: "white"
+     })
+     $("#box4").children().css({
+         color: "white"
+     })
+     $("#box5").children().css({
+         color: "white"
+     })
+     $("#box6").children().css({
+         color: "white"
+     })
+     deg += -6 / (1000 / 16.7);
+     $("#box").css({
+         transform: "rotate(" + deg + "deg)"
+     })
+     var data = new Date();
+     $("#box").children().eq(data.getSeconds()).css({
+         color: "red"
+     })
+     deg2 += -6 / (6000 / 16.7);
+     $("#box2").css({
+         transform: "rotate(" + deg2 + "deg)"
+     })
+     $("#box2").children().eq(data.getMinutes()).css({
+         color: "red"
+     })
+     deg3 += -(360 / 24) / ((6000 * 24) / 16.7);
+     $("#box3").css({
+         transform: "rotate(" + deg3 + "deg)"
+     })
+     $("#box3").children().eq(data.getHours()).css({
+         color: "red"
+     })
+     deg4 += -(360 / 7) / ((6000 * 24 * 7) / 16.7);
+     $("#box4").css({
+         transform: "rotate(" + deg4 + "deg)"
+     })
+     $("#box4").children().eq(data.getDay() - 1).css({
+         color: "red"
+     })
+     deg5 += -(360 / 30) / ((6000 * 24 * 30) / 16.7);
+     $("#box5").css({
+         transform: "rotate(" + deg5 + "deg)"
+     })
+     $("#box5").children().eq(data.getDate() - 1).css({
+         color: "red"
+     })
+     deg6 += -(360 / 12) / ((6000 * 24 * 365) / 16.7);
+     $("#box6").css({
+         transform: "rotate(" + deg6 + "deg)"
+     })
+     $("#box6").children().eq(data.getMonth()).css({
+         color: "red"
+     })
+
+ }
+</script>
+
+</body>
+</html>

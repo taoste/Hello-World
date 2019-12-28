@@ -1,0 +1,101 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jq红包雨动画-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<style>
+.content {
+	position:relative;
+}
+.red-box {
+	position:absolute;
+}
+.red-box img {
+	width:50px;
+	height:auto;
+	cursor:pointer;
+}
+.hide {
+	display:none;
+}
+.time {
+	position:absolute;
+	right:30px;
+	bottom:30px;
+	color:red;
+	font-size:20px;
+}
+</style>
+</head>
+<body>
+<div class="content"></div>
+<div class="time"></div>
+<div class="hide">
+    <div class="red-box" data-txt="">
+        <img src="http://www.jq22.com/tp/6371036497050968433319044.png" alt="">
+    </div>
+</div>
+
+<script>
+$(function() {
+    const $content = $('.content');
+    const $redBox = $('.red-box');
+    const redContentWidth = $content.width();
+    const redBoxWidth = $redBox.width();
+    const basePadding = 30;
+    const maxLeftPX = redContentWidth - redBoxWidth - basePadding * 2;
+
+    let zIndex = 1;
+    let timer;
+
+
+    function getRandom(min, max) {
+        return Math.round(Math.random() * (max - min) + min);
+    }
+
+    function redBoxSpeed($el, time) {
+        $el.animate({
+                top: '600px'
+            },
+            time * 1000,
+            function() {
+                $el.remove();
+            }
+        )
+    }
+
+    function createRedBox() {
+        const $newNode = $redBox.clone(true);
+        $newNode.attr('data-txt', Math.random() * 100);
+        $newNode.css({
+            'z-index': zIndex++,
+            'left': getRandom(basePadding, maxLeftPX) + 'px',
+            'transform': 'rotate(' + getRandom(-30, 30) + 'deg)'
+        })
+        $content.append($newNode);
+        redBoxSpeed($newNode, 5);
+    }
+
+    function createRedBoxRain() {
+        let count = 120;
+        timer = setInterval(() => {
+            if (count == 0) {
+                clearInterval(timer);
+            } else {
+                count--
+                $('.time').text(count + 's');
+                createRedBox();
+            }
+        }, 300)
+    }
+
+    function ready() {
+        createRedBoxRain();
+    }
+    ready();
+})
+</script>
+
+</body>
+</html>

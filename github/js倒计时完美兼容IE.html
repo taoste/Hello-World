@@ -1,0 +1,59 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>js倒计时完美兼容IE-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+</style>
+</head>
+<body>
+<div class="time">
+    
+    <span id="hour"></span> 时
+    <span id="min"></span> 分
+    <span id="sec"></span> 秒
+    <span id="millisec"></span>毫秒
+</div>
+
+<script>
+ function countDown() {
+     var myTime = new Date()
+     var now = myTime.getTime()
+     var end = new Date(Date.parse("2022-8-20 18:08:21".replace(/-/g, "/"))).getTime();
+     var leftTime = end - now
+     var day, hour, min, sec, ms;
+     if (leftTime >= 0) {
+         day = Math.floor(leftTime / 1000 / 60 / 60 / 24);
+         // hour = Math.floor(leftTime / 1000 / 60 / 60 % 24);
+         hour = Math.floor(leftTime / 1000 / 60 / 60 % 24 + day * 24);
+         min = Math.floor(leftTime / 1000 / 60 % 60);
+         sec = Math.floor(leftTime / 1000 % 60);
+         ms = Math.floor(leftTime % 1000);
+         if (ms < 100) {
+             ms = "0" + ms;
+         }
+         if (sec < 10) {
+             sec = "0" + sec;
+         }
+         if (min < 10) {
+             min = "0" + min;
+         }
+         if (hour < 10) {
+             hour = "0" + hour;
+         }
+     } else {
+         console.log('已截止')
+     }
+     // document.getElementById('day').innerHTML = day
+     document.getElementById('hour').innerHTML = hour
+     document.getElementById('min').innerHTML = min
+     document.getElementById('sec').innerHTML = sec
+     document.getElementById('millisec').innerHTML = ms
+     setTimeout(countDown, 50);
+ }
+ countDown()
+</script>
+
+</body>
+</html>

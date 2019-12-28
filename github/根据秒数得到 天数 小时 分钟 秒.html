@@ -1,0 +1,51 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>根据秒数得到 天数 小时 分钟 秒-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<style>
+</style>
+</head>
+<body>
+<input type="text" id="inputSeconds" placeholder="输入秒数">
+<span id="day"></span>
+<span id="hour"></span>
+<span id="minute"></span>
+<span id="second"></span>
+
+<script>
+$("#inputSeconds").on("input", function() {
+    var getSeconds = $("#inputSeconds").val();
+    onversion(getSeconds);
+})
+
+function onversion(time) {
+    var second = time,
+        minute = 0,
+        hour = 0,
+        day = 0;
+    minute = parseInt(second / 60); //算出一共有多少分钟
+    second %= 60; //算出有多少秒
+    if (minute >= 60) {
+        //如果分钟大于60，计算出小时和分钟
+        hour = parseInt(minute / 60);
+        minute %= 60; //算出有多分钟
+    };
+    if (hour >= 24) {
+        //如果小时大于24，计算出天和小时
+        day = parseInt(hour / 24);
+        hour %= 24; //算出有多分钟
+    };
+    hour = hour < 10 ? "0" + hour : hour;
+    minute = minute < 10 ? "0" + minute : minute;
+    second = second < 10 ? "0" + second : second;
+    $("#day").text(day + "天 ");
+    $("#hour").text(hour + "小时 ");
+    $("#minute").text(minute + "分钟 ");
+    $("#second").text(second + "秒");
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>获取当前实时时间-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+</style>
+</head>
+<body>
+<div>
+    当前时间：
+    <span id="date"></span>
+    <span id="time"></span>
+</div>
+
+<script>
+ $(function() {
+     setTime();
+ });
+
+ function getTime() {
+     let week = ["周日", "周一", "周二", "周三", "周四", "周五", "周六"];
+     let localToday = "";
+     let d = new Date();
+     // console.log(d)
+     localToday =
+         d.getFullYear() +
+         "年" +
+         (d.getMonth() + 1) +
+         "月" +
+         d.getDate() +
+         "日";
+     let time = "";
+     let hh = d.getHours(); //时
+     let mm = d.getMinutes(); //分
+     let ss = d.getSeconds(); //秒
+     if (hh < 10) time += "0";
+     time += hh + ":";
+     if (mm < 10) time += "0";
+     time += mm + ":";
+     if (ss < 10) time += "0";
+     time += ss;
+     return {
+         0: localToday,
+         1: week[d.getDay()],
+         2: time
+     };
+ }
+ var timer = null;
+
+ function setTime() {
+     if (timer !== null) {
+         clearTimeout(timer);
+     }
+     setTimeout(function() {
+         $("#date").text(getTime()[0]);
+         $("#time").text(getTime()[1] + "  " + getTime()[2]);
+         setTime();
+     }, 1000);
+ }
+</script>
+
+</body>
+</html>

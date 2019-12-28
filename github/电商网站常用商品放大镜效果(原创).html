@@ -1,0 +1,101 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>电商网站常用商品放大镜效果(原创)-jq22.com</title>
+<script src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<style>
+ * {
+	margin:0;
+	padding:0;
+}
+#box,#bigBox {
+	width:350px;
+	height:350px;
+	border:1px solid black;
+	float:left;
+	margin:15px;
+}
+#bigBox {
+	display:none;
+	overflow:hidden;
+	position:relative;
+}
+#box img {
+	width:350px;
+	height:350px;
+}
+#bigBox img {
+	position:absolute;
+	width:700px;
+	height:700px;
+}
+#box {
+	position:relative;
+}
+#mark {
+	width:175px;
+	height:175px;
+	position:absolute;
+	cursor:move;
+	background:rgba(0,0,0,0.3);
+}
+</style>
+</head>
+<body>
+<div id="box">
+    <img src="http://www.jq22.com/img/cs/500x500-2.png">
+</div>
+<div id="bigBox">
+    <img src="http://www.jq22.com/img/cs/500x500-2.png">
+</div>
+
+<script>
+ var oBox = document.getElementById("box");
+ var bigBox = document.getElementById("bigBox");
+ var bigImg = document.getElementsByTagName("img")[1];
+ var mark;
+ //当鼠标划上时，创建小盒子；把小盒子放进页面；让大盒子显示；
+ oBox.onmouseenter = function() {
+     mark = document.createElement("div");
+     mark.id = "mark";
+     oBox.appendChild(mark);
+     bigBox.style.display = "block";
+ }
+ // 当鼠标移动时，让小盒子移动，并且让大盒子中的图片跟着鼠标移动而移动；比例值是1:2;并且方向相反；
+ oBox.onmousemove = function(e) {
+     var minL = 0;
+     var maxL = oBox.offsetWidth - mark.offsetWidth - 2;
+     console.log(maxL);
+     var minT = 0;
+     var maxT = oBox.offsetHeight - mark.offsetHeight - 2;
+     console.log(maxT);
+     var curL = e.clientX - oBox.offsetLeft - mark.offsetWidth / 2;
+     var curT = e.clientY - oBox.offsetTop - mark.offsetHeight / 2;
+     if (curL <= minL) {
+         curL = minL;
+     }
+     if (curL >= maxL) {
+         curL = maxL;
+     }
+     if (curT <= minT) {
+         curT = minT;
+     }
+     if (curT >= maxT) {
+         curT = maxT;
+     }
+     mark.style.left = curL + "px";
+     mark.style.top = curT + "px";
+     // mark 和大图片移动距离存在2倍的关系；
+     bigImg.style.left = -2 * curL + "px";
+     bigImg.style.top = -2 * curT + "px";
+ }
+ // 当鼠标移出，小盒子消失大盒子也消失；
+ oBox.onmouseleave = function() {
+     oBox.removeChild(mark);
+     bigBox.style.display = "none";
+ }
+</script>
+
+</body>
+</html>
