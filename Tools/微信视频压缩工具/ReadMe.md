@@ -10,6 +10,14 @@
 >> 提取码：9cmr 
 >> <img src="https://attach.52pojie.cn/forum/201912/19/111111oiirr888xgmu5rg8.png"/>
 
+- 《[**最新版PC微信2.8.0.82测试版-防撤回+多开 by.Zeno**](https://www.52pojie.cn/thread-1080584-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
+
+> 直接上链接吧:
+
+>> https://www.lanzous.com/i8a1hpg
+
+>> 食用方法:关闭微信,把压缩包里面的文件覆盖去微信的根目录即可
+
 ------------------------------------------------------------------------------------------
 - 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/) ( 日期： 2019年7月15日 )
 
