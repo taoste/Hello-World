@@ -33,6 +33,11 @@
 
 - [仿黑ke帝国代码雨1.1，增加了命令](https://www.52pojie.cn/thread-901518-1-4.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
 
+- [java web在线音乐播放器源码（附带在线测试网站）](https://www.52pojie.cn/thread-789182-1-4.html) - 『编程语言区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
+
+>> 源码链接：https://pan.baidu.com/s/1kJIcigye-uDj9vwTdh4IeA 密码 enw9
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 - [【139MB】从零开始学Python网络爬虫PDF下载](https://blog.sina.com.cn/s/blog_af19001e0102x466.html)_新浪博客
