@@ -35,6 +35,8 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 >> 《[Javascript 时钟模板](http://kisss.cjli.info/clipboard/Javascript-Clock.html)》 @ckwongloy
 
+>> 《[社交网络分享模板](http://kisss.cjli.info/clipboard/SNS-Share-Template.html)》 @ckwongloy
+
 >> 《[精彩导航条大集合](http://kisss.cjli.info/clipboard/NavBar.html)》 @ckwongloy
 
 >> 《[图片按钮](http://kisss.cjli.info/clipboard/ImageButton.html)》 @ckwongloy
