@@ -16,6 +16,16 @@
 
 >>> 2017年12月17日：《[树莓派真的适合学习Linux系统吗？](https://www.cnbeta.com/articles/tech/680619.htm)》 - Linux - cnBeta.COM  
 
+>> [树莓派](http://kisss.cjli.info/home/tag.html#%E6%A0%91%E8%8E%93%E6%B4%BE)：
+
+>>>《[在树莓派上使用 Kali](http://kisss.cjli.info/linux/Kali-On-Raspberry.html)》@ckwongloy
+
+>>>《[为树莓派 2 编译安装无线网卡驱动 ( RT3070/Mt7601 )](http://kisss.cjli.info/auxiliary/Complies-Wireless-Drivers-For-Raspberry-Pi-2.html)》@ckwongloy
+
+>>>《[Raspberry Pi 2 折腾记开始](http://kisss.cjli.info/auxiliary/Raspberry-Pi-Introduction.html)》@ckwongloy
+
+>>>《[Learn Raspberry Pi with Linux](http://kisss.cjli.info/linux/Learn-Raspberry-Pi-With-Linux.html)》@ckwongloy
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
