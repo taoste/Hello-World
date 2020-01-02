@@ -20,6 +20,7 @@
 
 >> 《[Google Developers | Chromium 的弹窗机制](https://developers.google.com/web/updates/2017/03/dialogs-policy?hl=zh-cn)》
 
+>> 《[Google/Chrome 个人经验](http://kisss.cjli.info/auxiliary/Google-Chrome-Experience.html)》 @ckwongloy
 
  -------------------------------------------
  
