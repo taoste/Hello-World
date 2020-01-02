@@ -29,6 +29,8 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 - 《[页面上浮动的返回菜单](http://kisss.cjli.info/clipboard/Float-Back-to-Top-Button.html)》 @ckwongloy
 
+>> 《[网页上直接打电话、发 QQ 消息、打开微信的链接](http://kisss.cjli.info/clipboard/SNS-Link-on-Web.html)》 @ckwongloy
+
 >> 《[CSS布局设计：三列浮动中间列宽度自适应](http://kisss.cjli.info/web/Three-Clown-Divs-Float-And-Auto-Adjust.html)》 @ckwongloy
 
 >> 《[精彩导航条大集合](http://kisss.cjli.info/clipboard/NavBar.html)》 @ckwongloy
