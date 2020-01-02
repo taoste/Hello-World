@@ -81,6 +81,15 @@ https://github.com/iptv-org/iptv
 
 <p style="text-indent: 2em;">此显示效果为 MDN 特殊显示效果，无法更改。具体显示效果请自行测试。</p>
 
+
+- [HTML内联框架元素 < **iframe** > 内嵌网页框架标签元素](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/iframe)
+
+>> [iframe 标签嵌套页面](https://wenhuiyang-luck.github.io/2017/05/18/iframe嵌套页面/) | 杨小慧的博客
+
+>> [网页的自动跳转和隐藏](http://kisss.cjli.info/clipboard/Page-Jump-and-Website-Hidden.html) @ckwongloy
+
+>> [如何将一个网页的一部分嵌入到自己的网页中？](https://www.zhihu.com/question/51203963) - 知乎
+
 ---------------------------------
 
 - [**w3school 在线教程**](https://www.w3school.com.cn/index.html) 
