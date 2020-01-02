@@ -33,6 +33,8 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 >> 《[CSS布局设计：三列浮动中间列宽度自适应](http://kisss.cjli.info/web/Three-Clown-Divs-Float-And-Auto-Adjust.html)》 @ckwongloy
 
+>> 《[Javascript 时钟模板](http://kisss.cjli.info/clipboard/Javascript-Clock.html)》 @ckwongloy
+
 >> 《[精彩导航条大集合](http://kisss.cjli.info/clipboard/NavBar.html)》 @ckwongloy
 
 >> 《[图片按钮](http://kisss.cjli.info/clipboard/ImageButton.html)》 @ckwongloy
