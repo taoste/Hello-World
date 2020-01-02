@@ -27,6 +27,9 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 <a href="https://wn.run/https://item.jd.com/5225346.html" style="color:#111;text-decoration: none;" target="_blank" rel="nofollow" ><span style="color:red">wn.run/</span>https://item.jd.com/5225346.html</a>
 </code></pre>
 
+- 《[页面上浮动的返回菜单](http://kisss.cjli.info/clipboard/Float-Back-to-Top-Button.html)》 @ckwongloy
+
+
 ---------------------------------
 
 - [jQuery插件库](http://www.jq22.com/) -收集最全最新最好的jQuery插件  
