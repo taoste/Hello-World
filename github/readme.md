@@ -45,6 +45,8 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 >> 《[图片按钮](http://kisss.cjli.info/clipboard/ImageButton.html)》 @ckwongloy
 
+- 《[关于Chrome自带的开发者工具你不知道的事](https://wenhuiyang-luck.github.io/2017/02/22/2017-02-22-%E5%85%B3%E4%BA%8EChrome%E8%87%AA%E5%B8%A6%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/)》 | [杨小慧的博客](https://wenhuiyang-luck.github.io/) (2017-02-22)
+
 ---------------------------------
 
 - [jQuery插件库](http://www.jq22.com/) -收集最全最新最好的jQuery插件  
