@@ -28,7 +28,7 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 </code></pre>
 
 - 《[页面上浮动的返回菜单](http://kisss.cjli.info/clipboard/Float-Back-to-Top-Button.html)》 @ckwongloy
-
+>> 《[精彩导航条大集合](http://kisss.cjli.info/clipboard/NavBar.html)》 @ckwongloy
 
 ---------------------------------
 
