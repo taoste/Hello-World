@@ -2,6 +2,7 @@
 ----------------
 
 - [**字由**](https://www.hellofont.cn/) ( https://www.hellofont.cn/ ) | 更现代化的跨平台免费字体下载与字体预览管理工具设计利器 - @[异次元软件世界](https://www.iplaysoft.com/hellofont.html)
+>> 字由 - 设计师必备字体利器( [下载](https://hellofont.oss-cn-beijing.aliyuncs.com/Client/0/HelloFont.win.2.4.0.3.zip) https://www.hellofont.cn/download )
 
 - [**字体下载**](https://www.jb51.net/fonts/) - **脚本之家** （ site:[jb51.net](https://www.jb51.net/) )
 
