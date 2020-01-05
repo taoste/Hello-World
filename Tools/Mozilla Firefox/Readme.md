@@ -80,6 +80,9 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 <a href="http://www.sohu.com/a/278568208_116132"><img src="https://camo.githubusercontent.com/c8a36e04f77ec1c4610f223ec6e5500f1481f33f/687474703a2f2f356230393838653539353232352e63646e2e736f687563732e636f6d2f696d616765732f32303138313132392f65366632386338663964396134663439616536633638303934343938323332612e6a706567" border="0" title="Mozilla 火狐出了个密码泄露检测工具，我们来聊聊“查泄露”这件事_搜狐网站"> </a>
 
+- 密码管理器 about:logins -  密码随身带着走 ( 免费下载 Firefox Lockwise 应用：**iPhone/iPad**@[App Store](https://apps.apple.com/app/id1314000270) 、**Android**@[Google Play](https://play.google.com/store/apps/details?id=mozilla.lockbox&referrer=adjust_reftag%3DcVAiwMRihTx4Q%26utm_source%3DProduct%2BMarketing) )
+>> Firefox的国际版和国内版，互不通用。
+
 -------------------------------------------------------------------
 
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
