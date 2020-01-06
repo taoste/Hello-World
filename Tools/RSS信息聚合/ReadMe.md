@@ -43,7 +43,16 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 >>> 2018-09-11 ：《[R通过 RSSHub 订阅不支持 RSS 的网站](https://sspai.com/post/47100)》 - 少数派  
 
 >>> 2018-11-08 ：《[从零开始的 NAS 生活](https://diygod.me/nas/)》 | [Hi, DIYgod](https://diygod.me/)
-
+```
+电信光猫Tips:
+1.使用useradmin登陆，记下LOID
+2.长按reset使其重置
+3.使用telecomadmin登陆，初始密码一般为nE7jA%5m
+4.在应用中做出需要的修改，或者设置DMZ主机一劳永逸
+5.在网络->远程管理中写上LOID保存并等待自动发配
+6.至此telecomadmin的密码已被修改，但你作出的修改还存在
+7.若想修改设置请返回步骤2
+```
 >>> 2019-11-24  ：《[我家 Android 初养成](https://diygod.me/android/)》 | [Hi, DIYgod](https://diygod.me/) 
 
 >>>> 2019-11-04 ：《[早安晚安网页动画特效源码](https://juzihuang.com/shenmu/1892.html)》 - 橘子网
