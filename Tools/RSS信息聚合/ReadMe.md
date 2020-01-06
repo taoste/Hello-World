@@ -24,7 +24,7 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 -----------------------------------------------------------------------------------------
 
-- **RSSHub Radar** — 订阅一个 RSS 源不应该这么难 ( @[Chrome Web Store}(https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa) | @[GitHub](https://github.com/DIYgod/RSSHub-Radar))
+- **RSSHub Radar** — 订阅一个 RSS 源不应该这么难 ( @[Chrome Web Store](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa?hl=zh-CN) | @[GitHub](https://github.com/DIYgod/RSSHub-Radar))
 >> [介绍 | RSSHub](https://docs.rsshub.app/)  ( https://docs.rsshub.app/ ) 
 
 >> [Hi, DIYgod](https://diygod.me/)( https://diygod.me/ )
