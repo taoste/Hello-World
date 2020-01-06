@@ -24,15 +24,15 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 -----------------------------------------------------------------------------------------
 
-- **RSSHub Radar** — 订阅一个 RSS 源不应该这么难,让万物皆可 RSS ( @[Chrome Web Store](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa?hl=zh-CN) | @[GitHub](https://github.com/DIYgod/RSSHub-Radar))
+- **[RSSHub](https://docs.rsshub.app/) [Radar](https://github.com/DIYgod/RSSHub-Radar)** — 订阅一个 RSS 源不应该这么难,让万物皆可 RSS ( @[Chrome Web Store](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa?hl=zh-CN) | @[GitHub](https://github.com/DIYgod/RSSHub-Radar))
 
-> @[GitHub](https://github.com/DIYgod/RSSHub-Radar): RSSHub Radar 是 RSSHub 的衍生项目，她可以帮助你快速发现和订阅当前网站的 RSS 和 RSSHub
+> @[GitHub](https://github.com/DIYgod/RSSHub-Radar): **RSSHub Radar** 是 [**RSSHub**](https://docs.rsshub.app/) 的[衍生项目](https://github.com/DIYgod/RSSHub)，她可以帮助你快速发现和订阅当前网站的 RSS 和 RSSHub
 >> 
 > 《[翻遍网页找 RSS 链接？不如用这款 Chrome 插件一键订阅](https://sspai.com/post/56079)》 
 >> Made with ❤️ by [DIYgod](https://github.com/DIYgod/)
 
 > [介绍 | RSSHub](https://docs.rsshub.app/)  ( https://docs.rsshub.app/ ) 
 
-> [❤️Hi, DIYgod](https://diygod.me/) ( https://diygod.me/ ) @[GitHub](https://github.com/DIYgod/) @[RSS订阅](https://diygod.me/atom.xml)
+> [❤️Hi, DIYgod](https://diygod.me/) ( https://diygod.me/ ) @[GitHub](https://github.com/DIYgod/diygod.me) @[RSS订阅](https://diygod.me/atom.xml)
 >>> 2019-05-13 ：《[我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/)》 | [Hi, DIYgod](https://diygod.me/)
 
