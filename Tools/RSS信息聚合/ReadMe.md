@@ -36,6 +36,8 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 > [❤️Hi, DIYgod](https://diygod.me/) ( https://diygod.me/ ) @[GitHub](https://github.com/DIYgod/diygod.me) @[RSS订阅](https://diygod.me/atom.xml)
 >>> 2019-05-13 ：《[我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/)》 | [Hi, DIYgod](https://diygod.me/)
 
+>>> 2019-06-28：《[小米手环 4 NFC 模拟加密卡探索](https://diygod.me/pn532/)》 | [Hi, DIYgod](https://diygod.me/) 
+
 >>> 2019-08-06 ：《[RSSHub Radar — 订阅一个 RSS 源不应该这么难](https://diygod.me/rsshub-radar/)》 | [Hi, DIYgod](https://diygod.me/)
 
 >>> 2018-09-11 ：《[R通过 RSSHub 订阅不支持 RSS 的网站](https://sspai.com/post/47100)》 - 少数派  
