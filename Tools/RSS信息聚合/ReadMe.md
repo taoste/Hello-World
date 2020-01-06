@@ -36,7 +36,9 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 > [❤️Hi, DIYgod](https://diygod.me/) ( https://diygod.me/ ) @[GitHub](https://github.com/DIYgod/diygod.me) @[RSS订阅](https://diygod.me/atom.xml)
 >>> 2019-05-13 ：《[我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/)》 | [Hi, DIYgod](https://diygod.me/)
 
->>>> 2019-11-24  ：《[我家 Android 初养成](https://diygod.me/android/)》 | [Hi, DIYgod](https://diygod.me/) 
+>>> 2019-08-06 ：《[RSSHub Radar — 订阅一个 RSS 源不应该这么难](https://diygod.me/rsshub-radar/)》 | [Hi, DIYgod](https://diygod.me/)
+
+>>> 2019-11-24  ：《[我家 Android 初养成](https://diygod.me/android/)》 | [Hi, DIYgod](https://diygod.me/) 
 
 >>>> 2019-11-04 ：《[早安晚安网页动画特效源码](https://juzihuang.com/shenmu/1892.html)》 - 橘子网
 
