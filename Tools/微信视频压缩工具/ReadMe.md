@@ -21,6 +21,8 @@
 - **Hi, DIYgod （https://diygod.me/ ）** @[GitHub](https://github.com/DIYgod/GoodNight)
 >> 2018-04-25: [早安晚安自动化](https://diygod.me/goodnight/) | Hi, DIYgod
 
+>>> 2018-05-21: [用Python向你微信道早安](https://zhuanlan.zhihu.com/p/37105094) - 知乎
+
 >> 2019-06-02: [优雅地下载我的B站投币视频](https://diygod.me/download-webhook/) | Hi, DIYgod
 
 ------------------------------------------------------------------------------------------
