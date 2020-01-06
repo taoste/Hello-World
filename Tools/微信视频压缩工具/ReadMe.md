@@ -32,6 +32,10 @@
 
 >> 2019-06-02:《[优雅地下载我的B站投币视频](https://diygod.me/download-webhook/)》 | Hi, DIYgod
 
+>> 2020-01-02:《[2019 我做了什么](https://diygod.me/2019/)》 | Hi, DIYgod
+>>> 2019 唯一的新项目，让订阅 RSS 源变得更简单
+>>> 
+>>> 在少数派写了介绍文章并获得 Matrix 精选：https://sspai.com/post/56079
 
 ------------------------------------------------------------------------------------------
 - 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/) ( 日期： 2019年7月15日 )
