@@ -21,7 +21,11 @@
 - **Hi, DIYgod （https://diygod.me/ ）** @[GitHub](https://github.com/DIYgod/GoodNight)
 
 >>  2017-02-09:《[女朋友的微博情绪监控](https://diygod.me/2920/)》 | Hi, DIYgod
-
+>>> 项目地址
+>>> 
+>>> https://github.com/DIYgod/Weibo2RSS 以 RSS 形式输出消极情绪的微博
+>>> 
+>>> https://github.com/DIYgod/Text2Emotion 分析一句话的情绪值
 >> 2018-04-25:《[早安晚安自动化](https://diygod.me/goodnight/)》 | Hi, DIYgod
 
 >>> 2018-05-21:《[用Python向你微信道早安](https://zhuanlan.zhihu.com/p/37105094)》 - 知乎
