@@ -31,6 +31,8 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 > 《[翻遍网页找 RSS 链接？不如用这款 Chrome 插件一键订阅](https://sspai.com/post/56079)》 
 >> Made with ❤️ by [DIYgod](https://github.com/DIYgod/)
 
->> [介绍 | RSSHub](https://docs.rsshub.app/)  ( https://docs.rsshub.app/ ) 
+> [介绍 | RSSHub](https://docs.rsshub.app/)  ( https://docs.rsshub.app/ ) 
 
->> [Hi, DIYgod](https://diygod.me/)( https://diygod.me/ )
+> [Hi, DIYgod](https://diygod.me/)( https://diygod.me/ )
+>>> 2019-05-13 ：《[我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/)》 | [Hi, DIYgod](https://diygod.me/)
+
