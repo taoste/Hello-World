@@ -42,6 +42,8 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 >>> 2018-09-11 ：《[R通过 RSSHub 订阅不支持 RSS 的网站](https://sspai.com/post/47100)》 - 少数派  
 
+>>> 2018-11-08 ：《[从零开始的 NAS 生活](https://diygod.me/nas/)》 | [Hi, DIYgod](https://diygod.me/)
+
 >>> 2019-11-24  ：《[我家 Android 初养成](https://diygod.me/android/)》 | [Hi, DIYgod](https://diygod.me/) 
 
 >>>> 2019-11-04 ：《[早安晚安网页动画特效源码](https://juzihuang.com/shenmu/1892.html)》 - 橘子网
