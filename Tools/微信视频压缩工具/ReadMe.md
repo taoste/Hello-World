@@ -19,11 +19,15 @@
 >> 食用方法:关闭微信,把压缩包里面的文件覆盖去微信的根目录即可
 
 - **Hi, DIYgod （https://diygod.me/ ）** @[GitHub](https://github.com/DIYgod/GoodNight)
->> 2018-04-25: [早安晚安自动化](https://diygod.me/goodnight/) | Hi, DIYgod
 
->>> 2018-05-21: [用Python向你微信道早安](https://zhuanlan.zhihu.com/p/37105094) - 知乎
+>>  2017-02-09:《[女朋友的微博情绪监控](https://diygod.me/2920/)》 | Hi, DIYgod
 
->> 2019-06-02: [优雅地下载我的B站投币视频](https://diygod.me/download-webhook/) | Hi, DIYgod
+>> 2018-04-25:《[早安晚安自动化](https://diygod.me/goodnight/)》 | Hi, DIYgod
+
+>>> 2018-05-21:《[用Python向你微信道早安](https://zhuanlan.zhihu.com/p/37105094)》 - 知乎
+
+>> 2019-06-02:《[优雅地下载我的B站投币视频](https://diygod.me/download-webhook/)》 | Hi, DIYgod
+
 
 ------------------------------------------------------------------------------------------
 - 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/) ( 日期： 2019年7月15日 )
