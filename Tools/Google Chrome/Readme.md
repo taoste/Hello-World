@@ -231,3 +231,4 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 -------------------------------------------
 
+- 《[**简书网页劫持分析，使用 Chrome DevTools 调试 JavaScript 技巧，利用 CSP 预防劫持**](https://www.52pojie.cn/thread-1070300-1-1.html)》 - 『[软件调试区](https://www.52pojie.cn/forum-59-1.html)』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
