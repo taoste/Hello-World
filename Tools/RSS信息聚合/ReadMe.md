@@ -42,7 +42,7 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 >>> 2018-09-11 ：《[R通过 RSSHub 订阅不支持 RSS 的网站](https://sspai.com/post/47100)》 - 少数派  
 
->>> 2018-11-08 ：《[从零开始的 NAS 生活](https://diygod.me/nas/)》 | [Hi, DIYgod](https://diygod.me/)
+>>> 【[引用](https://github.com/taoste/Hello-World/tree/master/Tools/RSS信息聚合)】 [2018-11-08](https://github.com/taoste/Hello-World/tree/master/Tools/在小米电视和小米盒子上看YouTube) ：《[从零开始的 NAS 生活](https://diygod.me/nas/)》 | [Hi, DIYgod](https://diygod.me/)
 ```
 电信光猫Tips:
 1.使用useradmin登陆，记下LOID
