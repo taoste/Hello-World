@@ -21,3 +21,10 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 - 《[Feedbro - 带过滤规则、获取全文的 RSS 阅读器[Chrome/Firefox]](https://www.appinn.com/feedbro/)》 - 小众软件   （2019/04/02）
 > Feedbro 是一款浏览器 RSS 阅读器，支持自动过滤规则，可以根据关键词、作者、链接等内容进行过滤，支持自动获取全文，就算订阅源仅提供了摘要也能获取全文，但暂无中文界面，支持 Chrome、Vivaldi、Firefox。@Appinn
+
+-----------------------------------------------------------------------------------------
+
+- **RSSHub Radar** — 订阅一个 RSS 源不应该这么难 ( @[Chrome Web Store}(https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa) | @[GitHub](https://github.com/DIYgod/RSSHub-Radar))
+>> [介绍 | RSSHub](https://docs.rsshub.app/)  ( https://docs.rsshub.app/ ) 
+
+>> [Hi, DIYgod](https://diygod.me/)( https://diygod.me/ )
