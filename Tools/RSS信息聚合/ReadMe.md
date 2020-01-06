@@ -6,7 +6,7 @@
 
 > [**RSS 信息聚合阅读器-Feedbro官方最新版**](https://nodetics.com/feedbro/)（ 支持：[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=zh-CN)/[🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/feedbroreader/) ）可以导入语言文件了，这是[语言文件](https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json)，在设置里导入就行。（★[备注](https://github.com/inchoong/go/blob/master/tips/feedbro-subscriptions-20191206-131500.opml)：实测可用）
 ```
-关于RSS可以看这里→
+关于RSS可以看这里 →
 https://www.runningcheese.com/rss-feed (当我们谈论RSS时，我们谈论些什么？ 出处：奔跑吧奶酪)
 https://www.zhihu.com/topic/19551894/intro (知乎)
 RSS源推荐→
@@ -35,6 +35,7 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 > [❤️Hi, DIYgod](https://diygod.me/) ( https://diygod.me/ ) @[GitHub](https://github.com/DIYgod/diygod.me) @[RSS订阅](https://diygod.me/atom.xml)
 >>> 2019-05-13 ：《[我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/)》 | [Hi, DIYgod](https://diygod.me/)
+>>>> 2019-11-04 ：《[早安晚安网页动画特效源码](https://juzihuang.com/shenmu/1892.html)》 - 橘子网
 
 - [**播客 RSS Feed**](https://getpodcast.xyz/) ( https://getpodcast.xyz/ )
 > 播客/人文/新闻热点/影视与读书/教育/历史/音乐/情感/有声书
