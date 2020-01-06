@@ -33,6 +33,6 @@ https://www.zhihu.com/question/19580096/answer/20490041 (知乎作者:程引)
 
 > [介绍 | RSSHub](https://docs.rsshub.app/)  ( https://docs.rsshub.app/ ) 
 
-> [Hi, DIYgod](https://diygod.me/)( https://diygod.me/ )
+> [❤️Hi, DIYgod](https://diygod.me/) ( https://diygod.me/ ) @[RSS订阅](https://diygod.me/atom.xml)
 >>> 2019-05-13 ：《[我有特别的 RSS 使用技巧](https://diygod.me/ohmyrss/)》 | [Hi, DIYgod](https://diygod.me/)
 
