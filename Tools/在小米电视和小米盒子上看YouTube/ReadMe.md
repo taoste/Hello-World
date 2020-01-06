@@ -45,4 +45,15 @@
 </video>
 
 <a href="https://www.mi.com/aispeaker-touch?cfrom=search" rel="tag"><img src="https://camo.githubusercontent.com/7eb2e6b90fbe2967f5b928b0b63e1debbb1ab490/68747470733a2f2f69312e6d6966696c652e636e2f662f692f31362f636861696e2f6169737065616b65722d746f7563682f6169737065616b65722d746f7563682d31362e6a7067" alt="https://i1.mifile.cn/f/i/16/chain/aispeaker-touch/aispeaker-touch-16.jpg" title="小爱触屏音箱@小米商城"/></a>
-
+--------------------------------
+【[引用](https://github.com/taoste/Hello-World/tree/master/Tools/RSS信息聚合)】 2018-11-08 ：《[从零开始的 NAS 生活](https://diygod.me/nas/)》 | [Hi, DIYgod](https://diygod.me/)
+```
+电信光猫Tips:
+1.使用useradmin登陆，记下LOID
+2.长按reset使其重置
+3.使用telecomadmin登陆，初始密码一般为nE7jA%5m
+4.在应用中做出需要的修改，或者设置DMZ主机一劳永逸
+5.在网络->远程管理中写上LOID保存并等待自动发配
+6.至此telecomadmin的密码已被修改，但你作出的修改还存在
+7.若想修改设置请返回步骤2
+```
