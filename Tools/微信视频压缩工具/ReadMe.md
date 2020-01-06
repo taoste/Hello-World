@@ -18,6 +18,8 @@
 
 >> 食用方法:关闭微信,把压缩包里面的文件覆盖去微信的根目录即可
 
+------------------------------------------------------------------------------------------
+
 - **Hi, DIYgod （https://diygod.me/ ）** @[GitHub](https://github.com/DIYgod/GoodNight)
 
 >>  2017-02-09:《[女朋友的微博情绪监控](https://diygod.me/2920/)》 | Hi, DIYgod
@@ -38,6 +40,7 @@
 >>> 在少数派写了介绍文章并获得 Matrix 精选：https://sspai.com/post/56079
 
 ------------------------------------------------------------------------------------------
+
 - 《[**iMovie 入门教程：视频编辑的利器**](https://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)》 - @[阮一峰的网络日志](https://www.ruanyifeng.com/) ( 日期： 2019年7月15日 )
 
 > iMovie 导出的视频文件体积很大。文章开头那个三分种的视频（ [优酷](https://v.youku.com/v_show/id_XNDI3MzA5ODY5Mg==.html)，[Youtube](https://www.youtube.com/watch?v=3Kh5-sEE_kk) ），原始导出的体积是 500MB。为了减少文件体积，我后来又安装了 [**VLC 播放器**](https://www.videolan.org/vlc/index.zh.html)，它菜单里的"文件/转换"功能支持H.264协议压缩视频，压缩后的 MP4 文件是 70MB 左右，这个体积就比较能接受了。
