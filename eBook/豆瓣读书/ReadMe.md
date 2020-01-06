@@ -25,6 +25,8 @@
 
 - 《[时间花在哪里，你就会成为什么样的人](https://wdd.js.org/where-time-you-spend-what-you-will-be.html)》  | [洞香春](https://wdd.js.org/)
 
+- 《[**国产职场剧，什么时候才能让人不尴尬？**](https://mp.weixin.qq.com/s/k_-BBek-YCivCGXop4KALA)》  | ( 新周刊 2020-01-03 )
+
 ------------------------------------------------
 
 <a href="https://twitter.com/0792z/status/1150922079761522689">引用</a> ：
