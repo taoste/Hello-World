@@ -109,6 +109,8 @@
 等到我们的孩子长大了，共产党依然故我甚至变本加厉————那就是我们这代人的无能！
 ```
 
+> [《血红的土地》作者：中共土改残暴延续至今](https://webcache.googleusercontent.com/search?q=cache:dxZKsHZG49EJ:https://www.rfa.org/mandarin/yataibaodao/shehui/yl-02082019115356.html+&cd=1&hl=zh-CN&ct=clnk&gl=de)
+
 > 《[大饥荒的真实照片，饿殍遍地让人震惊[40P]](https://t66y.com/htm_data/1912/7/3753352.html)》 - 技術討論區 | 草榴社區 - t66y.com 
 
 > 《[[無極炁]半夜鸡不叫：一个普通中国人为家族正名的故事](https://t66y.com/htm_data/1912/7/3753268.html)》 - 技術討論區 | 草榴社區 - t66y.com  
