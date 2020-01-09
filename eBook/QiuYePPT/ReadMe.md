@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------------
 
-- 《[**如何1秒批量提取电脑文件夹中的所有文件名字**](https://jingyan.baidu.com/article/0f5fb0993446156d8334ea8a.html)》 -百度经验  
+- [技巧](https://github.com/taoste/Hello-World/tree/master/Tools/hosts)《[**如何1秒批量提取电脑文件夹中的所有文件名字**](https://jingyan.baidu.com/article/0f5fb0993446156d8334ea8a.html)》 -百度经验  
 .bat代码:
 ```
 @ECHO OFF
