@@ -20,3 +20,5 @@ echo Current ip address:
 ipconfig /all
 echo ————————————————-
 ```
+
+》2014-11-12 ：《[修改DNS防黑客盗号，提升上网速度](https://geek.wasai.org/dns/)》 – 极客电台  
