@@ -21,4 +21,5 @@ ipconfig /all
 echo ————————————————-
 ```
 
-》2014-11-12 ：《[修改DNS防黑客盗号，提升上网速度](https://geek.wasai.org/dns/)》 – 极客电台  
+》2014-11-12 ：《[修改DNS防黑客盗号，提升上网速度](https://geek.wasai.org/dns/)》 – [极客电台](https://geek.wasai.org/)  
+>> ( 我是王掌柜 – [新闻酸菜馆](https://since1989.org/) | [极客电台](https://geek.wasai.org/) | 自媒体联盟 https://since1989.org/ )
