@@ -4,8 +4,12 @@
 <img src="https://taoste.github.io/Hello-World/GFW/TOR/ICON(.rsrc)/36.ico?raw=true"/>
 </p>
 
-[**Tor Project | 匿名上网**](https://www.torproject.org/zh-CN/)
-（ [下载你的语言的 Tor 浏览器](https://www.torproject.org/zh-CN/download/languages/) ）
+- [**Tor Project | 匿名上网**](https://www.torproject.org/zh-CN/)
+（ [下载你的语言的 Tor 浏览器](https://www.torproject.org/zh-CN/download/languages/) ，体验真正的私密浏览，不被追踪、监视或审查。）
+
+> 我们的任务：
+
+>>> 通过开发和部署自由和开源的匿名和隐私技术，来支持人们不受限制地使用网络，以及提高他们对科学和普世价值的认知，并增进他们对科学和日常知识的理解。
 
 “TOR”是老牌的翻墙工具，并且是“开源项目”。
 
