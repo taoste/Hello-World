@@ -1,7 +1,14 @@
 - 《[微云嘉年华 幸运大抽奖](https://act.qzone.qq.com/vip/meteor/blockly/p/2607x8c16b?trace_detail=%7B%22appid%22%3A%22vab_qboss%22%2C%22ad_id%22%3A137839%7D)》  
 >> 超级会员低至￥0.52元/天
 >> (活动时间：自2019年12月2日至2019年12月11日)
------------------------------------------------------------
+
+------------------------------------------------------
+
+- [**【爱盘】3.0 在线破解工具包正式发布！**](https://www.52pojie.cn/thread-811805-1-1.html) - 『逆向资源区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
+>> 爱盘 - 最新的在线破解工具包 https://down.52pojie.cn/ 
+>>> 爱盘第三版由Ganlv大神使用 Vue 独立开发，所有代码均托管在 Github上，地址：https://github.com/ganlvtech/down_52pojie_cn ，欢迎大家使用并给我们提交Pull requests，如果你觉得好请给个Star！
+
+------------------------------------------------------
 
 - 《[**在线查询百度网盘提取码**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=920211&ctid=1767)》 - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
 > 闲着没事做了个在线查询百度网盘提取码的工具，大牛轻喷～！
