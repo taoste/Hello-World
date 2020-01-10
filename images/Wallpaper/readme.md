@@ -1,6 +1,17 @@
 【[微软 Bing 搜索 - 国内版](https://cn.bing.com/?FORM=Z9FD1) 】
 
-- [提取Win10内置的锁屏壁纸的方法.txt](https://github.com/taoste/Hello-World/blob/master/images/Wallpaper/提取Win10内置的锁屏壁纸的方法.txt)
+- [💗 提取Win10内置的锁屏壁纸的方法.txt](https://github.com/taoste/Hello-World/blob/master/images/Wallpaper/提取Win10内置的锁屏壁纸的方法.txt)
+
+> 你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：
+
+>> 首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。
+
+>> 然后以管理员身份运行命令提示符，输入以下命令：
+```
+ren D:\Wallpaper\* *.jpg
+```
+>>  【备注】快速提取文件名称的命令： DIR *.*/B>LIST.TXT
+
 
 💗  Chrome浏览器-图片下载技巧：
 F12 --》Sources（图片） / Audits（音频）
