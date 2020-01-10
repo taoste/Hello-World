@@ -8,7 +8,7 @@
 
 - [【**公司早报生成器】（含天气、新闻、每日一言）**解决人事小姐姐发早报找材料的问题！](https://www.52pojie.cn/thread-1086342-1-1.html) - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件 | www.52pojie.cn  
 
-<img scr="https://attach.52pojie.cn/forum/202001/07/150220i5r745ec3y0e043s.jpg"/>
+>> <img src="https://attach.52pojie.cn/forum/202001/07/150220i5r745ec3y0e043s.jpg"/>
 
 > [软件下载](https://github.com/taoste/Hello-World/raw/master/Tools/%E3%80%8A%E5%AD%97%E5%B9%95%E9%80%9A%E3%80%8B/%E6%97%A9%E6%8A%A5%E7%94%9F%E6%88%90%E5%99%A8(2020%E5%B9%B41%E6%9C%887%E6%97%A521%E7%82%B9%E6%9B%B4%E6%96%B0).zip)：
 
