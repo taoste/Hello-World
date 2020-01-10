@@ -4,3 +4,19 @@
 提取码：3nnq
 
  > 2020年1月8日新增文叔叔下载链接，时限为3天，11号中午该链接失效 https://wss3.cn/f/1ikwvuwuje0
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230659fmubem1d2ouumd4g.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230704tydodoxydwa2w3wx.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230707hbys9o71wooob915.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230714hqbl7rlk3pzvfovl.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230712cda9p0zeadkgkc79.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230717khx9fpml8jilpign.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230719uyi40qlcal6zzyzc.png"/>
+
+<img src="https://attach.52pojie.cn/forum/202001/07/230721xz2g2p2yw324eww3.png"/>
