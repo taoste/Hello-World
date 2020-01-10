@@ -16,7 +16,7 @@
 https://www.lanzous.com/i8jn3qj
 
 >> 2.网友做的python版，有兴趣的朋友可以看看；
-[传送门] https://www.52pojie.cn/thread-1087638-1-1.html
+[传送门] https://www.52pojie.cn/thread-1087638-1-1.html ( 最新源码开源：https://github.com/popolyj/DailyPaper.git )
 
 >> 3. 用每天60秒读懂世界 公众号 自动生成图片
 
