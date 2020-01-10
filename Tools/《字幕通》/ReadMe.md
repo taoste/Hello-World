@@ -18,10 +18,11 @@
 https://www.lanzous.com/i8jn3qj
 
 >> 2.网友做的python版，有兴趣的朋友可以看看；
-[传送门] https://www.52pojie.cn/thread-1087638-1-1.html ( 最新源码开源：https://github.com/popolyj/DailyPaper.git )
+《[[Python+开源可扩展]日报生成器DailyPaper——包含天气、新闻、名人名言](https://www.52pojie.cn/thread-1087638-1-1.html)》 ( 最新源码开源：https://github.com/popolyj/DailyPaper.git )
 
 >> 3. 用每天60秒读懂世界 公众号 自动生成图片
 
 >> 4.[智能盒子(公司早报生成器)官方版下载-智能盒子免费版下载v2.0](http://www.opdown.com/soft/179653.html) - 欧普软件园(更新时间：2020-01-06 17:28) 
 
 >> 5.[【晨报生成器】（城县乡镇天气、行业自选新闻、寄语自设）一键生成、复制](https://www.52pojie.cn/thread-1088230-1-1.html) - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件| www.52pojie.cn  
+
