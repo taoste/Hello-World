@@ -3,7 +3,8 @@
  > 下载地址：链接：https://pan.baidu.com/s/1oTEHZFb5qTx9SQ2DrCLZyw
 提取码：3nnq
 
- > 2020年1月8日新增文叔叔下载链接，时限为3天，11号中午该链接失效 https://wss3.cn/f/1ikwvuwuje0
+ > 2020年1月8日新增文叔叔[下载链接](https://www.wenshushu.cn/f/1ikwvuwuje0)，时限为3天，11号中午该链接失效 https://wss3.cn/f/1ikwvuwuje0
+( 文叔叔 - 传文件，找文叔叔（大文件、永不限速） https://www.wenshushu.cn/ )
 
 <img src="https://attach.52pojie.cn/forum/202001/07/230659fmubem1d2ouumd4g.png"/>
 
