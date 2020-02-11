@@ -29,3 +29,10 @@ File:[Licensing tutorial zh.svg](https://zh.wikipedia.org/wiki/File:Licensing_tu
 
 https://upload.wikimedia.org/wikipedia/commons/2/24/Licensing_tutorial_zh.svg
 
+---------------------------------------------------------------
+
+- 《[维基百科:数据库下载](https://zh.wikipedia.org/wiki/Wikipedia:%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%8B%E8%BD%BD)》 - 维基百科，自由的百科全书
+
+- 《[分享离线版维基百科](https://zhuanlan.zhihu.com/p/25410565?refer=wnsouba)》 - 知乎
+
+
