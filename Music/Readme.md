@@ -60,6 +60,8 @@
 
 例如：
 
+> [儿歌](https://www.kugou.com/yy/album/single/14620842.html)：[宝宝巴士](https://www.kugou.com/singer/721384.html)/[贝瓦儿歌](https://www.kugou.com/singer/283640.html)
+
 > [MIKA STUDIO_乐唱童学会 世界经典童谣 中文演唱版_专辑_乐库频道_酷狗网](https://www.kugou.com/yy/album/single/9266405.html)
 
 > [Play School_Let's Play Together_专辑_乐库频道_酷狗网](https://www.kugou.com/yy/album/single/1099394.html)
