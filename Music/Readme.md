@@ -58,8 +58,11 @@
 > 
 > 箭头指向的链接，就是这首歌的下载地址，你可以把它复制到地址栏，也可以复制到一个下载软件中，下载下来即可
 
-如：
+例如：
+
 > [MIKA STUDIO_乐唱童学会 世界经典童谣 中文演唱版_专辑_乐库频道_酷狗网](https://www.kugou.com/yy/album/single/9266405.html)
+
+> [Play School_Let's Play Together_专辑_乐库频道_酷狗网](https://www.kugou.com/yy/album/single/1099394.html)
 
 -------------------------------------------------------------------
 
