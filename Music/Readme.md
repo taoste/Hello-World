@@ -58,14 +58,14 @@
 > 
 > 箭头指向的链接，就是这首歌的下载地址，你可以把它复制到地址栏，也可以复制到一个下载软件中，下载下来即可
 
-例如：
+例如_歌词|歌曲下载：
 
 > [儿歌](https://www.kugou.com/yy/album/single/14620842.html)：[宝宝巴士](https://www.kugou.com/singer/721384.html)/[贝瓦儿歌](https://www.kugou.com/singer/283640.html)
 
 > [MIKA STUDIO_乐唱童学会 世界经典童谣 中文演唱版_专辑_乐库频道_酷狗网](https://www.kugou.com/yy/album/single/9266405.html)
 
 > [Play School_Let's Play Together_专辑_乐库频道_酷狗网](https://www.kugou.com/yy/album/single/1099394.html)
->> [Play School - Twinkle Twinkle Little Sta__高音质在线试听_歌词|歌曲下载_酷狗音乐](https://www.kugou.com/song/#hash=CE3171040D46961193D1623C0D21AC0A&album_id=1099394)
+>> [Play School - Twinkle Twinkle Little Sta__高音质在线试听_酷狗音乐](https://www.kugou.com/song/#hash=CE3171040D46961193D1623C0D21AC0A&album_id=1099394)
 -------------------------------------------------------------------
 
 💗 [Tools-导航](https://github.com/taoste/Hello-World/tree/master/Tools) :
