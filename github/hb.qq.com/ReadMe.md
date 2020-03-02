@@ -15,4 +15,4 @@
 .foot_wechat_close{ display:none;position: fixed;left:-205px; bottom: 45px; _position: absolute;z-index: 9998; _position:absolute;_left:expression(eval(document.documentElement.scrollLeft));_top:expression(eval(document.documentElement.scrollTop + document.documentElement.clientHeight - 325)); width: 205px; height: 166px; cursor: pointer; background: url(http://mat1.gtimg.com/hb/yefei/common/10years/wechat_close_show.png) no-repeat;}
 </style>
 
-< / code >< / pre >`
+</code></pre>`
