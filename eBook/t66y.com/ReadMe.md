@@ -73,11 +73,8 @@ https://www.zhongzihu.com
 > 
 > [pornhub.com](https://bgp.he.net/dns/pornhub.com) dns: 66.254.114.41
 > 
-> [#feedly.com](https://bgp.he.net/dns/feedly.com/) dns: 
-> 
-> 104.20.60.241 feedly.com
-> 
-> 104.20.59.241 feedly.com
+> [#feedly.com](https://bgp.he.net/dns/feedly.com/) dns: 104.20.60.241，104.20.59.241
+>
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
 > [View on GitHub](https://github.com/bitbeans/SimpleDnsCrypt)
@@ -145,6 +142,10 @@ https://www.zhongzihu.com
  #104.28.26.52 zuola.com
  #2400:CB00:2048:1::681C:1B34 zuola.com
  #2400:CB00:2048:1::681C:1A34 zuola.com
+ 
+#feedly.com
+#104.20.60.241 feedly.com
+#104.20.59.241 feedly.com
  </code></pre>
 
 -----
