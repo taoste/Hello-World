@@ -20,7 +20,9 @@ echo "请注意你的杀毒软件提示，一定要允许"
 @echo 104.28.26.52 zuola.com >>%SystemRoot%\System32\drivers\etc\hosts
 @echo 2400:CB00:2048:1::681C:1B34 zuola.com >>%SystemRoot%\System32\drivers\etc\hosts
 @echo 2400:CB00:2048:1::681C:1A34 zuola.com >>%SystemRoot%\System32\drivers\etc\hosts
-
+@echo #feedly.com https://bgp.he.net/dns/feedly.com/  >>%SystemRoot%\System32\drivers\etc\hosts
+@echo 104.20.60.241 feedly.com  >>%SystemRoot%\System32\drivers\etc\hosts
+@echo 104.20.59.241 feedly.com >>%SystemRoot%\System32\drivers\etc\hosts
 echo   "hosts文件修改完成"
 @ipconfig /flushdns
 @echo   "刷新DNS完成"
