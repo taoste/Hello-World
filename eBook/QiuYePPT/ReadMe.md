@@ -70,6 +70,9 @@ tree > 文件树2.xls
 >> 链接：https://pan.baidu.com/s/1LkoVjib7Sqm9RLcBFu1C8Q
 >> 提取码：8xhg 
 
+> <p><a href="https://www.52pojie.cn/thread-1037808-1-1.html"><img src="https://attach.52pojie.cn/forum/201910/14/190938qiqpz9w4n5pktdoj.gif" border="0" alt="[原创工具] 大型会议室座次表编排-源码" title="大型会议室座次表编排-源码 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn"></a></p>
+
+
 ------------------------------------------------------------------------------
 
 - 《[**30岁后如何跳出死工资困局完成逆袭？**](https://mp.weixin.qq.com/s/eoJ-BSCre8zgbH_LQ6iRCQ)》 ( WPS会员 2019-10-14 )
