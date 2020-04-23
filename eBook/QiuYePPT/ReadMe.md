@@ -25,7 +25,7 @@ tree > 文件树2.xls
 ```
 
 ------------------------------------------------------------------------------
-- [**豆瓣读书**](https://book.douban.com/subject/26836278/)：《[**和秋叶一起学职场技能**](https://github.com/taoste/Hello-World/raw/master/eBook/QiuYePPT/%5BV%E7%89%88%5D%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%81%8C%E5%9C%BA%E6%8A%80%E8%83%BD_%E7%A7%8B%E5%8F%B6_%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5_2016.3.pdf)》
+- [**豆瓣读书：《和秋叶一起学职场技能**](https://book.douban.com/subject/26836278/》)
 <table>   
  <tr>
       <td> 
