@@ -25,19 +25,25 @@ tree > 文件树2.xls
 ```
 
 ------------------------------------------------------------------------------
-- [**豆瓣读书**](https://book.douban.com/subject/26836278/)：《[**和秋叶一起学职场技能**](https://github.com/taoste/Hello-World/raw/master/eBook/QiuYePPT/%5BV%E7%89%88%5D%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%81%8C%E5%9C%BA%E6%8A%80%E8%83%BD_%E7%A7%8B%E5%8F%B6_%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5_2016.3.pdf》
-```
-作者: 秋叶 / 萧秋水 / 佳少
-出版社: 人民邮电出版社
-出版年: 2016-7-1
-页数: 228
-定价: 39.00
-装帧: 平装
-ISBN: 9787115424440
-```
-> <p><a href="https://github.com/taoste/Hello-World/raw/master/eBook/QiuYePPT/%5BV%E7%89%88%5D%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%81%8C%E5%9C%BA%E6%8A%80%E8%83%BD_%E7%A7%8B%E5%8F%B6_%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5_2016.3.pdf"><img src="https://img1.doubanio.com/view/subject/s/public/s29400538.jpg" border="0" alt="和秋叶一起学职场技能 (豆瓣)" title="[V版]和秋叶一起学职场技能_秋叶_人民邮电_2016.3.pdf"></a></p>
-> 【[内容简介](https://book.douban.com/subject/26836278/)】
->> 《和秋叶一起学职场技能》从初入职场的新人必然会遇到的问题谈起，选取典型的话题，按职场成长顺序，分为新人篇、提升篇、充电篇和规划篇4个单元。无论是思维上的解惑，还是实际行动上的方法论，本书都会一一涉及。《和秋叶一起学职场技能》这本书无论是对职场新人还是有一定工作经验的人， 都会有所启发。
+- [**豆瓣读书**](https://book.douban.com/subject/26836278/)：《[**和秋叶一起学职场技能**](https://github.com/taoste/Hello-World/raw/master/eBook/QiuYePPT/%5BV%E7%89%88%5D%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%81%8C%E5%9C%BA%E6%8A%80%E8%83%BD_%E7%A7%8B%E5%8F%B6_%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5_2016.3.pdf)》
+<table>   
+ <tr>
+      <td> 
+ <p><a href="https://github.com/taoste/Hello-World/raw/master/eBook/QiuYePPT/%5BV%E7%89%88%5D%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%81%8C%E5%9C%BA%E6%8A%80%E8%83%BD_%E7%A7%8B%E5%8F%B6_%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5_2016.3.pdf"><img src="https://img1.doubanio.com/view/subject/s/public/s29400538.jpg" border="0" alt="和秋叶一起学职场技能 (豆瓣)" title="[V版]和秋叶一起学职场技能_秋叶_人民邮电_2016.3.pdf"></a></p>
+      </td>
+     <td>
+            作者: 秋叶 / 萧秋水 / 佳少<br>
+           出版社:人民邮电出版社<br>
+           出版年: 2016-7-1<br>
+           页数: 228<br>
+           定价: 39.00<br>
+           装帧: 平装<br>
+           ISBN: 9787115424440<br>
+【<a href="https://book.douban.com/subject/26836278/">内容简介</a>】<br>
+《和秋叶一起学职场技能》从初入职场的新人必然会遇到的问题谈起，选取典型的话题，按职场成长顺序，分为新人篇、提升篇、充电篇和规划篇4个单元。无论是思维上的解惑，还是实际行动上的方法论，本书都会一一涉及。《和秋叶一起学职场技能》这本书无论是对职场新人还是有一定工作经验的人， 都会有所启发。    
+     </td>
+     </tr>
+</table>
 
 - 《[**熬夜加班做的PPT，演示现场翻车？演讲冠军送你5个避坑锦囊，快收藏**](https://mp.weixin.qq.com/s/ABlvVdUQ-pchopz9RqYa4g)》 ( 水哥 @秋叶PPT 2019-12-20 ) 
 
