@@ -1,7 +1,7 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 
 - [Win10笔记本电脑怎么开热点给手机用](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html) - 百度经验
-**方法/步骤**:
+>**方法/步骤**:
 ```
 1.点击开始，进入windows设置(快捷键：Win + i)。
 2.在设置中点击“网络和Internet”。
