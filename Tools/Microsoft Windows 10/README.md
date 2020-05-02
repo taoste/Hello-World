@@ -3,7 +3,7 @@
 - [Win10笔记本电脑怎么开热点给手机用](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html) - 百度经验
 **方法/步骤**:
 ```
-1.点击开始，进入windows设置。
+1.点击开始，进入windows设置(快捷键：Win + i)。
 2.在设置中点击“网络和Internet”。
 3.选择其中的“移动热点”。
 4.滑动开启移动热点。
