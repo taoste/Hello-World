@@ -2,7 +2,7 @@
 
 - **微软官网**：[**将电脑用作移动热点**(适用于： Windows 10)](https://support.microsoft.com/zh-cn/help/4027762/windows-use-your-pc-as-a-mobile-hotspot)  @[百度经验:《Win10笔记本电脑怎么开热点给手机用》](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html)
 >通过使用 WLAN 与其他设备共享 Internet 连接，将 Windows 10 电脑转变为移动热点。你可以共享 WLAN、以太网或手机网络数据连接。如果你的电脑具有手机网络数据连接并且共享该连接，它将使用流量套餐数据。
->>**方法/步骤**:（上次更新时间：2019年3月29日）
+>>**方法/步骤**:（[上次更新时间](https://support.microsoft.com/zh-cn/help/4089498/support-content-updates)：2019年3月29日）
 ```
 1.选择“开始”按钮 ，然后依次选择“设置(快捷键：Win + i)” >“网络和 Internet”>“移动热点”。
 2.对于“从以下位置共享我的 Internet 连接”，选择要共享的 Internet 连接。
