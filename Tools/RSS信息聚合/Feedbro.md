@@ -18,7 +18,7 @@
     </tr>    
   </table>
   
-- 《[**Feedbro - 带过滤规则、获取全文的 RSS 阅读器**[Chrome/Firefox]](https://www.appinn.com/feedbro/)》 - 小众软件 ( 精选  2019/04/02 )
+- 《[**Feedbro - 带过滤规则、获取全文的 RSS 阅读器**[Chrome/Firefox]](https://www.appinn.com/feedbro/)》 - @小众软件 ( 精选  2019/04/02 )
 
 >> Feedbro 是一款浏览器 RSS 阅读器，支持自动过滤规则，可以根据关键词、作者、链接等内容进行过滤，支持自动获取全文，就算订阅源仅提供了摘要也能获取全文，但暂无中文界面（ ★备注：<a href="https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json" title="官方最新版（ 支持：Chrome/🦊Firefox ）可以导入语言文件了，这是语言文件，在设置里导入就行。（★备注：实测可用）">语言文件</a>/<a href="https://github.com/inchoong/go/blob/master/tips/feedbro-subscriptions-20191206-131500.opml" title="官方最新版（ 支持：Chrome/🦊Firefox ）可以导入语言文件了，这是语言文件，在设置里导入就行。（★备注：实测可用）">OPML</a>），支持 Chrome、Vivaldi、Firefox。@Appinn
 
