@@ -1,5 +1,17 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 
+- [Win10笔记本电脑怎么开热点给手机用](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html) - 百度经验
+**方法/步骤**:
+```
+1.点击开始，进入windows设置。
+2.在设置中点击“网络和Internet”。
+3.选择其中的“移动热点”。
+4.滑动开启移动热点。
+5.开启热点后，点击下面的“编辑”后可以具体设置热点的名称和密码。 设置完成后点击保存。
+6.接下来我们打开手机的wifi，找到这个热点，输入密码进行连接。
+7.连接好后我们来试试能不能上网。
+```
+
 - [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
 > [**导入注册表**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/ReadMe.md) (在网上找到了一个导入注册表的方法。)
