@@ -1,16 +1,16 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 
-- [Win10笔记本电脑怎么开热点给手机用](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html) - 百度经验
->**方法/步骤**:
+- 微软官网：[将电脑用作移动热点(适用于： Windows 10)](https://support.microsoft.com/zh-cn/help/4027762/windows-use-your-pc-as-a-mobile-hotspot) - @[百度经验:Win10笔记本电脑怎么开热点给手机用](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html)
+>通过使用 WLAN 与其他设备共享 Internet 连接，将 Windows 10 电脑转变为移动热点。你可以共享 WLAN、以太网或手机网络数据连接。如果你的电脑具有手机网络数据连接并且共享该连接，它将使用流量套餐数据。
+>>**方法/步骤**:（上次更新时间：2019年3月29日）
 ```
-1.点击开始，进入windows设置(快捷键：Win + i)。
-2.在设置中点击“网络和Internet”。
-3.选择其中的“移动热点”。
-4.滑动开启移动热点。
-5.开启热点后，点击下面的“编辑”后可以具体设置热点的名称和密码。 设置完成后点击保存。
-6.接下来我们打开手机的wifi，找到这个热点，输入密码进行连接。
-7.连接好后我们来试试能不能上网。
+1.选择“开始”按钮 ，然后依次选择“设置(快捷键：Win + i)” >“网络和 Internet”>“移动热点”。
+2.对于“从以下位置共享我的 Internet 连接”，选择要共享的 Internet 连接。
+3.选择“编辑”> 输入新的网络名称和密码 >“保存”。
+4.打开“与其他设备共享我的 Internet 连接”。
+5.若要在其他设备上进行连接，请转到该设备的 WLAN 设置，查找并选择网络名称，输入密码，然后进行连接。
 ```
+>>> 打开移动热点 ms-settings:network-mobilehotspot?activationSource=SMC-IA-4027762
 
 - [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
