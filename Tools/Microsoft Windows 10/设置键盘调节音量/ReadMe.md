@@ -10,7 +10,7 @@
 
 -   [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
-> [**导入注册表**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/ReadMe.md) (在网上找到了一个导入注册表的方法。)
+> [**导入注册表**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/ReadMe.md) (在网上找到了一个导入注册表（**regedit**）的方法。)
 ```
 Windows Registry Editor Version 5.00
           
@@ -30,6 +30,15 @@ SCROLL LOCK: 00, 46
 PAUSE/BREAK: 1D, E1
 详细扫描码见参考资料4
 ```
+- [在 Windows 10 中如何打开注册表编辑器](https://support.microsoft.com/zh-cn/help/4027573/windows-10-open-registry-editor) - Microsoft Support
+```
+下面是在 Windows 10 中打开注册表编辑器的两种方法：
+1.在任务栏上的搜索框中，键入“regedit”。然后，选择注册表编辑器（桌面应用）最上面的结果。
+2.长按或右键单击“开始”按钮，然后依次选择“运行”。在打开：框中输入“regedit”，选择“确定”。
+
+```
+>> 上次更新时间：2019年2月8日
+
 》 Win10用键盘调节音量方法：键盘同时按下“Win+F2”为音量-，“Win+F3”为音量+。 
 >>  Win10的键盘快捷键如下：
 ```
