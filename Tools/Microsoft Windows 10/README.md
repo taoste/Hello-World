@@ -1,5 +1,5 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
->> [Note] Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
+>> [Note]Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
 
@@ -69,7 +69,7 @@ Alt+F4 关机快捷键。
 
 
 - [**Win 10 32位 升级为 64 位 激活**](https://answers.microsoft.com/zh-hans/windows/forum/all/win-10-32%E4%BD%8D-%E5%8D%87%E7%BA%A7%E4%B8%BA-64/6400fc8d-41a1-43c4-85b3-f2a04e5b20c3) - Microsoft Community
->> 《[**如何从32位升级到64位版本的Windows 10**](https://www.cwhello.com/12069.html) | 重蔚自留地 》2019年5月30日
+>> 《[**如何从32位升级到64位版本的Windows 10**](https://www.cwhello.com/12069.html) | [重蔚自留地](https://www.cwhello.com/) 》2019年5月30日
 
 ---------------------------------------
 
