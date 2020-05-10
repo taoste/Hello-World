@@ -50,9 +50,10 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 >> 《[Canvas实现放大镜效果](https://wenhuiyang-luck.github.io/2017/03/10/Canvas%E5%AE%9E%E7%8E%B0%E6%94%BE%E5%A4%A7%E9%95%9C%E6%95%88%E6%9E%9C/)》 | [杨小慧的博客](https://wenhuiyang-luck.github.io/) ( 2017-03-10)
 
 - 《[php自学教程_SEO推广优化_SEO优化_网站运营技巧_网络营销_windows](https://www.cwhello.com/) | [**重蔚自留地**](https://www.cwhello.com/)
- <a href="https://www.cwhello.com/" alt="重蔚自留地" title="hp自学教程_SEO推广优化_SEO优化_网站运营技巧_网络营销_windows体| |重蔚自留地">    
-<img src="https://www.cwhello.com/wp-content/uploads/2017/11/logo-2.png?raw=true"/>
+ <a href="https://www.cwhello.com/wp-content/uploads/2017/11/logo-2.png" alt="重蔚自留地logo-2.png" title="hp自学教程_SEO推广优化_SEO优化_网站运营技巧_网络营销_windows体| |重蔚自留地">    
+<img src="https://camo.githubusercontent.com/125c131354a7704a03bd79a19627f0d428070af4/68747470733a2f2f7777772e637768656c6c6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f6c6f676f2d322e706e673f7261773d74727565?raw=true"/>
 </a>
+
 ---------------------------------
 
 - [jQuery插件库](http://www.jq22.com/) -收集最全最新最好的jQuery插件  
