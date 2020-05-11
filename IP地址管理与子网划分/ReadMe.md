@@ -1,6 +1,6 @@
 
 
-- [**SSL 数字证书颁发机构** - 加密和身份验证](https://www.digicert.com/cn/) ( https://www.digicert.com/cn/ )
+- [**DigiCert | SSL 数字证书颁发机构** - 加密和身份验证](https://www.digicert.com/cn/) ( https://www.digicert.com/cn/ )
 ```
 关于
 
