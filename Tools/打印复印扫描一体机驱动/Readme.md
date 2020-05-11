@@ -19,7 +19,9 @@ Readme.md
 
 ----------------------------------------------------------------
 
-- [**黑白激光一体机| Brother 兄弟 DCP-7057**](https://www.brother.cn/printer/fb/dcp-7057) - [**驱动和软件**](http://www.95105369.com/Web/DownloadDisp.aspx?852a5a9a282e83a5b831336d05016c732a39722578c354fb535d96d099ae2040) | [**Brother 兄弟**](https://www.brother.cn/)  
+- [**黑白激光一体机| Brother 兄弟 DCP-7057**](https://www.brother.cn/printer/fb/dcp-7057) - [**驱动和软件**](http://www.95105369.com/Web/DownloadDisp.aspx?852a5a9a282e83a5b831336d05016c732a39722578c354fb535d96d099ae2040) | [**Brother 兄弟**](https://www.brother.cn/)
+
+[Reliancejk](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak) :
 ```
 （小余）打印机共享 \\192.168.0.66\Brother DCP-7057 Printer
 ```
