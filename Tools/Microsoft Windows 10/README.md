@@ -1,6 +1,8 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 >> [Note]Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
 
+- [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
+
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
 
 - **微软官网**：[**将电脑用作移动热点**(适用于： Windows 10)](https://support.microsoft.com/zh-cn/help/4027762/windows-use-your-pc-as-a-mobile-hotspot)  @[百度经验:《Win10笔记本电脑怎么开热点给手机用》](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html)
