@@ -120,8 +120,10 @@ Size：字体大小，取值：1-7，1小7大。
 Color：字体颜色，比如：red或RGB(255,0,0)或#FF0000
 
 Face：字体类型，比如：face=“黑体”
-
+```
 举例：<font  size=“7” color=“red” face=“黑体”>内容</font>
+```
+<font  size=“7” color=“red” face=“黑体”>内容</font>
 ```
 
 <hr>水平线，是单边标记
