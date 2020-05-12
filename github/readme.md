@@ -72,6 +72,9 @@ scrollAmount：滚动步长值，一步走多远，值越大，走的越快
 
 scrollDelay：两次滚动的间隔时间，以毫秒为单位  1秒=1000毫秒
 ```
+
+- [html](https://www.cnblogs.com/mind/archive/2012/03/23/2411939.html) :[返回顶部](https://www.cnblogs.com/xiaohuochai/p/5836179.html) / top
+
 ---------------------------------
 
 - [jQuery插件库](http://www.jq22.com/) -收集最全最新最好的jQuery插件  
