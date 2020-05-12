@@ -54,7 +54,7 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 <img src="https://camo.githubusercontent.com/125c131354a7704a03bd79a19627f0d428070af4/68747470733a2f2f7777772e637768656c6c6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f6c6f676f2d322e706e673f7261773d74727565?raw=true"/>
 </a>
 
-【[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > 滚动字幕标记：块元素
+> 【[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > [滚动字幕标记](http://www.webhek.com/demos/demo-marquee.html) ：块元素
 ```
 Direction：滚动的方向，取值：left、right、up、down
 
