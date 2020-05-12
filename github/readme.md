@@ -53,7 +53,7 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
  
  <a href="https://www.cwhello.com/wp-content/uploads/2017/11/logo-2.png" alt="重蔚自留地logo-2.png" title="hp自学教程_SEO推广优化_SEO优化_网站运营技巧_网络营销_windows体| |重蔚自留地">重蔚自留地Logo</a> :   
    
-<marquee"><img src="https://camo.githubusercontent.com/125c131354a7704a03bd79a19627f0d428070af4/68747470733a2f2f7777772e637768656c6c6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f6c6f676f2d322e706e673f7261773d74727565?raw=true"/></marquee>
+<marquee><img src="https://camo.githubusercontent.com/125c131354a7704a03bd79a19627f0d428070af4/68747470733a2f2f7777772e637768656c6c6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f6c6f676f2d322e706e673f7261773d74727565?raw=true"/></marquee>
 
 
 > 【[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > [滚动字幕标记](http://www.webhek.com/demos/demo-marquee.html) ：块元素
