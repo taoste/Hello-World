@@ -13,6 +13,10 @@
 - 《[**一个上海底层市民家庭半个世纪的奋斗**](https://mp.weixin.qq.com/s/Pom0SzILDVFojGQlkVI-Tg)》（原创： 自拍 @自PAI 2019-10-29）
 
  <a href="https://www.zhihu.com/question/22316395/answer/268567820" title="如何用保险保障自己的一生？ - 知乎"><img src="https://pic1.zhimg.com/80/v2-28ecfaf993cf9ee05c43a370e939aa39_hd.jpg"/></a>
+ 
+- 《[**13个副业赚钱兼职满满的都是干货**](https://www.cwhello.com/14450.html)》 | [重蔚自留地](https://www.cwhello.com/)
+
+- 《[**认真谈谈网络圈的几种赚钱方式，给困惑的朋友一些靠谱的建议**](https://www.cwhello.com/14479.html)》 | [重蔚自留地](https://www.cwhello.com/)
 
 ---------------------------------------------
 
