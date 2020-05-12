@@ -87,7 +87,7 @@ CSS中的写法：<table  style=“width:500px”>
 
 <body></body>是网页的主体内容，网页中99%的内容或标记，都是放在<body>中。<body>中的内容是可见的。
 ```
-**<body>的常用属性**
+**< body >的常用属性**
 ```
 bgColor：设置网页背景颜色，比如：<body  bgColor=“red”>
 
@@ -112,7 +112,7 @@ background：设置网页的背景图片URL，比如：<body  background=“imag
 <font></font>字体标记
 ```
 
-< font >常用的属性
+**< font >常用的属性**
 
 ```
 Size：字体大小，取值：1-7，1小7大。
@@ -126,7 +126,7 @@ Face：字体类型，比如：face=“黑体”
 <font  size=“7” color=“red” face=“黑体”>内容</font>
 ```
 
-<hr>水平线，是单边标记
+< hr > 水平线，是单边标记
 
 ```
 常用的属性：
