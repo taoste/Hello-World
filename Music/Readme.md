@@ -30,7 +30,7 @@
 >>  
 >>  总体来说每一步都不是很难，但是连起来还是略为繁琐，只适用于小批量处理歌词。
 
-- 💗[**如何获取网易云音乐的 MP3 源地址♫](https://blog.wpjam.com/m/163-music-mp3/) - WordPress 果酱**
+- 💗[**如何获取网易云音乐的 MP3 源地址♫**](https://blog.wpjam.com/m/163-music-mp3/) - **WordPress 果酱**
 ```
 我们知道网易云音乐上的一首歌 ID，如何获取它的 MP3 源地址呢？其实网易云音提供了转换的地址：
 http://music.163.com/song/media/outer/url?id=ID数字.mp3
