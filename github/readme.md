@@ -54,6 +54,22 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 <img src="https://camo.githubusercontent.com/125c131354a7704a03bd79a19627f0d428070af4/68747470733a2f2f7777772e637768656c6c6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f6c6f676f2d322e706e673f7261773d74727565?raw=true"/>
 </a>
 
+【[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > 滚动字幕标记：块元素
+```
+Direction：滚动的方向，取值：left、right、up、down
+
+Behavior：滚动的方式，取值：scroll(滚动)、 alternate(弹动)、 slide(滚动一次)
+
+Width：滚动的区域宽度，取值：px或%
+
+Height；滚动的区域高度
+
+bgColor：背景颜色，如：bgcolor=“#FF0000”  bgcolor=“rgb(255,0,0)”
+
+scrollAmount：滚动步长值，一步走多远，值越大，走的越快
+
+scrollDelay：两次滚动的间隔时间，以毫秒为单位  1秒=1000毫秒
+```
 ---------------------------------
 
 - [jQuery插件库](http://www.jq22.com/) -收集最全最新最好的jQuery插件  
