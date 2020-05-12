@@ -57,6 +57,8 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 > [**移动设备wap手机网页html5通过特殊链接：打电话，发短信，发邮件详细教程**](https://www.cwhello.com/1132.html) | 重蔚自留地
 
+> [**javascript实现两侧横幅广告特效代码**](https://www.cwhello.com/6063.html) | 重蔚自留地
+
 > 【[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > [滚动字幕标记](http://www.webhek.com/demos/demo-marquee.html) ：块元素
 ```
 Direction：滚动的方向，取值：left、right、up、down
