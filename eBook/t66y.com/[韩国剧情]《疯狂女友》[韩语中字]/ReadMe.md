@@ -19,7 +19,7 @@ http://www.1vys.com/uploads/allimg/190817/1-1ZQG94933L9.jpg
 
 ◎IMDb评分  5.0/10 from 90 users
 
-◎IMDb链接  http://www.imdb.com/title/tt627382/
+◎IMDb链接  https://www.imdb.com/title/tt627382/
 
 ◎片　　长　78 Mins
 
@@ -33,7 +33,7 @@ http://www.1vys.com/uploads/allimg/190817/1-1ZQG94933L9.jpg
 
  
 
-◎简　　介  
+◎[简　　介](https://webcache.googleusercontent.com/search?q=cache:j9yOA9AgqGUJ:https://www.m1ys.com/jd/19309.html+&cd=1&hl=zh-CN&ct=clnk&gl=hk)  
 
  
 
