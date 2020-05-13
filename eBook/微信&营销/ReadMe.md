@@ -29,3 +29,4 @@
 ```
 开具发票需要
 ```
+>  【声明】在使用微信认证时，须遵守公众平台相关协议，包括但不限于[《微信公众平台服务协议》](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=home/agreement_tmpl&type=info&lang=zh_CN&token=1492716646)、《微信公众平台微信认证服务协议》
