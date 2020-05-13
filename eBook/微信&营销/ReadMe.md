@@ -4,6 +4,9 @@
 
 > 2.[**微信公众平台**](https://mp.weixin.qq.com/)( https://mp.weixin.qq.com/ ) 
 
+>> 参考：
+>>> 《[w3school 在线教程](https://www.w3school.com.cn/)》 -- 在 W3School，你可以找到你所需要的所有的网站建设教程。从基础的 HTML 到 CSS，乃至进阶的 XML、SQL、JS、PHP 和 ASP.NET。
+
 ---------------------------------------------------------------------
 
 - [腾讯客服](https://kf.qq.com/)：[公众平台运营者资料（身份证号码、姓名、手机号）修改方法](https://kf.qq.com/faq/120911VrYVrA150527bmIVJZ.html)  
