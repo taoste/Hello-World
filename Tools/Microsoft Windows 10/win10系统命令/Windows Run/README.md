@@ -6,7 +6,11 @@
 
 运行：inetcpl.cpl，IE设置 ( %windir%\system32\inetcpl.cpl )
 
+运行：powercfg.cpl，电源选项 ( %windir%\system32\powercfg.cpl )
+
 运行：appwiz.cpl，程序和功能/卸载或更改程序 ( %windir%\system32\appwiz.cpl )
+
+运行：intl.cpl，区域和语言选项/输入法选项 ( %windir%\system32\intl.cpl )
 
 运行：osk，屏幕键盘 ( %windir%\system32\osk.exe )
 
