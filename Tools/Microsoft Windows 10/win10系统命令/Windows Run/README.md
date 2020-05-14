@@ -6,6 +6,8 @@
 
 运行：inetcpl.cpl，IE设置 ( %windir%\system32\inetcpl.cpl )
 
+运行：appwiz.cpl，程序和功能/卸载或更改程序 ( %windir%\system32\appwiz.cpl )
+
 运行：osk，屏幕键盘 ( %windir%\system32\osk.exe )
 
 Win10系统：一键打开 Windows 设置中心( Win + i ) 快捷键
