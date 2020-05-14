@@ -8,6 +8,8 @@
 
 运行：osk，屏幕键盘 ( %windir%\system32\osk.exe )
 
+Win10系统：一键打开 Windows 设置中心( Win + i ) 快捷键
+
 一键休眠
 > %windir%\System32\rundll32.exe powrprof.dll,SetSuspendState
 
