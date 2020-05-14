@@ -62,6 +62,28 @@
 >>
 >>打一个不太恰当的比方：战略好比掌舵，战术犹如划桨。战略上乐观意味着掌舵者不迷失方向；战术上悲观意味着划桨者不松懈。
 ---------------------------------
+> 《[聊聊“核战略的博弈模型”与“中美新冷战”](https://program-think.blogspot.com/2020/05/Nuclear-Strategy-and-New-Cold-War.html)》 2020年5月13日 @ [编程随想的博客](https://program-think.blogspot.com/p/search.html?q=%E7%AC%AC%E4%BA%94%E9%A1%B9%E4%BF%AE%E7%82%BC)  
+
+◇【文化】对战争意志的影响
+
+　　克劳塞维茨的《战争论》有如下这句：
+```
+    战争无论就其客观性质来看还是就其主观性质来看都近似于【赌博】。
+```
+　　从这句话可以看出，有更高的风险意识和风险承受力的人，也会有更强的战争意志。
+　
+   那么，这与文化有啥关系捏？
+```  
+　　像咱们天朝是典型的【农耕文明】，历朝历代都奉行“重农抑商”。一个农民，只要按照固定的节气，执行某个固定的操作，就会有相对稳定的收成。虽然农业收成会受到气候变化的影响，但这个变化是个人力量【不可控】滴（只能听天由命）。
+  
+  在这种社会里培养出来的是【小农意识】——更追求稳定性和确定性，更害怕变化和随机性，而且也更逆来顺受。因此，这种社会中的人（总体平均而言）也就更缺乏“风险意识 ＆ 冒险精神”。
+  
+　　虽然天朝已经不是农业国，但几千年形成的传统文化依然在发挥影响。
+  
+　　作为对比，古希腊是典型的【海洋文明】。更重视商业和贸易（尤其是海上贸易）。古代的海上贸易，风险非常大，但潜在收益也很可观。（与农耕不同的是）个人对于海上贸易的风险有更大的【自主性】。比如说：商人可以自主决定货物的品种、航线、时间、目的地。于是，这种社会就培养出更多具有“风险意识 ＆ 冒险精神”的人。
+　　而“古希腊、古罗马、英国、美国”在文化等方面正好是一脉相承滴。
+```  
+---------------------------------
 
 [💗](https://taoste.github.io/Hello-World/eBook/ProgramThink/index.html) 【[**精选**](https://github.com/taoste/Hello-World/tree/master/eBook/ProgramThink) / [1](https://github.com/taoste/Hello-World/tree/master/GFW/Program-think) / [2](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink)】<a href="https://program-think.blogspot.com/favicon.ico"><img src="https://camo.githubusercontent.com/a9400ae3811d53dfb3005343b3300f338881070b/68747470733a2f2f70726f6772616d2d7468696e6b2e626c6f6773706f742e636f6d2f66617669636f6e2e69636f" width="15px" height="15px" title="favicon.ico"></a>[编程随想的博客](https://program-think.blogspot.com/) 分享的各类电子书 - [**电子书清单**](https://github.com/programthink/books)（含“BTSync”与“微软网盘”两种下载链接）：
 
