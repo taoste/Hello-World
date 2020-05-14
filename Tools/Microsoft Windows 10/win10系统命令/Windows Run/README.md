@@ -12,6 +12,13 @@
 
 运行：intl.cpl，区域和语言选项/输入法选项 ( %windir%\system32\intl.cpl )
 
+运行：sysdm.cpl， 系统属性,  ( %windir%\system32\sysdm.cpl )
+
+运行：nusrmgr.cpl， 用户帐户管理,  ( %windir%\system32\nusrmgr.cpl )
+
+运行：firewall.cpl，Windows Defender 防火墙,  ( %windir%\system32\firewall.cpl )
+
+
 运行：osk，屏幕键盘 ( %windir%\system32\osk.exe )
 
 Win10系统：一键打开 Windows 设置中心( Win + i ) 快捷键
