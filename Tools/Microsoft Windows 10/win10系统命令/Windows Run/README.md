@@ -6,6 +6,8 @@
 
 运行：inetcpl.cpl，IE设置 ( %windir%\system32\inetcpl.cpl )
 
+运行：osk，屏幕键盘 ( %windir%\system32\osk.exe )
+
 一键休眠
 > %windir%\System32\rundll32.exe powrprof.dll,SetSuspendState
 
