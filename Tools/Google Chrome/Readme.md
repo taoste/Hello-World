@@ -8,8 +8,8 @@
 
 -  [**Google 翻译**](https://translate.google.com/?hl=zh-CN#view=home&op=translate&sl=en&tl=zh-CN) 
 
-> **历史记录功能即将发生变化
->> 不久以后，翻译历史记录将只有在登录帐号的情况下才能查看，并且要在<a href="https://support.google.com/accounts/answer/7028918" title="查看和控制帐号中的活动记录 - 计算机 - Google 帐号帮助">我的活动记录</a>内集中管理。此次升级将清除之前的历史记录，因此如果您想让系统记下某些译文以便日后查看，请务必<a href="https://support.google.com/translate/answer/9729699" title="保存翻译历史记录 - Google Translate帮助">保存翻译结果</a>。**
+> **历史记录功能即将发生变化**
+>> 不久以后，翻译历史记录将只有在登录帐号的情况下才能查看，并且要在<a href="https://support.google.com/accounts/answer/7028918" title="查看和控制帐号中的活动记录 - 计算机 - Google 帐号帮助">我的活动记录</a>内集中管理。此次升级将清除之前的历史记录，因此如果您想让系统记下某些译文以便日后查看，请务必<a href="https://support.google.com/translate/answer/9729699" title="保存翻译历史记录 - Google Translate帮助">保存翻译结果</a>。
 
 -------------------------------------------
 
