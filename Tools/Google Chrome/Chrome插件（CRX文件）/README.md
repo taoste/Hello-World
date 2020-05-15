@@ -29,7 +29,26 @@
 > 
 > - 能很方便的打开系统功能，如下载页、历史记录页、扩展程序页、插件页、chrome设置页、搜索引擎设置页、清除浏览器缓存页、内容设置页、字体和编码设置页、语言设置页、重置浏览器设置页等众多快捷方式。
 
-- [ ] 0. [**SessionBox**](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-cn) 在Chrome 同時開啟多帳戶工作與切換家庭多帳號
+- [ ] 0.1. [**扩展管理器（Extension Manager）**](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco/reviews?hl=zh-CN) - Chrome 网上应用店
+> - （ 提供方：  Extension Manager ）
+> - [详细信息](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco/reviews?hl=zh-CN)
+ID： gjldcdngmdknpinoemndlidpcabkggco
+
+> -一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒，大小布局随心配。快捷、简单、安全。
+
+一键开启/禁用扩展
+```
+1. 闪电分组：根据场景快速开启/禁用扩展组（被锁定或主题类扩展除外）
+2. 智能排序：可根据您的使用频率智能排序（默认根据名称排序）
+3. 右键菜单：提供锁定、卸载、选项配置、主页、APP运行等快捷功能
+4. 智能搜索：通过关键字或词组快速找到需要的扩展
+5. 角标提醒：实时显示扩展状态，用完后提醒重置，减少资源占用（被锁定或主题类扩展除外）
+6. 视图选择：提供列表视图和网格视图，符合用户习惯
+7. 分组管理：普通分组和固定分组，灵活管理
+8. 扩展命名：给扩展起一个你喜欢的别名
+9. 自动匹配：可以根据不同的网站开启和关闭扩展
+```
+- [ ] 0.2. [**SessionBox**](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-cn) - 在Chrome 同時開啟多帳戶工作與切換家庭多帳號
 > - （ 提供方：  https://sessionbox.io/ ）
 > - [详细信息](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-cn)
 ID： megbklhjamjbcafknkgmokldgolkdfig
