@@ -29,6 +29,19 @@
 > 
 > - 能很方便的打开系统功能，如下载页、历史记录页、扩展程序页、插件页、chrome设置页、搜索引擎设置页、清除浏览器缓存页、内容设置页、字体和编码设置页、语言设置页、重置浏览器设置页等众多快捷方式。
 
+- [ ] 0. [**SessionBox**](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-cn) 在Chrome 同時開啟多帳戶工作與切換家庭多帳號
+> - （ 提供方：  https://sessionbox.io/ ）
+> - [详细信息](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-cn)
+ID： megbklhjamjbcafknkgmokldgolkdfig
+```
+同时使用多个帐户浏览网站变容易了。点击一下按钮即可创建一个独立标签。
+使用一个浏览器来浏览每个站点的多个活动会话。在同一网站同时登录多个帐户。无需备用浏览器，支持私密会话，让SessionBox为您处理这些事务。
+
+利用SessionBox帐户，您的会话将在您的设备之间安全同步。在这里启动一个会话，然后在任何其他Chrome浏览器中继续浏览。
+
+保护您的隐私。SessionBox管理的标签不使用共享存储，变量通过扩展程序处理。因此，其他标签和网站无法监控您的活动。
+```
+
 - [ ] 1. **OneTab** （支持 [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-cn)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/onetab/)）
 > - （ 提供方：  https://www.one-tab.com/ ）
 > - 节省高达95％的内存，并减轻标签页混乱现象：
