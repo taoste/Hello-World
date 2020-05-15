@@ -23,6 +23,10 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 < hr >
 
+- [**天气插件** - 心知天气 - 天气预警 - 天气推送](https://www.seniverse.com/widget?source=widgetV2)
+
+< hr >
+
 <code><pre>
 <a href="https://wn.run/https://item.jd.com/5225346.html" style="color:#111;text-decoration: none;" target="_blank" rel="nofollow" ><span style="color:red">wn.run/</span>https://item.jd.com/5225346.html</a>
 </code></pre>
