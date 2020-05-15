@@ -23,10 +23,6 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 < hr >
 
-- [**天气插件** - 心知天气 - 天气预警 - 天气推送](https://www.seniverse.com/widget?source=widgetV2)
-
-< hr >
-
 <code><pre>
 <a href="https://wn.run/https://item.jd.com/5225346.html" style="color:#111;text-decoration: none;" target="_blank" rel="nofollow" ><span style="color:red">wn.run/</span>https://item.jd.com/5225346.html</a>
 </code></pre>
@@ -48,6 +44,22 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 >> 《[精彩导航条大集合](http://kisss.cjli.info/clipboard/NavBar.html)》 @ckwongloy
 
 >> 《[图片按钮](http://kisss.cjli.info/clipboard/ImageButton.html)》 @ckwongloy
+
+----------------------------------------------------------------------
+
+- [**天气插件** - 心知天气 - 天气预警 - 天气推送](https://www.seniverse.com/widget?source=widgetV2)
+
+> [获取插件代码 | 心知天气文档](https://docs.seniverse.com/widget/start/get.html）
+
+注：配置插件前需要先有 API 产品权限。心知用户可以自行申请免费版 API 产品，或根据需求购买付费 API 产品。[点击此处购买](https://www.seniverse.com/buy) API 产品
+
+V3 版插件前后端代码全部开源在 GitHub：
+
+>> [插件前端](https://github.com/seniverse/widget-v3-frontend)
+
+>> [插件后端](https://github.com/seniverse/widget-v3-server)
+
+----------------------------------------------------------------------
 
 - 《[关于Chrome自带的开发者工具你不知道的事](https://wenhuiyang-luck.github.io/2017/02/22/2017-02-22-%E5%85%B3%E4%BA%8EChrome%E8%87%AA%E5%B8%A6%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/)》 | [杨小慧的博客](https://wenhuiyang-luck.github.io/) (2017-02-22)
 
