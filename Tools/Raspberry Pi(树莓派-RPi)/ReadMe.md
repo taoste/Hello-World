@@ -30,6 +30,8 @@
 
 >>>《[树莓派3 音频配置及其应用场景（录音、VoIP 电话等）](https://rollingstarky.github.io/2019/01/06/raspberry-pi-audio-configuration-and-applications/)》  @StarryLand
 
+>>>《[树莓派使用 snowboy 配置语音唤醒](https://rollingstarky.github.io/2019/05/17/python-snowboy-voice-arousal/)》  @StarryLand
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
