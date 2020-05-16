@@ -47,6 +47,10 @@ GitHub for mobile https://github.com/mobile | [配置双重身份验证](https:/
 
 ----------------------------------------------------------------------
 
+【阿里云】高校学生“在家实践”计划  https://developer.aliyun.com/adc/student/
+
+----------------------------------------------------------------------
+
 - [**天气插件** - 心知天气 - 天气预警 - 天气推送](https://www.seniverse.com/widget?source=widgetV2)
 
 > [获取插件代码 | 心知天气文档](https://docs.seniverse.com/widget/start/get.html）
