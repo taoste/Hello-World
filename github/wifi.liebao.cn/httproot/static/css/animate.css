@@ -1,0 +1,89 @@
+/* 无限旋转 */
+.spin {
+    -webkit-transform: rotate(360deg);
+    -webkit-animation: spin 1s linear infinite; 
+}
+@-webkit-keyframes spin {
+    from {-webkit-transform: rotate(360deg);}
+      to {-webkit-transform: rotate(0deg);}
+}
+.spin {
+    transform: rotate(360deg);
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    from {transform: rotate(0deg);}
+      to {transform: rotate(360deg);}
+}
+
+/* 幕帘动画 */
+.slidedown {
+    -webkit-animation: slidedown 0.5s linear infinite;
+    -webkit-animation-iteration-count: 1;
+    animation: slidedown 0.5s linear infinite;
+    animation-iteration-count: 1;
+}
+
+@-webkit-keyframes slidedown {
+    from{top: -100%;}
+    to {top: 100%;}
+}
+
+@keyframes slidedown {
+    from{top: -100%;}
+    to {top: 100%;}
+}
+
+.fade2s {
+    -webkit-animation: fade 2s linear infinite;
+    -webkit-animation-iteration-count: 1;
+    animation: fade 2s linear infinite;
+    animation-iteration-count: 1;
+}
+
+@-webkit-keyframes fade {
+    0%   {opacity: 0;}
+    25%  {opacity: 1;}
+    50%  {opacity: 1;}
+    75%  {opacity: 1;}
+    100% {opacity: 0;}
+}
+
+@keyframes fade {
+    0%   {opacity: 0;}
+    25%  {opacity: 1;}
+    50%  {opacity: 1;}
+    75%  {opacity: 1;}
+    100% {opacity: 0;}
+}
+
+.fadein {
+    -webkit-animation: fadein 0.5s linear infinite;
+    -webkit-animation-iteration-count: 1;
+    animation: fadein 0.5s linear infinite;
+    animation-iteration-count: 1;
+}
+
+@-webkit-keyframes fadein {
+    from{opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadein {
+    from{opacity: 0;}
+    to {opacity: 1;}
+}
+
+/* 开启3D加速 */
+.slidedown,
+.fade2s,
+.spin,
+.speed {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    /* hack for Chrome and Safari */
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    perspective: 1000;
+}
