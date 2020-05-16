@@ -13,3 +13,5 @@
 >> 用于无线局域网 (WLAN) 的 Netsh 命令
 
 - [Windows 10 通过命令行查看 Wi-Fi 密码](https://www.jianshu.com/p/e7a78685b7e1) - 简书
+
+>> [Windows 10 通过命令行查看 Wi-Fi 密码](https://rollingstarky.github.io/2019/10/27/find-wlan-password-in-windows-10/) | StarryLand
