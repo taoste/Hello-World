@@ -6,7 +6,7 @@
 
 > 引申阅读：
 
->> **site:cnbeta.com 树莓派**( @[国内版 Bing](https://cn.bing.com/search?&q=site:cnbeta.com%20%E6%A0%91%E8%8E%93%E6%B4%BE) ) : 
+>> **site:cnbeta.com [树莓派](https://www.google.com/search?hl=zh_CN&source=hp&ei=l6q_XvKcEZClmAX726bICg&q=%E6%A0%91%E8%8E%93%E6%B4%BE+site%3A.github.io)**( @[国内版 Bing](https://cn.bing.com/search?&q=site:cnbeta.com%20%E6%A0%91%E8%8E%93%E6%B4%BE) ) : 
 
 >>> 2019年12月04日：《[树莓派4固件更新：大幅降低功耗并提升系统运行速度](https://www.cnbeta.com/articles/tech/917687.htm)》 - 硬件 - cnBeta.COM   
 
