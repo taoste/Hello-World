@@ -26,6 +26,9 @@
 
 >>>《[Learn Raspberry Pi with Linux](http://kisss.cjli.info/linux/Learn-Raspberry-Pi-With-Linux.html)》@ckwongloy
 
+>>>《[树莓派作为 FM 发射台和 Webcam 服务器（视频监控）](https://rollingstarky.github.io/2018/11/11/raspberry-pi-fm-emitter-and-webcam-server/)》  @StarryLand
+
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
