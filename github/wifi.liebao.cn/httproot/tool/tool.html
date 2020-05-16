@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>手机功能大全 - 猎豹免费WiFi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" href="http://wifi.liebao.cn/hi/app/touch_logo.png">
+    <link rel="apple-touch-startup-image" href="http://wifi.liebao.cn/hi/app/touch_start.jpg">
+    <link type="text/css" rel="stylesheet" href="/static/css/common.css?v=201408211544" media="all">
+    <link type="text/css" rel="stylesheet" href="/static/css/animate.css" media="all">
+
+</head>
+<body class="wifi">
+    <div class="wifi_wrap" id="J_Wrap">
+        <header id="header" class="clearfix">
+            <div class="logo" id="J_Logo"></div>
+            <div class="wxtips2" id="J_WXTips" style="display: none"></div>
+            <a id="J_More" class="more" href="#home" style="display:none">更多功能</a>
+            <a class="more J_goon" href="#home" style="display:none">直接上网</a>
+        </header>
+		<div class="con_wrap">
+			<div class="con_box">
+				<div class="container">
+					<!-- 功能大全 -->
+					<section class="nav" id="J_HomeMod" style="display:none">
+						<ul class="nav_list clearfix"><li class="nav_item"><a href="#poweroff" class="nav_poweroff">遥控关机</a></li><li class="nav_item"><a href="#upload" id="navUpload" class="nav_upload">文件快传</a></li><li class="nav_item"><a href="#download" class="nav_download">隔空传物</a></li><li class="nav_item"><a href="#poweroff" class="nav_lockscreen">遥控关屏</a></li><li class="nav_item"><a href="/app/#yaokong" class="nav_remote">遥控电脑</a></li><li class="nav_item"><a href="/app/" class="nav_game">局域网游戏</a></li><!-- <li class="nav_item" style="display:none"><a href="#caipiao" class="nav_caipiao" id="J_NavCaipiao">金山彩票</a></li> --></ul>
+						<footer>
+							<p><a class="help" href="#find">下次如何找到我^ ^</a></p>
+							<!-- <div class="caipiao" id="J_CP" style="display:none">
+								<span class="close J_close"></span>
+								<a href="javascript:void(0)" class="lqbtn J_btn"></a>
+								<div class="text">
+									<p>您的<span>88元</span>红包即将过期<br>安装金山彩票即可领取</p>
+								</div>
+							</div> -->
+						</footer>
+					</section>
+					<!-- 如何找到 -->
+					<section class="find" id="J_FindMod" style="display:none">
+						<ol class="find_list">
+							<li>
+								<strong>方法1</strong>
+								<p>保存到浏览器书签</p>
+							</li>
+							<li>
+								<strong>方法2</strong>
+								<p>放到手机桌面</p>
+								<p style="opacity: 0.6">保存书签后长按书签，即可放到桌面</p>
+							</li>
+						</ol>
+						<div class="find_back"><a class="btn" href="#home">返回首页</a></div>
+					</section>
+					<!-- 遥控关机 -->
+					<section class="poweroff" id="J_PoweroffMod" style="display:none">
+						<div class="poweroff_btn J_poweroff">
+							<div class="num J_time"><em class="n3"></em><em class="n0"></em></div>
+							<h3 class="J_tit">遥控关闭电脑</h3>
+						</div>
+						<div class="lockscreen_btn J_lockscreen"></div>
+					</section>
+					<!-- 图片发送 -->
+					<section class="pic" id="J_PicUploadMod" style="display:none">
+						<div class="pic_tips J_tips"></div>
+						<div class="pic_view">
+							<div class="img J_img upload"></div>
+							<div class="mask" style="display:none"><span class="spin"></span><strong>0%</strong></div>
+							<div class="slide"></div>
+							<input type="file" accept="image/*">
+						</div>
+						<h3 class="J_tit"></h3>
+						<div class="pic_btns">
+							<a class="btn J_btn upload" href="#upload" style="display: none"><span>发送图片</span><input type="file" accept="image/*"></a>
+							<a class="btn J_cancel" href="javascript:void(0);" style="display:none">取消发送</a>
+						</div>
+					</section>
+					<!-- 图片下载 -->
+					<section class="pic" id="J_PicDownloadMod" style="display:none">
+						<div class="pic_tips J_tips"></div>
+						<div class="pic_view">
+							<div class="img J_img first"></div>
+							<div class="mask" style="display:none"><span class="spin"></span></div>
+							<div class="slide"></div>
+						</div>
+						<h3 class="J_tit">一键拖拽，发送文件到手机</h3>
+						<div class="pic_btns">
+							<a class="btn J_btn" href="#download" style="display: none">查看大图</a>
+							<a class="btn cancel" href="javascript:void(0);" style="display: none">查看大图</a>
+						</div>
+					</section>
+				</div>
+				<div class="kptips" id="J_KPTips" style="display: none"></div>			
+			</div>
+			<div class="con_box">
+				<div class="container"  id="J_SearchBox" style="display:none">
+					<section class="search">
+						<form  id="J_Search" class="form" action="" target="_blank">
+							<span class="inputBox"><input class="input" type="text" name="word" size="30"></span><span class="submitBox"><input class="submit"  type="submit" value="百度一下"></span>
+						</form>
+					</section>
+					<section class="menu" id="J_Menu">
+						<ul class="menu_list clearfix"><li class="menu_item"><a href="###" target="_blank" class="mit0">网址大全</a></li><li class="menu_item"><a href="###" target="_blank" class="mit1">高清影视</a></li><li class="menu_item"><a href="###" target="_blank" class="mit2">火车票</a></li><li class="menu_item"><a href="###" target="_blank" class="mit3">新浪</a></li><li class="menu_item"><a href="###" target="_blank" class="mit4">淘宝</a></li><li class="menu_item"><a href="###" target="_blank" class="mit5">58同城</a></li><li class="menu_item"><a href="###" target="_blank" class="mit6">看小说</a></li><li class="menu_item"><a href="###" target="_blank" class="mit7">美图</a></li><li class="menu_item"><a href="###" target="_blank" class="mit8">笑话</a></li></ul>
+					</section>
+				</div>				
+			</div>
+		</div>
+		<div class="con_index" id="J_ConIndex">
+			<ul id="conIndex">
+				<li>1</li><li>2</li>
+			</ul>
+		</div>
+		<div id="confirm" style="display: none">                
+			<div class="conMark"></div>
+			<div class="confirm">
+				<h3>授权提示</h3>
+				<div class="con">
+					<p>首次使用关机、关屏功能需授权，已向电脑客户端发送申请。</p>                
+				</div>
+				<a href="javascript:void(0);" class="cbtn">确定</a>
+			</div>
+		</div>
+    </div>
+
+    <script type="text/javascript" src="/static/js/zepto.min.js?v=1.1.3"></script>
+	<script type="text/javascript" src="/static/js/mslide.js?v=2.2.1"></script>
+    <script type="text/javascript" src="/static/js/sea.js?v=2.2.1"></script>
+    <script type="text/javascript">
+        var ROOT = "";
+        seajs.config({
+            base: "/static/js/"
+        });
+        window.onload = function() {
+            seajs.use("main-tool");
+        };
+    </script>
+</body>
+</html>

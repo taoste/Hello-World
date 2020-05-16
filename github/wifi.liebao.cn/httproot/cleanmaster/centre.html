@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>欢迎连接猎豹免费WiFi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="/static/css/common.css?v=201410081106"/>
+</head>
+<body>
+    <div class="clean_master">
+        <iframe class="web_frame" id="J_Frame" frameborder="0"></iframe>
+        <div class="cm_wrap" id="J_CM" style="display: none;">
+            <div class="cnt">
+                <div class="cm_hd">
+                    <a href="javascript:void(0)" class="close J_close"></a>
+                    <h1>手机垃圾超过300M</h1>
+                    <h2>免流量安装猎豹清理大师，让手机更快</h2>
+                </div>
+                <div class="cm_bd">
+                    <ul class="clearfix cm_info">
+                        <li><em>.</em>网络加速20%</li>
+                        <li class="rt"><em>.</em>内存加速30%</li>
+                        <li><em>.</em>清理垃圾1G+</li>
+                        <li class="rt"><em>.</em>病毒查杀<strong>NO.1</strong></li>
+                    </ul>
+                </div>
+                <div class="cm_ft"><a href="javascript:void(0)" class="btn J_btn">立即清理</a></div>
+            </div>
+
+            <iframe class="mask" frameborder="0"></iframe>
+        </div>
+    </div>
+    <script type="text/javascript" src="/static/js/zepto.min.js?v=1.1.3"></script>
+    <script type="text/javascript" src="/static/js/sea.js?v=2.2.1"></script>
+    <script type="text/javascript" src="/static/js/fastclick.js"></script>
+    <script type="text/javascript">
+        var ROOT = "", CLICK = 1;
+        seajs.config({
+            base: "/static/js/"
+        });
+        window.onload = function() {
+            seajs.use("main-cm");
+            FastClick.attach( document.body );
+        };
+    </script>
+</body>
+</html>

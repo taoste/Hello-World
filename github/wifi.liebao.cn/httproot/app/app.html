@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>局域网游戏 - 猎豹免费WiFi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" href="http://wifi.liebao.cn/hi/app/touch_logo.png">
+    <link rel="apple-touch-startup-image" href="http://wifi.liebao.cn/hi/app/touch_start.jpg">
+    <link type="text/css" rel="stylesheet" href="/static/css/common.css" media="all">
+    <link type="text/css" rel="stylesheet" href="/static/css/animate.css" media="all">
+</head>
+<body class="wifi">
+    <div class="wifi_wrap" id="J_Wrap">
+        <header id="header" class="clearfix">
+            <div class="logo" id="J_Logo"></div>
+            <div class="wxtips" id="J_WXTips" style="display: none"></div>
+            <a id="J_More" class="more" href="/tool">更多功能</a>
+        </header>
+		<div class="con_wrap">
+			<div class="con_box">
+				<div class="container">
+					<!-- 游戏 -->
+					<section class="gamenav" id="J_GameNavMod" style="display:none">
+						<ul>
+							<li><a href="#doudizhu"><img src="/static/css/images/app_ddz.png" width="100%"><strong>单机斗地主</strong></a></li>
+							<li><a href="#wuziqi"><img src="/static/css/images/app_wzq.png" width="100%"><strong>五子棋大师</strong></a></li>
+						</ul>
+					</section>
+					
+					<!-- app下载 -->
+					<section class="dldetail" id="J_DetailMod" style="display:none">
+						<h3 class="J_tit">只差一步就能体验手机遥控电脑</h3>
+						<div>
+							<a class="btn J_btn" href="http://dl.liebao.cn/kw/yaokong.apk" target="_blank">安装遥控电脑手机客户端</a>
+						</div>
+					</section>
+				</div>
+				<div class="kptips" id="J_KPTips" style="display: none"></div>
+			</div>
+			<div class="con_box">
+				<div class="container"  id="J_SearchBox" style="display:none">
+					<section class="search">
+						<form  id="J_Search" class="form" action="" target="_blank">
+							<span class="inputBox"><input class="input" type="text" name="word" size="30"></span><span class="submitBox"><input class="submit"  type="submit" value="百度一下"></span>
+						</form>
+					</section>
+					<section class="menu" id="J_Menu">
+						<ul class="menu_list clearfix"><li class="menu_item"><a href="###" target="_blank" class="mit0">网址大全</a></li><li class="menu_item"><a href="###" target="_blank" class="mit1">高清影视</a></li><li class="menu_item"><a href="###" target="_blank" class="mit2">火车票</a></li><li class="menu_item"><a href="###" target="_blank" class="mit3">新浪</a></li><li class="menu_item"><a href="###" target="_blank" class="mit4">淘宝</a></li><li class="menu_item"><a href="###" target="_blank" class="mit5">58同城</a></li><li class="menu_item"><a href="###" target="_blank" class="mit6">看小说</a></li><li class="menu_item"><a href="###" target="_blank" class="mit7">美图</a></li><li class="menu_item"><a href="###" target="_blank" class="mit8">笑话</a></li></ul>
+					</section>
+				</div>				
+			</div>
+		</div>
+		<div class="con_index">
+			<ul id="conIndex">
+				<li>1</li><li>2</li>
+			</ul>
+		</div>
+        
+    </div>
+    <script type="text/javascript" src="/static/js/zepto.min.js?v=1.1.3"></script>
+	<script type="text/javascript" src="/static/js/mslide.js?v=2.2.1"></script>
+    <script type="text/javascript" src="/static/js/sea.js?v=2.2.1"></script>
+    <script type="text/javascript">
+        var ROOT = "";
+        seajs.config({
+            base: "/static/js/"
+        });
+        window.onload = function() {
+            seajs.use("main-app");
+        };
+    </script>
+</body>
+</html>
