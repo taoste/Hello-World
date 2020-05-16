@@ -28,6 +28,7 @@
 
 >>>《[树莓派作为 FM 发射台和 Webcam 服务器（视频监控）](https://rollingstarky.github.io/2018/11/11/raspberry-pi-fm-emitter-and-webcam-server/)》  @StarryLand
 
+>>>《[树莓派3 音频配置及其应用场景（录音、VoIP 电话等）](https://rollingstarky.github.io/2019/01/06/raspberry-pi-audio-configuration-and-applications/)》  @StarryLand
 
 -----------------------------------------------------------------------------------------------------------------------
 
