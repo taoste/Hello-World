@@ -14,7 +14,9 @@
         <a href="https://addons.mozilla.org/zh-CN/firefox/addon/f" title="Feedbro – 下载 🦊 Firefox 扩展（zh-CN）">🦊Firefox</a> </td>
         <td>
           <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">Greasy Fork - 安全、实用的用户脚本大全</a> 
-       （ 用户脚本管理器&插件推荐★<a href="https://www.tampermonkey.net/" title="Tampermonkey 官网 | 用户脚本管理器/插件（ 支持：Chrome / 🦊Firefox / Safari / Microsoft Edge / Opera / Dolphin / UC ）">Tampermonkey</a> ）</td>
+       （ 用户脚本管理器&插件推荐★<a href="https://www.tampermonkey.net/" title="Tampermonkey 官网 | 用户脚本管理器/插件（ 支持：Chrome / 🦊Firefox / Safari / Microsoft Edge / Opera / Dolphin / UC ）">Tampermonkey</a> ）
+ @<a href="https://github.com/JasonBarnabe/greasyfork" title="Greasy Fork 采用开源的 GPLv3 许可证。可以在 GitHub 上查看源码">GitHub</a> 。
+        </td>
     </tr>    
   </table>
 
