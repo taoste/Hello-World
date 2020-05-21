@@ -62,3 +62,5 @@
 
 - [**网页翻译助手**](https://greasyfork.org/zh-CN/scripts/389784-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E5%8A%A9%E6%89%8B)
  >  支持划词翻译，输入文本翻译,谷歌整页翻译。可以自行选择谷歌翻译,有道字典翻译和百度翻译。 
+
+- [**Google网页翻译**](https://greasyfork.org/zh-CN/scripts/38244-google%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91) - 不跳转Google翻译页面的整页翻译 
