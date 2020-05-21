@@ -1,0 +1,200 @@
+﻿
+<!DocType html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>约会信息</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<style>
+*,body,html{margin:0;padding:0;font-family:arial,sans-serif;font-weight:400}
+.justify-center{justify-content:center}
+.items-center{align-items:center}
+.screen_left,.screen_center,.screen_right,.screen_imgs,.screen_video{width:100%;height:100vh}
+.screen_left,.screen_center,.screen_right{background:url(https://img.lbk368.xyz/image/landing/lf/720x1280_%E7%85%A7%E7%89%87%E5%A2%99.jpg) right center no-repeat;background-size:cover}
+@media screen and (min-width: 768px) {
+    .screen_left,.screen_center,.screen_right{background:url(https://img.lbk368.xyz/image/landing/lf/1280x720_%E7%85%A7%E7%89%87%E5%A2%99.jpg) right center no-repeat;background-size:cover}
+}
+.screen_center{background-position:center center}
+.screen_right{background-position:left center}
+.mscreen{height:97.5vh}
+.info{display:flex;width:50%;height:100%;text-align:center;color:#FFF}
+.info h1{font-size:4rem}
+.info h2{font-size:1.5rem;margin-top:1rem;margin-bottom:1rem}
+.info h3{font-size:1.3rem;border-radius:.65rem;margin-top:2.6rem;padding-left:1rem;padding-right:1rem}
+.screen_center .info{width:100%;background:rgb(17,16,14,0.3)}
+.screen_right .info{float:right;color:#e84141}
+.golink{font-size:14px;text-decoration:none}
+.gobtn{background:rgba(218, 241, 29, 0.75);color:#FFF;padding-top:.8rem;padding-bottom:.8rem;width:160px;margin-left:auto;margin-right:auto;font-weight:600;font-family:"STKaiti","Microsoft Yahei","PMingLiU","SimSun","arial","sans-serif";letter-spacing:5px}
+
+/*downicon*/
+.downicon{position:fixed;left:50%;bottom:20px;width:30px;height:30px;margin-left:-15px}
+.downicon img{width:100%}
+
+/*screen_imgs*/
+.screen_imgs{position:relative;overflow:hidden;background:#FFF}
+.screen_imgs .info{position:absolute;width:100%;left:0;right:0;top:0;bottom:0;background:rgb(17,16,14,0.3)}
+.imgs{height:100%}
+.imgs img{width:100%;transition:opacity 1.5s}
+.imgs img.inactive{opacity:0}
+.imgs img.active{opacity:1}
+.hide{display:none}
+
+/*screen_video*/
+.screen_video{position:relative;}
+.screen_video .info{position:absolute;width:100%;left:0;right:0;top:0;bottom:0;}
+video{width:100%;height:100%;background-color:#333;object-fit:fill}
+
+@media (max-width: 480px) {
+.info h1{font-size:3.6rem}
+}
+@media (max-width: 768px) {
+.info{width:100%;background:rgb(17,16,14,0.25)}
+.hidden-xs{display:none}
+}
+@media (max-width: 1024px) {
+.info{width:100%}
+}
+@media (min-width: 769px) {
+.hidden-lg{display:none}
+}
+</style>
+<script>
+var mainImgServerIp = 'img.lbk368.xyz';
+var backupImgServer_1 = 'img2.uof972.xyz';
+var backupImgServer_2 = 'img.lbk368.xyz';
+</script>
+</head>
+
+<body>
+
+    <div class="screen screen_video" data-title="川师">
+        <video
+            src="https://img.xiaoou.tv/image/landing/lf/960x544_%E5%AD%A6%E7%94%9F.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/1280x720_%E5%AD%A6%E7%94%9F8.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-xs"></video>
+        <video
+            src="https://img.lbk368.xyz/image/landing/lf/544x960_%E5%B7%9D%E5%B8%88%E5%AD%A6%E7%94%9F.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%B7%9D%E5%B8%88%E5%AD%A6%E7%94%9F.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-lg"></video>
+        <div class="info items-center justify-center">
+            <div class="con">
+                <h1>师大学生妹</h1>
+                <h2>02年川音校花 168C 温柔似初恋</h2>
+                <a class="golink" href="https://cn.xyo418.xyz/loufeng/">
+                    <h3 class="gobtn">点我约她</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="screen screen_video" data-title="极品大米">
+        <video
+        	src="https://img.xiaoou.tv/image/landing/lf/1280x720_%E7%99%BD%E9%A2%86.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/1280x720_siwa.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-xs"></video>
+        <video
+        	src="https://img.lbk368.xyz/image/landing/lf/544x960_%E5%A4%A9%E6%B4%A5%E6%9E%81%E5%93%81%E5%A4%A7%E7%B1%B3.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%A4%A9%E6%B4%A5%E6%9E%81%E5%93%81%E5%A4%A7%E7%B1%B3.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-lg"></video>
+        <div class="info items-center justify-center">
+            <div class="con">
+                <h1>公司小白领</h1>
+                <h2>170F 南方女孩 可制服舌吻</h2>
+                <a class="golink" href="https://cn.xyo418.xyz/loufeng/">
+                    <h3 class="gobtn">点我约她</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="screen screen_video" data-title="制服">
+        <video
+            src="https://img.xiaoou.tv/image/landing/lf/1270x720_%E8%80%81%E5%B8%88.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/1280x720_zf.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-xs"></video>
+        <video
+            src="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%88%B6%E6%9C%8D.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%88%B6%E6%9C%8D.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-lg"></video>
+        <div class="info items-center justify-center">
+            <div class="con">
+                <h1>制服诱惑</h1>
+                <h2>真实00年 170E 皮肤光滑白净</h2>
+                <a class="golink" href="https://cn.xyo418.xyz/loufeng/">
+                    <h3 class="gobtn">点我约她</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="screen screen_video" data-title="嫩模">
+        <video
+            src="https://img.xiaoou.tv/image/landing/lf/1280x720_%E5%AB%A9%E6%A8%A1.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/1280x720_%E5%AB%A9%E6%A8%A13.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-xs"></video>
+        <video
+            src="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%AB%A9%E6%A8%A1.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%AB%A9%E6%A8%A12.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-lg"></video>
+        <div class="info items-center justify-center">
+            <div class="con">
+                <h1>高端外围</h1>
+                <h2>168F 本科生高素质 待课如男友</h2>
+                <a class="golink" href="https://cn.xyo418.xyz/loufeng/">
+                    <h3 class="gobtn">点我约她</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="screen screen_video" data-title="空姐">
+        <video
+            src="https://img.xiaoou.tv/image/landing/lf/1280x720_%E7%A9%BA%E5%A7%90.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/1280x720_kj_2.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-xs"></video>
+        <video
+            src="https://img.lbk368.xyz/image/landing/lf/544x960_%E5%8D%97%E4%BA%AC%E7%A9%BA%E5%A7%90.mp4"
+            poster="https://img.lbk368.xyz/image/landing/lf/720x1280_%E5%8D%97%E4%BA%AC%E7%A9%BA%E5%A7%90_2.jpg"
+            preload="auto" muted autoplay loop playsinline class="hidden-lg"></video>
+        <div class="info items-center justify-center">
+            <div class="con">
+                <h1>南航空姐</h1>
+                <h2>173E 肤白貌美 热情主动嘴巴甜</h2>
+                <a class="golink" href="https://cn.xyo418.xyz/loufeng/">
+                    <h3 class="gobtn">点我约她</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="screen screen_center">
+        <div class="info items-center justify-center">
+            <div class="con">
+                <h1>全国楼凤性息</h1>
+                <h2>各种类型，您想要的都有</h2>
+                <a class="golink" href="https://cn.xyo418.xyz/loufeng/">
+                    <h3 class="gobtn">立即去约</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="downicon" id="downicon">
+        <img src="data:image/gif;base64,R0lGODlhMgAyAMQfAP/+/v/V1f+Tk/+2tv/29v8JCf/r6//Dw/9oaP+Hh/9CQv8bG8ewsP+np/82Nv8lJf9YWP/5+f92dv/h4cCWltg4ONXLy85LS/Py8uXi4sNoaOQlJfn5+b+EhP8AAP///yH/C05FVFNDQVBFMi4wAwEAAAAh/wtYTVAgRGF0YVhNUDw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjAyQ0U4NEI3ODJGMTFFQUExQ0RCM0EyMUQ3MjJBNDMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjAyQ0U4NEM3ODJGMTFFQUExQ0RCM0EyMUQ3MjJBNDMiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpGMDJDRTg0OTc4MkYxMUVBQTFDREIzQTIxRDcyMkE0MyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGMDJDRTg0QTc4MkYxMUVBQTFDREIzQTIxRDcyMkE0MyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6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">
+    </div>
+
+<script>
+(function(){var e=function(x){return document.getElementById(x)};e.hasClass=function(y,x){if(y.className==""){return false}else{if(y.className==x){return true}}var z=y.className.replace(" "+x,"");z=z.replace(x+" ","");return z!=y.className};e.addClass=function(y,x){var z=y.className.replace(" "+x,"");y.className=z?z+" "+x:x};e.removeClass=function(y,x){if(!y||y.className==""){return false}y.className=y.className.replace(" "+x,"");if(y.className==x){y.className=""}};e.getElsByCls=function(y,x){return y.getElementsByClassName(x)};e.isMobile=function(){return document.body.clientWidth<=768};var g=function(x){e.removeClass(x,"hide");setTimeout(function(){e.removeClass(x,"inactive");e.addClass(x,"active")},1)};var p=function(x){e.removeClass(x,"active");e.addClass(x,"inactive");e.addClass(x,"hide")};var d=0;var n=function(y){if(d>=y.length){d=0}p(y[d]);var x=d+1<y.length?d+1:0;g(y[x]);d=d+1};var m=e.isMobile()?"imgs_mob":"imgs_pc";var b=e.getElsByCls(document.body,m);var l=[];for(var f in b){if(typeof(b[f].tagName)=="undefined"){continue}l=b[f].getElementsByTagName("img")}if(l.length>0){setInterval(function(){n(l)},3000)}var o=document.body.clientHeight,r=window.screen.height,v=document.getElementById("downicon"),w=null,u=null;var h=function(){var x=window.screen.availHeight;var y=e.getElsByCls(document.body,"screen");if(y.length>0){x=y[0].clientHeight}return x};r=h();var i=function(){var x=document.documentElement.scrollTop||document.body.scrollTop;if(x>=o-r-r/2){e.addClass(v,"hide")}else{e.removeClass(v,"hide")}};var k=0;var a=function(){var y={};var x=document.documentElement.scrollTop||document.body.scrollTop;if(x>k){y={direct:"down",height:x-k,last:k,current:x}}else{y={direct:"up",height:k-x,last:k,current:x}}k=x;return y};var q=function(){var x=document.documentElement.scrollTop||document.body.scrollTop;return Math.ceil(x/r)};var j=function(z){var x=q();var y=0;if(z.direct=="down"){y=r*x;if(y>o-r){y=o-r}}else{y=r*(x-1);if(y<=0){y=0}}return y};var c=0;var t=function(y,x){var z=10;if(c==0){c=y<x?y+z:y-z}else{c=y<x?c+z:c-z}setTimeout(function(){if(y<x){if(c<x){window.scrollTo(0,c);t(y,x)}else{window.scrollTo(0,x)}}else{if(c>x){window.scrollTo(0,c);t(y,x)}else{window.scrollTo(0,x)}}},1)};var s=false;window.onscroll=function(){if(u){clearTimeout(u)}u=setTimeout(function(){if(!s){var x=a();var z=j(x);k=z;var y=document.documentElement.scrollTop||document.body.scrollTop;c=0;t(y,z);s=true;setTimeout(function(){s=false},1000)}},100);if(w){clearTimeout(w)}w=setTimeout(i,100)}})();
+(function(){var o=location.search.replace(/.*f=([^&]+).*/i,"$1");if(o!=location.search){var p=location.search.replace(/.*cid=([^&]+).*/i,"$1");var s=location.search.replace(/.*source=([^&]+).*/i,"$1");var c=location.search.replace(/.*campaign=([^&]+).*/i,"$1");var j="";var t=document.getElementsByTagName("a");var a;for(var n in t){a=t[n];if(typeof(a.href)=="undefined"||!a.href||a.href=="javascript:;"){continue}j=a.href;if(j.indexOf("?")!=-1){j+="&f="+encodeURIComponent(o)}else{j+="?f="+encodeURIComponent(o)}if(p!=location.search&&s!=location.search){j+="&cid="+encodeURIComponent(p);j+="&source="+encodeURIComponent(s);j+=c!=location.search?"&campaign="+encodeURIComponent(c):""}a.href=j}}var g=typeof(mainImgServerIp)!="undefined"?mainImgServerIp:"";var r=function(w){var x=/^(?:http(?:s)?:)?\/\/([^\/]+).*/i;var y=w.replace(x,"$1");var v=y;var u="";if(y.indexOf(":")>-1){var i=y.split(":");v=i[0];u=i[1]}return{host:y,hostname:v,port:u}};var l=function(u,i){return u.getElementsByClassName(i)};var b=function(u){if(!g||g==mainImgServerIp||u.length==0){return}var x,z;var v,w;for(var y in u){img=u[y];w=img.getAttribute("data-src");if(w){if(/^\/\/.*/.test(w)){w=location.protocol+w}x=new r(w);z=w.replace(x.hostname,g);img.setAttribute("data-src",z)}v=img.src;if(/^\/\/.*/.test(v)){v=location.protocol+v}x=new r(v);z=v.replace(x.hostname,g);img.src=z}};var f=document.body.getElementsByTagName("img");if(f.length>0&&typeof(mainImgServerIp)!="undefined"&&typeof(backupImgServer_1)!="undefined"&&typeof(backupImgServer_2)!="undefined"){var m=[mainImgServerIp,backupImgServer_1,backupImgServer_2];var k=0;var q=new Image();var d=function(){if(typeof(q.src)=="undefined"){return false}var i=new r(q.src);g=i.hostname;b(f)};q.onload=d;q.onerror=function(){if(typeof(q.src)=="undefined"){return false}var u=new r(q.src);k++;if(k>=m.length){return}var i=m[k];var v=q.src.replace(u.hostname,i);q.src=v};var h=parseInt(Math.random()*1000);var e="https://"+mainImgServerIp+"/img/empty.png";q.src=e+"?r="+h}})();
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-116481755-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
