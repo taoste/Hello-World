@@ -1,4 +1,4 @@
-GitHub for mobile https://github.com/mobile | [配置双重身份验证](https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication ) - [GitHub 帮助](https://help.github.com/cn/) / [关于 GitHub 赞助商](https://help.github.com/cn/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors)
+#[GitHub](https://github.com/) for [mobile](https://github.com/mobile) | [配置双重身份验证](https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication ) - [GitHub 帮助](https://help.github.com/cn/) / [关于 GitHub 赞助商](https://help.github.com/cn/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors)
 -----------------------------------------------
 
 
