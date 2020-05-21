@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://v.choong.net/wxb/" title="视频：吴晓波系列讲座《历代经济变革得失》">
-<img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E2%80%9C%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E2%80%9D%E7%BB%88%E6%9E%81%E4%B9%A6%E5%8D%95%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6/qrcode/wxbpd-qrcode0.png?raw=true"/>
+<img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E2%80%9C%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E2%80%9D%E7%BB%88%E6%9E%81%E4%B9%A6%E5%8D%95%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6/qrcode/wxbpd-qrcode.png?raw=true"/>
 </a>
 
 </p>
