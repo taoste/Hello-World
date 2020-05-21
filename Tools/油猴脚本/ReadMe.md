@@ -40,3 +40,16 @@
 
 - [**百度文库破解加强、 CSDN阅读增强、知乎使用增强、抖音去水印原视频下载、全网VIP视频破解，去广告**](https://greasyfork.org/zh-CN/scripts/398195-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E7%A0%B4%E8%A7%A3%E5%8A%A0%E5%BC%BA-csdn%E9%98%85%E8%AF%BB%E5%A2%9E%E5%BC%BA-%E7%9F%A5%E4%B9%8E%E4%BD%BF%E7%94%A8%E5%A2%9E%E5%BC%BA-%E6%8A%96%E9%9F%B3%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%8E%9F%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3-%E5%8E%BB%E5%B9%BF%E5%91%8A)
 > 【自用，长期维护】【功能有】1：百度文库文档免费下载、文档内容自由复制、广告过滤，看了就烦；2：CSDN阅读加强：CSDN自动展开、去广告、净化剪贴板、免登陆等；3：知乎使用增强：外链接直接跳出、内容自动展开、短视频下载、去除登录提醒、自动高清图片等；4：抖音去水印原视频下载，非调用第三方；5：KIWI视频解析，支持大部分视频播放平台[支持优酷 | 腾讯 | 爱奇艺 | 芒果 | 乐视等常用视频]，移动端，PC端都适用
+
+- [**YouTube 下载器**](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader) 
+
+> 不需要透过第三方的服务就能下载 YouTube 影片。
+```
+这能让你不透过第三方服务来下载 YouTube 影片的简单脚本
+
+此脚本也支援包含扩充功能的手机浏览器，如 FireFox, Yandex 和 Kiwi。 AdGuard Android 的擴充插件功能也是能使用此腳本的。
+
+*注: 此脚本只支援 Violentmonkey & Tampermonkey，请 Greasymonkey 的使用者注意一下。 *
+
+另外推广一下不用 fq 就能下载 Chrome 插件的网站: https://www.gugeapps.net/
+```
