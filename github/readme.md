@@ -1,5 +1,7 @@
-GitHub for mobile https://github.com/mobile | [配置双重身份验证](https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication ) - [GitHub 帮助](https://help.github.com/cn)
+GitHub for mobile https://github.com/mobile | [配置双重身份验证](https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication ) - [GitHub 帮助](https://help.github.com/cn/) / [关于 GitHub 赞助商](https://help.github.com/cn/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors)
 -----------------------------------------------
+
+
 🎦  [CN 开放数据计划](http://cn.github.io/) [CN Open Data](https://github.com/cn) ( https://github.com/cn )
 
 >> [国家数据](http://data.stats.gov.cn/)@[中华人民共和国国家统计局](http://www.stats.gov.cn/)
