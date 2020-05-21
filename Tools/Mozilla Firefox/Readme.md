@@ -126,9 +126,10 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 - [x] 👍《[**谷歌服务助手**](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)》 （ 支持 [Chrome](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/cgncbhnhlkbdieckbbmeppcefokppagh?hl=zh-CN)  /  [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/)）
  ( [Chrome](https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/) 同类插件：[**谷歌上网助手（Ghelper）**](https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgplbabhmgfanaka?hl=zh-CN)， 👍[**我的Go下载短链接**](https://go.choong.net/google/g/) ）
  
-- [x] 👍<a href="https://zh.savefrom.net/" title="Youtube视频下载(使用短域名快捷方式：SSyoutube.com) - 免费在线 YouTube 下载器">SS</a>
-            <a href="https://zh.savefrom.net/user.php?vid=312&utm_source=savefrom&utm_medium=vidacha&utm_campaign=sf_helper&utm_content=101-promo" title="Youtube 下载器：通过一个扩展程序从 Vimeo、Facebook 和 Dailymotion 上免费下载所有视频">-</a> 
-	    <a href="https://www.youtube.com/?hl=zh-CN" title="YouTube - YouTube是世界上最大的视频网站">YouTube</a> 
+- [x] [**免费在线 YouTube 下载器：SaveFrom**](https://zh.savefrom.net/) - 下载 YouTube 视频、Facebook 等等！ ( https://zh.savefrom.net/ )
+>  <a href="https://zh.savefrom.net/" title="Youtube视频下载(使用短域名快捷方式：SSyoutube.com) - 免费在线 YouTube 下载器">👍SS</a>
+   <a href="https://www.youtube.com/?hl=zh-CN" title="YouTube - YouTube是世界上最大的视频网站">YouTube</a> 
+   .<a href="https://zh.savefrom.net/user.php?vid=312&utm_source=savefrom&utm_medium=vidacha&utm_campaign=sf_helper&utm_content=101-promo" title="Youtube 下载器：通过一个扩展程序从 Vimeo、Facebook 和 Dailymotion 上免费下载所有视频">com</a>
  
 - [x] 👍《[**To Google Translate 谷歌快译**](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/)》
 > 右键单击一段文本，点击它旁边的“翻译”图标，即可翻译或收听它的发音。
