@@ -22,6 +22,8 @@
     </tr>    
   </table>
 
+》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。 
+
 - 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》
 
 
