@@ -130,6 +130,7 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 >  <a href="https://zh.savefrom.net/" title="Youtube视频下载(使用短域名快捷方式：SSyoutube.com) - 免费在线 YouTube 下载器">👍SS</a>
    <a href="https://www.youtube.com/?hl=zh-CN" title="YouTube - YouTube是世界上最大的视频网站">YouTube</a> 
    .<a href="https://zh.savefrom.net/user.php?vid=312&utm_source=savefrom&utm_medium=vidacha&utm_campaign=sf_helper&utm_content=101-promo" title="Youtube 下载器：通过一个扩展程序从 Vimeo、Facebook 和 Dailymotion 上免费下载所有视频">com</a>
+   (<a href="https://addons.mozilla.org/zh-CN/firefox/addon/savefromnet-helper/" title=" 🦊Firefox 扩展程序 : 我们建议您安装SaveFrom.net helper 扩展程序，从YouTube中下载，只需单击鼠标即可。">🦊Firefox</a>)
  
 - [x] 👍《[**To Google Translate 谷歌快译**](https://addons.mozilla.org/zh-CN/firefox/addon/to-google-translate/)》
 > 右键单击一段文本，点击它旁边的“翻译”图标，即可翻译或收听它的发音。
