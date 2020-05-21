@@ -201,10 +201,10 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 ( https://www.youtube.com/?hl=zh-CN ) 
 
 - [**免费在线 YouTube 下载器：SaveFrom**](https://zh.savefrom.net/) - 下载 YouTube 视频、Facebook 等等！ ( https://zh.savefrom.net/ )
-> [x] 👍<a href="https://zh.savefrom.net/" title="Youtube视频下载(使用短域名快捷方式：SSyoutube.com) - 免费在线 YouTube 下载器">SS</a>
-            <a href="https://zh.savefrom.net/user.php?vid=312&utm_source=savefrom&utm_medium=vidacha&utm_campaign=sf_helper&utm_content=101-promo" title="Youtube 下载器：通过一个扩展程序从 Vimeo、Facebook 和 Dailymotion 上免费下载所有视频">-</a> 
-	    <a href="https://www.youtube.com/?hl=zh-CN" title="YouTube - YouTube是世界上最大的视频网站">YouTube</a> 
-
+>  <a href="https://zh.savefrom.net/" title="Youtube视频下载(使用短域名快捷方式：SSyoutube.com) - 免费在线 YouTube 下载器">👍SS</a>
+   <a href="https://www.youtube.com/?hl=zh-CN" title="YouTube - YouTube是世界上最大的视频网站">YouTube</a> 
+   .<a href="https://zh.savefrom.net/user.php?vid=312&utm_source=savefrom&utm_medium=vidacha&utm_campaign=sf_helper&utm_content=101-promo" title="Youtube 下载器：通过一个扩展程序从 Vimeo、Facebook 和 Dailymotion 上免费下载所有视频">com</a>
+   
 - [**登录Google和YouTube的两个小插件教程**](https://blog.csdn.net/Yong_Qi2015/article/details/79205358) - [**CSDN博客**](https://blog.csdn.net/)
 
 - [频道上的认证徽章](https://support.google.com/youtube/answer/3046484?hl=zh-Hans) - YouTube帮助
