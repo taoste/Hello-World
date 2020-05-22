@@ -1,4 +1,4 @@
-- [Error.html](https://taoste.github.io/Hello-World/github/404/index.html) | 
+- [Error.html](https://taoste.github.io/Hello-World/github/404/index.html) / [404.html](https://taoste.github.io/Hello-World/github/404/4040.html)| 
 [view-source](index.html) : https://www.58pic.com/404.html
 
 打包下载：[View Raw](https://github.com/taoste/Hello-World/blob/master/github/404/404.7z) / [Download](
