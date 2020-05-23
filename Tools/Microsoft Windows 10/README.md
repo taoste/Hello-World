@@ -63,6 +63,8 @@ Alt+F4 关机快捷键。
 
 ---------------------------------------
 
+- 《[**微软福利：Windows7和8.1系统仍可免费升至Windows10**](https://os.51cto.com/art/202005/616245.htm) 》（2020-05-11）  - 51CTO.COM  
+
 - 《[**可能是最后一次机会，2 种方法免费升级到 Windows 10**](https://mp.weixin.qq.com/s/Qy_CgqCrctRsPSlVNxHEGQ) 》 
  （ 少数派 2019-12-27 ）
 > 关注少数派（ID：sspaime），在后台回复「Win」即可获得下载链接，如下。
