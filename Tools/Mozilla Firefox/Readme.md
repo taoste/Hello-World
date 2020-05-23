@@ -85,6 +85,26 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 -------------------------------------------------------------------
 
+- Firefox实现**暗黑模式**
+
+> 如果你不想在你的操作系统主题上浪费时间，你可以在 Firefox 中强制执行这个测试。方法如下：
+
+>>打开 Firefox，然后在地址栏中键入 about:config ，然后按 Enter。
+
+>>你将被要求承担风险，接受它。
+
+>>在搜索栏中，搜索 ui.systemUsesDarkTheme 。 将复选框更改为 number 并单击 + 符号。 将值更改为 1 并单击 tick 按钮。
+
+>>现在页面应该变黑。
+
+>>回到您的网站，主题应该已自动更新为黑暗模式。
+
+>>如果您想要测试它是否切换回来，请将值更改为 0 。
+
+>>完成测试后，单击垃圾桶删除该选项。
+
+-------------------------------------------------------------------
+
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
 
 [Shields.io](https://shields.io/) : [给 GitHub 项目戴上勋章](https://loggerhead.me/posts/gei-github-xiang-mu-dai-shang-xun-zhang.html)
