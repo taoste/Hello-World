@@ -47,8 +47,12 @@
 第七章 类与可口可乐
 第八章 开始使用第三方库
 ```
- -------------------------------------------------------------
- 
- > <a href="https://www.jb51.net/books/510513.html"><img src="https://img.jbzj.com/do/uploads/litimg/161115/1A4192I0W.jpg" border="0" title="《编程小白的第一本Python入门书》中文pdf版[35MB]全彩版 电子书 下载-脚本之家 "> </a>
  
  
+ > <a href="https://www.jb51.net/books/510513.html"><img src="https://img.jbzj.com/do/uploads/litimg/161115/1A4192I0W.jpg" border="0" title="《编程小白的第一本Python入门书》中文pdf版[35MB]全彩版 电子书 下载-脚本之家"> </a>
+ 
+-------------------------------------------------------------
+
+
+> [**参考阅读**](https://www.sogou.com/sogou?pid=sogou-wsse-ff111e4a5406ed40&insite=zhihu.com&ie=utf8&query=%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%ACpython%E5%85%A5%E9%97%A8%E4%B9%A6&ie=utf8&query=%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%ACpython%E5%85%A5%E9%97%A8%E4%B9%A6) ：<a href="https://blog.csdn.net/qq_39591494/article/details/8379690 " title="【读过的书】编程小白的第一本入门书_延瓒-CSDN博客">【读过的书】编程小白的第一本入门书</a>_延瓒-CSDN博客
+
