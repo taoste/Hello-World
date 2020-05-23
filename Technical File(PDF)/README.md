@@ -14,6 +14,8 @@
 
 >> 参考链接：[《青少年编程能力等级》团体标准第2部分：python编程](https://mp.weixin.qq.com/s/GN12R87stHSr7CovUWZUDg)  
 
+>> 参考链接：《[学 Python 能帮你解决什么问题 ？](https://developer.51cto.com/art/202005/617169.htm)》 (2020-05-22) - 51CTO.COM 
+
 -------------------------------------------------------------
 
 📕 [List](https://taoste.github.io/Hello-World/Technical%20File(PDF)/README.md) ：
