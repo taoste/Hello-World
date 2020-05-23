@@ -1,5 +1,7 @@
 强烈推荐👍：《[GitHub入门与实践](https://book.douban.com/subject/26462816/)》( [[日]大塚弘记](https://book.douban.com/subject_search?search_text=%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0) ) ISBN: 9787115394095  🔗[中文PDF版](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《GitHub入门与实践》(%20%5B日%5D%20大塚弘记%20)%20中文PDF版.pdf)
 
+>> 参考链接：[《Github上 10 个开源免费且优秀的后台控制面板](https://news.51cto.com/art/202005/616539.htm)》 (2020-05-14) - 51CTO.COM 
+
 -------------------------------------------------------------------------------
 
 <a href="https://twitter.com/0792z/status/1150922079761522689">我认同反脆弱的观点，你需要有个副业，哪怕你的副业带来的收入特别少，他也部分地给了你选择的权利。你在一个岗位干得越久，积累经验是个假象，本质是你作为一个衰败的螺丝拧得越来越深，已经无法脱离开这个行业这个岗位，然后说着自己不愿意说的话做着自己不愿意做的事情，就是所谓的油腻吧。</a>
