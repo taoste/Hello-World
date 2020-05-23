@@ -195,7 +195,13 @@ https://greasyfork.org/zh-CN/scripts/30545-%E8%A7%86%E9%A2%91%E7%AB%99%E5%90%AF%
 
 - [x]  《[**HTTPS Everywhere**](https://addons.mozilla.org/zh-CN/firefox/addon/https-everywhere/?src=ss)》 - 是电子前哨基金会（EFF）的免费浏览器插件，它可以强制网页使用“HTTPS”的方式加密访问，避免被不良宽带商和中间人篡改。
 > 加密网络！HTTPS Everywhere 是一个保护通信的 Firefox 扩展。它对支持加密的网站自动开启 HTTPS 通信加密，即使你在输入网址时没有加上 https: 前缀也一样。
+>> 《[**HTTPS Everywhere - 默认使用 HTTPS [Firefox]**](https://www.appinn.com/https-everywhere-firefox/)》2011/09/19  - 小众软件 
 
+>> 《[**Firefox / Chrome强制指定网址使用https**](https://yq.aliyun.com/articles/439427)》2016-11-09 -云栖社区-阿里云
+```
+chrome强制网站使用https chrome://net-internals/
+firefox强制指定网站使用https 使用noScript插件 / HTTPS Everywhere
+```
 - [x]  [**Adblock Plus**](https://addons.mozilla.org/zh-CN/firefox/addon/adblock-plus/?src=hp-dl-mostpopular) - 是老牌知名的**广告屏蔽插件**，网页广告内置了大量的跟踪代码，使用这款插件可减少广告的干扰。
 
 - [x]  [**NoScript**](https://addons.mozilla.org/zh-CN/firefox/addon/noscript/?src=hp-dl-mostpopular)  - 顾名思义可屏蔽网页上的各类跟踪脚本代码，给访客最干净清爽的浏览体验。
