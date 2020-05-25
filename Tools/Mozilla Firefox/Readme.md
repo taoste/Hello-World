@@ -284,10 +284,10 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 ) （ 提供方：https://cn.infinitynewtab.com ）
 > - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加>美观和易用
 
-- [ ] [**关灯看视频**](https://addons.mozilla.org/zh-CN/firefox/addon/turn-off-the-lights/） – 下载 🦊 Firefox 扩展（zh-CN）
+- [ ] 👍[**关灯看视频**](https://addons.mozilla.org/zh-CN/firefox/addon/turn-off-the-lights/) – 下载 🦊 Firefox 扩展（zh-CN）
 > 观看视频时调暗页面，仿佛置身电影院
 
-- [ ] [**WeiboMini**](https://addons.mozilla.org/zh-CN/firefox/addon/weibomini/） – 下载 🦊 Firefox 扩展（zh-CN）
+- [ ] [**WeiboMini**](https://addons.mozilla.org/zh-CN/firefox/addon/weibomini/) – 下载 🦊 Firefox 扩展（zh-CN）
 > 利用侧边栏刷新浪微博（Weibo.com），同时提供对weibo.com自动跳转其他引导页面的拦截，如有异常请联系作者。
 >> 主要提供了两个快捷键：
 ```
