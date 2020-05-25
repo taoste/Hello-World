@@ -2,7 +2,7 @@
 
 >> 参考链接：[《Github上 10 个开源免费且优秀的后台控制面板](https://news.51cto.com/art/202005/616539.htm)》 (2020-05-14) - 51CTO.COM 
 
-- 👍[**Python 官网**](https://www.Python.org/) | [**Download 下载**(https://www.python.org/downloads/)
+- 👍[**Python 官网**](https://www.Python.org/) | [**Download 下载**](https://www.python.org/downloads/)
 
 >> 参考链接：《[学 Python 能帮你解决什么问题 ？](https://developer.51cto.com/art/202005/617169.htm)》 (2020-05-22) - 51CTO.COM 
 
