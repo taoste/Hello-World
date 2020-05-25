@@ -282,7 +282,22 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 >> moz-extension://e1314a8c-e60c-4463-a145-42b0519057d4/pages/newtab.html
 > - 作者： [extfans](https://addons.mozilla.org/zh-CN/firefox/user/extfans/)/ 主页 [extfans.com](https://extfans.com
 ) （ 提供方：https://cn.infinitynewtab.com ）
-> - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加美观和易用
+> - 百万用户选择的新标签页和快速拨号，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。使你的主页和开始页更加>美观和易用
+
+- [ ] [**关灯看视频**](https://addons.mozilla.org/zh-CN/firefox/addon/turn-off-the-lights/） – 下载 🦊 Firefox 扩展（zh-CN）
+> 观看视频时调暗页面，仿佛置身电影院
+
+- [ ] [**WeiboMini**](https://addons.mozilla.org/zh-CN/firefox/addon/weibomini/） – 下载 🦊 Firefox 扩展（zh-CN）
+> 利用侧边栏刷新浪微博（Weibo.com），同时提供对weibo.com自动跳转其他引导页面的拦截，如有异常请联系作者。
+>> 主要提供了两个快捷键：
+```
+1、Ctrl+Shift+Y： 呼出/隐藏侧边栏的微博；
+2、Ctrl+Shift+U：返回上一页。
+```
+>> 提供了一个附加功能：
+```
+1、拦截weibo.com登录时的自动跳转引导页，提高刷微博的愉悦感
+```
 
 - [x] [**二维码实用工具**](https://addons.mozilla.org/zh-CN/firefox/addon/qr-code-util/?src=search)
  – 下载 🦊 Firefox 扩展（zh-CN）
