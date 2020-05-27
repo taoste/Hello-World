@@ -1,0 +1,515 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>个人中心</title>
+
+
+<meta name="keywords" content="校园招聘,迅雷网络校园招聘,迅雷校招2016,迅雷招聘,">
+<meta name="description" content="迅雷网络校园招聘">
+<link rel="stylesheet" href="css/style.css?t=20180806">
+<link rel="stylesheet" href="css/login.css?t=20180806">
+<link rel="stylesheet" href="css/other.css?t=20180806">
+</head>
+<body class="campus2019">
+<div class="header">
+	<div class="head">
+		<h1><a href="index.html" class="logo" title="迅雷招聘">迅雷招聘</a></h1>
+		<div class="nav" id="nav">
+			<a href="index.html?x=rea" class="nav-home cur"></a>
+			<a href="position.html" class="nav-jobs"></a>
+			<a href="recureDynamics.html" class="nav-process"></a>
+			<a href="indexEnter.html#page=0&jump=1" class="nav-about"></a>
+			<a href="http://hr.xunlei.com/" target="_ablank" class="nav-more"></a>
+		</div>
+		<!--已登录-->
+		<div class="user_info" id="logined" style="display:none;">
+			<div class="info_main">
+				<a href="/position.html" class="btn_h_send"></a>
+				<a href="#" class="pic_user"></a>
+			</div>
+			<div class="user_drop" id="userinfo" style="display:none;">
+				<!-- <a href="/personal_center.html" class="user_name" id="username" title="">hi,恰似一江春水</a> -->
+				<a href="/personal_center.html" id="userCenter">个人中心</a>
+				<a href="#" id="logout">退出</a>
+			</div>
+			<div class="drop_code">
+				<div class="code_pic">
+					<img src="images/code.png" alt="二维码" />
+				</div>
+				<p>关注招聘动态</p>
+			</div>
+		</div>
+		<!--未登录-->
+		<div class="user_info" id="loginInfoContainer" style="display: block">
+			<div class="info_main">
+				<a href="/position.html" class="btn_h_send"></a>
+				<a href="#" id="s_login" class="login"></a>		
+			</div>
+			<div class="drop_code">
+				<div class="code_pic">
+					<img src="images/code.png" alt="二维码" />
+				</div>
+				<p>关注招聘动态</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--遮罩-->
+<!--遮罩-->
+<div class="cover" style="display: none;"></div>
+<div class="xz_pop_box" style="display: none;" id="registerBind"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">绑定</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_regist">
+				<div class="mod_tab_nav mod_tab_nav_1">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱绑定</a>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch regist_bymail"><!-- 邮箱绑定 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">登录邮箱（该邮箱即为面试通知邮箱）</label>
+								<input class="mod_form_ipt rebindmail" type="text" >
+								<p class="mod_form_tip" style="display: none;">请填写正确的邮箱</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码（6-20位字母或数字）</label>
+								<input class="mod_form_ipt rebindpass" type="password">
+								<p class="mod_form_tip" style="display: none;">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">重复密码</label>
+								<input class="mod_form_ipt rebindrepass" type="password" >
+								<p class="mod_form_tip" style="display: none;">请填写正确的密码</p>
+							</div>
+							
+							<div class="mod_form_handle">
+								<p class="closehide" style="display: none;color: #ff4500;">无效的用户名和密码</p>
+								<a href="javascript:;" class="btn_primary " id="toRegisterBind">注册并绑定</a>
+							</div>
+						</div>
+					</div><!-- 邮箱绑定 end -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+
+<div class="xz_pop_box" style="display: none;" id="s_bindDiv"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">登录</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="binding_tip">
+				<i class="ico_tip">
+					<svg>
+						<circle cx="64" cy="64" r="62"></circle>
+						<path class="path1" d="M 64 22 L 64 86 "/> 
+						<path class="path2" d="M 64 94 L 64 102 "/> 
+					</svg>
+				</i>
+				<p>请绑定登录邮箱</p>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_primary" id="tobind">已有邮箱帐号，登录&gt;</a>
+					<a href="javascript:;" class="btn_minor" id="tonewCount">注册并绑定邮箱&gt;&gt;</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+<div class="xz_pop_box" style="display: none;" id="s_bindmailDiv"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="binding_tip">
+				<i class="ico_tip">
+					<svg>
+						<circle cx="64" cy="64" r="62"></circle>
+						<path class="path1" d="M 64 22 L 64 86 "/> 
+						<path class="path2" d="M 64 94 L 64 102 "/> 
+					</svg>
+				</i>
+				<p>请绑定登录邮箱</p>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_minor" id="toRegWx">注册并绑定&gt;&gt;</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+<!-- 登录弹窗 -->
+<div class="xz_pop_box" id="s_loginDiv" style="display: none;">
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">登录</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_login">
+				<div class="mod_tab_nav por">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱登录</a>
+					<a href="javascript:;" id="erweiLogin">微信登录</a>
+					<span class="forbid-mask forbidErwei" ></span>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch login_bymail"><!-- 邮箱登录 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">邮箱</label>
+								<input class="mod_form_ipt" data-type="email" type="text">
+								<p class="mod_form_tip" style="display: none">邮箱输入有误！</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码</label>
+								<input class="mod_form_ipt" data-type="pass" type="password">
+								<p class="mod_form_tip" style="display: none">密码输入有误！</p>
+							</div>
+							<div class="mod_form_help">
+								<p id="tips_login" style="color:#ff4500;text-align: left;"></p>
+							</div>
+							<div class="mod_form_help">
+								<a href="javascript:;"  class="lnk_pop tofindpass">忘记密码？</a>
+							</div>
+							<div class="mod_form_handle">
+								<a href="javascript:void(0);" class="btn_primary" id="login">登 录</a>
+								<!-- <a href="javascript:;" class="btn_primary is_locked">登录成功！</a> -->
+							</div>
+						</div>
+					</div><!-- 邮箱登录 end -->
+					<div class="mod_tab_switch login_bywx" style="display: none;"><!-- 微信登录 -->
+						<div class="login_codebox">
+							<div class="code" id="loginErwei"></div>
+							<p class="txt">微信扫一扫即可登录</p>
+							<!-- 登录成功后，隐藏上面文案，显示下面文案。 -->
+							<!-- <p class="txt">登录成功！</p> -->
+						</div>
+					</div><!-- 微信登录 end -->
+				</div>
+			</div>
+		</div>
+		<p class="oper_bot">或 <a href="javascript:void(0);"  class="lnk_pop toregister">注册&gt;&gt;</a></p>
+	</div>
+	<a class="pop_closebtn" href="javascript:void(0);" title="关闭"></a>
+</div>
+<!-- 登录弹窗 end -->
+
+<!-- 注册弹窗 -->
+<div class="xz_pop_box" id="s_registerDiv" style="display: none;">
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_regist">
+				<div class="mod_tab_nav mod_tab_nav_1">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱注册</a>
+					<!-- <a href="javascript:;" id="wxregister">微信注册</a> -->
+					<span class="forbid-mask forbidErwei" ></span>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch regist_bymail"><!-- 邮箱注册 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group" style="display: none">
+								<label for="" class="mod_form_label">昵称</label>
+								<input class="mod_form_ipt" type="text" data-type="nick" value=" ">
+								<p class="mod_form_tip" style="display: none">输入昵称</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">登录邮箱</label>
+								<input class="mod_form_ipt" type="text" data-type="email"> 
+								<p class="mod_form_tip" style="display: none">请填写正确的邮箱</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">设置密码（6-20位字母或数字）</label>
+								<input class="mod_form_ipt" type="password"  data-type="pass" >
+								<p class="mod_form_tip" style="display: none">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码确认（6-20位字母或数字）</label>
+								<input class="mod_form_ipt" type="password"  data-type="repass" >
+								<p class="mod_form_tip" style="display: none">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_clause">
+								<!-- <p>点击注册表示你已阅读并同意 <a class="lnk_pop" href="#">服务条款</a></p> -->
+							</div>
+							<div class="mod_form_handle">
+								<a href="javascript:;" class="btn_primary" id="register">注册</a>
+								<!-- <a href="javascript:;" class="btn_primary is_locked">注册中...</a> -->
+							</div>
+						</div>
+					</div><!-- 邮箱注册 end -->
+					<div class="mod_tab_switch regist_bywx" style="display: none;"><!-- 微信注册 -->
+						<div class="login_codebox">
+							<div class="code" id="registerErwei"></div>
+							<p class="txt">微信扫一扫即可注册</p>
+						</div>
+					</div><!-- 微信注册 end -->
+				</div>
+			</div>
+		</div>
+		<p class="oper_bot">或 <a class="lnk_pop tologin" href="javascript:void(0);">登录&gt;&gt;</a></p>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 注册弹窗 end -->
+
+
+<!--找回密码-->
+
+<div class="xz_pop_box"  id="s_forgetpwdDiv" style="display: none;"><!-- 找回密码 -->
+	<div class="pop_panel pop_panel_findpwd">
+		<h3 class="tit">找回密码</h3>
+		<div class="mod_form mod_form_findpwd " id="findmod">
+			<div class="mod_form_group">
+				<label for="" class="mod_form_label">输入注册邮箱找回密码</label>
+				<input type="text" class="mod_form_ipt">
+				<p class="mod_form_tip" style="display: none" style="display: none">邮箱错误</p>
+			</div>
+			<div class="mod_form_handle">
+				<a href="javascript:;" class="btn_primary " id="findpass">提交请求</a>
+				<a href="javascript:;" class="btn_minor" id="cancelfind">取消</a>
+			</div>	
+		</div>
+		<div class="findpwd_callback" style="display: none;" id="gotmod">
+			<i class="ico_success">
+				<svg>
+					<circle cx="64" cy="64" r="62"></circle>
+					<path d="M 25 67 L 50 90 L 102 40"/>
+				</svg>
+			</i>
+			<p>修改密码链接已经发送至 <span class="clr_primary" id="receivemail"></span></p>
+			<!-- <p>请前往邮箱修改密码，5分钟有效</p> -->
+			<div class="mod_form_handle" >
+				<a href="javascript:;" class="btn_primary" id="tomail">确定</a>
+			</div>	
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 找回密码 end -->
+
+<div class="xz_pop_box" id="s_ensureDiv" style="display: none;"><!-- 确认注册 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			 <h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="regist_confirm">
+				<div class="avatar">
+					<!-- <img src="http://placehold.it/100x100" alt="默认头像"> -->
+				</div>
+				<p class="msg">昵称和头像在登录后修改</p>
+				<div class="mod_form_group">
+					<input type="text" class="mod_form_ipt" value="">
+				</div>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_primary" id="sureReg">确认注册</a>
+					<!-- <a href="javascript:;" class="btn_primary is_locked">注册成功！</a>	 -->
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 确认注册 end -->
+<div class="user_tit">
+	<span class="user_name" id="username_center"></span>，欢迎来到个人中心！
+</div>
+<div class="user">
+	<div class="inner">
+		<div class="user_box">
+			<h3>我的简历</h3>
+			<table class="tb_user">
+				<colgroup>
+					<col class="tb8" />
+					<col class="tb9" />
+					<col class="tb8" />
+					<col class="tb10" />
+				</colgroup>
+				<tr>
+					<th>创建时间</th>
+					<th>最后修改时间</th>
+					<th>完成程度</th>
+					<th></th>
+				</tr>
+				<tr id="status">
+					
+					<td colspan="4">
+						<!-- <a href="/resume_edit.html" class="btn_opt btn_pre">预览</a>
+						<a href="/resume_edit.html" class="btn_opt">编辑</a> -->
+						<a href="/resume_write1.html" class="btn_opt w11">添加简历</a>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div class="user_box" id="jsstatus">
+			<h3>我的应聘</h3>
+			<table class="tb_user">
+				<colgroup>
+					<col class="tb8" />
+					<col class="tb9" />
+					<col class="tb8" />
+					<col class="tb10" />
+				</colgroup>
+				<tr>
+					<th>职位名称</th>
+					<th>申请时间</th>
+					<th>面试城市</th>
+					<th>状态</th>
+				</tr>
+				<tr id="apply_status">
+					
+            <td colspan="4"><a href="/position.html" class="btn_opt w11">申请岗位</a></td>
+            
+				</tr>
+			</table>
+			<div class="apply_plan" id="apply_process" style="display:none;">
+				<div class="apply_progress">
+					<!--
+						.step01 ~ step05
+					 -->
+					<ul class="step00 fix js_process">
+						<li class="it_1">
+							<span class="num">1</span>
+							<p>简历筛选</p>
+						</li>
+						<li class="it_2">
+							<span class="num">2</span>
+							<p>笔试</p>
+						</li>
+						<li class="it_3">
+							<span class="num">3</span>
+							<p>面试</p>
+						</li>
+						<li class="it_4">
+							<span class="num">4</span>
+							<p>offer</p>
+						</li>
+						<li class="it_5">
+							<span class="num">5</span>
+							<p>入职</p>
+						</li>
+					</ul>
+				</div>
+				<a href="position.html" class="btn_opt btn_pre">更换岗位</a>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/template" id="resume-status">
+
+    <td><%= data.createtime %></td>
+    <td><%= data.edittime %></td>
+    <td>
+      <span class="bar"><i style="width:<%= data.per %>%"></i></span>
+      <span class="num"><%= data.per %>%</span>
+    </td>
+    <td>
+      <a href="/resume_edit.html" target="_blank" class="btn_opt btn_pre">预览</a>
+      <a href="/resume_write1.html" class="btn_opt">编辑</a>
+    </td>
+  </script>
+  <script type="text/template" id="apply-template">
+    <td><%= data.positionname %></td>
+    <td><%= data.applytime %></td>
+    <td><%= data.intcityid %></td>
+    <td><%= data.status %></td>
+    <td></td>
+  </script>
+<div class="pop_s tipAlert" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<p class="txt_result">网络异常，请重试</p>
+		<p class="txt_opt" style="display: none;">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s tipAlertExchange" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close" style="display: none;">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<a href="resume_write1.html" class="txt_result" style="font-size:16px;">请前往个人中心再次确认您的交流会城市</a>
+		<a href="resume_write1.html" class="btn_write" style="width:120px;height:50px;margin-left:15px;margin-top:20px;">确定</a>
+		<p class="txt_opt" style="display: none;">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s jstipOnePo" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face1"></span>
+		<!--<p class="txt_result" style="font-size:16px;">你当前还未有简历，请先<a href="resume_write1.html">完善简历</a></p>-->
+		<p class="txt_opt">你当前还未有简历，请先 <a href="resume_write1.html">完善简历</a> </p>
+	</div>
+</div>
+<div class="footer">
+	<div class="foot">
+		<div class="f_nav">
+			<a target="_blank" href="http://www.xunlei.com/">迅雷官网</a>
+			<a target="_blank" href="http://dl.xunlei.com/">产品中心</a>
+			<a target="_blank" href="http://hr.xunlei.com/">加盟迅雷</a>
+			<a target="_blank" href="http://pstatic.xunlei.com/about/other/banner.html">广告服务</a>
+			<a target="_blank" href="http://www.xunlei.com/about/shangwu.html">商务合作</a>
+			<a target="_blank" href="http://help.xunlei.com/">客服中心</a>
+			<a target="_blank" href="http://aq.xunlei.com/index.html">安全中心</a>
+			<a target="_blank" href="http://vip.xunlei.com/tos.html">用户协议</a>
+			<span>&copy; 2003-2018  Xunlei.com</span>
+		</div>
+		<div class="f_top">
+			<a href="#"><i class="ico_top"></i>回到顶部</a>
+		</div>
+	</div>
+</div>
+<!--[if IE 6]>
+<script type="text/javascript" src="js/DD_PNG_min.js" ></script>
+<![endif]-->
+<!-- <script src="js/lib/jquery-1.8.3.min.js"></script> -->
+<!-- <script src="build/js/common.js?t=20180806"></script> -->
+<!--<script src="js/lib/jqCrossDomain.js"></script>
+<script src="js/lib/cookie.js"></script>
+<script src="js/lib/URLParser.js"></script>-->
+<!--<script>
+	//写到这儿是为了提早操作dom防止闪烁
+	var url = URLParser(),
+			authcode = url.getQueryData("authcode"),
+			$forget_pwd = $("#forget_pwd");
+			//$reset_pwd = $("#reset_pwd");
+
+	if (authcode) {
+		$forget_pwd.hide();
+		//$reset_pwd.show();
+	}
+	else {
+		$forget_pwd.show();
+		//$reset_pwd.hide();
+	}
+</script>-->
+<!--<script src="js/common.js"></script>
+<script src="js/tools.js"></script>
+<script src="js/lib/jqValidate.js"></script>
+<script src="js/find_pwd.js"></script>
+<script src="js/login.js"></script>
+<script src="js/register.js"></script>-->
+
+<script src="js/lib/jquery-1.8.3.min.js"></script>
+<script src="build/js/common.js?t=20180806" type="text/javascript"></script>
+<script src="js/lib/underscore.js"></script>
+<script src="build/js/personalCenter.min.js"></script>
+</body>
+</html>

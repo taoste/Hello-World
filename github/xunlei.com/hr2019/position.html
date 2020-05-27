@@ -1,0 +1,1275 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>招聘职位</title>
+<meta name="keywords" content="校园招聘,迅雷网络校园招聘,迅雷校招2019,迅雷招聘,">
+
+
+
+<meta name="description" content="迅雷网络校园招聘">
+<link rel="stylesheet" href="css/style.css?t=20180806">
+<link rel="stylesheet" href="css/login.css?t=20180806">
+<link rel="stylesheet" href="css/other.css?t=20180806">
+
+<body class="campus2019">
+<div class="header">
+	<div class="head">
+		<h1><a href="index.html" class="logo" title="迅雷招聘">迅雷招聘</a></h1>
+		<div class="nav" id="nav">
+			<a href="index.html?x=rea" class="nav-home cur"></a>
+			<a href="position.html" class="nav-jobs"></a>
+			<a href="recureDynamics.html" class="nav-process"></a>
+			<a href="indexEnter.html#page=0&jump=1" class="nav-about"></a>
+			<a href="http://hr.xunlei.com/" target="_ablank" class="nav-more"></a>
+		</div>
+		<!--已登录-->
+		<div class="user_info" id="logined" style="display:none;">
+			<div class="info_main">
+				<a href="/position.html" class="btn_h_send"></a>
+				<a href="#" class="pic_user"></a>
+			</div>
+			<div class="user_drop" id="userinfo" style="display:none;">
+				<!-- <a href="/personal_center.html" class="user_name" id="username" title="">hi,恰似一江春水</a> -->
+				<a href="/personal_center.html" id="userCenter">个人中心</a>
+				<a href="#" id="logout">退出</a>
+			</div>
+			<div class="drop_code">
+				<div class="code_pic">
+					<img src="images/code.png" alt="二维码" />
+				</div>
+				<p>关注招聘动态</p>
+			</div>
+		</div>
+		<!--未登录-->
+		<div class="user_info" id="loginInfoContainer" style="display: block">
+			<div class="info_main">
+				<a href="/position.html" class="btn_h_send"></a>
+				<a href="#" id="s_login" class="login"></a>		
+			</div>
+			<div class="drop_code">
+				<div class="code_pic">
+					<img src="images/code.png" alt="二维码" />
+				</div>
+				<p>关注招聘动态</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--遮罩-->
+<!--遮罩-->
+<div class="cover" style="display: none;"></div>
+<div class="xz_pop_box" style="display: none;" id="registerBind"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">绑定</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_regist">
+				<div class="mod_tab_nav mod_tab_nav_1">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱绑定</a>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch regist_bymail"><!-- 邮箱绑定 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">登录邮箱（该邮箱即为面试通知邮箱）</label>
+								<input class="mod_form_ipt rebindmail" type="text" >
+								<p class="mod_form_tip" style="display: none;">请填写正确的邮箱</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码（6-20位字母或数字）</label>
+								<input class="mod_form_ipt rebindpass" type="password">
+								<p class="mod_form_tip" style="display: none;">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">重复密码</label>
+								<input class="mod_form_ipt rebindrepass" type="password" >
+								<p class="mod_form_tip" style="display: none;">请填写正确的密码</p>
+							</div>
+							
+							<div class="mod_form_handle">
+								<p class="closehide" style="display: none;color: #ff4500;">无效的用户名和密码</p>
+								<a href="javascript:;" class="btn_primary " id="toRegisterBind">注册并绑定</a>
+							</div>
+						</div>
+					</div><!-- 邮箱绑定 end -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+
+<div class="xz_pop_box" style="display: none;" id="s_bindDiv"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">登录</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="binding_tip">
+				<i class="ico_tip">
+					<svg>
+						<circle cx="64" cy="64" r="62"></circle>
+						<path class="path1" d="M 64 22 L 64 86 "/> 
+						<path class="path2" d="M 64 94 L 64 102 "/> 
+					</svg>
+				</i>
+				<p>请绑定登录邮箱</p>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_primary" id="tobind">已有邮箱帐号，登录&gt;</a>
+					<a href="javascript:;" class="btn_minor" id="tonewCount">注册并绑定邮箱&gt;&gt;</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+<div class="xz_pop_box" style="display: none;" id="s_bindmailDiv"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="binding_tip">
+				<i class="ico_tip">
+					<svg>
+						<circle cx="64" cy="64" r="62"></circle>
+						<path class="path1" d="M 64 22 L 64 86 "/> 
+						<path class="path2" d="M 64 94 L 64 102 "/> 
+					</svg>
+				</i>
+				<p>请绑定登录邮箱</p>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_minor" id="toRegWx">注册并绑定&gt;&gt;</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+<!-- 登录弹窗 -->
+<div class="xz_pop_box" id="s_loginDiv" style="display: none;">
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">登录</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_login">
+				<div class="mod_tab_nav por">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱登录</a>
+					<a href="javascript:;" id="erweiLogin">微信登录</a>
+					<span class="forbid-mask forbidErwei" ></span>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch login_bymail"><!-- 邮箱登录 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">邮箱</label>
+								<input class="mod_form_ipt" data-type="email" type="text">
+								<p class="mod_form_tip" style="display: none">邮箱输入有误！</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码</label>
+								<input class="mod_form_ipt" data-type="pass" type="password">
+								<p class="mod_form_tip" style="display: none">密码输入有误！</p>
+							</div>
+							<div class="mod_form_help">
+								<p id="tips_login" style="color:#ff4500;text-align: left;"></p>
+							</div>
+							<div class="mod_form_help">
+								<a href="javascript:;"  class="lnk_pop tofindpass">忘记密码？</a>
+							</div>
+							<div class="mod_form_handle">
+								<a href="javascript:void(0);" class="btn_primary" id="login">登 录</a>
+								<!-- <a href="javascript:;" class="btn_primary is_locked">登录成功！</a> -->
+							</div>
+						</div>
+					</div><!-- 邮箱登录 end -->
+					<div class="mod_tab_switch login_bywx" style="display: none;"><!-- 微信登录 -->
+						<div class="login_codebox">
+							<div class="code" id="loginErwei"></div>
+							<p class="txt">微信扫一扫即可登录</p>
+							<!-- 登录成功后，隐藏上面文案，显示下面文案。 -->
+							<!-- <p class="txt">登录成功！</p> -->
+						</div>
+					</div><!-- 微信登录 end -->
+				</div>
+			</div>
+		</div>
+		<p class="oper_bot">或 <a href="javascript:void(0);"  class="lnk_pop toregister">注册&gt;&gt;</a></p>
+	</div>
+	<a class="pop_closebtn" href="javascript:void(0);" title="关闭"></a>
+</div>
+<!-- 登录弹窗 end -->
+
+<!-- 注册弹窗 -->
+<div class="xz_pop_box" id="s_registerDiv" style="display: none;">
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_regist">
+				<div class="mod_tab_nav mod_tab_nav_1">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱注册</a>
+					<!-- <a href="javascript:;" id="wxregister">微信注册</a> -->
+					<span class="forbid-mask forbidErwei" ></span>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch regist_bymail"><!-- 邮箱注册 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group" style="display: none">
+								<label for="" class="mod_form_label">昵称</label>
+								<input class="mod_form_ipt" type="text" data-type="nick" value=" ">
+								<p class="mod_form_tip" style="display: none">输入昵称</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">登录邮箱</label>
+								<input class="mod_form_ipt" type="text" data-type="email"> 
+								<p class="mod_form_tip" style="display: none">请填写正确的邮箱</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">设置密码（6-20位字母或数字）</label>
+								<input class="mod_form_ipt" type="password"  data-type="pass" >
+								<p class="mod_form_tip" style="display: none">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码确认（6-20位字母或数字）</label>
+								<input class="mod_form_ipt" type="password"  data-type="repass" >
+								<p class="mod_form_tip" style="display: none">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_clause">
+								<!-- <p>点击注册表示你已阅读并同意 <a class="lnk_pop" href="#">服务条款</a></p> -->
+							</div>
+							<div class="mod_form_handle">
+								<a href="javascript:;" class="btn_primary" id="register">注册</a>
+								<!-- <a href="javascript:;" class="btn_primary is_locked">注册中...</a> -->
+							</div>
+						</div>
+					</div><!-- 邮箱注册 end -->
+					<div class="mod_tab_switch regist_bywx" style="display: none;"><!-- 微信注册 -->
+						<div class="login_codebox">
+							<div class="code" id="registerErwei"></div>
+							<p class="txt">微信扫一扫即可注册</p>
+						</div>
+					</div><!-- 微信注册 end -->
+				</div>
+			</div>
+		</div>
+		<p class="oper_bot">或 <a class="lnk_pop tologin" href="javascript:void(0);">登录&gt;&gt;</a></p>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 注册弹窗 end -->
+
+
+<!--找回密码-->
+
+<div class="xz_pop_box"  id="s_forgetpwdDiv" style="display: none;"><!-- 找回密码 -->
+	<div class="pop_panel pop_panel_findpwd">
+		<h3 class="tit">找回密码</h3>
+		<div class="mod_form mod_form_findpwd " id="findmod">
+			<div class="mod_form_group">
+				<label for="" class="mod_form_label">输入注册邮箱找回密码</label>
+				<input type="text" class="mod_form_ipt">
+				<p class="mod_form_tip" style="display: none" style="display: none">邮箱错误</p>
+			</div>
+			<div class="mod_form_handle">
+				<a href="javascript:;" class="btn_primary " id="findpass">提交请求</a>
+				<a href="javascript:;" class="btn_minor" id="cancelfind">取消</a>
+			</div>	
+		</div>
+		<div class="findpwd_callback" style="display: none;" id="gotmod">
+			<i class="ico_success">
+				<svg>
+					<circle cx="64" cy="64" r="62"></circle>
+					<path d="M 25 67 L 50 90 L 102 40"/>
+				</svg>
+			</i>
+			<p>修改密码链接已经发送至 <span class="clr_primary" id="receivemail"></span></p>
+			<!-- <p>请前往邮箱修改密码，5分钟有效</p> -->
+			<div class="mod_form_handle" >
+				<a href="javascript:;" class="btn_primary" id="tomail">确定</a>
+			</div>	
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 找回密码 end -->
+
+<div class="xz_pop_box" id="s_ensureDiv" style="display: none;"><!-- 确认注册 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			 <h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="regist_confirm">
+				<div class="avatar">
+					<!-- <img src="http://placehold.it/100x100" alt="默认头像"> -->
+				</div>
+				<p class="msg">昵称和头像在登录后修改</p>
+				<div class="mod_form_group">
+					<input type="text" class="mod_form_ipt" value="">
+				</div>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_primary" id="sureReg">确认注册</a>
+					<!-- <a href="javascript:;" class="btn_primary is_locked">注册成功！</a>	 -->
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 确认注册 end -->
+	<div class="job_nav">
+		<div class="inner">
+			<a href="javascript:;"><span class="ico_tec"></span>TECHNOLOGY / 技术</a>
+			<a href="javascript:;"><span class="ico_pm"></span>PRODUCT / 产品</a>
+			<a href="javascript:;"><span class="ico_design"></span>COMPREHENSIVE / 综合</a>
+			<a href="javascript:;" class="cur"><span class="ico_oversea"></span>OVERSEAS / 海外</a>
+		</div>
+	</div>
+	
+	<div class="job_main">
+		<div class="job_main_list">
+  <div class="job_box fix">
+    <div class="job_box_s">
+      <h3 class="job_position">后台开发工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_cho job_city">
+					<span class="sex"><i class="ico_cho chosen extra_add"></i>深圳</span>
+					<span class="sex"><i class="ico_cho"></i>北京</span>
+					<span class="sex"><i class="ico_cho"></i>西安</span>
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">哈尔滨</a>
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">合肥</a>
+                <a href="javascript:;">杭州</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">南京</a>
+                <a href="javascript:;">香港</a>
+                <a href="javascript:;">新加坡</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          从事迅雷下载、直播、云计算、智能硬件、高性能区块链等产品的核心技术研发，使用最优秀的架构设计及算法实现，在高性能数据传输网络、视频/图像处理、分布式计算、云存储、大数据挖掘等领域，为海量互联网用户提供稳定、安全、高效和可靠的专业后台支撑体系。
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，计算机、数学、通信相关专业；</li>
+            <li>熟练的工程实践能力，熟练掌握C/C++、Java、PHP等至少一门语言；</li>
+            <li>全面而扎实的计算机系统基础知识，对分布式系统、视频/图像处理、嵌入式系统、高性能传输网络、云存储、区块链等至少一个领域有强烈的兴趣和深入的钻研能力；</li>
+            <li>强烈的好奇心、进取心，勇敢探索未知领域的决心与强悍的学习能力。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+    
+    <div class="job_box_s fr">
+      <h3 class="job_position">移动端开发工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_cho job_city">
+					<span class="sex"><i class="ico_cho chosen"></i>深圳</span>
+					<span class="sex"><i class="ico_cho"></i>北京</span>
+				</dd>
+        <dt>工程方向</dt>
+        <dd class="job_cho job_direction">
+					<span class="sex"><i class="ico_cho chosen"></i>iOS</span>
+					<span class="sex"><i class="ico_cho"></i>Android</span>
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">杭州</a>
+                <a href="javascript:;">南京</a>
+                <a href="javascript:;">合肥</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>负责迅雷集团移动端产品的核心技术研发；</li>
+            <li>参与移动端应用程序项目的需求分析,设计和实现；</li>
+            <li>积极沟通解决开发中发现存在的问题，并提升产品功能体验。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，计算机软件相关专业；</li>
+            <li>具备扎实的数据结构和计算机系统基础；</li>
+            <li>学习能力强,乐于接受新事物,并具有良好的沟通和团队合作能力；</li>
+            <li>活跃的工作态度，能够主动进行新技术钻研；</li>
+            <li>熟悉iOS/Android 平台,具备优化客户端和架构的能力,熟悉常见的异步同步,多线程,跨进程,组件容器设计者优先。</li>
+            <li>在校期间有移动端作品的优先</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+  </div>
+  
+  <div class="job_box fix">
+    <div class="job_box_s">
+      <h3 class="job_position">Web前端开发工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_cho job_city">
+					<span class="sex"><i class="ico_cho chosen"></i>深圳</span>
+					<span class="sex"><i class="ico_cho"></i>北京</span>
+					<span class="sex"><i class="ico_cho"></i>西安</span>
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">杭州</a>
+                <a href="javascript:;">南京</a>
+                <a href="javascript:;">合肥</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          从事迅雷下载、直播、云计算、高性能区块链等产品在PC/移动端的 Web 业务开发以及前端业务框架、工具链的不断完善
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，计算机软件相关专业；</li>
+            <li>熟练掌握 HTML5、Js（ES6+、Node.js）、CSS3 等 Web 开发技术；</li>
+            <li>熟悉常用算法和数据结构、网络协议及相关编程；</li>
+            <li>了解并运用过React、Vue、AngularJS、JQuery、Bootstrap等前端框架，或对Js本身有深入理解；</li>
+            <li>有激情，有创造力，也有强悍的逻辑性，良好的分析能力，能通过现象分析原因，喜欢研究新技术、新标准。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+    
+    <div class="job_box_s fr">
+      <h3 class="job_position">运维工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">
+          深圳
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          负责迅雷下载、直播、云计算、区块链、玩客云等核心业务技术架构的支撑和服务，与优秀的研发团队合作，负责系统建设、网络调优、trouble shooting、数据库维护、业务运营监控，完善运维自动化系统，为业务的发展提供稳定、安全、高效和可靠的专业运维支撑体系。
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，网络通信或计算机相关专业；</li>
+            <li>热爱计算机软/硬件、系统、网络技术，具备强烈的钻研精神和自我学习能力；</li>
+            <li>熟练掌握数据结构和算法，熟悉MySQL数据库和SQL语法，熟悉Python、Perl、Shell、C++等语言中的任意一种优先；</li>
+            <li>乐于尝试新事物，具有迎接挑战、克服困难的勇气。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+  </div>
+  
+  <div class="job_box fix">
+    <div class="job_box_s">
+      <h3 class="job_position">大数据分析工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">
+          深圳
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">广州</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>基于业务逻辑，建立业务数据模型，开发数据报表体系,为产品运营提供支持；</li>
+            <li>深入理解产品细节,进行产品新功能与优化功能的数据跟进与效果分析；</li>
+            <li>对产品方向与策略调整提供数据支持，提炼数据模型进行合理的数据预测与分析。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，有数学、统计学、计算机相关专业背景优先；</li>
+            <li>对互联网有着浓厚的兴趣，富有团队精神并具创造力；</li>
+            <li>有较强的沟通能力、严谨的逻辑思维以及数据敏感性；</li>
+            <li>具备良好的时间管理、规划执行力；</li>
+            <li>熟悉数据库，SQL，以及Shell等基本编程语言，熟悉大数据仓库平台（Hadoop）优先；</li>
+            <li>掌握数据分析体系架构、方法和相关数据建模知识，有海量数据分析实习经验的优先。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+    
+    <div class="job_box_s fr">
+      <h3 class="job_position">测试工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">
+          深圳
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">哈尔滨</a>
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">广州</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>根据项目计划制定项目测试策略并实施，保证项目质量和进度；</li>
+            <li>设计与执行测试用例，跟踪定位产品软件中的缺陷或问题；</li>
+            <li>根据项目设计，实现自动化测试代码编写；</li>
+            <li>根据项目特点，开发合适的测试工具或自动化解决方案，提高测试效率；</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，需要具备扎实的软件工程及计算机理论基础知识；</li>
+            <li>熟练掌握一门编程语言，如：C++ 、Java、Python、Shell等；</li>
+            <li>了解软件测试流程和方法，需要具有较强的逻辑分析能力；</li>
+            <li>善于探索和评测当下热门的移动端APP；</li>
+            <li>需要具备良好的团队合作意识，善于沟通，以及较强的自我学习能力；</li>
+            <li>有软件测试实习工作经验者优先。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+  </div>
+  
+  <div class="job_box fix">
+    <div class="job_box_s">
+      <h3 class="job_position">人工智能工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_cho job_city">
+					<span class="sex"><i class="ico_cho chosen"></i>深圳</span>
+					<span class="sex"><i class="ico_cho"></i>北京</span>
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">香港</a>
+                <a href="javascript:;">新加坡</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>根据用户海量稀疏信息构建用户Profile兴趣集，为用户发现有趣、好玩、涨知识的视频内容；</li>
+            <li>在大数据基础之上对用户的复杂行为数据进行建模，利用机器学习，深度学习等算法建立智能模型，对用户进行个性化短视频推荐；</li>
+            <li>负责推荐系统整体架构设计和实现，负责实现推荐引擎以及评价系统的离线以及在线核心算法。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>硕士及以上学历，计算机（机器学习/AI/信息检索等方向）、数学等相关专业；</li>
+            <li>熟悉常见机器学习算法，有应用SVM、XGBOOST、ANN等技术解决实际问题的经验</li>
+            <li>深刻理解计算机数据结构和算法设计，熟练掌握Java/Scala/Python/R语言，至少精通一种语言，熟练掌握至少一种机器学习框架：TensorFlow ,Spark MLlib,Caffe，Theano，Torch，Pytorch等；</li>
+            <li>熟悉TCP/UDP网络协议及相关编程、进程间通讯编程；了解MySQL语言、编程，了解NoSQL,  Key-Value存储原理；</li>
+            <li>优秀的分析问题和解决问题的能力，较强的学习能力和沟通能力，具备良好的团队合作精神；</li>
+            <li>
+              具有以下条件者优先考虑： <br/>
+              - 计算机领域相关的编程大赛获奖、专业期刊发表文章或者有发明专利等；<br/>
+              - 熟悉Spark内存计算框架，熟悉LR预测模型以及LTR（learning to rank）以及深度学习模型CNN RNN LSTM等模型。
+            </li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+    
+    <div class="job_box_s fr">
+      <h3 class="job_position">安全技术工程师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">
+          深圳
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>制定安全规范流程，引导业务部门进行安全设计、开发、测试和运营。</li>
+            <li>分析业务与产品安全威胁场景，定制可落地的安全方案及研发稳固的安全系统，负责安全策略制定和日常运营。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，信息安全或计算机软件相关专业毕业；</li>
+            <li>热爱互联网行业，对区块链技术和智能硬件方向感兴趣；</li>
+            <li>了解Web漏洞、操作系统漏洞原理以及常见黑客攻击手法；</li>
+            <li>掌握基本开发能力，熟练使用C/C++语言；</li>
+            <li>熟悉Windows及Linux操作系统、数据库以及网络原理知识；</li>
+            <li>具有恶意代码检测和分析经验、渗透测试或安全系统开发经验者优先。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+  </div>
+  
+</div>
+
+		<div class="job_main_list">
+  <div class="job_box fix">
+    <div class="job_box_s">
+      <h3 class="job_position">产品经理</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">深圳</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">合肥</a>
+                <a href="javascript:;">杭州</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">南京</a>
+                <a href="javascript:;">香港</a>
+                <a href="javascript:;">新加坡</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>洞悉互联网市场竞争态势和用户需求，参与制定业务发展策略； </li>
+            <li>进行需求分析汇总，完成产品原型设计和产品需求文档的输出； </li>
+            <li>协调设计、运营、研发等各方资源，推进项目高效地落地。 </li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+             <li>本科及以上学历；对互联网行业有一定了解； </li>
+             <li>极度热爱互联网产品，有梦想有情怀，具有把想法变为现实所需要勇气和耐力； </li>
+             <li>具备出色的创造力、想象力、逻辑思维与系统分析能力，以及优秀的文字功底和沟通能力； </li>
+             <li>有以下经验者优先：开发设计过具有一定影响力的个人产品；全国互联网产品/创业大赛中获奖；在互联网公司有产品策划或运营工作实习经历；在校园里有过互联网产品策划经历。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+    
+    <div class="job_box_s fr">
+      <h3 class="job_position">运营产品经理</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">深圳</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">合肥</a>
+                <a href="javascript:;">杭州</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">南京</a>
+                <a href="javascript:;">香港</a>
+                <a href="javascript:;">新加坡</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>持续洞察竞品和行业动态，并深入了解自身产品和用户群体，及时优化运营策略； </li>
+            <li>关注用户口碑反馈，从用户需求的角度出发，通过各种运营手段，提升用户活跃及留存； </li>
+            <li>丰富运营玩法，整合各方资源并灵活推动运营方案落地。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历；对互联网行业有一定了解； </li>
+            <li>极度热爱互联网，能贴近用户，并具备敏锐的互联网嗅觉；  </li>
+            <li>要有足够大的脑洞，同时又要具备量化分析的能力和习惯； </li>
+            <li>有以下经验者优先：全国互联网产品/创业大赛中获奖；在互联网公司有产品策划或运营工作实习经历；在校园里有过互联网产品运营经历。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+  </div>
+  
+</div>
+
+		<div class="job_main_list">
+  
+  <div class="job_box fix">
+    <div class="job_box_s">
+      <h3 class="job_position">视觉设计师</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_city">深圳</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">广州</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>负责产品视觉研究、设计趋势分析, 创新尝试和探索，并结合反馈进行持续优化提升；</li>
+            <li>参与前期推导、与团队共同设定整体视觉风格并执行跟进产品视觉呈现效果；</li>
+            <li>参与产品前期界面视觉探索及动态DEMO实现，产品日常迭代的设计更新，持续优化细节，确保产品设计体验及易用性；</li>
+            <li>分享设计经验，参与团队能力提升、知识沉淀及影响力建设。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，美术设计类相关专业毕业，综合素质扎实，热爱设计行业；</li>
+            <li>富于创新，思维灵活，对先进的设计理念有较强的理解能力；</li>
+            <li>良好的沟通能力和团队协作精神，能承受较大强度的工作压力；</li>
+            <li>了解视觉UI设计的系统性知识，能够巧妙运用视觉要素，考虑视觉的统一性；</li>
+            <li>独立思考，具有团队合作精神，较强的学习能力和沟通能力。</li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+    
+    <div class="job_box_s fr">
+      <h3 class="job_position">项目管理</h3>
+      <dl class="job_des">
+        <dt>工作地点</dt>
+        <dd class="job_cho job_city">
+					<span class="sex"><i class="ico_cho chosen"></i>深圳</span>
+					<span class="sex"><i class="ico_cho"></i>北京</span>
+				</dd>
+        <dt>面试城市</dt>
+        <dd>
+          <div class="drop_sel_wp fix">
+            <div class="drop_sel w1">
+              <span class="text">请选择</span>
+              <i class="ico_arw"></i>
+              <div class="drop_list" style="display: none;">
+                <a href="javascript:;">北京</a>
+                <a href="javascript:;">合肥</a>
+                <a href="javascript:;">杭州</a>
+                <a href="javascript:;">成都</a>
+                <a href="javascript:;">西安</a>
+                <a href="javascript:;">武汉</a>
+                <a href="javascript:;">长沙</a>
+                <a href="javascript:;">广州</a>
+                <a href="javascript:;">深圳</a>
+                <a href="javascript:;">重庆</a>
+                <a href="javascript:;">南京</a>
+                <a href="javascript:;">香港</a>
+                <a href="javascript:;">新加坡</a>
+              </div>
+            </div>
+            <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+          </div>
+        </dd>
+        <dt>岗位职责</dt>
+        <dd>
+          <ol>
+            <li>协助业务部门进行项目全过程管理、客户接入及线上业务运营管理；</li>
+            <li>参与项目计划的制定、跟踪和维护、项目资源的协调与组织，确保项目按计划完成及项目目标达成；</li>
+            <li>与业务团队紧密合作，推动业务团队流程制度的优化改进；</li>
+            <li>及时发现并跟踪解决项目问题，承担项目风险的管理工作。</li>
+          </ol>
+        </dd>
+        <dt>任职要求</dt>
+        <dd>
+          <ol>
+            <li>本科及以上学历，网络通信或计算机相关专业背景；</li>
+            <li>对软件项目过程管理感兴趣，能协助业务团队梳理业务不同阶段的重点目标；</li>
+            <li>优秀的沟通协调能力，较强的执行力、推动力和跨团队协作能力，推动团队向目标前进。 </li>
+          </ol>
+        </dd>
+      </dl>
+      <a href="javascript:void(0);" class="btn_send">投递简历</a>
+    </div>
+  </div>
+  
+    <div class="job_box fix">
+      <div class="job_box_s">
+        <h3 class="job_position">市场运营</h3>
+        <dl class="job_des">
+          <dt>工作地点</dt>
+          <dd class="job_city">深圳</dd>
+          <dt>面试城市</dt>
+          <dd>
+            <div class="drop_sel_wp fix">
+              <div class="drop_sel w1">
+                <span class="text">请选择</span>
+                <i class="ico_arw"></i>
+                <div class="drop_list" style="display: none;">
+                  <a href="javascript:;">西安</a>
+                  <a href="javascript:;">广州</a>
+                  <a href="javascript:;">北京</a>
+                  <a href="javascript:;">香港</a>
+                  <a href="javascript:;">武汉</a>
+                  <a href="javascript:;">长沙</a>
+                  <a href="javascript:;">新加坡</a>
+                </div>
+              </div>
+              <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+            </div>
+          </dd>
+          <dt>岗位职责</dt>
+          <dd>
+            <ol>
+              <li>通过有效的运营手段和工具持续提升用户活跃度，进行网络舆论引导；</li>
+              <li>协助完善舆论效果跟踪评测体系，分析过程和结果数据，优化方案再实施； </li>
+              <li>及时捕捉行业信息，了解竞争对手动态并及时做出反应；</li>
+              <li>协助制定有关费用预算计划、控制。</li>
+            </ol>
+          </dd>
+          <dt>任职要求</dt>
+          <dd>
+            <ol>
+              <li>本科及以上学历，新闻学、经济学背景优先，熟悉互联网行业优先；</li>
+              <li>有市场洞察力、话题炒作的策划和执行能力者优先；</li>
+              <li>有网络资源管理能力和话题营销能力者优先；</li>
+              <li>性格开朗，良好的沟通能力。</li>
+            </ol>
+          </dd>
+        </dl>
+        <a href="javascript:void(0);" class="btn_send">投递简历</a>
+      </div>
+      
+      <div class="job_box_s fr">
+        <h3 class="job_position">商务拓展</h3>
+        <dl class="job_des">
+          <dt>工作地点</dt>
+          <dd class="job_city">深圳</dd>
+          <dt>面试城市</dt>
+          <dd>
+            <div class="drop_sel_wp fix">
+              <div class="drop_sel w1">
+                <span class="text">请选择</span>
+                <i class="ico_arw"></i>
+                <div class="drop_list" style="display: none;">
+                  <a href="javascript:;">西安</a>
+                  <a href="javascript:;">广州</a>
+                  <a href="javascript:;">北京</a>
+                  <a href="javascript:;">香港</a>
+                  <a href="javascript:;">武汉</a>
+                  <a href="javascript:;">长沙</a>
+                </div>
+              </div>
+              <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+            </div>
+          </dd>
+          <dt>岗位职责</dt>
+          <dd>
+            <ol>
+              <li>负责合作伙伴的业务拓展与关系维护，发掘合作机会，协同产品、技术确保合作项目成功落地，达成年度拓展目标；</li>
+              <li>负责与合作伙伴各业务部门的接口，协助运作高层互访等高阶商务活动；</li>
+              <li>收集市场信息，有针对性地协助创建和调整对外合作策略；</li>
+              <li>负责协助合同起草、合同条款的谈判与签署；</li>
+              <li>有效提炼、准确表达产品方案的特点，支撑产品落地差异化方案的提炼；</li>
+              <li>负责协助引入有竞争力的上下游合作方，并通过针对性的合作方案，确保业务的有效拓展。</li>
+            </ol>
+          </dd>
+          <dt>任职要求</dt>
+          <dd>
+            <ol>
+              <li>本科及以上学历，有商务合作谈判等相关经验者优先；</li>
+              <li>善于处理人际关系，有很强的自我驱动力，能够适应出差；</li>
+              <li>优秀的沟通能力。</li>
+            </ol>
+          </dd>
+        </dl>
+        <a href="javascript:void(0);" class="btn_send">投递简历</a>
+      </div>
+    </div>
+    
+    <div class="job_box fix">
+      <div class="job_box_s">
+        <h3 class="job_position">广告投放</h3>
+        <dl class="job_des">
+          <dt>工作地点</dt>
+          <dd class="job_city">
+            深圳
+          </dd>
+          <dt>面试城市</dt>
+          <dd>
+            <div class="drop_sel_wp fix">
+              <div class="drop_sel w1">
+                <span class="text">请选择</span>
+                <i class="ico_arw"></i>
+                <div class="drop_list" style="display: none;">
+                  <a href="javascript:;">西安</a>
+                  <a href="javascript:;">广州</a>
+                  <a href="javascript:;">北京</a>
+                  <a href="javascript:;">香港</a>
+                  <a href="javascript:;">武汉</a>
+                  <a href="javascript:;">长沙</a>
+                </div>
+              </div>
+              <span class="text_warn" style="display: none;"><i class="ico_w_warn"></i>请填写该项</span>
+            </div>
+          </dd>
+          <dt>岗位职责</dt>
+          <dd>
+            <ol>
+              <li>结合产品特性，通过市场调研和分析，总结产品卖点、精准定位受众人群； </li>
+              <li>结合产品推广诉求，整合媒体推广资源，制定整体推广计划；</li>
+              <li>广告推广素材和文案的设计和撰写；</li>
+              <li>对产品推广数据进行分析，总结推广结案报告。</li>
+            </ol>
+          </dd>
+          <dt>任职要求</dt>
+          <dd>
+            <ol>
+              <li>广告学、汉语言文学、中文、设计等相关专业大专或以上学历； </li>
+              <li>对广告行业优秀案例有充分的了解；</li>
+              <li>具有扎实的文字功底与优秀的文案撰写、文字编辑能力、做事细心、文笔流畅； </li>
+              <li>具有良好的表达与沟通能力，并善于聆听和换位思考；</li>
+              <li>具有较强的洞察力、理解能力、创意能力；</li>
+              <li>性格开朗，良好的沟通能力。</li>
+            </ol>
+          </dd>
+        </dl>
+        <a href="javascript:void(0);" class="btn_send">投递简历</a>
+      </div>
+    </div>
+</div>
+
+		<div class="job_main_list">
+		<div class="job_box fix">
+			<!-- 全英文： en_box -->
+			<div class="job_box en_box">
+				<h3>Internet Product Manager</h3>
+				<dl class="job_des">
+					<dt>Working Location</dt>
+					<dd>India</dd>
+					</dd>
+					<dt>Responsibility</dt>
+					<dd>
+						<ol>
+							<li>Responsible for local function planning and design of Xnet’s Indian internet products;</li>
+							<li>Assist the Chinese team to analyze the Indian internet market and user requirements, and identify potential opportunities for innovation or improvement of internet products;</li>
+							<li>Responsible for product design and requirement documents, cooperate with project members to manage the product progress and conduct functional plans and product release;</li>
+							<li>Responsible for the whole internet product life cycle and able to arrange project resources and progress effectively.</li>
+						</ol>
+					</dd>                       
+					<dt>Requirement</dt>
+					<dd>
+						<ol>
+							<li>Bachelor degree or above;</li>
+							<li>Have great passion for mobile Internet products, familiar with the functional design solution of popular App products, and willing to stay in the Internet industry in the long term;</li>
+							<li>Strong ability to accept new things and capture users requirements, able to learn and fit in the working environments quickly;</li>
+							<li>Strong ability of logical analysis and data analysis, and sensitive to the India Internet market;</li>
+							<li>Good listening, speaking, reading and writing skills in English and Hindi, willing to communicate and share with others, capable of handling transnational coordination and communication.</li>
+						</ol>
+					</dd>
+					<dt class="col-in-blue">If you are interested in the above position, please send your resume to <a href="#" class="lnk-mail">campus@xunlei.com</a></dt>
+				</dl>
+				<!-- <a href="简历填写1.html" class="btn_send">投递简历</a> -->
+			</div>
+			
+			<div class="job_box en_box">
+				<h3>Internet Product Operation</h3>
+				<dl class="job_des">
+					<dt>Working Location</dt>
+					<dd>India</dd>
+					</dd>
+					<dt>Responsibility</dt>
+					<dd>
+						<ol>
+							<li>Responsible for Xnet’s internet product operation localization with high execution efficiency, arrange and update the content in accordance with the users requirements, and can assist Chinese team to optimize the internet operation strategy constantly;</li>
+							<li>Responsible for product content and resource library management;</li>
+							<li>Strong ability of logical analysis, data analysis and be responsible for working results;</li>
+							<li>Assist Chinese team in interacting users’ problems in social media, invite and manage the KOL users, and organize user groups to attend activities, etc.</li>
+						</ol>
+					</dd>                       
+					<dt>Requirement</dt>
+					<dd>
+						<ol>
+							<li>Bachelor degree or above;</li>
+							<li>Have great passion for mobile Internet products, familiar with the functional design solution of popular App products, and willing to stay in the Internet industry in the long term;</li>
+							<li>Strong ability to accept new things and capture users requirements, able to learn and fit in the working environments quickly;</li>
+							<li>Be interested in Indian movie and music, etc . Experience in editing article and video is preferred;</li>
+							<li>Strong ability of logical analysis and data analysis, and sensitive to the India Internet market;</li>
+							<li>Good listening, speaking, reading and writing skills in English and Hindi, willing to communicate and share with others, capable of handling transnational coordination and communication.</li>
+						</ol>
+					</dd>
+					<dt class="col-in-blue">If you are interested in the above position, please send your resume to <a href="#" class="lnk-mail">campus@xunlei.com</a></dt>
+				</dl>
+				<!-- <a href="简历填写1.html" class="btn_send">投递简历</a> -->
+			</div> 				
+</div>
+
+	</div>
+<div class="pop_s tipSuccess" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face1"></span>
+		<p class="txt_result">简历投递成功</p>
+		<p class="txt_opt">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s tipFail" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<p class="txt_result">简历投递失败</p>
+		<p class="txt_opt">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s tipAlert" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<p class="txt_result">网络异常，请重试</p>
+		<p class="txt_opt" style="display: none;">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s tipAlertExchange" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close" style="display: none;">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<a href="resume_write1.html" class="txt_result" style="font-size:16px;">请前往个人中心再次确认您的交流会城市</a>
+		<a href="resume_write1.html" class="btn_write" style="width:120px;height:50px;margin-left:15px;margin-top:20px;">确定</a>
+		<p class="txt_opt" style="display: none;">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s jstipOnePo" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face1"></span>
+		<!--<p class="txt_result" style="font-size:16px;">你当前还未有简历，请先<a href="resume_write1.html">完善简历</a></p>-->
+		<p class="txt_opt">你当前还未有简历，请先 <a href="resume_write1.html">完善简历</a> </p>
+	</div>
+</div>
+<div class="footer">
+	<div class="foot">
+		<div class="f_nav">
+			<a target="_blank" href="http://www.xunlei.com/">迅雷官网</a>
+			<a target="_blank" href="http://dl.xunlei.com/">产品中心</a>
+			<a target="_blank" href="http://hr.xunlei.com/">加盟迅雷</a>
+			<a target="_blank" href="http://pstatic.xunlei.com/about/other/banner.html">广告服务</a>
+			<a target="_blank" href="http://www.xunlei.com/about/shangwu.html">商务合作</a>
+			<a target="_blank" href="http://help.xunlei.com/">客服中心</a>
+			<a target="_blank" href="http://aq.xunlei.com/index.html">安全中心</a>
+			<a target="_blank" href="http://vip.xunlei.com/tos.html">用户协议</a>
+			<span>&copy; 2003-2018  Xunlei.com</span>
+		</div>
+		<div class="f_top">
+			<a href="#"><i class="ico_top"></i>回到顶部</a>
+		</div>
+	</div>
+</div>
+<!--[if IE 6]>
+<script type="text/javascript" src="js/DD_PNG_min.js" ></script>
+<![endif]-->
+<!-- <script src="js/lib/jquery-1.8.3.min.js"></script> -->
+<!-- <script src="build/js/common.js?t=20180806"></script> -->
+<!--<script src="js/lib/jqCrossDomain.js"></script>
+<script src="js/lib/cookie.js"></script>
+<script src="js/lib/URLParser.js"></script>-->
+<!--<script>
+	//写到这儿是为了提早操作dom防止闪烁
+	var url = URLParser(),
+			authcode = url.getQueryData("authcode"),
+			$forget_pwd = $("#forget_pwd");
+			//$reset_pwd = $("#reset_pwd");
+
+	if (authcode) {
+		$forget_pwd.hide();
+		//$reset_pwd.show();
+	}
+	else {
+		$forget_pwd.show();
+		//$reset_pwd.hide();
+	}
+</script>-->
+<!--<script src="js/common.js"></script>
+<script src="js/tools.js"></script>
+<script src="js/lib/jqValidate.js"></script>
+<script src="js/find_pwd.js"></script>
+<script src="js/login.js"></script>
+<script src="js/register.js"></script>-->
+
+<script src="js/lib/jquery-1.8.3.min.js"></script>
+<script src="build/js/common.js?t=20180806" type="text/javascript"></script>
+<script src="build/js/position.min.js?t=20180806"></script>
+</body>
+</html>

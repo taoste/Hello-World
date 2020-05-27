@@ -1,0 +1,169 @@
+/*
+ * version    :	1.0.0
+ * description: 2017 xunlei xiaozhao login
+ * author     :	zhangruojun
+ * email      :	zhangruojun@xunlei.com
+ * design     : suncheng
+ * last update:	2017-07-12
+ */
+
+
+.xz_pop_box .clr_primary           { color: #00baff; }
+.xz_pop_box .btn_primary,
+.xz_pop_box .btn_minor             { display: inline-block; -webkit-box-sizing: border-box; box-sizing: border-box; width: 120px; height: 40px; line-height: 40px; border-radius: 40px; font-size: 14px; text-align: center; -webkit-transition: .2s; -o-transition: .2s; transition: .2s; }
+.xz_pop_box .btn_primary           { color: #ffffff; background-color: #00baff; background-image: -webkit-gradient(linear, left top, right top, from(#00baff), to(#0078ff)); background-image: -webkit-linear-gradient(left, #00baff, #0078ff); background-image: -o-linear-gradient(left, #00baff, #0078ff); background-image: linear-gradient(90deg, #00baff, #0078ff); }
+.xz_pop_box .btn_minor             { color: #00baff; border: 1px solid #00baff; }
+.xz_pop_box .btn_primary:hover,
+.xz_pop_box .btn_minor:hover       { opacity: .92; filter: alpha(opacity=92); }
+.xz_pop_box .btn_primary:active,
+.xz_pop_box .btn_minor:active      { -webkit-transform: scale(.98); -ms-transform: scale(.98); transform: scale(.98); }
+.xz_pop_box .btn_primary.is_locked { cursor: default;  -webkit-transform: scale(1);  -ms-transform: scale(1);  transform: scale(1); opacity: 1; filter: alpha(opacity=100); }
+.xz_pop_box .is_disabled, 
+.xz_pop_box .is_disabled:hover { background: #ccc; color: #fff; border-color: #ccc; }
+
+/**** login spr ****/
+.pop_closebtn:before,
+.mod_form_tip:before,
+.findpwd_callback .ico_success,
+.binding_tip .ico_tip { background-image: url(../img/spr_login.png); background-repeat: no-repeat; }
+.pop_closebtn:before { background-position: 0 -150px; }
+.mod_form_tip:before { background-position: -50px -150px; } 
+.binding_tip .ico_tip { background-position: -132px 0; }
+
+/**** login spr end ****/
+
+/**** mod ****/
+.xz_pop_box .lnk_pop       { color: #00baff; -webkit-transition: .2s; -o-transition: .2s; transition: .2s; }
+.xz_pop_box .lnk_pop:hover { color: #34C8FF; text-decoration: underline; }
+
+.xz_pop_box .btn_primary,
+.xz_pop_box .btn_minor {  width: 261px; height: 47px; line-height: 47px; border-radius: 47px; margin-left: auto; margin-right: auto; }
+
+.mod_tab_nav { position: relative; height: 50px; padding: 0 40px; border-bottom: 1px solid #e5e5e5; }
+.mod_tab_nav a  { position: relative; float: left; width: 50%; line-height: 50px; color: #646464; text-align: center; -webkit-transition: .2s; -o-transition: .2s; transition: .2s; }
+.mod_tab_nav a.is-on,
+.mod_tab_nav a:hover { color: #00baff; }
+.mod_tab_nav a:before { content: ''; position: absolute; bottom: -1px; left: 0; width: 100%; height: 2px; background: #00baff; opacity: 0; -webkit-transition: .2s; -o-transition: .2s; transition: .2s; }
+.mod_tab_nav a.is-on:before { opacity: 1; }
+.mod_tab_nav a:nth-child(1):before { -webkit-transform: translateX(100%); -ms-transform: translateX(100%); transform: translateX(100%); }
+.mod_tab_nav a:nth-child(1).is-on:before { -webkit-transform: translateX(0); -ms-transform: translateX(0); transform: translateX(0); }
+.mod_tab_nav a:nth-child(2):before { -webkit-transform: translateX(-100%); -ms-transform: translateX(-100%); transform: translateX(-100%); }
+.mod_tab_nav a:nth-child(2).is-on:before { -webkit-transform: translateX(0); -ms-transform: translateX(0); transform: translateX(0); }
+.mod_tab_nav_1 a { width: 100%; }
+
+.mod_form_group { position: relative; margin-bottom: 12px; }
+.mod_form_ipt   { display: block; -webkit-box-sizing: border-box; box-sizing: border-box; width: 100%; height: 38px; border: none; border-bottom: 1px solid #e5e5e5; font-size: 14px; color: #646464; }
+.mod_form_label { position: absolute; z-index: 1; top: 0; left: 0; line-height: 38px; color: #c8c8c8; font-size: 14px; cursor: text; }
+.mod_form_tip        { position: absolute; top: 0; right: 0; line-height: 38px; color: #ff4500; font-size: 12px; }
+.mod_form_tip:before { content: ''; display: inline-block; vertical-align: -4px; width: 16px; height: 16px; margin-right: 4px; }
+.mod_form_help         { text-align: right; font-size: 14px; }
+.mod_form_clause { font-size: 12px; color: #646464; }
+.mod_form_handle { margin-top: 20px; }
+.mod_form_handle a { display: block; margin-bottom: 20px; }
+/**** mod end ****/
+
+.xz_pop_cover { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 999; }
+.xz_pop_box   { position: fixed; top:  50%; left: 50%; width: 360px; height: 500px; margin: -250px 0 0 -180px; background: #fff; z-index: 1000; font-size: 14px; color: #969696; }
+.pop_closebtn { position: absolute; top: 0; right: 10px; width: 33px; height: 36px; text-indent: -9999em; background-color: rgba(0, 0, 0, 0.2); }
+.pop_closebtn:before { content: ''; display: block; width: 33px; height: 36px; -webkit-transition: .4s; -o-transition: .4s; transition: .4s; }
+.pop_closebtn:hover:before { -webkit-transform: rotate(.5turn); -ms-transform: rotate(.5turn); transform: rotate(.5turn); }
+
+.pop_panel    { position: relative; -webkit-box-sizing: border-box; box-sizing: border-box; height: 100%; }
+.pop_panel_hd { -webkit-box-sizing: border-box; box-sizing: border-box; height: 130px; padding: 28px 36px 0; background-color: #00baff; background-image: -webkit-gradient(linear, left top, right top, from(#00baff), to(#0078ff)); background-image: -webkit-linear-gradient(left, #00baff, #0078ff); background-image: -o-linear-gradient(left, #00baff, #0078ff); background-image: linear-gradient(90deg, #00baff, #0078ff); filter:progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#00baff', endColorstr='#0078ff'); color: #fff; line-height: 1.4; }
+.pop_panel_hd.nolead { padding-top: 48px; }
+.pop_panel_hd .tit   { font-size: 24px; font-weight: lighter; } 
+.pop_panel_hd .lead  { font-size: 16px; font-weight: bold; }
+.pop_panel .oper_bot { position: absolute; left: 0; bottom: 28px; width: 100%; text-align: center; }
+
+.login_bymail { padding: 38px 40px 0; }
+.login_codebox { padding: 52px 0 0 0; }
+.login_codebox .code { width: 130px; height: 130px; margin: 0 auto; }
+.login_codebox .code img { display: block; width: 100%; }
+.login_codebox .txt { margin-top: 20px; text-align: center; }
+
+.regist_bymail { padding: 18px 40px 0; }
+.regist_confirm { padding: 30px 40px 0; }
+.regist_confirm .avatar { width: 100px; height: 100px; margin: 0 auto; border-radius: 100%; background: #ccc; overflow: hidden; }
+.regist_confirm .avatar img { display: block; width: 100%; height: 100%; -o-object-fit: cover; object-fit: cover; }
+.regist_confirm .msg { margin-top: 10px; text-align: center; }
+.regist_confirm .mod_form_group { margin-top: 14px; }
+.regist_confirm .mod_form_handle { margin-top: 42px; }
+
+.pop_panel_findpwd { padding: 48px 40px 0; }
+.pop_panel_findpwd .tit { text-align: center; font-size: 24px; color: #00baff; font-weight: lighter; }
+.mod_form_findpwd { margin-top: 80px; }
+.mod_form_findpwd .mod_form_handle { margin-top: 72px; }
+.findpwd_callback { margin-top: 46px; text-align: center; line-height: 1.8; }
+.findpwd_callback .ico_success { display: block; width: 128px; height: 128px; margin: 0 auto 20px; }
+.findpwd_callback .ico_success svg { background: #fff; width: 128px; height: 128px; fill: transparent; stroke: #00baff; stroke-width: 2px; }
+.findpwd_callback .mod_form_handle { margin-top: 28px; }
+
+.binding_tip { padding-top: 48px; text-align: center; }
+.binding_tip .ico_tip { display: block; width: 128px; height: 128px; margin: 0 auto 20px; }
+.binding_tip .ico_tip svg { background: #fff; width: 128px; height: 128px; fill: transparent; stroke: #00baff; stroke-width: 2px; }
+
+.mod_form_setmail { padding: 40px 40px 0; }
+.mod_form_setmail .mod_form_handle { margin-top: 46px; }
+/**** animate ****/
+.xz_pop_box { -webkit-animation: pop_fadein 0.8s alternate ease-in-out; animation: pop_fadein 0.8s alternate ease-in-out; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; }
+@-webkit-keyframes pop_fadein {
+	0%   { opacity: 0; -webkit-transform: translateY(-180px); transform: translateY(-180px); }
+	50%  { opacity: 1; -webkit-transform: translateY(24px); transform: translateY(24px); }
+	80%  { -webkit-transform: translateY(-12px); transform: translateY(-12px); }
+	100% { -webkit-transform: translateY(0); transform: translateY(0); }
+}
+@keyframes pop_fadein {
+	0%   { opacity: 0; -webkit-transform: translateY(-180px); transform: translateY(-180px); }
+	50%  { opacity: 1; -webkit-transform: translateY(24px); transform: translateY(24px); }
+	80%  { -webkit-transform: translateY(-12px); transform: translateY(-12px); }
+	100% { -webkit-transform: translateY(0); transform: translateY(0); }
+}
+.findpwd_callback .ico_success svg circle,
+.binding_tip .ico_tip svg circle { stroke-dasharray: 400;  -webkit-animation: dash .8s .5s linear both;  animation: dash .8s .5s linear both; }
+.binding_tip .ico_tip svg .path1,
+.findpwd_callback .ico_success svg path { stroke-dasharray: 400; -webkit-animation: dash 1s 1.3s linear both; animation: dash 1s 1.3s linear both; }
+.binding_tip .ico_tip svg .path2 { stroke-dasharray: 400; -webkit-animation: dash .5s 1.5s linear both; animation: dash .5s 1.5s linear both; }
+@-webkit-keyframes dash {
+	from {
+		stroke-dashoffset: 400;
+	}
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+@keyframes dash {
+	from {
+		stroke-dashoffset: 400;
+	}
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+/**** animate end ****/
+
+/**** hack ****/
+/*ie8*/
+@media \0screen\,screen\9 {
+	.xz_pop_cover { filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#7F000000', endColorstr='#7F000000'); }
+	.pop_closebtn { filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#33000000', endColorstr='#33000000'); }
+	.mod_tab_nav a:before { display: none; }
+	.mod_tab_nav a.is-on:before { display: block; }
+	.xz_pop_box .btn_primary { filter:progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#00baff', endColorstr='#0078ff'); }
+}
+/**** hack end ****/
+
+
+
+/* fix by kf */
+.login_codebox .code img { width: 228px; margin-left: -52px; margin-top: -52px; }
+.mod_form_ipt { position: relative; z-index: 3; background: transparent; }
+.por { position: relative; }
+.login_codebox .txt { margin-top: 70px; }
+.forbid-mask { display: none; height: 50px; position: absolute; top: 0; right: 0; width: 50%; background: #fff; }
+/* fix by kf end */
+
+
+
+
+
+

@@ -1,0 +1,1206 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>2019迅雷校园招聘</title>
+
+<meta name="keywords" content="校园招聘,迅雷网络校园招聘,迅雷校招2019,迅雷招聘,">
+
+
+
+<meta name="description" content="迅雷网络校园招聘">
+<link rel="stylesheet" href="css/style.css?t=20180806">
+<link rel="stylesheet" href="css/index.css?t=20180806">
+<link rel="stylesheet" type="text/css" href="css/login.css?t=20180806">
+<link rel="stylesheet" type="text/css" href="css/other.css?t=20180806">
+
+	<!--[if IE 9]>
+	<style type="text/css">
+		.pbox{display:block;}
+		.pbox span{animation:none;}
+		.open p{opacity:1;animation:none !important;}
+		.n1, .n2, .n3, .n4{opacity:1;}
+	</style>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+	<style type="text/css">
+		.index_about{left: 0;}
+		.video_box{left: 38%;}
+		.time_list li:before, .l2{border-color:#67697a}
+		.pbox{display:none;}
+		.ele_box{display: block;}
+		.com_ele{width: 180px !important;height: 180px !important;background: url(img/bg_round.png) no-repeat !important;}
+		.com_ele:after{display: none;}
+		.com_ele h3{line-height: 180px !important}
+		.com_ele.open h3{line-height: 36px !important}
+		.com_ele p{font-size: 12px;}
+		.open .com_close{bottom: 0;}
+		.com_ball{width: 128px;height: 128px;background: url(img/bg_round_s.png) no-repeat !important;}
+	</style>
+	<![endif]-->
+</head>
+<body class="campus2019">
+<div class="header">
+	<div class="head">
+		<h1><a href="index.html" class="logo" title="迅雷招聘">迅雷招聘</a></h1>
+		<div class="nav" id="nav">
+			<a href="index.html?x=rea" class="nav-home cur"></a>
+			<a href="position.html" class="nav-jobs"></a>
+			<a href="recureDynamics.html" class="nav-process"></a>
+			<a href="indexEnter.html#page=0&jump=1" class="nav-about"></a>
+			<a href="http://hr.xunlei.com/" target="_ablank" class="nav-more"></a>
+		</div>
+		<!--已登录-->
+		<div class="user_info" id="logined" style="display:none;">
+			<div class="info_main">
+				<a href="/position.html" class="btn_h_send"></a>
+				<a href="#" class="pic_user"></a>
+			</div>
+			<div class="user_drop" id="userinfo" style="display:none;">
+				<!-- <a href="/personal_center.html" class="user_name" id="username" title="">hi,恰似一江春水</a> -->
+				<a href="/personal_center.html" id="userCenter">个人中心</a>
+				<a href="#" id="logout">退出</a>
+			</div>
+			<div class="drop_code">
+				<div class="code_pic">
+					<img src="images/code.png" alt="二维码" />
+				</div>
+				<p>关注招聘动态</p>
+			</div>
+		</div>
+		<!--未登录-->
+		<div class="user_info" id="loginInfoContainer" style="display: block">
+			<div class="info_main">
+				<a href="/position.html" class="btn_h_send"></a>
+				<a href="#" id="s_login" class="login"></a>		
+			</div>
+			<div class="drop_code">
+				<div class="code_pic">
+					<img src="images/code.png" alt="二维码" />
+				</div>
+				<p>关注招聘动态</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--遮罩-->
+<!--遮罩-->
+<div class="cover" style="display: none;"></div>
+<div class="xz_pop_box" style="display: none;" id="registerBind"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">绑定</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_regist">
+				<div class="mod_tab_nav mod_tab_nav_1">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱绑定</a>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch regist_bymail"><!-- 邮箱绑定 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">登录邮箱（该邮箱即为面试通知邮箱）</label>
+								<input class="mod_form_ipt rebindmail" type="text" >
+								<p class="mod_form_tip" style="display: none;">请填写正确的邮箱</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码（6-20位字母或数字）</label>
+								<input class="mod_form_ipt rebindpass" type="password">
+								<p class="mod_form_tip" style="display: none;">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">重复密码</label>
+								<input class="mod_form_ipt rebindrepass" type="password" >
+								<p class="mod_form_tip" style="display: none;">请填写正确的密码</p>
+							</div>
+							
+							<div class="mod_form_handle">
+								<p class="closehide" style="display: none;color: #ff4500;">无效的用户名和密码</p>
+								<a href="javascript:;" class="btn_primary " id="toRegisterBind">注册并绑定</a>
+							</div>
+						</div>
+					</div><!-- 邮箱绑定 end -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+
+<div class="xz_pop_box" style="display: none;" id="s_bindDiv"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">登录</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="binding_tip">
+				<i class="ico_tip">
+					<svg>
+						<circle cx="64" cy="64" r="62"></circle>
+						<path class="path1" d="M 64 22 L 64 86 "/> 
+						<path class="path2" d="M 64 94 L 64 102 "/> 
+					</svg>
+				</i>
+				<p>请绑定登录邮箱</p>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_primary" id="tobind">已有邮箱帐号，登录&gt;</a>
+					<a href="javascript:;" class="btn_minor" id="tonewCount">注册并绑定邮箱&gt;&gt;</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+<div class="xz_pop_box" style="display: none;" id="s_bindmailDiv"><!-- 绑定弹窗 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="binding_tip">
+				<i class="ico_tip">
+					<svg>
+						<circle cx="64" cy="64" r="62"></circle>
+						<path class="path1" d="M 64 22 L 64 86 "/> 
+						<path class="path2" d="M 64 94 L 64 102 "/> 
+					</svg>
+				</i>
+				<p>请绑定登录邮箱</p>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_minor" id="toRegWx">注册并绑定&gt;&gt;</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 绑定弹窗 end -->
+<!-- 登录弹窗 -->
+<div class="xz_pop_box" id="s_loginDiv" style="display: none;">
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">登录</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_login">
+				<div class="mod_tab_nav por">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱登录</a>
+					<a href="javascript:;" id="erweiLogin">微信登录</a>
+					<span class="forbid-mask forbidErwei" ></span>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch login_bymail"><!-- 邮箱登录 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">邮箱</label>
+								<input class="mod_form_ipt" data-type="email" type="text">
+								<p class="mod_form_tip" style="display: none">邮箱输入有误！</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码</label>
+								<input class="mod_form_ipt" data-type="pass" type="password">
+								<p class="mod_form_tip" style="display: none">密码输入有误！</p>
+							</div>
+							<div class="mod_form_help">
+								<p id="tips_login" style="color:#ff4500;text-align: left;"></p>
+							</div>
+							<div class="mod_form_help">
+								<a href="javascript:;"  class="lnk_pop tofindpass">忘记密码？</a>
+							</div>
+							<div class="mod_form_handle">
+								<a href="javascript:void(0);" class="btn_primary" id="login">登 录</a>
+								<!-- <a href="javascript:;" class="btn_primary is_locked">登录成功！</a> -->
+							</div>
+						</div>
+					</div><!-- 邮箱登录 end -->
+					<div class="mod_tab_switch login_bywx" style="display: none;"><!-- 微信登录 -->
+						<div class="login_codebox">
+							<div class="code" id="loginErwei"></div>
+							<p class="txt">微信扫一扫即可登录</p>
+							<!-- 登录成功后，隐藏上面文案，显示下面文案。 -->
+							<!-- <p class="txt">登录成功！</p> -->
+						</div>
+					</div><!-- 微信登录 end -->
+				</div>
+			</div>
+		</div>
+		<p class="oper_bot">或 <a href="javascript:void(0);"  class="lnk_pop toregister">注册&gt;&gt;</a></p>
+	</div>
+	<a class="pop_closebtn" href="javascript:void(0);" title="关闭"></a>
+</div>
+<!-- 登录弹窗 end -->
+
+<!-- 注册弹窗 -->
+<div class="xz_pop_box" id="s_registerDiv" style="display: none;">
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			<h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="mod_tabbox mod_tabbox_regist">
+				<div class="mod_tab_nav mod_tab_nav_1">
+					<!-- .is-on: 选中态  -->
+					<a class="is-on" href="javascript:;">邮箱注册</a>
+					<!-- <a href="javascript:;" id="wxregister">微信注册</a> -->
+					<span class="forbid-mask forbidErwei" ></span>
+				</div>
+				<div class="mod_tab_cont">
+					<div class="mod_tab_switch regist_bymail"><!-- 邮箱注册 -->
+						<div class="mod_form mod_form_login">
+							<div class="mod_form_group" style="display: none">
+								<label for="" class="mod_form_label">昵称</label>
+								<input class="mod_form_ipt" type="text" data-type="nick" value=" ">
+								<p class="mod_form_tip" style="display: none">输入昵称</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">登录邮箱</label>
+								<input class="mod_form_ipt" type="text" data-type="email"> 
+								<p class="mod_form_tip" style="display: none">请填写正确的邮箱</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">设置密码（6-20位字母或数字）</label>
+								<input class="mod_form_ipt" type="password"  data-type="pass" >
+								<p class="mod_form_tip" style="display: none">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_group">
+								<label for="" class="mod_form_label">密码确认（6-20位字母或数字）</label>
+								<input class="mod_form_ipt" type="password"  data-type="repass" >
+								<p class="mod_form_tip" style="display: none">请填写正确的密码</p>
+							</div>
+							<div class="mod_form_clause">
+								<!-- <p>点击注册表示你已阅读并同意 <a class="lnk_pop" href="#">服务条款</a></p> -->
+							</div>
+							<div class="mod_form_handle">
+								<a href="javascript:;" class="btn_primary" id="register">注册</a>
+								<!-- <a href="javascript:;" class="btn_primary is_locked">注册中...</a> -->
+							</div>
+						</div>
+					</div><!-- 邮箱注册 end -->
+					<div class="mod_tab_switch regist_bywx" style="display: none;"><!-- 微信注册 -->
+						<div class="login_codebox">
+							<div class="code" id="registerErwei"></div>
+							<p class="txt">微信扫一扫即可注册</p>
+						</div>
+					</div><!-- 微信注册 end -->
+				</div>
+			</div>
+		</div>
+		<p class="oper_bot">或 <a class="lnk_pop tologin" href="javascript:void(0);">登录&gt;&gt;</a></p>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 注册弹窗 end -->
+
+
+<!--找回密码-->
+
+<div class="xz_pop_box"  id="s_forgetpwdDiv" style="display: none;"><!-- 找回密码 -->
+	<div class="pop_panel pop_panel_findpwd">
+		<h3 class="tit">找回密码</h3>
+		<div class="mod_form mod_form_findpwd " id="findmod">
+			<div class="mod_form_group">
+				<label for="" class="mod_form_label">输入注册邮箱找回密码</label>
+				<input type="text" class="mod_form_ipt">
+				<p class="mod_form_tip" style="display: none" style="display: none">邮箱错误</p>
+			</div>
+			<div class="mod_form_handle">
+				<a href="javascript:;" class="btn_primary " id="findpass">提交请求</a>
+				<a href="javascript:;" class="btn_minor" id="cancelfind">取消</a>
+			</div>	
+		</div>
+		<div class="findpwd_callback" style="display: none;" id="gotmod">
+			<i class="ico_success">
+				<svg>
+					<circle cx="64" cy="64" r="62"></circle>
+					<path d="M 25 67 L 50 90 L 102 40"/>
+				</svg>
+			</i>
+			<p>修改密码链接已经发送至 <span class="clr_primary" id="receivemail"></span></p>
+			<!-- <p>请前往邮箱修改密码，5分钟有效</p> -->
+			<div class="mod_form_handle" >
+				<a href="javascript:;" class="btn_primary" id="tomail">确定</a>
+			</div>	
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 找回密码 end -->
+
+<div class="xz_pop_box" id="s_ensureDiv" style="display: none;"><!-- 确认注册 -->
+	<div class="pop_panel">
+		<div class="pop_panel_hd">
+			 <h3 class="tit">注册</h3>
+			<p class="lead">2019迅雷校园招聘</p>
+		</div>
+		<div class="pop_panel_bd">
+			<div class="regist_confirm">
+				<div class="avatar">
+					<!-- <img src="http://placehold.it/100x100" alt="默认头像"> -->
+				</div>
+				<p class="msg">昵称和头像在登录后修改</p>
+				<div class="mod_form_group">
+					<input type="text" class="mod_form_ipt" value="">
+				</div>
+				<div class="mod_form_handle">
+					<a href="javascript:;" class="btn_primary" id="sureReg">确认注册</a>
+					<!-- <a href="javascript:;" class="btn_primary is_locked">注册成功！</a>	 -->
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<a class="pop_closebtn" href="javascript:;" title="关闭"></a>
+</div><!-- 确认注册 end -->
+
+<div class="sliderbox" id="sliderbox">
+	<div class="index" id="index" style="transition:1s;">
+	<!-- index1 -->
+	<!-- <div id="index1" class="index_box index_box_1" style="display: ;"> 
+		<div class="person">
+			<div class="pbox">
+				<span class="p1"></span>
+				<span class="p2"></span>
+				<span class="p3"></span>
+				<span class="p4"></span>
+			</div>
+			<span class="n1"></span>
+			<span class="n2"></span>
+			<span class="n3"></span>
+			<span class="n4"></span>
+		</div>
+		<div class="ele">
+			<span class="ele1 e1"></span>
+			<span class="ele1 e2"></span>
+			<span class="ele1 e3"></span>
+			<span class="ele1 e4"></span>
+			<span class="ele1 e5"></span>
+			<span class="ele1 e6"></span>
+		</div>
+		<div class="index_main">			
+			<div class="title">
+				<h2>不约而同</h2>
+				<p class="title_des">青春本色不做看客</p>
+				<span class="tit1">
+					<i class="txt1"></i>
+					<i class="txt2"></i>
+					<i class="txt3"></i>
+					<i class="txt4"></i>
+					<b class="line1"></b>
+					<b class="line1 line_1"></b>
+				</span>
+				<span class="tit2">
+					<i class="txt1"></i>
+					<i class="txt2"></i>
+					<i class="txt3"></i>
+					<i class="txt4"></i>
+					<b class="line1"></b>
+				</span>
+				<i class="tit_point"></i>
+				<span class="tit3">
+					<i class="txt1"></i>
+					<i class="txt2"></i>
+					<i class="txt3"></i>
+					<i class="txt4"></i>
+					<b class="line1"></b>
+				</span>
+				<span class="tit4">
+					<i class="txt1"></i>
+					<i class="txt2"></i>
+					<i class="txt3"></i>
+					<i class="txt4"></i>
+					<b class="line1"></b>
+					<b class="line1_1"></b>
+				</span>
+			</div>			
+			<a href="#" class="btn_send">投递简历</a>
+
+		</div>
+		<div class="job_nav">
+			<div class="inner">
+				<a href="javascript:;"><span class="ico_tec"></span>技术</a>
+				<a href="javascript:;" class=""><span class="ico_pm"></span>产品</a>
+				<a href="javascript:;"><span class="ico_design"></span>设计</a>
+				<a href="javascript:;"><span class="ico_market"></span>运营</a>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="foot">
+				<div class="f_nav">
+					<span>Copyright &copy; 2003-2016 Xunlei.com. All rights reserved.</span>
+					<a target="_blank" href="http://pstatic.xunlei.com/about/about.htm">关于迅雷</a>
+					<a target="_blank" href="http://dl.xunlei.com/index.htm?tag=1">下载迅雷</a>
+					<a target="_blank" href="http://hr.xunlei.com/">加盟迅雷</a>
+					<a target="_blank" href="http://www.xunlei.com/about/shangwu.html">商务合作</a>
+					<a target="_blank" href="http://help.xunlei.com/">客服中心</a>
+					<a target="_blank" href="http://aq.xunlei.com/index.html">安全中心</a>
+					<a target="_blank" href="http://vip.xunlei.com/tos.html">用户协议</a>
+				</div>
+				<div class="f_top">
+					<a href=""><span class="ico_logo_f"></span>2017年迅雷校园招聘</a>
+				</div>
+			</div>
+		</div>
+		<span class="arrow">右翻</span>
+		<div class="code_show">
+			<h4>扫一扫 查看面试流程</b></h4>
+			<img src="images/code_wx.png" alt="code" />
+			​<p>校招面试通知<span>9月21-22号</span>陆续发出，<br/>请注意查收！</p>
+			<a href="#" class="pop_close" title="关闭">关闭</a>
+		</div>
+	</div> -->
+	<!-- index1 end -->
+	<div class="index_box index_box_2">
+		<div class="inner">
+			<span class="ele5"></span>
+			<h2>迅雷造梦计划</h2>
+			<div class="dream" id="dream">
+				<div class="dream_what">
+					<h3 class="ch"> [ 造梦计划 ] 是什么 ？</h3>
+					<h3 class="en">What is [ X-10 Dreamer ] ？</h3>
+					<p>决定先将梦想放一边，因为属于自己的时间越来越少。<br>最终还是向现实低头，因为钱包肉眼可见地越来越薄。<br>后青春期再美，也不及眼下的青春正好，真要就此匆匆错过？<br>听从你的心吧！迅雷校招，携<em>「造梦计划」</em>为你而来！<br>提交梦想，我们特备<em>「梦想助燃基金」</em>+<em>「独家造梦长假」</em>为你圆梦。<br><br>让无奈不再，遗憾不现。<br>梦，不再止于想，<br>想做梦，就造梦！</p>
+				</div>
+				<div class="dream_how">
+					<h3 class="ch">如何参与 [ 造梦计划 ] ？</h3>
+					<h3 class="en">How to be part of [ X-10 Dreamer ] ？</h3>
+					<ul>
+						<li>
+							<h4>STEP 1  梦想提案任你炫</h4>
+							<p>提交你的简历与梦想：毕业之际的最后一个暑假，你想用来实现什么？</p>
+						</li>
+						<li>
+							<h4>STEP 2  人气助燃梦想家</h4>
+							<p>点击分享你的梦想，获赞数<em>top 30</em>的超级Dreamer，将获得幸运码，快人一步，直通面试。</p>
+						</li>
+						<li>
+							<h4>STEP 3  X-10等你成团造梦</h4>
+							<p>只要你迅雷offer在手，更有机会入选迅雷<em>「X-10白日梦天团」</em>，喜提<em>「梦想助燃基金」</em>与<em>「独家造梦长假」</em>，让你造梦无忧！</p>
+						</li>
+					</ul>
+					<a href="javascript:;" class="btn-dream">了解详情</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- index2 end -->
+	<!-- index3 -->
+	<div class="index_box index_box_3"> 
+		<div class="inner">
+			<i class="planet"></i>
+			<span class="ele2"></span>
+			<div class="index_about">
+				<h2>公司介绍</h2>
+				<p>深圳市迅雷网络技术有限公司<br/>于2003年成立</p>
+				<p>以领先的云加速技术和系列产品为用户提供基于<br/>大容量娱乐数据传输的云计算服务<br/>在帮助用户在多终端上快速获得数字内容<br/>从而推进大互联网时代的数据传输加速</p>
+				<a href="http://www.xunlei.com/" class="btn_more" target="_blank">了解更多<span>&gt;</span></a>
+			</div>
+			
+			<div id="videoBox" class="video_box">
+				<video src="video/xl.mp4" id="video" class="video" preload="none"></video>
+				<div class="pic_front">
+					<img src="video/front.jpg" alt="封面" />
+				</div>
+				<a href="javascript:;" id="btnPlayer" title="点击播放" class="btn_player">点击播放</a>
+			</div>
+		</div>
+	</div>
+	<!-- index3 end-->
+	<div class="index_box index_box_4"> 
+		<div class="inner"> 
+			<h2>迅雷大事记</h2>
+			<div class="time_list" id="time_list">
+				<span class="l1"></span>
+				<span class="l1 l1-1"></span>
+				<ul>
+					<li class="time1">
+						<p class="time_txt"><span>成立</span>
+						迅雷公司
+						</p>
+						<p class="year">2003</p>
+					</li>
+					<li class="time2">
+						<p class="time_txt"><span>1亿</span>
+						用户突破
+						</p>
+						<p class="year">2006</p>
+					</li>
+					<li class="time3">
+					<p class="time_txt"><span>520</span>
+						付费用户(万)
+						</p>
+						<p class="time_txt"><span>4.6亿</span>
+						用户突破
+						</p>
+						<p class="year">2013</p>
+					</li>
+					<li class="time4">
+						<p class="time_txt_1"><span>上市</span>
+						美国纳斯达克
+						</p>
+						<p class="year">2014</p>
+					</li>
+					<li class="time5">
+						<p class="time_txt_1"><span>云计算</span>
+						启动商业化
+						</p>
+						<p class="year">2015</p>
+					</li>
+					<li class="time6">
+						
+						<p class="time_txt"><span>共享计算</span>
+						</p>
+						<p class="time_txt_1"><span>区块链</span>
+							战略布局
+						</p>
+						<b class="l2"></b>
+						<p class="year">2018</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- index4 end -->
+	<div class="index_box index_box_5"> 
+		<div class="inner_box">
+			<h2>迅雷X文化</h2>
+			<span class="ele4"></span>
+			<div class="culture" id="culture">
+				<ul>
+					<li>
+						<div class="cbox_pic">
+							<img src="images/index/cpic1.png" alt="以人为中心">
+						</div>
+						<div class="cbox_txt">
+							<i class="ico_c_arw_top"></i>
+							<h3 class="en">TEAM UP</h3>
+							<h3 class="ch">以人为中心</h3>
+							<p>
+									我们抵制“唯领导论”的观念
+								<br>我们着眼于身边每一位伙伴
+								<br>关注自我进步
+								<br>也重视伙伴成长
+								<br>共同创造备受关怀的事业氛围
+							</p>
+						</div>
+					</li>
+					<li>
+						<div class="cbox_txt">
+							<i class="ico_c_arw_bot"></i>
+							<h3 class="en">BREAK OUT</h3>
+							<h3 class="ch">善于突破</h3>
+							<p>
+									我们鼓励伙伴打破固有格局
+								<br>不安于现状
+								<br>为自己和团队的事业版图
+								<br>开拓出新的疆界
+								<br>为更广泛的用户创造更大的价值
+							</p>
+						</div>
+						<div class="cbox_pic">
+							<img src="images/index/cpic2.png" alt="善于突破">
+						</div>
+					</li>
+					<li>
+						<div class="cbox_pic">
+							<img src="images/index/cpic3.png" alt="简单开放">
+						</div>
+						<div class="cbox_txt">
+							<i class="ico_c_arw_top"></i>
+							<h3 class="en">GO OPEN</h3>
+							<h3 class="ch">简单开放</h3>
+							<p>
+									我们拒绝繁文缛节
+								<br>向低效、繁复的大公司病say no
+								<br>保持简单高效
+								<br>倡导跨界沟通协作
+								<br>让快乐文化无处不在
+							</p>
+						</div>
+					</li>
+					<li>
+						<div class="cbox_txt">
+							<i class="ico_c_arw_bot"></i>
+							<h3 class="en">BE TOP</h3>
+							<h3 class="ch">追求极致</h3>
+							<p>
+									我们要求每个伙伴
+								<br>对自己的专业领域
+								<br>怀抱极高热情 绝不原地踏步
+								<br>相信我们的努力
+								<br>可以让世界变得更美好
+							</p>
+						</div>
+						<div class="cbox_pic">
+							<img src="images/index/cpic4.png" alt="追求极致">
+						</div>
+					</li>
+					<li>
+						<div class="cbox_pic">
+							<img src="images/index/cpic5.png" alt="无畏挑战">
+						</div>
+						<div class="cbox_txt">
+							<i class="ico_c_arw_top"></i>
+							<h3 class="en">TO FIGHT</h3>
+							<h3 class="ch">无畏挑战</h3>
+							<p>
+									我们希望伙伴面对危机和挑战
+								<br>不胆怯、不退缩，勇于尝试
+								<br>敢想象他人不敢想之事
+								<br>保持昂扬斗志
+							</p>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- index5 end -->
+	
+	<div id="index6" class="index_box index_box_6">
+		<div class="inner">
+			<h2>迅雷福利</h2>
+			<div class="benefite" id="benefite">
+				<div class="benefite-remuneration">
+					<div class="remuneration-tit">
+						<h3>薪酬项目</h3>
+						<p>Remuneration Part</p>
+					</div>
+					<div class="remuneration-bd">
+						<img src="images/index/fpic.png" alt="薪资福利:固定工资,年度奖金,专项奖金,长期激励,特殊项目奖金">
+					</div>
+				</div>
+				<div class="benefite-welfare">
+					<div class="welfare-tit">
+						<h3>福利项目</h3>
+						<p>Welfare Part</p>
+					</div>
+					<div class="welfare-bd">
+						<ul>
+							<li>
+								<h4>保障福利</h4>
+								<p>五险一金、政府住房补贴、员工及家属商业保险、补充医疗险</p>
+							</li>
+							<li>
+								<h4>愉悦工作</h4>
+								<p>弹性工作制、免费早晚餐、免费零食饮料、公司班车、企业滴滴</p>
+							</li>
+							<li>
+								<h4>健康福利</h4>
+								<p>员工年度体检、孕妈关怀、绿色就医通道、慰问及救助金、员工家属优惠体检、员工心理援助（EAP）、关爱大讲堂、健康咨询</p>
+							</li>
+							<li>
+								<h4>关怀福利</h4>
+								<p>年会、年度旅游、部门团建、俱乐部活动、Family Day、传统节日活动Surprise节日礼包、迅雷文化日、每月生日会、联谊活动、员工生育礼金结婚礼金</p>
+							</li>
+							<li>
+								<h4>假期福利</h4>
+								<p>法定节假日、带薪年假，带薪病假、婚假、产假、陪产假、哺乳假等</p>
+							</li>
+							<li>
+								<h4>学习成长</h4>
+								<p>X-class、X-lab、X-talk</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- index6 end -->
+	
+</div>	
+
+<div id="birdBox" class="bird_box">
+	<span class="bird"></span>
+</div>
+
+	<div id="idxPage" class="idx_page" style="display: none">
+		<a href="javascript:;" class="del"></a>
+		<a href="javascript:;" class="cur"></a>
+		<a href="javascript:;"></a>
+		<a href="javascript:;"></a>
+		<a href="javascript:;"></a>
+		<a href="javascript:;"></a>
+	</div>
+	
+</div>
+
+<!-- 加载进度条 -->
+<div class="loading_area" id="loading_area">
+	<span class="loading"><i></i></span>
+	<div class="progress_box">
+		<span class="progress" id="progress_bar" style="width: 0%"></span>
+	</div>
+</div>
+<div class="pop_s tipAlert" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<p class="txt_result">网络异常，请重试</p>
+		<p class="txt_opt" style="display: none;">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s tipAlertExchange" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close" style="display: none;">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face2"></span>
+		<a href="resume_write1.html" class="txt_result" style="font-size:16px;">请前往个人中心再次确认您的交流会城市</a>
+		<a href="resume_write1.html" class="btn_write" style="width:120px;height:50px;margin-left:15px;margin-top:20px;">确定</a>
+		<p class="txt_opt" style="display: none;">你可以继续对简历进行 <a href="resume_write1.html">修改</a> 和 <a href="resume_edit.html">预览</a></p>
+	</div>
+</div>
+<div class="pop_s jstipOnePo" style="display: none;">
+	<a href="javascript:void(0);" title="关闭" class="pop_close">关闭</a>
+	<div class="pop_con">
+		<span class="ico_face face1"></span>
+		<!--<p class="txt_result" style="font-size:16px;">你当前还未有简历，请先<a href="resume_write1.html">完善简历</a></p>-->
+		<p class="txt_opt">你当前还未有简历，请先 <a href="resume_write1.html">完善简历</a> </p>
+	</div>
+</div>
+
+<div class="pop_s pop_dream" style="display:none">
+	<a href="#" title="关闭" class="pop_close">关闭</a>
+	<i class="planet"></i>
+	<div class="pop_con">
+		<h4>如果你沉默 梦想也将沉没</h4>
+		<img src="images/code_dream.jpg" alt="二维码">
+		<p>扫一扫，助燃梦想</p>
+	</div>
+</div>
+
+
+</body>
+<script src="js/lib/jquery-1.8.3.min.js"></script>
+<script src="js/lib/loading.js?t=20180806" type="text/javascript"></script>
+<script src="js/lib/slider.js?t=20180806" type="text/javascript"></script>
+<script src="build/js/common.js?t=20180806" type="text/javascript"></script>
+<script src="js/index.js?t=20180806" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+$(function () {
+	$('.header').addClass('hd_index');
+	$('.pop_close').click(function () {
+		$('.pop_dream').hide();
+		$('.cover').hide();
+	})
+	$('.btn-dream').click(function () {
+		$('.pop_dream').show();
+		$('.cover').show();
+	})
+})	
+</script>
+
+<script type="text/javascript">
+$(function(){
+		function indexLoad(){
+			var srcs=[];
+			srcs = ["img/spr_main.png", 
+						  "img/spr_index.png",
+						  "img/spr_bird.png",
+						  "img/ele1.png",
+						  "img/ele2.png",
+						  "img/ele3.png",
+						  "img/p/1.png",
+						  "img/p/2.png",
+						  "img/p/3.png",
+						  "img/p/4.png",           
+						  "img/p/c-1.png",
+						  "img/p/c-2.png",
+						  "img/p/c-3.png",
+						  "img/p/c-4.png",
+						  "img/p/n-1.png",
+						  "img/p/n-2.png",
+						  "img/p/n-3.png",
+						  "img/p/n-4.png"]
+			for(var i=1;i<4;i++){
+				srcs.push("img/bg_index_"+i+".jpg")
+			}
+			preLoad({
+				lid:      "loading_area",        //loading页的id
+				pid:      "progress_bar",        //进度条的id
+				nid:  	  "txt_progress",        //数字进度的id
+				srcs:     srcs,  
+				time:      0,            
+				callback:  function(){
+					$("#loading_area").fadeOut(1000);
+					$("#sliderbox").addClass("anin")
+				}
+			})
+
+		}
+		indexLoad();
+
+		var $idxPage = $("#idxPage");
+		var $eleBox = $('#ceBox');
+		var NUMARR = [],
+			DELTA = 60;
+
+		//构造数组
+		buildNum(DELTA);
+		function buildNum(delta) {
+			var num1 = [-20,-30,-40,-50,-60,-60,15,20,30,45,60,30,20,10,0,30,60,60,60,300,300,300,200,150,130,60,30,0,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60],
+				num2 = [170,180,180,160,150,140,140,150,160,170,180,150,160,165,170,180,180,0,-20,-50,-60,-60,-70,-70,-60,0,20,30,30,110,110,110,110,11,0,310,210,110,110,110,110,110,110,110,110,11],
+				num3 = [],
+				num3_oth = [245, 225, 205, 185, 165, 145, 125, 105, 85, 65, 45, 25, -5, -25,   -45, -65, -75, -75, -75, -75, -75, -75, -75, -75, -75, -75, -75, -75, -75, -75, -75],
+				num4 = [],
+				num4_oth = [40,50,70,100,130,160,190,220,260, 270,280,290,300,320,310,300,300,300, 300,300,300,300,300,260,260,260,260,260,260,260,260,260,260,260,260],
+				num5 = [],
+				num5_oth = [100,180,200,250,  280,300,310,320, 310,300,200,160, 120,110,100,90,  100,120,100,100,120,120,120,120,100,100,120,100,100,120],
+
+				num6 = [100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100];
+
+			var winWidth = 	$(window).outerWidth();
+
+			//第三页数组构造	
+			var distance = 	(winWidth - $('#time_list').width()) / 2;
+			for(var i = 0, len = Math.round(distance / delta); i < len; i += 1) {
+				num3.push(240);
+			}
+			num3 = num3.concat(num3_oth);
+
+			//第四页数据构造
+			var distance = 	(winWidth - $('#culture').width()) / 2;
+			for(var i = 0, len = Math.round(distance / delta); i < len; i += 1) {
+				num4.push(40);
+			}
+			num4 = num4.concat(num4_oth);
+
+			//第五页数据构造
+			var distance = 	(winWidth - $('#tec').width()) / 2;
+			for(var i = 0, len = Math.round(distance / delta); i < len; i += 1) {
+				num5.push(100);
+			}
+			num5 = num5.concat(num5_oth);
+			NUMARR.push(num1);
+			NUMARR.push(num2);
+			NUMARR.push(num3);
+			NUMARR.push(num4);
+			NUMARR.push(num5);
+			NUMARR.push(num6);
+		}
+
+		//页面链接hash值
+		var INITPAGE = +toJsonObj(window.location.hash.slice(1)).page;
+		function toJsonObj(str) {
+            var obj = {};
+            str.replace(/([^?&=]+)=?([^&=]*)?/gi, function($0, $1, $2) {
+                obj[$1] = $2;
+            });
+            return obj;
+        }
+        function serialize(obj) {
+            var str = '';
+            for(var key in obj) {
+                str += (key + '=' + obj[key] + '&');
+            }           
+            str = str.slice(0, str.length-1);
+            return str;
+        }
+
+        //鸟飞动 
+        //direction：方向;
+        //    index：鼠标滑动几格;
+        //      num: 当前页数据集合;
+        //     page: 当前页码
+		function bird(direction, index, num, page){
+			var $birdBox = $('#birdBox');
+			$('.bird').addClass('ani');
+
+			var transform,
+				drift = num[index];
+
+			if(direction == 1) {	//正向飞
+				transform = 'perspective(1000px) rotateY(0) translate3d('+ '0,'  + drift + 'px,0)'
+				$birdBox.css({
+					'-webkit-transform': transform,
+					'transform': transform
+				})
+
+			}
+			else {		//反向飞
+				transform = 'perspective(1000px) rotateY(-180deg) translate3d('+ '0,'  + drift + 'px,0)';
+				$birdBox.css({
+					'-webkit-transform': transform,
+					'transform': transform,
+				})
+			}
+
+			//第一页起点停止动画
+			if(page == 1 && index == 0){
+				$('.bird').removeClass('ani')
+				$birdBox.css('transform', 'perspective(1000px) rotateY(0) translate3d(0,0,0)')
+			}
+		}
+
+		//处理第一页
+		function dealPage1(pageinfo) {
+			if(pageinfo.percent > 10 && pageinfo.percent < 200) {	
+				var l = pageinfo.percent,
+				l1 = -(l * l / 10 + 35),
+				l2 = l * l / 15;
+				pageMove1 = 'translate3d('+  l1 + 'px,' + '0px ,0)';
+				pageMove2 = 'translate3d('+  l2 + 'px,' + '0px ,0)';
+				$('.dream_what').css({
+					'-webkit-transform': pageMove1,
+					'transform': pageMove1
+				})
+				$('.dream_how').css({
+					"-webkit-transform":pageMove2,
+					"transform":pageMove2
+				})	
+			}
+		}
+
+		//处理第二页
+		function dealPage2(pageinfo) {
+			if(pageinfo.percent > 10 && pageinfo.percent < 200) {	
+				var l = pageinfo.percent,
+				l1 = l * l / 10 + 35,
+				l2 = l * l / 15;
+				l1 = -l1,
+				l2 = l2;
+				pageMove1 = 'translate3d('+  l1 + 'px,' + '0px ,0)';
+				pageMove2 = 'translate3d('+  l2 + 'px,' + '0px ,0)';
+				$('.index_about').css({
+					'-webkit-transform': pageMove1,
+					'transform': pageMove1
+				})
+				$('.video_box').css({
+					"-webkit-transform":pageMove2,
+					"transform":pageMove2
+				})				
+			}	
+		}
+
+		//处理第三页
+		function dealPage3(pageinfo) {
+			var $span = $('#time_list>span'),
+				$timelist = $('#time_list ul li'),
+				distance = 	($(window).outerWidth() - $('#time_list').width()) / 2,
+				_diff = pageinfo.pos - $(window).outerWidth() / 2;
+
+			if(_diff <= distance) {
+				$($span.get(0)).addClass('light');
+			}
+			else if(_diff >= $('#time_list').width() + distance) {
+				$($span.get(1)).addClass('light');
+				$timelist.addClass('light');
+			}
+			else {
+				var curli = Math.floor(Math.abs((_diff - distance) / $($timelist.get(0)).width()));
+				for(var i = 0; i <= curli; i += 1) {
+					$($timelist.get(i)).addClass('light');
+				}
+					
+			}
+		}
+		//处理第五页
+		function dealPage6(pageinfo) {
+			if(pageinfo.percent > 30 && pageinfo.percent < 200) {	
+				if(+$eleBox.attr('data-ani') === 0)	{
+					$eleBox.addClass('move0');
+					$eleBox.attr('data-ani', '1');						
+				}
+				$eleBox.css('display', 'block');
+			}
+			if(pageinfo.percent > 50){
+				$('.bird').css('display', 'none')
+			}
+			else{
+				$('.bird').css('display', 'block')
+			}
+		}
+
+		function pageChg(idx){
+			$idxPage.css("display","block")
+			$idxPage.find("a").eq(idx).addClass("cur").siblings().removeClass("cur")
+		}
+		$("#idxPage a").click(function(){
+			var idx = $(this).index() - 1;
+			slider.gotoPage(idx,  .6)
+		})
+		
+
+		var slider = new Slider({
+			 id         : 'sliderbox'
+			,sliderClass: 'index'
+			,pageClass  : 'index_box'
+			,initPage   : INITPAGE
+			,delta      : DELTA
+			,transition : .8
+			,callback: function(data) {
+				//data.pos      ：页面滚动的值px
+				//data.percent  : 百分比
+				//data.paging   : 屏幕显示左边的页面为当前页
+				//data.direction: 方向(1：向前，-1：向后)
+				//data.pagesInfo: 每一页单独信息集合
+				//                data.pagesInfo[i].pos
+				//				  data.pagesInfo[i].percent
+
+				//hash值
+				window.location.hash = '#' + serialize({page: data.paging});
+				var idx = data.paging + 1;
+				pageChg(idx)
+				// if(data.paging == 0) {
+				// 	this.gotoPage(1,  0);
+				// }
+				// if(data.paging == 1){
+				// 	$(".nav a").eq(1).addClass("cur").siblings().removeClass("cur");
+				// }
+				if(INITPAGE > 0) {
+					$('#birdBox').css({
+						'animation-delay': '.2s',
+						'-webkit-animation-delay': '.2s',
+					})
+				}
+
+				//鸟动画
+				for(var i = 0, len = data.pagesInfo.length; i < len; i += 1) {
+					var cur = data.pagesInfo[i];
+					if(cur.percent > 50 && cur.percent < 150 && NUMARR.length) {
+						var _pos = 0;
+						if(i === 0) {	//第一页
+							pos = cur.pos - $(window).outerWidth();
+						}
+						else {		//其他页
+							pos = cur.pos - $(window).outerWidth() / 2;
+						}
+
+						
+						bird(data.direction, Math.abs(Math.floor(pos / DELTA)), NUMARR[i], i);
+						
+						if(i == 1 && cur.pos - $(window).outerWidth() <= 10 && data.direction == -1) {
+							setTimeout(function() {
+								$('#birdBox').css('transform', 'perspective(1000px) rotateY(-180deg) translate3d(0,-700px,0)');
+							}, 100);
+							
+						}
+					}						
+				}
+
+				// 第一页动画
+				dealPage1(data.pagesInfo[0]);
+
+				//第二页动画
+				dealPage2(data.pagesInfo[1]);
+
+				//第三页点亮
+				dealPage3(data.pagesInfo[2]);
+
+				//第四页
+				if(data.pagesInfo[3].percent > 30 && data.pagesInfo[3].percent < 150) {
+					$('.index_box_4').addClass('ani');
+				}
+				//第五页
+				if(data.pagesInfo[3].percent > 10 && data.pagesInfo[3].percent < 150) {
+					$('.index_box_5').addClass('ani');
+				}
+				//第五页动画
+				dealPage6(data.pagesInfo[4]);
+				//第六页
+				if(data.pagesInfo[4].percent > 50 && data.pagesInfo[4].percent < 150) {
+					$('.index_box_6').addClass('ani');
+				}
+
+				
+			}
+		});
+
+
+		//页面绑定hashchage事件
+		$(window).on('hashchange' ,function() {
+			var hashObj = toJsonObj(window.location.hash.slice(1)),
+				page = +hashObj.page,
+				jump = +hashObj.jump;	
+			if(jump) {
+				slider.gotoPage(page);			
+			}	
+			
+		});
+		
+		//第六页动画结束事件
+		var ceCount = 0;	
+		$eleBox.on('webkitAnimationEnd animationEnd', function (e) {
+			ceCount += 1;
+			if(ceCount >= $('#ceBox>div').length) {
+
+			$eleBox.removeClass('move0');
+
+		}
+
+	});
+	/* page5 */
+	$eleBox.on('click', '.com_ele', function(e) {
+		e.stopPropagation();
+
+		if($eleBox.hasClass('move0')){
+			$eleBox.removeClass('move0');
+		}
+		var $this = $(this),
+			n = $this.attr('data-num');	
+
+		if($this.hasClass('open')) {
+			$eleBox.removeClass().addClass('ele_box');
+			$this.removeClass('open');
+		}
+		else {
+			$eleBox.children('.com_ele').removeClass('open');
+			$eleBox.removeClass().addClass('ele_box');
+			if($eleBox.hasClass('move')) {
+				return;
+			}
+			else {
+				$eleBox.addClass('move' + n +' ' + 'move');
+				$this.addClass('open');
+			}
+		}
+	});
+
+	$('#index6').click(function(e){
+		$('#ceBox').removeClass().addClass("ele_box");
+		$('#ceBox').find('.open').removeClass('open')
+	})
+
+	$(".nav a").eq(1).click(function(){
+		$(this).addClass("cur").siblings().removeClass("cur")
+	})
+
+	//视频播放
+	var video = document.getElementById('video'),
+		videoBox = $(".video_box"),
+		btnPlayer = $("#btnPlayer");
+
+		btnPlayer.click(function(){
+			$(".pic_front").fadeOut(1000)
+			if(video.paused){
+				video.play();
+				btnPlayer.removeClass("paused")
+				videoBox.hover(function(){
+					btnPlayer.css("display","block")
+				},function(){
+					btnPlayer.css("display","none")
+				})
+			}else{
+				video.pause();
+				btnPlayer.css("display","block")	
+				btnPlayer.addClass("paused")
+			}			
+		})
+		//监听播放结束
+		var eventEnd = function(e){
+			video.addEventListener(e,function(){
+				btnPlayer.css("display","block")
+			},false);
+		}
+		eventEnd("ended")
+
+	})	
+</script>
+</html>
