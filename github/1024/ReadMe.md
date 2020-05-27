@@ -1,6 +1,6 @@
 
 
-- [view-source](https://taoste.github.io/Hello-World/github/QPlayer/index.html) : [1024](https://taoste.github.io/Hello-World/github/1024/index.html) 
+- [view-source](https://taoste.github.io/Hello-World/github/1024/index.html) : [1024](https://taoste.github.io/Hello-World/github/1024/index.html) 
 
 > 打包下载：
 
