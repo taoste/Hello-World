@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>迅雷社会招聘 </title>
+<meta name="keywords" content="">
+<meta name="description" content="遇见迅雷，快来加入我们!">
+<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<!--<style>
+		.tcdPageCode{padding: 15px 20px;text-align: left;color: #ccc;text-align:center;}
+		.tcdPageCode a{display: inline-block;color: #428bca;display: inline-block;height: 25px;	line-height: 25px;	padding: 0 10px;border: 1px solid #ddd;	margin: 0 2px;border-radius: 4px;vertical-align: middle;}
+		.tcdPageCode a:hover{text-decoration: none;border: 1px solid #428bca;}
+		.tcdPageCode span.current{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;color: #fff;background-color: #428bca;	border: 1px solid #428bca;border-radius: 4px;vertical-align: middle;}
+		.tcdPageCode span.disabled{	display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;	color: #bfbfbf;background: #f2f2f2;border: 1px solid #bfbfbf;border-radius: 4px;vertical-align: middle;}
+	</style>-->
+</head>
+<body>
+<div class="wrap job_page" id="wrap">
+	<div class="wrapper">
+		<div class="header w_header">
+				<div class="head content">
+						<div class="logo_box">
+						<h1 class="hide_txt"><a href="/" title="迅雷网络">迅雷网络<img src="img/b_logo.png" alt="迅雷网络"></a></h1>
+						</div>
+						<div class="links_box">
+						<div class="nav_box">
+								<ul class="nav_list" id="nav_list">
+								<li><a href="/">招聘首页</a></li>
+								<li><a class="cur" href="job_list.html">社会招聘</a></li>
+								<li><a href="http://campus.xunlei.com/" target="_blank">校园招聘</a></li>
+								<li><a href="about.html">关于我们</a></li>
+								</ul>
+						</div>
+						</div>
+				</div>
+		</div>
+	  	<!--轮播图-->
+		<div class="carousel">
+			<!--.on:当前图片-->
+			<ul>
+				<!--background:轮播图背景色值-->
+				<li class="on" style="background:#00030a;">
+					<a class="img_wp" href="#"><img src="img/job/top_bg.jpg" alt=""></a>
+				</li>
+			</ul>
+		</div>
+		<!--主内容-->
+		<div class="main_wp">
+			<div class="main">
+				<!--招聘职位列表-->
+				<div class="list_post_wp">
+					<!--条件筛选区域-->
+					<div class="filter_wp JSfilterSelect">
+						<div class="item JSjobProperty">
+							<span class="label">工作性质：</span>
+							<!--.on:选中样式-->
+							<a class="on" href="javascript:;" data-id="0">不限</a>
+							<!--<a href="javascript:;">全职</a>
+							<a href="javascript:;">实习</a>-->
+						</div>
+						<div class="item JSjobPlace">
+							<span class="label">工作地点：</span>
+							<a href="javascript:;" data-id="0">不限</a>
+							<!--<a href="javascript:;">深圳</a>
+							<a href="javascript:;">北京</a>-->
+						</div>
+						<div class="item JSjobFamily">
+							<span class="label">职位族：</span>
+							<a href="javascript:;" data-id="0">不限</a>
+							<!--<a href="javascript:;">技术族</a>
+							<a href="javascript:;">产品族</a>
+							<a href="javascript:;">营销族</a>
+							<a href="javascript:;">专业族</a>-->
+						</div>
+						<div class="item JSjobCategory">
+							<span class="label">职业类别：</span>
+							<a href="javascript:;" data-id="0">不限</a>
+							<!--<a href="javascript:;">开发类</a>
+							<a href="javascript:;">测试类</a>
+							<a href="javascript:;">设计类</a>
+							<a href="javascript:;">运维类</a>-->
+						</div>
+					</div>
+
+					<!--筛选职位列表-->
+					<div class="list_post">
+						<div class="th">
+							<span class="col1">职位名称</span>
+							<span class="col2">职位类别</span>
+							<span class="col3">工作地点</span>
+							<span class="col4">招聘人数</span>
+							<span class="col5">更新时间</span>
+						</div>
+						<!--列表内容-->
+						<div class="tr_wp JSleftList">
+    						<!--<div class="tr open">
+    							<a class="td" href="#">
+    								<span class="col1" title="数据平台开发工程师">数据平台开发工程师</span>
+    								<span class="col2">技术</span>
+    								<span class="col3">深圳</span>
+    								<span class="col4">2</span>
+    								<span class="col5">2016-1-13</span>
+    							</a>
+    							<span class="btn_detail" title="详情"></span>
+    							<div class="detail_post">
+    								<div class="sec">
+    									<h3>岗位职责</h3>
+    									<ol>
+    										<li>1、负责公司数据分析与数据挖掘系统的建设和研发。</li>
+    										<li>2、负责搭建基础模型库，机器学习算法的具体实现以及并行化。</li>
+    										<li>3、负责搜索和推荐产品的核心策略研发，具体包括特征选择、参数选择、算法实验、效果分析等。</li>
+    									</ol>
+    								</div>
+    								<div class="sec">
+    									<h3>岗位要求</h3>
+    									<ol>
+    										<li>1、本科或研究生以上学历，互联网/软件行业4年以上工作经验。</li>
+    										<li>2、精通常用的数据分析工具，有大规模数据挖掘、自然语言处理、机器学习、hadoop平台经验，精通最优化算法。</li>
+    										<li>3、良好的沟通能力和团队合作精神。</li>
+    										<li>4、优秀的分析问题和解决问题的能力，对解决具有挑战性问题充满激情。</li>
+    									</ol>
+    								</div>
+    								<div class="btn_wp"><a href="javascript:;" class="btn_main">投递简历</a></div>
+    								<div class="tips">
+    									<p>（请上传pdf、word、zip、rar格式的文件，大小不超过50M）</p>
+    								</div>
+    								&lt;!&ndash;分享到&ndash;&gt;
+    								<div class="u_share"><span class="label">分享到：</span><a href="javascript:;" class="ico_wx">微信</a> <a href="javascript:;" class="ico_sina">新浪微博</a></div>
+    							</div>
+    						</div>-->
+						</div>
+						<!--翻页组件-->
+						<div class="u_paging tcdPageCode" id="pagerCode">
+							<!--<a class="prev" href="javascript:;">上一页</a>
+							&lt;!&ndash;.on:当前页样式&ndash;&gt;
+							<a class="order on" href="javascript:;">1</a>
+							<a class="order" href="javascript:;">2</a>
+							<a class="order" href="javascript:;">3</a>
+							<a class="order" href="javascript:;">4</a>
+							<span class="order">...</span>
+							<a class="order" href="javascript:;">11</a>
+							<a class="next" href="javascript:;">下一页</a>-->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="aside">
+				<div class="search_wp">
+					<input type="text" placeholder="搜索职位" class="search">
+					<i class="JSplaceholder" style="display:none;position:absolute;top:14px;font-size:12px;left:15px;color:gray;">搜索职位</i>
+					<a class="btn_search" href="javascript:;" title="搜索">搜索</a>
+					<div class="tip_list" style="display:none;">
+						<ul style="overflow:auto;">
+						</ul>
+					</div>
+				</div>
+				<!--热门招聘职位列表-->
+				<div class="hot_post_wp">
+					<div class="hd"><h2>热门招聘职位</h2></div>
+					<!--列表内容-->
+					<div class="list_hot tr_wp JSrightList">
+						<!--<div class="tr">
+							<a class="td" href="job_detail.html" target="_blank">
+								<span class="col1" title="数据平台开发工程师">数据平台开发工程师 <i class="ico_ji">急</i></span>
+								<span class="col2">2016-1-13</span>
+							</a>
+						</div>-->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--页脚-->
+		<div class="footer" id="footer">
+            <div class="footer_inner">
+                <div class="footer_link">
+                <ul class="footer_nav">
+                    <li class="footer_nav_item">
+                    <a href="https://www.xunlei.com/" class="footer_nav_link" target="_blank" title="迅雷招聘">迅雷首页</a>
+                    </li>
+                    <li class="footer_nav_item">
+                    <a href="http://dl.xunlei.com/" class="footer_nav_link" target="_blank" title="产品中心">产品中心</a>
+                    </li>
+                    <li class="footer_nav_item">
+                    <a href="https://www.xunlei.com/v2018/dist/aboutus.html" class="footer_nav_link" target="_blank" title="关于我们">关于迅雷</a>
+                    </li>
+                    <li class="footer_nav_item">
+                    <a href="https://www.xunlei.com/v2018/dist/aboutusdetail.html#contactus" class="footer_nav_link" target="_blank" title="联系我们">联系我们</a>
+                    </li>
+                    <li class="footer_nav_item">
+                    <a href="http://bbs.xunlei.com/forum.php" class="footer_nav_link" target="_blank" title="迅雷论坛">迅雷论坛</a>
+                    </li>
+                    <li class="footer_nav_item">
+                    <a href="http://help.xunlei.com/" class="footer_nav_link" target="_blank" title="客服中心">客服中心</a>
+                    </li>
+                </ul>
+                <div class="footer_media">
+                    <a class="footer_media_wb" href="http://weibo.com/xunleigf?from=myfollow_all&is_all=1" rel="nofollow"
+                    target="_blank" title="迅雷微博">
+                    <i class="footer_icon footer_icon_wb"></i>
+                    </a>
+                    <a class="footer_media_wx" href="javascript:;" title="">
+                    <i class="footer_icon footer_icon_wx"></i>
+                    <div class="footer_wx_code">
+                        <img src="https://www.xunlei.com/v2018/src/pc/images/common/code.png"
+                        alt="迅雷微信二维码">
+                    </div>
+                    </a>
+                </div>
+                </div>
+                <div class="footer_copyright">
+                <div>
+                    <a href="https://www.xunlei.com/images/zzdx.jpg" target="_blank">增值电信业务粤B2-20050219号</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="https://www.xunlei.com/images/wlwh.jpg" target="_blank">粤网文[2016]0901-125号</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="https://www.xunlei.com/images/yp.jpg" target="_blank">互联网药品证书</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="https://www.xunlei.com/images/cbxkz.jpg" target="_blank">互联网出版(粤)字053号</a>
+                </div>
+                <div>
+                    <span>客服电话 400-1111-000</span>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <span>违规不良信息举报电话 0755-86319951</span>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <span>举报邮箱</span>
+                    <a href="mailto:xljubao@xunlei.com">xljubao@xunlei.com</a>
+                </div>
+                <div>
+                    <a href="http://i.xunlei.com/tos.shtml" target="_blank" rel="nofollow">用户协议</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="https://i.xunlei.com/xluser/privacy.html" target="_blank" rel="nofollow">隐私协议</a>
+                    &nbsp;|&nbsp;&nbsp;
+                    <span>Copyright © 2003-2019 XUNLEI.COM All Rights Reserved</span>
+                </div>
+                </div>
+                <ul class="footer_safe_links">
+                <li class="footer_safe_item">
+                    <a target="_blank" href="http://szcert.ebs.org.cn/a8374448-a3eb-46c5-bf4c-b4e1b2189db4" rel="nofollow"><i
+                        class="ico ico01"></i>工商网监<br>电子标识</a>
+                </li>
+                <li class="footer_safe_item">
+                    <a target="_blank" href="https://www.szcredit.org.cn/web/gspt/newGSPTDetail.aspx?ID=6a5928370dfc49fc9d81e4088f6e614f&amp;tabPro=11&amp;code=1"
+                    rel="nofollow"><i class="ico ico02"></i>经营性网站<br>备案信息</a>
+                </li>
+                <li class="footer_safe_item">
+                    <a target="_blank" href="http://www.12377.cn" rel="nofollow"><i class="ico ico03"></i>不良信息<br>举报中心</a>
+                </li>
+                <li class="footer_safe_item">
+                    <a target="_blank" href="http://report.12377.cn:13225/toreportinputNormal_anis.do" rel="nofollow"><i
+                        class="ico ico04"></i>网上有害信息<br>举报专区</a>
+                </li>
+                <li class="footer_safe_item">
+                    <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502001761"
+                    rel="nofollow"><i class="ico ico05"></i>粤公网安备<br>44030502001761号</a>
+                </li>
+                </ul>
+            </div>
+        </div>
+		<!--简历上传-->
+		<div class="pop_area JSresumeContent" style="display:none;">
+			<!--[if lt IE 9]><span class="opc_bg"></span><![endif]-->
+			<div class="pop_upload JSupOne" style="">
+				<div class="pop_tt">
+					<p>简历上传</p>
+				</div>
+				<div class="pop_cont">
+					<div class="upload_box">
+						<form id="form1" name="form1" method="post" enctype="multipart/form-data">
+							<input type="file" name="resume" id="file_upload" accept=".doc,.docx,.pdf,.html"/>
+							<input type="hidden" name="positionid" id="positionid"/>
+							<input type="hidden" name="cityid" id="cityid"/>
+							<input type="hidden" name="note" id="note"/>
+						</form>
+						<a href="#" class="btn_upload"><i class="ic_ten"></i>点击选择文件</a>
+					</div>
+					<p class="txt_upload">支持pdf,word,html<br><span class="textName"></span></p>
+					<div class="brief_box">
+						<textarea placeholder="请输入简历说明" maxlength="400"></textarea>
+						<p class="txt_tip">上传不成功，请直接发邮件至:<a href="#">xlrc@xunlei.com</a></p>
+					</div>
+				</div>
+				<div class="pop_bot">
+					<a href="#" class="btn_grey">取消</a>
+					<a href="#" class="btn_blue">确定</a>
+				</div>
+				<a href="javascript:;" class="btn_close" title="关闭"></a>
+			</div>
+			<div class="pop_upload JSupTwo" style="display:none; ">
+				<div class="pop_tt">
+					<p>简历上传</p>
+				</div>
+				<div class="pop_cont">
+					<div class="progress_box">
+						<div class="bar_box"><span class="ic_bar" style="width: 1%"></span></div>
+						<p class="txt_progress">1%</p>
+					</div>
+				</div>
+				<div class="pop_bot">
+					<a href="#" class="btn_grey">取消</a>
+				</div>
+				<a href="javascript:;" class="btn_close" title="关闭"></a>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text" id="left_list">
+  <div class="tr" data-posId="$positionid"  data-postypeId="$postiontypeno">
+    	<a class="td" href="javascript:void(0);">
+    		<span class="col1" title="$name">$name</span>
+    		<span class="col2">$postiontypeno</span>
+    		<span class="col3">$city</span>
+    		<span class="col4">$num</span>
+    		<span class="col5">$inputTime</span>
+    	</a>
+    	<span class="btn_detail" title="详情"></span>
+    	<div class="detail_post">
+    		<div class="sec">
+    			<h3>岗位职责</h3>
+    			<ol class="resposibilityList_$rowid">
+                      <!-- <li>$resposibility</li> -->
+    			</ol>
+    		</div>
+    		<div class="sec">
+    			<h3>岗位要求</h3>
+    			<ol class="demand_$rowid">
+                     <!-- <li>$demand</li> -->
+    			</ol>
+    		</div>
+    		<div class="btn_wp"><a href="javascript:;" class="btn_main">投递简历</a></div>
+    		<div class="tips">
+    			<p>（请上传pdf、word、html格式的文件，大小不超过5M）</p>
+    		</div>
+    		<!--分享到-->
+    		<!-- <div class="u_share"><span class="label">分享到：</span><a href="javascript:;" class="ico_wx">微信</a> <a href="javascript:;" class="ico_sina">新浪微博</a></div> -->
+    		<div class="u_share" style="white-space:normal;">
+             <div class="jiathis_style">
+               <!-- <span style="float:left;line-height:18px;">分享到：</span> -->
+               <span class="jiathis_txt">分享到：</span>
+               <a class="jiathis_button_tsina"></a>
+	           <a class="jiathis_button_weixin"></a>
+             </div>
+             <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8" />
+            </div>
+    	</div>
+  </div>
+</script>
+<!-- <script>
+(function(){
+    var wrap=document.getElementById("wrap");
+    var isCss3=function(){
+        var style=document.createElement("div").style;
+        for(var k in style){
+          if(k.toLowerCase().indexOf("animation")>=0)
+            return true;     
+        }
+        return false;
+    }();
+    if(isCss3){
+        wrap.className=wrap.className+" css3";
+        /*头部导航下划线*/
+        var navList=document.getElementById("nav_list"),
+            navLinks=navList.getElementsByTagName("a"),
+            hLine=document.getElementById("h_line");
+        var ws=[32,64,64,64,64],ls=[18,86,186,286,386];
+          for(var i=0;i<navLinks.length;i++){
+            navLinks[i].addEventListener("mouseenter",function(i){
+              return function(){
+                hLine.style.display="block";
+                hLine.style.width=ws[i]+"px";
+                hLine.style.left=ls[i]+"px";
+              }
+            }(i),false);    
+            if(navLinks[i].className.indexOf("cur")!=-1){
+                hLine.style.display="block";
+                hLine.style.width=ws[i]+"px";
+                hLine.style.left=ls[i]+"px";
+            }
+          }
+        navList.addEventListener("mouseleave",function(){
+            hLine.style.display="none";
+            for(var i=0;i<navLinks.length;i++){
+                if(navLinks[i].className.indexOf("cur")!=-1){
+                    hLine.style.display="block";
+                    hLine.style.width=ws[i]+"px";
+                    hLine.style.left=ls[i]+"px";
+                    return;
+                }
+            } 
+        },false);
+    }
+})()
+</script> -->
+<!--[if lt IE 9]>
+<style type="text/css">
+	#file_upload{
+		font-size: 100px;
+	}
+</style>
+<![endif]-->
+<style type="text/css">
+	@media all and (-ms-high-contrast: none),(-ms-high-contrast: active) {
+		#file_upload {
+			font-size: 100px;
+		}
+	}
+</style>
+<!--[if IE 6]>
+<script type="text/javascript" src="js/lib/DD_PNG_min.js"></script>
+<script type="text/javascript">
+	var links=document.getElementsByTagName("a");
+	for(var i=0,l=links.length;i<l;i++){
+		links[i].setAttribute("hideFocus",true);
+	}
+</script>
+<![endif]-->
+<script type="text/javascript" src="js/lib/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/lib/jquery.page.js"></script>
+<!--<script type="text/javascript" src="js/tool.js"></script>
+<script type="text/javascript" src="js/job_list.js"></script>-->
+<script type="text/javascript" src="build/js/jobList.min.js"></script>
+<script type='text/javascript' src='js/lib/jquery-form.js'></script>
+
+</body>
+</html>
