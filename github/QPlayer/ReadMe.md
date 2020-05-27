@@ -4,6 +4,6 @@
 > 打包下载：
 
 >> 播放器 [View Raw](
-https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer.zip) / [Download](
-https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer.zip?raw=true)
+https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip) / [Download](
+https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true)
 
