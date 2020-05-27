@@ -31,6 +31,17 @@
 
 - **迅捷PDF编辑器（破解版）**（  <a href="https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/%E8%BF%85%E6%8D%B7PDF%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%88%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%89.rar?raw=true" title="【本地下载】迅捷PDF编辑器（破解版）">本地下载</a> ）
 
+
+- [**PS如何制作线稿图**](https://jingyan.baidu.com/article/6b1823095110c5ba58e15935.html) - 百度经验  
+> 方法/步骤:
+```
+1、ctrl+shift+u 去色
+2、ctrl+J复制图层
+3、crrl+i反相
+4、将混合模式改为线性减淡【颜色减淡】
+5、滤镜、其他、最小值1
+6、完成
+```
 -------------------------------------------------------------------------
 
 - 2018年11月12日 : [**Adobe Acrobat Pro 2017.011.30106 经典版 + 2019.008.20081 连续版**](https://whitewolf.space/adobe-acrobat-dc/) - 小白狼の窝  
