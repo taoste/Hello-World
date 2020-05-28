@@ -10,7 +10,7 @@
 ```
 ren D:\Wallpaper\* *.jpg
 ```
->>  【备注】快速提取文件名称的命令： DIR  * . * /B>LIST.TXT
+>>  【[备注](https://github.com/taoste/Hello-World/tree/master/eBook/QiuYePPT)】快速提取文件名称的命令： DIR  * . * /B>LIST.TXT
 
 >>  【备注】图片展示HTML代码：< p > < a href=" 要插入的URL ">< img src=" 要插入的圖片URL.jpg?raw=true " alt=" 圖片替代文字 " title=" 要顯示的文字 " border=" 圖片邊框 " / >< / a > < / p >
 
