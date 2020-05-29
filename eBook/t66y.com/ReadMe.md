@@ -76,8 +76,7 @@ https://www.zhongzihu.com
 > [#feedly.com](https://bgp.he.net/dns/feedly.com/) dns: 104.20.60.241，104.20.59.241
 > 
 > [#github.com](https://bgp.he.net/dns/github.com) dns: 140.82.114.3
-
->#<a href="https://www.cnblogs.com/minskiter/p/11552454.html" title="如何解决GITHUB 下载慢的问题 - minskiter - 博客园">Github.com</a>
+><a href="https://www.ipaddress.com/" title="The Best IP Address, Email and Networking Tools - IPAddress.com">引用ip:</a>#<a href="https://www.cnblogs.com/minskiter/p/11552454.html" title="如何解决GITHUB 下载慢的问题 - minskiter - 博客园">Github.com</a>
 ```
 140.82.114.3 github.com #具体ip可能会变
 199.232.5.194 github.global.ssl.fastly.net #具体ip可能会变
