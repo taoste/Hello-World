@@ -353,9 +353,9 @@ Chrome 多用户分别建快捷方式（默认参数）：--profile-directory=De
 
 选项（网络设置）： about:preferences#advanced
 
-配置编辑器 ： about:config
+>> 配置编辑器 ： about:config
 
-故障排除信息：about:support ( 参阅：[扫盲 Firefox 定制——从“user.js”到“omni.ja” @ 编程随想的博客/2019年7月19日](
+>> Ⓜ️ 故障排除信息：about:support ( 参阅：[扫盲 Firefox 定制——从“user.js”到“omni.ja” @ 编程随想的博客/2019年7月19日](
 https://program-think.blogspot.com/2019/07/Customize-Firefox.html) )
 
 - **[Thunderbird](https://addons.mozilla.org/zh-CN/firefox/addon/thunderbird-online-email/?src=search)** — 软件使电子邮件更为轻松。  |   **Mozilla**
