@@ -115,6 +115,8 @@ Alt+F4 关机快捷键。
 
 >> [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome)
 
+( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 并在应用中登录帐户。  )
+
 - 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
 
 - 《[或许能成为你的 Windows 默认浏览器，大改版的 Edge 稳定版终于来了](https://mp.weixin.qq.com/s/05QoUqoMfNEyDOIyM440Xw)》
