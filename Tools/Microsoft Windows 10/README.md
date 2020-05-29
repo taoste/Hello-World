@@ -98,7 +98,7 @@ Alt+F4 关机快捷键。
 
 >> 《[[技巧]如何在Microsoft Store上免费获得HEVC编码支持](https://www.cnbeta.com/articles/tech/893455.htm)》 - cnBeta.COM (2019年09月26日) 
 
-- [**欢迎使用 Internet Explorer**](https://www.microsoft.com/zh-cn/welcomeie11/)
+- [**欢迎使用 Internet Explorer**](https://www.microsoft.com/zh-cn/edge/)
 > 您不妨试用一下 Microsoft Edge
 > 
 > Microsoft 专为 Windows 10 开发的最新浏览器
