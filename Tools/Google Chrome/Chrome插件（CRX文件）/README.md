@@ -157,11 +157,11 @@ ID： efaejpgmekdkcngpbghnpcmbpbngoclc
 ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - 检查视图： background/background.html
 
-- [ ] 10. **Anything to QRcode** （网址生成的二维码(已失效) | 推荐：[**二维码生成器(QuickQR)**](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-cn) 
+- [ ] 10. **Anything to QRcode** （ [网址生成的二维码(已失效)](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf?hl=zh-cn) | 推荐：[**二维码生成器(QuickQR)**](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-cn) ）
 
 > - 通过右键菜单或地址栏按钮将当前页面地址、选中的文本、链接、图片地址等文本内容生成二维码，也可以解析页面中的二维码图片，完全离线可用，不依赖任何远程文件和服务，内存占用小，界面简洁 :-)
 
-> - [详细信息](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf?hl=zh-cn)
+> - Anything to QRcode / [详细信息](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf?hl=zh-cn)
 > - ID： calkaljlpglgogjfcidhlmmlgjnpmnmf
  
 > === 2018.7.9 更新 v1.2.7 ===
