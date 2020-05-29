@@ -115,6 +115,7 @@ Alt+F4 关机快捷键。
 
 >> ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 并在应用中登录帐户。  )
 
+>>> Ⓜ️ view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应)
 
 - 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
 
