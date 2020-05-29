@@ -74,6 +74,8 @@ https://www.zhongzihu.com
 > [pornhub.com](https://bgp.he.net/dns/pornhub.com) dns: 66.254.114.41
 > 
 > [#feedly.com](https://bgp.he.net/dns/feedly.com/) dns: 104.20.60.241，104.20.59.241
+> 
+> [#github.com](https://bgp.he.net/dns/github.com) dns: 140.82.114.3
 >
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
