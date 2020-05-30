@@ -113,7 +113,13 @@ Alt+F4 关机快捷键。
 
 >利用 Microsoft Edge，您能做到的远非网络浏览那么简单
 
->> ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 并在应用中登录帐户。  )
+- ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 双因素验证/两步验证， 并在应用中登录帐户。  )
+
+> 《[什么是两步验证？怎样开启二步验证？好用的身份验证器密码 APP 软件推荐](https://www.iplaysoft.com/two-factor-authentication.html)》 - 异次元软件下载 (2018-08-13)
+
+> 《[微软验证器（Microsoft Authenticator）更新：支持更改帐户密码等](https://www.ruancan.com/iphone/microsoft-authenticator.html)》 - 软餐(2020年3月10日)
+
+> 《[如何开启登录两步验证功能？](https://stage-www.yinxiang.com/new/hc/articles/%e5%a6%82%e4%bd%95%e5%bc%80%e5%90%af%e7%99%bb%e5%bd%95%e4%b8%a4%e6%ad%a5%e9%aa%8c%e8%af%81%e5%8a%9f%e8%83%bd%ef%bc%9f/)》 | 印象笔记 (2019-10-06)
 
 >>> Ⓜ️ view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应)
 
