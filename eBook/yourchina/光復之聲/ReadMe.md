@@ -43,3 +43,5 @@
 </a>
 <img src="https://camo.githubusercontent.com/0c0046699388ab2f82f84af2ea2ec8cfb56ebcd9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4449436644524757304145624135432e6a7067?raw=true"  width="100%" height="100%" alt="图片：三民主义" title="【关于】三民主义（英语：Three Principles of the People、Three People's Principles），又称“孙学”（Sunology）、“国父思想”、“总理遗教”，是由中华民国及中国国民党创始人孙中山提出，为国民党的基本理论，在中华民国宪法前言以“孙中山先生创立中华民国之遗教”称呼，并被纳入《中华民国宪法》第一条内容。孙中山提出的民主革命的纲领，即民族主义、民权主义和民生主义。">
 </p>
+
+<img src="https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/%E5%85%89%E5%BE%A9%E4%B9%8B%E8%81%B2/1911.jpg?raw=true" title="革命尚未成功，同志仍须努力 - 孙文"/>
