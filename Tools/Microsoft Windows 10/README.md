@@ -115,9 +115,9 @@ Alt+F4 关机快捷键。
 
 - ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 双因素验证/两步验证， 并在应用中登录帐户。  )
 
->> 《[Microsoft Authenticator 应用备份和恢复帐户-Azure AD](https://docs.microsoft.com/zh-cn/azure/active-directory/user-help/user-help-auth-app-backup-recovery)》 | Microsoft Docs
-
 >> 《[Azure 多重身份验证概述](https://docs.microsoft.com/zh-cn/azure/active-directory/authentication/concept-mfa-howitworks)》 | Microsoft Docs
+
+>> 《[Microsoft Authenticator 应用备份和恢复帐户-Azure AD](https://docs.microsoft.com/zh-cn/azure/active-directory/user-help/user-help-auth-app-backup-recovery)》 | Microsoft Docs
 
 >> 《[什么是两步验证？怎样开启二步验证？好用的身份验证器密码 APP 软件推荐](https://www.iplaysoft.com/two-factor-authentication.html)》 - 异次元软件下载 (2018-08-13)
 
