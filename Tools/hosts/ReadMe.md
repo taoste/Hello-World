@@ -33,7 +33,7 @@
 > 
 > [Download .msi (Installer)](https://github.com/bitbeans/SimpleDnsCrypt/releases/download/0.4.2/SimpleDNSCrypt.msi) 
 > 
->> 参阅： 《[Simple DNSCrypt - 保护网络安全，一键使用 DNSCrypt 加密 DNS 流量 [Windows]](https://www.appinn.com/simple-dnscrypt)》 - 小众软件（2018-3-4）
+>> 参阅： 《[Simple DNSCrypt - 保护网络安全，一键加密 DNS 流量 [Windows]](https://www.appinn.com/simple-dnscrypt)》 - 小众软件（2018-3-4）
 > - <kbd>Win徽标键</kbd> + <kbd>R</kbd>，打开-->运行：cmd
 > 
 > ipconfig /release 释放ip
