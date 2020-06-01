@@ -1,3 +1,16 @@
+- [**Apowersoft 官网**](https://www.apowersoft.com/) | [**中文版**](https://www.apowersoft.cn/) - 为您提供专业的商务办公及日常生活的桌面软件和在线应用
+
+>> [安卓&iOS同屏讨论区](https://www.apowersoft.cn/community/forum/mirror-android-ios.html) - [Apowersoft官网-中文论坛](https://www.apowersoft.cn/community)
+
+> 参考：
+
+>> [Bing搜索](https://cn.bing.com/search?q=%E5%B1%8F%E5%B9%95%E9%95%9C%E5%83%8F+site%3AApple.com)：《[如果“隔空播放”或“屏幕镜像”在您的设备上无法使用](https://support.apple.com/zh-cn/HT204291)》 - Apple 支持
+
+>>> 《[iPhone的屏幕镜像是什么？](https://www.zhihu.com/question/273916930)》 - 知乎
+
+
+------------------------------------------------------------------------------------------------------
+
 - [**ApowerMirror** 电脑（**傲软投屏**）](https://www.52pojie.cn/thread-1012335-1-1.html)  - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
 
 > 最近看见很多人都在找这个软件的激活码，
@@ -14,9 +27,6 @@
 >
 > 有点夸张，不过真的好用，而且不是模拟器哦
 
-> [**Apowersoft 官网**](https://www.apowersoft.com/) | [**中文版**](https://www.apowersoft.cn/) - 为您提供专业的商务办公及日常生活的桌面软件和在线应用
-
->> [安卓&iOS同屏讨论区](https://www.apowersoft.cn/community/forum/mirror-android-ios.html) - [Apowersoft论坛](https://www.apowersoft.cn/community)
 
 > <a href="https://www.52pojie.cn/thread-1012335-1-1.html"><img src="https://attach.52pojie.cn/forum/201908/22/110351pk05n9e5k0fpzvya.png" border="0" title="ApowerMirror 电脑（傲软投屏）"></a>
 
@@ -27,9 +37,4 @@
 >>> 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
-> 参考：
-
->> [Bing搜索](https://cn.bing.com/search?q=%E5%B1%8F%E5%B9%95%E9%95%9C%E5%83%8F+site%3AApple.com)：《[如果“隔空播放”或“屏幕镜像”在您的设备上无法使用](https://support.apple.com/zh-cn/HT204291)》 - Apple 支持
-
->>> 《[iPhone的屏幕镜像是什么？](https://www.zhihu.com/question/273916930)》 - 知乎
 
