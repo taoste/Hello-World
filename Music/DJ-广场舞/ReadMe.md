@@ -1,3 +1,6 @@
+- 《[野狼Disco](https://www.kugou.com/song/#hash=B6880A36D02561912C53831ACF305D0D&album_id=30181741)》 _ 歌手:[宝石Gem](https://www.kugou.com/singer/799937.html)_[陈伟霆](https://www.kugou.com/singer/475.html) / [下载MP3](https://webfs.yun.kugou.com/202006012116/71fbacebd4409c0f58ceb5b07454901d/G171/M03/0A/09/6w0DAF2fFH-AR-whADqcvOZ1-2o311.mp3) | [酷狗音乐](https://www.kugou.com/)
+
+
 - 《[爱到流泪谁的罪(DJ版)](https://www.kugou.com/song/122e92c5.html)》 _ 歌手:[张鑫雨](https://www.kugou.com/singer/555696.html) __ [高音质在线试听](https://www.kugou.com/song/122e92c5.html) / [下载MP3](https://webfs.yun.kugou.com/202006012000/493587511ead4aaef612165a17876735/G173/M08/1F/01/TYcBAF3mL-2AA1iwADC-ivLya7E615.mp3) | [酷狗音乐](https://www.kugou.com/)
 
 > <a href="https://webfs.yun.kugou.com/202006012000/493587511ead4aaef612165a17876735/G173/M08/1F/01/TYcBAF3mL-2AA1iwADC-ivLya7E615.mp3" title="张鑫雨 - 爱到流泪谁的罪(DJ版).mp3">张鑫雨 - 爱到流泪谁的罪(DJ版).mp3</a>
