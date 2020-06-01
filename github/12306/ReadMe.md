@@ -2,6 +2,8 @@
 
 https://kyfw.12306.cn/otn/gonggao/windowRefund.html
 
+>> 【[候补购票](https://mobile.12306.cn/otsmobile/h5/otsbussiness/houbuRules/houbuRules.html)】
+
 》 3. 退票费怎么收？
 
 > 开车前15天（不含）以上退票的，不收取退票费；票面乘车站开车时间前48小时以上的按票价5%计，24小时以上、不足48小时的按票价10%计，不足24小时的按票价20%计。
