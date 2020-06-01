@@ -2,7 +2,7 @@
 
 <div class="songContent fl">
                     <div class="songName clearfix" title=""><span class="audioName"> 张鑫雨 - 爱到流泪谁的罪 (DJ版) </span> 
-                        <a target="_blank" style="display:none" href="#" class="icon btnMv"></a>
+                        <a target="_blank" style="display:none" href="https://www.kugou.com/song/122e92c5.html" class="icon btnMv"></a>
                     </div>
                     <div class="songDetail clearfix">
                         <p class="albumName fl" style="display:none">
@@ -15,8 +15,8 @@
                         </p>
                     </div>
                     <div class="displayNone"> 
-                       [id:$00000000]
-                      ```
+                       [id:$00000000] </div></div>
+```
 [ar:张鑫雨]
 [ti:爱到流泪谁的罪]
 [by:dongmei_karakal]
@@ -80,4 +80,4 @@
 [02:49.39]为了谁 骗着谁
 [02:51.84]谁惹谁伤悲
 ```
-                    </div></div>
+                   
