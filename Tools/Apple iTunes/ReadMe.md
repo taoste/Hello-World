@@ -1,4 +1,6 @@
-Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/bingoohuang/blog/issues/86 💗 **推荐**：[苹果Apple-Tool导航](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes) :
+Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/bingoohuang/blog/issues/86 
+
+💗 **推荐**：[苹果Apple-Tool导航](https://github.com/taoste/Hello-World/tree/master/Tools/Apple%20iTunes) :
 
 <p><a href="https://github.com/taoste/Hello-World/blob/master/Tools/Apple%20iTunes/Apple-qrcode?raw=true" title="扫描二维码可以访问【苹果Apple-Tool导航】">
 <img src="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true"/></a>
@@ -15,6 +17,21 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 - 2019年08月16日：《[苹果为什么老跟“电池”过不去？](https://www.cnbeta.com/articles/tech/879085.htm)》 - Apple iPhone - cnBeta.COM  
 
 - 2018年09月27日：《[再过3个月 苹果低价更换iPhone电池的福利就要取消](https://www.cnbeta.com/articles/tech/772393.htm)》  - Apple iPhone - cnBeta.COM  
+
+
+- 2020年04月28日：《[重新启动 iPhone](https://support.apple.com/zh-cn/HT201559)》 - Apple 支持
+
+
+- 2020年04月28日：《[强制重新启动 iPhone](https://support.apple.com/zh-cn/guide/iphone/iph8903c3ee6/ios)》 - Apple 支持
+
+> 强制重新启动 iPhone 6s、iPhone 6s Plus 或 iPhone SE（第 1 代）:
+>
+> 1.同时按住睡眠/唤醒按钮和主屏幕按钮。
+>
+> 2.当 Apple 标志出现时，同时松开两个按钮。
+
+>> <a href="https://support.apple.com/zh-cn/guide/iphone/iph8903c3ee6/ios"><img src="https://help.apple.com/assets/5E98903A094622C639A9FDAB/5E989048094622C639A9FDED/zh_CN/5744720af632c5ea5110e06295bd664f.png" border="0" title="强制重新启动 iPhone 6s、iPhone 6s Plus 或 iPhone SE（第 1 代）"></a>
+
 
 --------------------------------------------------------------------------------------------
 
