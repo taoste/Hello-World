@@ -1,4 +1,4 @@
-- 《[爱到流泪谁的罪(DJ版)](https://www.kugou.com/song/122e92c5.html)》 _ 歌手:[张鑫雨](https://www.kugou.com/singer/555696.html) __ 高音质在线试听 | [酷狗音乐](https://www.kugou.com/)
+- 《[爱到流泪谁的罪(DJ版)](https://www.kugou.com/song/122e92c5.html)》 _ 歌手:[张鑫雨](https://www.kugou.com/singer/555696.html) __ [高音质在线试听](https://www.kugou.com/song/122e92c5.html) / [下载MP3](https://webfs.yun.kugou.com/202006012000/493587511ead4aaef612165a17876735/G173/M08/1F/01/TYcBAF3mL-2AA1iwADC-ivLya7E615.mp3) | [酷狗音乐](https://www.kugou.com/)
 
 <div class="songContent fl">
                     <div class="songName clearfix" title=""><span class="audioName"> 张鑫雨 - 爱到流泪谁的罪 (DJ版) </span> 
@@ -16,6 +16,7 @@
                     </div>
                     <div class="displayNone"> 
                        [id:$00000000]
+                      ```
 [ar:张鑫雨]
 [ti:爱到流泪谁的罪]
 [by:dongmei_karakal]
@@ -78,5 +79,5 @@
 [02:46.91]为什么承诺会枯萎
 [02:49.39]为了谁 骗着谁
 [02:51.84]谁惹谁伤悲
-
+```
                     </div></div>
