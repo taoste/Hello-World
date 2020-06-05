@@ -93,6 +93,10 @@ Alt+F4 关机快捷键。
 
 >> 如： C:\ProgramData\
 
+>> 系统变量 %USERPROFILE%
+
+>> 系统变量 %SystemRoot%\System32\S
+
 ---------------------------------------
 
 【 [**Windows10易升**](https://www.microsoft.com/zh-cn/software-download/windows10) 】Windows 10 April 2018 Update 现已推出
