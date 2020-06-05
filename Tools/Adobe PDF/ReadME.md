@@ -1,3 +1,14 @@
+- 错误提示：**载入增效工具时出错。 DxfDwg.aip** - @[国内版 Bing](https://cn.bing.com/search?q=%E8%BD%BD%E5%85%A5%E5%A2%9E%E6%95%88%E5%B7%A5%E5%85%B7%E6%97%B6%E5%87%BA%E9%94%99%E3%80%82+DxfDwg.aip)
+>> Adobe 官网 / Help:[Illustrator 增效工具](https://helpx.adobe.com/cn/illustrator/plug-ins.html)
+
+>>其它参考：
+
+>>> 《[AI增效工具和暂存盘在哪?AI的增效工具怎样修改暂存盘?](https://www.jb51.net/Illustrator/602594.html)》 _Illustrator教程_平面设计_脚本之家
+
+>>> 《[【求助】打开Ai时提示缺少必需的增效工具，无法运行但文件存在【illustrator吧】](https://tieba.baidu.com/p/5763374645?red_tag=2746951161)》_百度贴吧
+
+>>> 《[运行AI载入增效工具时出错](https://blog.csdn.net/qq_29769263/article/details/86550543)》-CSDN博客
+
 -------------------------------------------------------------------
  
 - [**中国哲学书电子化计划**](https://zh.wikipedia.org/wiki/中國哲學書電子化計劃) - [维基百科，自由的百科全书](https://zh.wikipedia.org/)
