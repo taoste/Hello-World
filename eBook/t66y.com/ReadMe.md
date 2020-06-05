@@ -135,6 +135,15 @@ https://www.zhongzihu.com
 参阅：[**[最新]迅雷下载违规内容破解方法[4P]**](https://t66y.com/htm_data/2006/7/3954306.html) - 技術討論區 | 草榴社區 - t66y.com
 >> 127.0.0.1 hub5btmain.v6.shub.sandai.net
 
+参阅：[**迅雷应版权方要求，无法下载怎么破？**](https://www.jiligame.com/82067.html) – 叽哩叽哩游戏网ACG（G站）
+```
+127.0.0.1 idb.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 iunins.iobit.com
+```
 -----
 
 <pre><code>
