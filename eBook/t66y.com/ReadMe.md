@@ -132,6 +132,9 @@ https://www.zhongzihu.com
 
 4.输入：ipconfig /flushdns, 回车, 即可刷新hosts文件, 使其立即生效
 
+参阅：[**[最新]迅雷下载违规内容破解方法[4P]**](https://t66y.com/htm_data/2006/7/3954306.html) - 技術討論區 | 草榴社區 - t66y.com
+>> 127.0.0.1 hub5btmain.v6.shub.sandai.net
+
 -----
 
 <pre><code>
