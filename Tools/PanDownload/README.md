@@ -5,7 +5,7 @@
 提取码：8tcc
 ```
 >> 打包的文件/文件夹列表:[1] 百度网盘 for Windows
->>> [百度网盘 for Windows 等1个文件.zip](https://www.baidupcs.com/rest/2.0/pcs/file?method=batchdownload&app_id=250528&zipcontent=%7B%22fs_id%22%3A%5B%22621090388573816%22%5D%7D&sign=DCb740ccc5511e5e8fedcff06b081203:qLewAfa8tjXB4qpI1LzZKnx0st4%3D&uid=2734966932&time=1591407840&dp-logid=3627486447877969573&dp-callid=0&shareid=1396743377&vuk=2410181194&from_uk=2734966932)
+>>> 直链下载：[百度网盘 for Windows 等1个文件.zip](https://www.baidupcs.com/rest/2.0/pcs/file?method=batchdownload&app_id=250528&zipcontent=%7B%22fs_id%22%3A%5B%22621090388573816%22%5D%7D&sign=DCb740ccc5511e5e8fedcff06b081203:qLewAfa8tjXB4qpI1LzZKnx0st4%3D&uid=2734966932&time=1591407840&dp-logid=3627486447877969573&dp-callid=0&shareid=1396743377&vuk=2410181194&from_uk=2734966932)
 
 - 《[微云嘉年华 幸运大抽奖](https://act.qzone.qq.com/vip/meteor/blockly/p/2607x8c16b?trace_detail=%7B%22appid%22%3A%22vab_qboss%22%2C%22ad_id%22%3A137839%7D)》  
 >> 超级会员低至￥0.52元/天
