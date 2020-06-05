@@ -88,6 +88,11 @@ Alt+F4 关机快捷键。
 
 - [**Windows 10终于也迎来了一款软件包管理器**](https://os.51cto.com/art/202005/617021.htm) （2020-05-20）- 51CTO.COM  
 
+
+- [Windows中ProgramData文件夹是什么鬼](https://www.jianshu.com/p/677846a93056) - 简书
+
+>> 如： C:\ProgramData\
+
 ---------------------------------------
 
 【 [**Windows10易升**](https://www.microsoft.com/zh-cn/software-download/windows10) 】Windows 10 April 2018 Update 现已推出
