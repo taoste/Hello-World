@@ -82,6 +82,8 @@ https://www.zhongzihu.com
 140.82.114.3 github.com #具体ip可能会变
 199.232.5.194 github.global.ssl.fastly.net #具体ip可能会变
 ```
+> 
+> [#python.org](https://bgp.he.net/dns/python.org) dns:45.55.99.72
 >
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
