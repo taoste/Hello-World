@@ -147,7 +147,6 @@ https://www.zhongzihu.com
 127.0.0.1 iunins.iobit.com
 ```
 -----
-
 <pre><code>
 #草榴社區
 104.25.32.112 t66y.com
@@ -158,7 +157,7 @@ https://www.zhongzihu.com
 2400:CB00:2048:1::6819:1F70 t66y.com
 2400:CB00:2048:1::6819:2070 t66y.com
 2606:4700:20::681A:BA0 t66y.com
- 2606:4700:20::681A:AA0 t66y.com
+2606:4700:20::681A:AA0 t66y.com
 2606:4700:20::AC43:4AF1 t66y.com
  
  #sex.com
