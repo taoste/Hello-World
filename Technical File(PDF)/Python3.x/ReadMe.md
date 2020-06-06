@@ -6,7 +6,7 @@
 
 > [**快速上手的中文视频**](http://v.youku.com/v_show/id_XODMyMzM1NzQ4.html) ：简单介绍了如何安装、如何创建文件、如何设置皮肤。新手先掌握这些就够用了。
 
-> [***PyCharm 官方的快速上手视频]**(https://www.jetbrains.com/pycharm/documentation/)
+> [**PyCharm 官方的快速上手视频**](https://www.jetbrains.com/pycharm/documentation/)
 
 > [**如何高效使用PyCharm的系列文档**](http://pedrokroger.net/getting-started-pycharm-python-ide/) ：图文并茂的介绍了许多高效的技巧，比如快捷键设置等等，可以在上手之后持续学习。
 
