@@ -15,4 +15,7 @@ img, video {
   filter: invert(100%) hue-rotate(180deg);
 }
 ```
+
 - 《[CSS变量实现暗黑模式的示例代码](https://www.jb51.net/css/716457.html)》_CSS教程_CSS_网页制作_脚本之家 
+
+- 《[几行代码让你的网页适配黑暗模式](https://blog.csdn.net/weixin_43067157/article/details/104890239)》 -CSDN博客
