@@ -20,10 +20,10 @@
 
 - 大塚弘记 (作者), 支鹏浩 (译者), 刘斌 (译者)
 
-图灵社区 : 
+图灵社区@[Github](https://github.com/ituring) : 
 - 【图书】《GitHub实践入门》[http://www.ituring.com.cn/book/1581](http://www.ituring.com.cn/book/1581)
 
-- 《GitHub实践入门》实验用仓库 [http://ituring.github.io/first-pr/](http://ituring.github.io/first-pr/) 
+- 《GitHub实践入门》[实验用仓库](https://github.com/ituring/first-pr) [http://ituring.github.io/first-pr/](http://ituring.github.io/first-pr/) 
 
 - 特设网站地址：[https://ituring.github.io/first-pr/](https://ituring.github.io/first-pr/)  各位读者可随时发送PR并共同维护。
 
