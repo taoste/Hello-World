@@ -6,6 +6,7 @@
 - Github的吉祥物 The Octodex - GitHub Octodex [https://octodex.github.com/](https://octodex.github.com/)
 - Github上正在开发的知名软件 [https://github.com/trending](https://github.com/trending)
 - Github官方博客 [https://github.com/blog/broadcasts](https://github.com/blog/broadcasts)
+- GitHub帮助文档 [https://help.github.com/cn](https://help.github.com/cn)
 - 各项服务性能及正常运行率 [https://status.github.com/](https://status.github.com/)
 - 查看官网故障信息 [https://status.github.com/messages](https://status.github.com/messages)
 - Features  [https://github.com/features/hosting](https://github.com/features/hosting)
