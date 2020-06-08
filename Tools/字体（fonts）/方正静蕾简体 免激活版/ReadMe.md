@@ -3,7 +3,13 @@
 
 - [方正字库官网](https://www.foundertype.com/) : [**💗 方正静蕾体字体包 | 打包下载**](https://www.foundertype.com/index.php/FontInfo/index/id/183)
 
-> <a title="徐静蕾字体样张 | 广告图" href='https://www.foundertype.com/index.php/FontInfo/index/id/183'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title-1.jpg?raw=true" alt="徐静蕾字体样张一.jpg"/></a>
+<table>   
+ <tr>
+      <td> 
+       <a title="徐静蕾字体样张 | 广告图" href='https://www.foundertype.com/index.php/FontInfo/index/id/183'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title-1.jpg?raw=true" alt="徐静蕾字体样张一.jpg"/></a>
+	 </td>
+    </tr>
+</table>
 
 <table>   
  <tr>
