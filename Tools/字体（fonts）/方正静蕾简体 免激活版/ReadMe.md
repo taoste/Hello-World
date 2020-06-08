@@ -14,13 +14,14 @@
 <table>   
  <tr>
       <td> 
-       <p><a title="方正静蕾简体(Download） | 广告图" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title.jpg?raw=true" alt="方正静蕾简体广告图.jpg"/></a></p>
+       <p><a title="方正静蕾简体(Download） | 广告图" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title.jpg?raw=true" alt="方正静蕾简体广告图.jpg"/></a><br>设计师非商免费授权<br>(个人非商业授权，仅供个人非商业使用，设计师身份可免费获得全部风格字体，授权期限为永久)</p>
       </td>
      <td>@<a href="https://baike.baidu.com/item/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93/3808038">百度百科</a><br><br>
 	   中文名：方正静蕾体<br>
 	   外文名：FZJingLei<br>
 	   创作人：徐静蕾<br>
-	   发布时间：2007-04-27<br>
+	   发布时间：<a title="方正静蕾简体(Download） | 发布时间：2007-04-27(FON格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar">2007-04-27(FON格式)</a> / <a title="方正静蕾简体(Download） | 更新时间：2015-12-23(TTF格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93(TTF%E6%A0%BC%E5%BC%8F).zip
+">2015-12-23(TTF格式)</a><br>
 	   字库编码：大陆简体(GB2312-80)<br>
 	   开发公司：北京北大方正电子有限公司<br>
 	   特    点：清秀、从容、优雅<br>
