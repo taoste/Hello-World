@@ -3,7 +3,7 @@
 
 - [方正字库官网](https://www.foundertype.com/) : [**💗 方正静蕾体字体包 | 打包下载**](https://www.foundertype.com/index.php/FontInfo/index/id/183)
 
->> （如果订单中包含方正黑体、方正书宋、方正仿宋、方正楷体这四款字体，针对“商业发布”使用方式免费，其它字体仅用于“个人非商业”使用）
+>> （方正黑体、方正书宋、方正仿宋、方正楷体这四款字体，针对“商业发布”使用方式免费，<br>其它字体仅用于“个人非商业”使用）
 
 <table>   
  <tr>
@@ -24,9 +24,10 @@
 	   创作人：徐静蕾<br>
 	   发布时间：
 	     <a title="方正静蕾简体(Download） | 发布时间：2007-04-27(FON格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar">2007-04-27(FON格式)</a> <br> 
-	  更新时间：<a title="方正静蕾简体(Download） | 更新时间：2015-12-23(TTF格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93(TTF%E6%A0%BC%E5%BC%8F).zip
-">2015-12-23(TTF格式)</a><br>
+	  更新时间：<a title="方正静蕾简体(Download） | 更新时间：2015-12-23(TTF格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93(TTF%E6%A0%BC%E5%BC%8F).zip">2015-12-23(TTF格式)</a><br>
 	   字库编码：大陆简体(GB2312-80)<br>
+	   分   类：常规书写·硬笔<br>
+	   字体属性：精品字<br>
 	   开发公司：北京北大方正电子有限公司<br>
 	   特    点：清秀、从容、优雅<br>
 	   适    用：杂志、书籍、屏幕、包装<br>
@@ -37,10 +38,9 @@
 “方正静蕾简体”被方正方面称为我国第一款<br>
 真正意义上的个人书法计算机字库产品，<br>
 宣称标志着“计算机字库”将进入个性化时代。<br>
-按照GB2312国家标准，6763个汉字，682个标<br>
-点符号，94个包括英文字母和数字在内的<br>
-ASCII字符，书写在有100多个1.2厘米<br>
-见方格子的A4纸上。<br>
+按照GB2312国家标准，6763个汉字，682个标点<br>
+符号，94个包括英文字母和数字在内的ASCII字符，<br>
+书写在有100多个1.2厘米见方格子的A4纸上。<br>
 字体骨骼清秀、遒劲有力，清冽而又优雅、从容，令人赏心悦目。<br>
 字如其人，心素如简，人淡如菊。特别适用于书写信函、报告、文章等。<br>
      </td>
