@@ -1,7 +1,7 @@
 
 ********************************************************************
 
-- 《[方正字库官网](https://www.foundertype.com/) : [**💗 方正静蕾体字体包|打包下载**](https://www.foundertype.com/index.php/FontInfo/index/id/183)
+- [方正字库官网](https://www.foundertype.com/) : [**💗 方正静蕾体字体包 | 打包下载**](https://www.foundertype.com/index.php/FontInfo/index/id/183)
 
 <table>   
  <tr>
