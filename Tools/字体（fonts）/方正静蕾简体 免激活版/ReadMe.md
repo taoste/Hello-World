@@ -8,7 +8,7 @@
       <td> 
        <p><a title="方正静蕾简体广告图" href='/'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title.jpg?raw=true" alt="方正静蕾简体广告图.jpg"/></a></p>
       </td>
-     <td>@<a href="https://baike.baidu.com/item/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93/3808038">百度百科</a>
+     <td>@<a href="https://baike.baidu.com/item/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93/3808038">百度百科</a><br><br>
 	   中文名：方正静蕾体<br>
 	   外文名：FZJingLei<br>
 	   创作人：徐静蕾<br>
@@ -28,10 +28,8 @@
 点符号，94个包括英文字母和数字在内的<br>
 ASCII字符，书写在有100多个1.2厘米<br>
 见方格子的A4纸上。<br>
-字体骨骼清秀、遒劲有力，<br>
-清冽而又优雅、从容，令人赏心悦目。<br>
-字如其人，心素如简，人淡如菊。<br>
-特别适用于书写信函、报告、文章等。<br>
+字体骨骼清秀、遒劲有力，清冽而又优雅、从容，令人赏心悦目。<br>
+字如其人，心素如简，人淡如菊。特别适用于书写信函、报告、文章等。<br>
      </td>
      </tr>
 </table>
