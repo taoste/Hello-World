@@ -3,7 +3,7 @@
 
 - [方正字库官网](https://www.foundertype.com/) : [**💗 方正静蕾体字体包 | 打包下载**](https://www.foundertype.com/index.php/FontInfo/index/id/183)
 
->> （方正黑体、方正书宋、方正仿宋、方正楷体这四款字体，针对“商业发布”使用方式免费，<br>其它字体仅用于“个人非商业”使用）
+>> 方正黑体、方正书宋、方正仿宋、方正楷体这四款字体，针对“商业发布”使用方式免费，<br>其它字体仅用于“个人非商业”使用。
 
 <table>   
  <tr>
@@ -16,23 +16,23 @@
 <table>   
  <tr>
       <td> 
-       <p><a title="方正静蕾简体(Download） | 广告图" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title.jpg?raw=true" alt="方正静蕾简体广告图.jpg"/></a><br>设计师非商免费授权<br>(个人非商业授权，仅供个人非商业使用，<br>设计师身份可免费获得全部风格字体，<br>授权期限为永久)</p>
+       <p><a title="方正静蕾简体(Download） | 广告图" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title.jpg?raw=true" alt="方正静蕾简体广告图.jpg"/></a><br><B>设计师非商免费授权</B><br>(个人非商业授权，<br>仅供个人非商业使用，<br>设计师身份可免费获得全部风格字体，<br>授权期限为永久)</p>
       </td>
      <td>@<a href="https://baike.baidu.com/item/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93/3808038">百度百科</a><br><br>
 	   中文名：方正静蕾体<br>
 	   外文名：FZJingLei<br>
 	   创作人：徐静蕾<br>
 	   发布时间：
-	     <a title="方正静蕾简体(Download） | 发布时间：2007-04-27(FON格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar">2007-04-27(FON格式)</a> <br> 
-	  更新时间：<a title="方正静蕾简体(Download） | 更新时间：2015-12-23(TTF格式)" href='https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93(TTF%E6%A0%BC%E5%BC%8F).zip">2015-12-23(TTF格式)</a><br>
+	     <a title="方正静蕾简体(Download） | 发布时间：2007-04-27(FON格式)" href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88.rar">2007-04-27(FON格式)</a> <br> 
+	   更新时间：<a title="方正静蕾简体(Download） | 更新时间：2015-12-23(TTF格式)" href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93(TTF%E6%A0%BC%E5%BC%8F).zip">2015-12-23(TTF格式)</a> <br>
 	   字库编码：大陆简体(GB2312-80)<br>
 	   分   类：常规书写·硬笔<br>
 	   字体属性：精品字<br>
 	   开发公司：北京北大方正电子有限公司<br>
 	   特    点：清秀、从容、优雅<br>
-	   适    用：杂志、书籍、屏幕、包装<br>
+	   适    用：杂志、书籍、屏幕、包装<br><br>
 
-【<a href="https://baike.baidu.com/item/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93/3808038">内容简介</a>】<br>
+【<a href="https://baike.baidu.com/item/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93/3808038">内容简介</a>】<br><br>
 2007年4月27日，方正电子携手徐静蕾发布了<br>
 其个人书法计算机字库产品，这款被命名为<br>
 “方正静蕾简体”被方正方面称为我国第一款<br>
@@ -66,15 +66,7 @@
     </tr>
 </table>
 
-> 方正静蕾简体是明星才女徐静蕾发布一款自己书写的个性化字体，
-
-> 并由方正电子根据徐静蕾的手写字体为其量身定做，
-
-> 方正静蕾简体字体骨骼清秀、遒劲有力，
-
-> 清冽而又优雅、从容，令人赏心悦目。
-
-> 特别适用于书写信函、报告、文章等。
+> 方正静蕾体由知名影视演员、导演徐静蕾创作，这也是国内首款明星字库。<br>徐静蕾自幼习书，有十年颜体功底，其钢笔字骨骼清秀、遒劲有力。<br>其个性优雅从容，适用于现代诗歌、短文的排版，以及文化、商业类品牌的广告语设计。
 
 ********************************************************************
 
