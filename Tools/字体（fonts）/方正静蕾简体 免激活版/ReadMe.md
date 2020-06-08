@@ -36,15 +36,17 @@ ASCII字符，书写在有100多个1.2厘米<br>
 
 “**方正静蕾简体**”方正字库网站上这样介绍，这是一款影视明星徐静蕾的手写体。
 
+> <a title="徐静蕾字体样张 | 广告图" href='https://www.foundertype.com/index.php/FontInfo/index/id/183'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/title-1.jpg?raw=true" alt="徐静蕾字体样张一.jpg"/></a>
+
 **字体骨骼清秀、遒劲有力，清冽而又优雅、从容，令人赏心悦目。字如其人，心素如简，人淡如菊。**
 
-> <a title="徐静蕾字体样张一" href='/'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/fons-1.jpg?raw=trueg" alt="徐静蕾字体样张一.jpg"/></a>
+> <a title="徐静蕾字体样张一" href='https://www.foundertype.com/index.php/FontInfo/index/id/183'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/fons-1.jpg?raw=trueg" alt="徐静蕾字体样张一.jpg"/></a>
 
 徐静蕾将于4月27日下午发布一款自己书写的个性化字体，此字体由方正电子根据徐静蕾的手写字体为其量身定做，被命名“方正静蕾简体”。
 
 用户下载安装此款字体后，可像使用其它字体一样使用徐静蕾“手写体”。
 
-> <a title="徐静蕾字体样张二" href='/'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/fons-2.jpg?raw=true" alt="徐静蕾字体样张二.jpg"/></a>
+> <a title="徐静蕾字体样张二" href='https://www.foundertype.com/index.php/FontInfo/index/id/183'><img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E6%96%B9%E6%AD%A3%E9%9D%99%E8%95%BE%E7%AE%80%E4%BD%93%20%E5%85%8D%E6%BF%80%E6%B4%BB%E7%89%88/img/fons-2.jpg?raw=true" alt="徐静蕾字体样张二.jpg"/></a>
 
 > 方正静蕾简体是明星才女徐静蕾发布一款自己书写的个性化字体，
 
