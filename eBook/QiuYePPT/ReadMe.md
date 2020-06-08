@@ -54,7 +54,7 @@ tree > 文件树2.xls
            出版年: 2016-7-1<br>
            页数: 228<br>
            定价: 39.00<br>
-           装帧: <a href="https://github.com/taoste/Hello-World/raw/master/eBook/QiuYePPT/%5BV%E7%89%88%5D%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E8%81%8C%E5%9C%BA%E6%8A%80%E8%83%BD_%E7%A7%8B%E5%8F%B6_%E4%BA%BA%E6%B0%91%E9%82%AE%E7%94%B5_2016.3.pdf">平装</a><br>
+           装帧: 平装<br>
            ISBN: 9787115424440<br>
 【<a href="https://book.douban.com/subject/26836278/">内容简介</a>】<br>
       《和秋叶一起学职场技能》<br>
