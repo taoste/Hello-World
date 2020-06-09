@@ -2,6 +2,7 @@
 - [引用](): [优雅高效地使用 Windows](http://saili.science/2016/10/17/windows-use/) | Alex LEE's Blog ( 2019-03-15 )
  
 <hr>
+>> 屏幕键盘（osk）：%windir%\system32\osk.exe
 
 <p>『优雅』、『高效』，可以理解为自然不慌乱，简洁不杂乱，高效不散乱，流畅不混乱。
       实际上是指优化电脑工作环境，让电脑的使用更加快速高效。
