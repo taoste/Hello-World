@@ -15,9 +15,9 @@
 
 > 1. 搜索引擎： **Google中文版**
 
-> 2.关键字： **Google.com**
+> 2. 关键字： **Google.com**
 
-> 3.以%s代替查询的URL： **https://www.google.com/search?hl=zh_CN&q=%s**
+> 3. 以%s代替查询的URL： **https://www.google.com/search?hl=zh_CN&q=%s**
 
 -------------------------------------------
 
