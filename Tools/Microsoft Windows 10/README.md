@@ -13,7 +13,7 @@
 
 >> 《[系统盘用户目录下的AppData\Local\Microsoft\Windows\Fonts下面的字体文件是否可删除？](https://answers.microsoft.com/zh-hans/windows/forum/all/%E7%B3%BB%E7%BB%9F%E7%9B%98%E7%94%A8%E6%88%B7/3b83de2d-ca0d-4d9b-a8c2-8359eb1235fd)》 - Microsoft Community
 
-
+- **微软官网**：[*安装 PowerShell**](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
 
 - **微软官网**：[**将电脑用作移动热点**(适用于： Windows 10)](https://support.microsoft.com/zh-cn/help/4027762/windows-use-your-pc-as-a-mobile-hotspot)  @[百度经验:《Win10笔记本电脑怎么开热点给手机用》](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html)
 >通过使用 WLAN 与其他设备共享 Internet 连接，将 Windows 10 电脑转变为移动热点。你可以共享 WLAN、以太网或手机网络数据连接。如果你的电脑具有手机网络数据连接并且共享该连接，它将使用流量套餐数据。
