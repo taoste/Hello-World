@@ -1,4 +1,4 @@
-- [**猎豹护眼大师**](http://www.duba.net/dbt/eyes.html)，防蓝光，护眼，缓解眼睛疲劳
+- [view-source](https://taoste.github.io/Hello-World/github/duba.net/index.html) : [**猎豹护眼大师**](http://www.duba.net/dbt/eyes.html)，防蓝光，护眼，缓解眼睛疲劳
 ```
 猎豹护眼大师为你的电脑开启护眼模式，科学过滤屏幕有害蓝光，保护眼睛。
 提供智能、办公、影视、游戏四种护眼模式，可缓解长时间看屏幕时眼睛干涩、眼睛疲劳、视力模糊的症状。
