@@ -116,7 +116,9 @@ Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/language
 
 - 需要使用其他获取方式获取网桥！
 
-另一种获取网桥的方式是发送电子邮件至 bridges@torproject.org。注意：必须使用电子邮箱发送请求：Riseup、Gmail 或 Yahoo。
+另一种获取网桥的方式是发送电子邮件至 bridges@torproject.org。
+将邮件主题留空，并在邮件正文写“get transport obfs4”。 
+请注意：你必须使用下列邮件服务商 提供的邮箱发送邮件：Riseup 或 Gmail。
 
 - 用网桥也无法连接，需要帮助！
 
