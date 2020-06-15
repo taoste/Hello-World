@@ -1,4 +1,4 @@
-- 官网：[**Python.org**](https://www.python.org/) | [**Dwnloads**](https://www.python.org/downloads/) - 最新版：[Python 3.8.3](https://www.python.org/downloads/release/python-383/) | [[官方文档资料](https://docs.python.org/3/tutorial/index.html)]
+- 官网：[**Python.org**](https://www.python.org/) | [**Dwnloads**](https://www.python.org/downloads/) - 最新版：[Python 3.8.3](https://www.python.org/downloads/release/python-383/) | [ [官方文档资料 Python 教程](https://docs.python.org/zh-cn/3/tutorial/index.html) ]
 
 >> 》推荐阅读：[《**编程小白的第一本Python入门书**》 中文pdf版[35MB]全彩版/电子书/下载-@脚本之家](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/%E3%80%8A%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%ACPython%E5%85%A5%E9%97%A8%E4%B9%A6%E3%80%8B.md)
 
