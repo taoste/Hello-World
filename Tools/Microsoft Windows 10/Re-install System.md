@@ -1,4 +1,6 @@
-- [Win10数字激活工具，永久激活。](https://www.52pojie.cn/forum.php?mod=viewthread&tid=988945&ctid=1767) - 『精品软件区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+-  ❤ [**Win 10 各版本永久激活密钥**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md)
+
+> [Win10数字激活工具，永久激活。](https://www.52pojie.cn/forum.php?mod=viewthread&tid=988945&ctid=1767) - 『精品软件区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 
 -------------------------------------
 
