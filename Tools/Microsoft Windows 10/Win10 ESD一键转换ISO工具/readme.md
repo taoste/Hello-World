@@ -262,11 +262,17 @@ slmgr.vbs -dlv
 
 - 《[2019最新win10专业工作站版永久一键激活操作步骤](http://www.laoyoutiao.net/dnjc/win10jc_701.html)》 -老油条装机大师 (2019-10-17)
 ```
-输入命令
+输入命令：
 
+::解除原先金钥
+slmgr.vbs -upk
+::选择金钥，请依照底下的金钥列表作选择
 slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
-
-slmgr /skms ms kms.03k.org
-
+::设定KMS伺服器(或者 zh.us.to)
+slmgr /skms ms kms.03k.org 
+::启动
 slmgr /ato
+::显示KMS相关资讯
+slmgr.vbs -dlv
 ```
+
