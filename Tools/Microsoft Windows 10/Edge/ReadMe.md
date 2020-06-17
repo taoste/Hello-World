@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------------------------------------------------
 
 - 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/) （ [Microsoft Edge 文档
-](https://docs.microsoft.com/zh-cn/DeployEdge/) ）
+](https://docs.microsoft.com/zh-cn/DeployEdge/) / [关于 IE 模式 | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode) ）
 > 您不妨试用一下 基于 Chromium 的 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
 > 
 > Microsoft 专为 Windows 10 开发的最新浏览器
