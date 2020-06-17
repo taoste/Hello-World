@@ -1,4 +1,8 @@
+- 🔄 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
+[🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)  / 
+[Microsoft Edge 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Edge)**
 
+------------------------------------------------------------------------------------------------------------------
 
 - 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/)
 > 您不妨试用一下 基于 Chromium 的 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
@@ -20,6 +24,20 @@
 -------------------------------------------------
 
 - Ⓜ️ 【Microsoft Edge】 view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应)
+
+ Firefox常见启动参数[介绍](http://mozilla.com.cn/thread-21637-1-1.html)：
+-safe-mode  启动安全模式
+-profile "路径" 以特定路径里面的配置文件启动
+-no-remote 可以同时运行多个实例
+-private 以隐私模式启动
+
+```
+Chrome 多用户分别建快捷方式（默认参数）：--profile-directory=Default
+```
+> IE浏览器是 -private，chrome是 -incognito ，
+> 这样我们每次启动它们就都是隐身模式了，
+> 而不用每次都要**Firefox：`Ctrl+Shift+p`**或者**chrome：`Ctrl+shift+n`** 。
+
    
 -------------------------------------------------
 
