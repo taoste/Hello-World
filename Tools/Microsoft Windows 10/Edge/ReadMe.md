@@ -4,11 +4,11 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-- 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/) （ [Microsoft Edge 文档
+- 欢迎使用 [**Internet Explorer**](https://support.microsoft.com/zh-cn/help/17621/internet-explorer-downloads) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/) （ [Microsoft Edge 文档
 ](https://docs.microsoft.com/zh-cn/DeployEdge/) / [关于 IE 模式 | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode) "[启用方法](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Edge/%E5%90%AF%E7%94%A8Edge%E7%9A%84IE%E6%A8%A1%E5%BC%8F.md)" ）
 > 您不妨试用一下 基于 Chromium 的 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
 > 
-> Microsoft 专为 Windows 10 开发的最新浏览器 ( 更多链接：[下载 **Microsoft Edge 商业版**](https://www.microsoft.com/zh-cn/edge/business/download)  - Microsoft )
+> Microsoft 专为 Windows 10 开发的最新浏览器    ( 更多链接：[下载 **Microsoft Edge 商业版**](https://www.microsoft.com/zh-cn/edge/business/download) | 使用企业模式提高兼容性（面向 IT 专业人员的 Microsoft Edge）](https://docs.microsoft.com/zh-cn/microsoft-edge/deploy/emie-to-improve-compatibility) | [配置适用于 Windows 的 Microsoft Edge](https://docs.microsoft.com/zh-cn/DeployEdge/configure-microsoft-edge) - Edge | Microsoft Docs)
 > 
 > Internet Explorer 的开发人员现在满怀自豪地为您奉上 Microsoft Edge。它构建在您无比信任的 Internet Explorer 浏览器基础之上，您可以尽享您喜爱的各项功能。此外，您还可以：
 > 
