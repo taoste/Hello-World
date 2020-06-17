@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------------------------------------------------
 
 - 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/) （ [Microsoft Edge 文档
-](https://docs.microsoft.com/zh-cn/DeployEdge/) / [关于 IE 模式 | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode) ）
+](https://docs.microsoft.com/zh-cn/DeployEdge/) / [关于 IE 模式 | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode) "[启用方法](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Edge/%E5%90%AF%E7%94%A8Edge%E7%9A%84IE%E6%A8%A1%E5%BC%8F.md)" ）
 > 您不妨试用一下 基于 Chromium 的 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
 > 
 > Microsoft 专为 Windows 10 开发的最新浏览器
