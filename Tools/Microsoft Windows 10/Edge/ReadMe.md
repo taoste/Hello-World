@@ -1,7 +1,7 @@
-- [想给Microsoft Edge设置进入（打开）独立密码？](https://answers.microsoft.com/zh-hans/edge/forum/all/%E6%83%B3%E7%BB%99microsoft/4069a0d8-1c87-4448-8b56-3e19a12f6227) - Microsoft Community
 
-- [**欢迎使用 Internet Explorer**](https://www.microsoft.com/zh-cn/edge/)
-> 您不妨试用一下 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
+
+- 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/)
+> 您不妨试用一下 基于 Chromium 的 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
 > 
 > Microsoft 专为 Windows 10 开发的最新浏览器
 > 
@@ -35,3 +35,6 @@
 
 >   <p>Microsoft 发布了一个安全更新，用于解决 Internet Explorer 和 Microsoft Edge 中的 Adobe Player 中的漏洞。 我们建议你在电脑上转到“更新和安全”，立即安装更新。 选择 <b>“开始”</b> <span class=\"win-icon win-icon-WindowsLogo\"></span> 按钮，然后依次选择<b>“设置”</b> <span class=\"win-icon win-icon-Settings\"></span>><b>“更新和安全”</b> <span class=\"win-icon win-icon-Sync\"></span>><b>“检查更新”</b>。</p>
    
+-------------------------------------------------
+
+- [想给Microsoft Edge设置进入（打开）独立密码？](https://answers.microsoft.com/zh-hans/edge/forum/all/%E6%83%B3%E7%BB%99microsoft/4069a0d8-1c87-4448-8b56-3e19a12f6227) - Microsoft Community
