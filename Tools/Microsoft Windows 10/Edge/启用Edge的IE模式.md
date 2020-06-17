@@ -1,5 +1,7 @@
 - [**启用Edge的IE模式**](http://bbs.pcbeta.com/viewthread-1839587-1-1.html) -远景论坛 - 微软极客社区
 
+>>> 参阅：[配置适用于 Windows 的 Microsoft Edge | Microsoft Docs](https://docs.microsoft.com/zh-cn/DeployEdge/configure-microsoft-edge)
+
 --------------------------------------------------------------------------------------------------------------
 
 众所周知，IE模式曾经在Edge的某个版本出现过，然后很快就被微软下线了。
