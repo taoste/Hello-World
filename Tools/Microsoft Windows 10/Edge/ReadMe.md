@@ -16,10 +16,16 @@
 >利用 Microsoft Edge，您能做到的远非网络浏览那么简单
 
 - ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 双因素验证/两步验证， 并在应用中登录帐户。  )
+   
+-------------------------------------------------
 
 - Ⓜ️ 【Microsoft Edge】 view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应)
+   
+-------------------------------------------------
 
 - 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
+   
+-------------------------------------------------
 
 - 《[或许能成为你的 Windows 默认浏览器，大改版的 Edge 稳定版终于来了](https://mp.weixin.qq.com/s/05QoUqoMfNEyDOIyM440Xw)》
 (  原创： 化学心情下2 @少数派 2019-10-28 )
@@ -27,6 +33,8 @@
 > 用 Windows 电脑打开即可直接下载： [https://url.cn/57pEdMQ](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/MicrosoftEdgeSetup.exe) （手机打开是乱码哦）
 
 >> Edge 官网：[https://url.cn/5fqXwlJ](https://www.microsoftedgeinsider.com/zh-cn/download/)
+   
+-------------------------------------------------
 
 - [修复错误 0x80004005](https://support.microsoft.com/zh-cn/help/4028090/windows-fix-error-0x80004005) : 
 >> 适用于： Windows 10
