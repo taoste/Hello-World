@@ -4,7 +4,8 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-- 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/)
+- 欢迎使用 [**Internet Explorer**](https://www.microsoft.com/zh-cn/edge/) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/) （ [Microsoft Edge 文档
+](https://docs.microsoft.com/zh-cn/DeployEdge/) ）
 > 您不妨试用一下 基于 Chromium 的 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
 > 
 > Microsoft 专为 Windows 10 开发的最新浏览器
@@ -23,7 +24,7 @@
    
 -------------------------------------------------
 
-- Ⓜ️ 【Microsoft Edge】 view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应)
+- Ⓜ️ 【Microsoft Edge】 view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应) | ( **Edge 实验**  edge://flags/ )
 
 > Firefox常见启动参数[介绍](http://mozilla.com.cn/thread-21637-1-1.html)：
 ```
