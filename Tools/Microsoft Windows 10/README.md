@@ -23,7 +23,7 @@
    
 -------------------------------------------------
 
-- **微软常用运行库合集** : [**最新支持的 Visual C++ 下载**](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads)
+- **微软常用运行库合集** : [**最新支持的 Visual C++ 官网下载**](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads) @[本地备份下载](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/%E5%BE%AE%E8%BD%AF%E8%BF%90%E8%A1%8C%E5%AE%98%E6%96%B9%E5%BA%93VC_redist.x64.exe)（这是包含Visual C++ 2015、2017 和 2019合集，低版本2012-2008版需到[官网下载](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads)）
 >> @[52pojie.cn](https://www.52pojie.cn/thread-1153336-1-1.html):
 ```
 软件名称：微软常用运行库合集
