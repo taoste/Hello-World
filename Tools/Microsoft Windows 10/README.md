@@ -16,6 +16,7 @@
 - **微软官网**：[安装 PowerShell**](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
 
 - **微软常用运行库合集** : [**最新支持的 Visual C++ 下载**](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads)
+>> @[52pojie.cn](https://www.52pojie.cn/thread-1153336-1-1.html):
 ```
 软件名称：微软常用运行库合集
 软件大小：19M+35M
