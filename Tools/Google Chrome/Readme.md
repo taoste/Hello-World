@@ -1,6 +1,8 @@
 - 🔄 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
-[🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
+[🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)  / 
+[Microsoft Edge 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Edge)**
 
+------------------------------------------------------------------------------------------------------------------
 
 [[Note](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome)] 🚀 [谷歌 Google 系列 · Issue #9](https://github.com/taoste/taoste.github.io/issues/9) · [Go : taoste/Hello-World](http://go.choong.net/google)
 
@@ -55,7 +57,6 @@ Windows/Mac/Linux:离线下载和安装Chrome - Google Chrome帮助
 https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh-Hans
 
 （离线下载链接最后加上：[?standalone=1](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh-Hans?standalone=1) , 如果需要在线安装包，只需要去掉standalone=1&即可！）
-
 
 
 下载历史版本 https://dl.google.com/chrome/install/[版本号后两位]/chrome_installer.exe
@@ -156,8 +157,6 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 > 等谷歌产品
 > 简单易用的《谷歌访问助手》,为chrome扩展用户量身打造，可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
-
-
 
 使用本插件可以免费上：
 
