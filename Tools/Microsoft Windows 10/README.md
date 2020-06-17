@@ -1,7 +1,11 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 >> [Note]Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
+   
+-------------------------------------------------
 
 - [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
+   
+-------------------------------------------------
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
 
@@ -12,8 +16,12 @@
 > 《[Windows 10 中的磁盘清理](https://support.microsoft.com/zh-cn/help/4026616/windows-10-disk-cleanup)》 - Microsoft Community
 
 >> 《[系统盘用户目录下的AppData\Local\Microsoft\Windows\Fonts下面的字体文件是否可删除？](https://answers.microsoft.com/zh-hans/windows/forum/all/%E7%B3%BB%E7%BB%9F%E7%9B%98%E7%94%A8%E6%88%B7/3b83de2d-ca0d-4d9b-a8c2-8359eb1235fd)》 - Microsoft Community
+   
+-------------------------------------------------
 
 - **微软官网**：[安装 PowerShell**](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
+   
+-------------------------------------------------
 
 - **微软常用运行库合集** : [**最新支持的 Visual C++ 下载**](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads)
 >> @[52pojie.cn](https://www.52pojie.cn/thread-1153336-1-1.html):
@@ -23,6 +31,9 @@
 官方网站：https://support.microsoft.com/zh-cn/kb/2977003
 支持 Win 版本：XP/2003/Vista/Win7/Win8/Win8.1/Win10（32 位 + 64 位平台）
 ```
+   
+-------------------------------------------------
+
 - **微软官网**：[**将电脑用作移动热点**(适用于： Windows 10)](https://support.microsoft.com/zh-cn/help/4027762/windows-use-your-pc-as-a-mobile-hotspot)  @[百度经验:《Win10笔记本电脑怎么开热点给手机用》](https://jingyan.baidu.com/article/6d704a1359c7ba28db51ca92.html)
 >通过使用 WLAN 与其他设备共享 Internet 连接，将 Windows 10 电脑转变为移动热点。你可以共享 WLAN、以太网或手机网络数据连接。如果你的电脑具有手机网络数据连接并且共享该连接，它将使用流量套餐数据。
 >>**方法/步骤**:（[上次更新时间](https://support.microsoft.com/zh-cn/help/4089498/support-content-updates)：2019年3月29日）
@@ -34,6 +45,8 @@
 5.若要在其他设备上进行连接，请转到该设备的 WLAN 设置，查找并选择网络名称，输入密码，然后进行连接。
 ```
 >>> 打开移动热点 ms-settings:network-mobilehotspot?activationSource=SMC-IA-4027762
+   
+-------------------------------------------------
 
 - [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
@@ -89,7 +102,6 @@ Alt+F4 关机快捷键。
 
 >> [**Windows Media Creation Tool**](https://www.microsoft.com/zh-cn/software-download/windows10) ：https://url.cn/5WZjGPC
 
-
 - [**Win 10 32位 升级为 64 位 激活**](https://answers.microsoft.com/zh-hans/windows/forum/all/win-10-32%E4%BD%8D-%E5%8D%87%E7%BA%A7%E4%B8%BA-64/6400fc8d-41a1-43c4-85b3-f2a04e5b20c3) - Microsoft Community
 >> 《[**如何从32位升级到64位版本的Windows 10**](https://www.cwhello.com/12069.html) | [重蔚自留地](https://www.cwhello.com/) 》2019年5月30日
 
@@ -117,28 +129,13 @@ Alt+F4 关机快捷键。
 
 
 **Microsoft 官网** : [**面向使用辅助技术的客户的 Windows 10 免费升级优惠**](https://www.microsoft.com/zh-cn/accessibility/windows10upgrade) -  (  活动已过期 )
+   
+-------------------------------------------------
 
 - 【免费】 [来自设备制造商的 **HEVC 视频扩展**](https://www.microsoft.com/zh-cn/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq) - Microsoft Store zh-CN 
 > 在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。这些扩展旨在利用某些较新设备(例如配备 Intel 第 7 代 Core 处理器和较新 GPU 的设备)上的硬件功能支持 4K 和 Ultra HD 内容。对于没有硬件支持 HEVC 视频的设备，将提供软件支持，但播放体验可能会因视频分辨率和电脑性能而有所不同。这些扩展还允许你在没有基于硬件的视频编码器的设备上对 HEVC 内容进行编码。
 
 >> 《[[技巧]如何在Microsoft Store上免费获得HEVC编码支持](https://www.cnbeta.com/articles/tech/893455.htm)》 - cnBeta.COM (2019年09月26日) 
-
-- [**欢迎使用 Internet Explorer**](https://www.microsoft.com/zh-cn/edge/)
-> 您不妨试用一下 [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/zh-cn/)
-> 
-> Microsoft 专为 Windows 10 开发的最新浏览器
-> 
-> Internet Explorer 的开发人员现在满怀自豪地为您奉上 Microsoft Edge。它构建在您无比信任的 Internet Explorer 浏览器基础之上，您可以尽享您喜爱的各项功能。此外，您还可以：
-> 
->>  在网页上书写
->>
->>  无干扰阅读
->>
->>将所有内容存储在一个位置
-
->利用 Microsoft Edge，您能做到的远非网络浏览那么简单
-
-- ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 双因素验证/两步验证， 并在应用中登录帐户。  )
 
 >> 《[Azure 多重身份验证概述](https://docs.microsoft.com/zh-cn/azure/active-directory/authentication/concept-mfa-howitworks)》 | Microsoft Docs
 
@@ -149,17 +146,8 @@ Alt+F4 关机快捷键。
 >> 《[微软验证器（Microsoft Authenticator）更新：支持更改帐户密码等](https://www.ruancan.com/iphone/microsoft-authenticator.html)》 - 软餐(2020年3月10日)
 
 >> 《[如何开启登录两步验证功能？](https://stage-www.yinxiang.com/new/hc/articles/%e5%a6%82%e4%bd%95%e5%bc%80%e5%90%af%e7%99%bb%e5%bd%95%e4%b8%a4%e6%ad%a5%e9%aa%8c%e8%af%81%e5%8a%9f%e8%83%bd%ef%bc%9f/)》 | 印象笔记 (2019-10-06)
-
-- Ⓜ️ 【Microsoft Edge】 view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应)
-
-- 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
-
-- 《[或许能成为你的 Windows 默认浏览器，大改版的 Edge 稳定版终于来了](https://mp.weixin.qq.com/s/05QoUqoMfNEyDOIyM440Xw)》
-(  原创： 化学心情下2 @少数派 2019-10-28 )
-
-> 用 Windows 电脑打开即可直接下载： [https://url.cn/57pEdMQ](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/MicrosoftEdgeSetup.exe) （手机打开是乱码哦）
-
->> Edge 官网：[https://url.cn/5fqXwlJ](https://www.microsoftedgeinsider.com/zh-cn/download/)
+   
+-------------------------------------------------
 
 - <b><a href="https://support.microsoft.com/zh-cn/help/4057281/windows-7-support-will-end-on-january-14-2020" title="【Windows 7 支持生命周期】
 Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为期 10 年的产品支持。在为期 10 年的期限结束后，Microsoft 将停止为 Windows 7 提供支持，以便将精力专注于支持较新的技术和出色的新体验。对 Windows 7 的终止支持具体日期将是 2020 年 1 月 14 日。此后，我们将不再为该产品提供技术帮助和 Windows 更新中有助于保护电脑的软件更新。Microsoft 强烈建议你在 2020 年 1 月之前的某个时间升级到 Windows 10，以避免无法获得所需的服务或支持。">Windows 7 支持将于 2020 年 1 月 14 日终止</a></b>
@@ -169,6 +157,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为期 10 年的产品支持。在为期 10 年的期限结束后，Microsoft 将停止为 Windows 7 提供支持，以便将精力专注于支持较新的技术和出色的新体验。对 Windows 7 的终止支持具体日期将是 2020 年 1 月 14 日。此后，我们将不再为该产品提供技术帮助和 Windows 更新中有助于保护电脑的软件更新。Microsoft 强烈建议你在 2020 年 1 月之前的某个时间升级到 Windows 10，以避免无法获得所需的服务或支持。"></a>
 
 > [Windows 7 停止支持信息](https://www.microsoft.com/zh-cn/windows/windows-7-end-of-life-support-information) Microsoft  
+   
+-------------------------------------------------
 
 - [SecurAble - CPU 虚拟化/D.E.P./位数查询](https://www.appinn.com/securable/) - [小众软件](https://www.appinn.com/)
 
@@ -179,6 +169,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 ---------------------------------------------------------------------------------------------------------
 
 - [Note] Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
+   
+-------------------------------------------------
 
 - 《[**最绿色最高效，用win+r启动常用程序和文档**](http://xbeta.info/win-run.htm)》 – 善用佳软
                    
@@ -240,6 +232,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 - 【 [gatherosstate.exe](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/gatherosstate.exe) [用于生成**Win10激活**用 GenuineTicket.xml 正版通行证](https://jingyan.baidu.com/article/14bd256e458369bb6d2612be.html) 】
 
 > 参考：[Win10秘籍--跳过升级全新安装Win10并永久激活-百度经验](https://jingyan.baidu.com/article/14bd256e458369bb6d2612be.html)
+   
+-------------------------------------------------
 
 - 【 Windows10  “**一键锁屏(Win+L)** ” 桌面快捷方式 】
 > 新建快捷方式，填写链接：rundll32.exe user32.dll,LockWorkStation （快捷键可设为：**F2**）
@@ -271,6 +265,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 > 
 > 5.单击“快捷方式”选项卡，单击“快捷键”框，然后按下自己喜爱的按键，比如按下F12键，单击“确定”按钮。需要注意是，定义的该快捷键不能够与基于Windows的程序中的访问键冲突，如果冲突，则程序中的访问键就不起作用。访问键是某个字母或数字，即当它与ALT键组合使用时，其效果与使用鼠标单击命令的效果相同。
 至此，自己动手做的一键休眠DIY大功告成，以后要休眠时，只要按下键盘上的F12键即可，它与按下Sleep键等效
+   
+-------------------------------------------------
 
 - [Windows10锁屏图片太漂亮，如何设为桌面背景呢？](https://zhuanlan.zhihu.com/p/27429896) - [知乎](https://zhuanlan.zhihu.com/)
 
@@ -393,13 +389,6 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 ---------------------------------------------------------------------------------------------------------
 
-- [修复错误 0x80004005](https://support.microsoft.com/zh-cn/help/4028090/windows-fix-error-0x80004005) : 
->> 适用于： Windows 10
-
->这适用于 Windows 8、Windows 8.1、Windows Server 2012、Windows Server 20212 R2、Windows 10 和 Windows 10 版本 1511 中的 Internet Explorer 中的 Adobe Flash Player 以及 Windows 10 和 Windows 10 版本 1511 中的 Microsoft Edge 中的 Adobe Flash Player。
-
->   <p>Microsoft 发布了一个安全更新，用于解决 Internet Explorer 和 Microsoft Edge 中的 Adobe Player 中的漏洞。 我们建议你在电脑上转到“更新和安全”，立即安装更新。 选择 <b>“开始”</b> <span class=\"win-icon win-icon-WindowsLogo\"></span> 按钮，然后依次选择<b>“设置”</b> <span class=\"win-icon win-icon-Settings\"></span>><b>“更新和安全”</b> <span class=\"win-icon win-icon-Sync\"></span>><b>“检查更新”</b>。</p>
-   
 >>  今天在配置网络连接共享时，提示0x80004005错误信息：后来通过 启用 **Windows 防火墙服务** 的方式解决了。
 
 > [win10局域网共享错误代码0x80004005的解决方法 - Win10故障修复 - W10之家](http://m.w10zj.com/Win10xy/Win10xf_9182.html)
