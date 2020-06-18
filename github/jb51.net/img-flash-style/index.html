@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>纯CSS3实现轮播图</title>
+<style>
+       .box {
+           width: 600px;
+           height: 350px;
+           margin: 100px auto;
+           box-shadow: 1px 1px 5px 1px red;
+           position: relative;
+       }
+       img {
+           display: block;
+           border: none;
+       }
+       .box .list img {
+           width: 600px;
+           height: 350px;
+       }
+       .box .list a {
+           position: absolute;
+           top: 0;
+           left: 0;
+           opacity: 0;
+           transition: all 3s;
+       }
+       .box .list a:nth-of-type(1) {
+           opacity: 1;
+       }
+       .box .dot {
+           position: absolute;
+           bottom: 5px;
+           right: 10px;
+       }
+       a {
+           text-decoration: none;
+           color: inherit;
+           /* inherit继承 向上找父元素的颜色 如果找到则使用此父元素的颜色
+            如果找不到 则一直向上找 直到找到HTML标签 如果HTML标签还没有
+            设置颜色的话 则使用默认值 */
+       }
+       .box .dot a {
+           display: inline-block;
+           width: 30px;
+           height: 30px;
+           background: white;
+           font-size: 20px;
+           text-align: center;
+           margin-right: 10px;
+           line-height: 30px;
+           box-shadow: 0 0 10px 0 #000;
+           border-radius: 50%;
+           z-index: 100;
+       }
+       .box .dot a:hover {
+           background-color: deeppink;
+       }
+       .box .list a:target {
+           opacity: 1;
+       }
+</style>
+</head>
+<body>
+<div class="box">
+    <div class="list">
+        <a href="#" id="img1">
+            <img src="images/1.jpg" alt="">
+        </a>
+        <a href="#" id="img2">
+            <img src="images/2.jpg" alt="">
+        </a>
+        <a href="#" id="img3">
+            <img src="images/3.jpg" alt="">
+        </a>
+        <a href="#" id="img4">
+            <img src="images/4.jpg" alt="">
+        </a>
+        <a href="#" id="img5">
+            <img src="images/5.jpg" alt="">
+        </a>
+    </div>
+    <div class="dot">
+        <a href="#img1">1</a>
+        <a href="#img2">2</a>
+        <a href="#img3">3</a>
+        <a href="#img4">4</a>
+        <a href="#img5">5</a>
+    </div>
+</div>
+</body>
+</html>
