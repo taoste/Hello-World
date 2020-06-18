@@ -1,0 +1,1104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>纯CSS3实现的美国白宫图</title>
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before,
+*:after {
+    content: '';
+    diplay: block;
+    position: absolute;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 100%;
+    overflow: hidden;
+}
+body {
+    background: -webkit-linear-gradient(#9ab 50%, #6b849c 50%);
+    background: linear-gradient(#9ab 50%, #6b849c 50%);
+}
+.bg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 4000px;
+    height: 420px;
+    margin-top: -210px;
+    margin-left: -2000px;
+    background: -webkit-linear-gradient(#9ab 320px, #6b849c 320px);
+    background: linear-gradient(#9ab 320px, #6b849c 320px);
+}
+.whitehouse {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 920px;
+    height: 420px;
+    margin: -210px 0 0 -460px;
+    overflow: hidden;
+}
+.whitehouse div {
+    position: absolute;
+}
+.roof {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+}
+.dome {
+    top: 5px;
+    left: 50%;
+    width: 400px;
+    height: 400px;
+    margin-left: -200px;
+    border-radius: 40%;
+    background: -webkit-linear-gradient(#eee, #aaa);
+    background: linear-gradient(#eee, #aaa);
+    box-shadow: inset 0 0 0 4px #eee, inset 0 0 0 5px #ccc, inset 0 0 0 9px #eee, inset 0 0 0 10px #ccc, inset 0 0 0 14px #eee, inset 0 0 0 15px #ccc;
+}
+.dome:before {
+    top: -5px;
+    left: 50%;
+    width: 100px;
+    height: 10px;
+    margin-left: -50px;
+    border-radius: 10px 10px 0 0;
+    background: #eee;
+    box-shadow: inset 0 0 0 1px #ccc;
+}
+.glass {
+    top: 30px;
+    left: 50%;
+    width: 42px;
+    height: 45px;
+    margin-left: -21px;
+    border-radius: 2px 2px 0 0;
+    background: #9ac;
+    box-shadow: inset 0 0 0 2px #667fb3, 0 0 0 2px #fff;
+}
+.balcony {
+    top: 40px;
+    width: 100%;
+    height: 60px;
+}
+.top {
+    top: 0;
+    width: 100%;
+    height: 7px;
+    background: -webkit-repeating-linear-gradient(#fff 0px, #fff 3px, #ddd 3px, #ddd 4px, #fff 4px);
+    background: repeating-linear-gradient(#fff 0px, #fff 3px, #ddd 3px, #ddd 4px, #fff 4px);
+}
+.middle {
+    top: 7px;
+    width: 4px;
+    height: 33px;
+    background: -webkit-linear-gradient(left, #fff 0px, #fff 1px, #eee 1px, #eee 3px, #fff 3px);
+    background: linear-gradient(to right, #fff 0px, #fff 1px, #eee 1px, #eee 3px, #fff 3px);
+    box-shadow: inset 0 3px 2px -2px rgba(0, 0, 0, 0.3), inset 0 -3px 2px -2px rgba(0, 0, 0, 0.3);
+}
+.middle:nth-child(1) {
+    left: 2px;
+}
+.middle:nth-child(2) {
+    left: 14px;
+}
+.middle:nth-child(3) {
+    left: 26px;
+}
+.middle:nth-child(4) {
+    left: 38px;
+}
+.middle:nth-child(5) {
+    left: 50px;
+}
+.middle:nth-child(6) {
+    left: 62px;
+}
+.middle:nth-child(7) {
+    left: 74px;
+}
+.middle:nth-child(8) {
+    left: 86px;
+}
+.middle:nth-child(9) {
+    left: 98px;
+}
+.middle:nth-child(10) {
+    left: 110px;
+}
+.middle:nth-child(11) {
+    left: 122px;
+}
+.middle:nth-child(12) {
+    left: 134px;
+}
+.middle:nth-child(13) {
+    left: 146px;
+}
+.middle:nth-child(14) {
+    left: 158px;
+}
+.middle:nth-child(15) {
+    left: 170px;
+}
+.middle:nth-child(16) {
+    left: 182px;
+}
+.middle:nth-child(17) {
+    left: 194px;
+}
+.middle:nth-child(18) {
+    left: 206px;
+}
+.middle:nth-child(19) {
+    left: 218px;
+}
+.middle:nth-child(20) {
+    left: 230px;
+}
+.middle:nth-child(21) {
+    left: 242px;
+}
+.middle:nth-child(22) {
+    left: 254px;
+}
+.middle:nth-child(23) {
+    left: 266px;
+}
+.middle:nth-child(24) {
+    left: 278px;
+}
+.middle:nth-child(25) {
+    left: 290px;
+}
+.middle:nth-child(26) {
+    left: 302px;
+}
+.middle:nth-child(27) {
+    left: 314px;
+}
+.middle:nth-child(28) {
+    left: 326px;
+}
+.middle:nth-child(29) {
+    left: 338px;
+}
+.middle:nth-child(30) {
+    left: 350px;
+}
+.middle:nth-child(31) {
+    left: 362px;
+}
+.middle:nth-child(32) {
+    left: 374px;
+}
+.middle:nth-child(33) {
+    left: 386px;
+}
+.middle:nth-child(34) {
+    left: 398px;
+}
+.middle:nth-child(35) {
+    left: 410px;
+}
+.middle:nth-child(36) {
+    left: 422px;
+}
+.middle:nth-child(37) {
+    left: 434px;
+}
+.middle:nth-child(38) {
+    left: 446px;
+}
+.middle:nth-child(39) {
+    left: 458px;
+}
+.middle:nth-child(40) {
+    left: 470px;
+}
+.middle:nth-child(41) {
+    left: 482px;
+}
+.middle:nth-child(42) {
+    left: 494px;
+}
+.middle:nth-child(43) {
+    left: 506px;
+}
+.middle:nth-child(44) {
+    left: 518px;
+}
+.middle:nth-child(45) {
+    left: 530px;
+}
+.middle:nth-child(46) {
+    left: 542px;
+}
+.middle:nth-child(47) {
+    left: 554px;
+}
+.middle:nth-child(48) {
+    left: 566px;
+}
+.middle:nth-child(49) {
+    left: 578px;
+}
+.middle:nth-child(50) {
+    left: 590px;
+}
+.middle:nth-child(51) {
+    left: 602px;
+}
+.middle:nth-child(52) {
+    left: 614px;
+}
+.middle:nth-child(53) {
+    left: 626px;
+}
+.middle:nth-child(54) {
+    left: 638px;
+}
+.middle:nth-child(55) {
+    left: 650px;
+}
+.middle:nth-child(56) {
+    left: 662px;
+}
+.middle:nth-child(57) {
+    left: 674px;
+}
+.middle:nth-child(58) {
+    left: 686px;
+}
+.middle:nth-child(59) {
+    left: 698px;
+}
+.middle:nth-child(60) {
+    left: 710px;
+}
+.middle:nth-child(61) {
+    left: 722px;
+}
+.middle:nth-child(62) {
+    left: 734px;
+}
+.middle:nth-child(63) {
+    left: 746px;
+}
+.middle:nth-child(64) {
+    left: 758px;
+}
+.middle:nth-child(65) {
+    left: 770px;
+}
+.middle:nth-child(66) {
+    left: 782px;
+}
+.middle:nth-child(67) {
+    left: 794px;
+}
+.middle:nth-child(68) {
+    left: 806px;
+}
+.middle:nth-child(69) {
+    left: 818px;
+}
+.middle:nth-child(70) {
+    left: 830px;
+}
+.middle:nth-child(71) {
+    left: 842px;
+}
+.middle:nth-child(72) {
+    left: 854px;
+}
+.middle:nth-child(73) {
+    left: 866px;
+}
+.middle:nth-child(74) {
+    left: 878px;
+}
+.middle:nth-child(75) {
+    left: 890px;
+}
+.middle:nth-child(76) {
+    left: 902px;
+}
+.middle:nth-child(77) {
+    left: 914px;
+}
+.bottom {
+    top: 40px;
+    width: 100%;
+    height: 20px;
+    background: -webkit-repeating-linear-gradient(#fff 0px, #fff 3px, #ddd 3px, #ddd 4px, #fff 4px);
+    background: repeating-linear-gradient(#fff 0px, #fff 3px, #ddd 3px, #ddd 4px, #fff 4px);
+}
+.wall {
+    top: 100px;
+    width: 100%;
+    height: 320px;
+    background: -webkit-linear-gradient(#555 0px, #555 8px, #bbb 8px, #bbb 10px, #ddd 10px, #ddd 115px, #bbb 115px, #bbb 117px, #f5f5f5 117px, #f5f5f5 240px, #555 240px, #555 248px, #bbb 248px, #bbb 250px, #f5f5f5 250px, #f5f5f5 312px, #333 312px, #333 320px);
+    background: linear-gradient(#555 0px, #555 8px, #bbb 8px, #bbb 10px, #ddd 10px, #ddd 115px, #bbb 115px, #bbb 117px, #f5f5f5 117px, #f5f5f5 240px, #555 240px, #555 248px, #bbb 248px, #bbb 250px, #f5f5f5 250px, #f5f5f5 312px, #333 312px, #333 320px);
+}
+.windows {
+    left: 20px;
+}
+.win {
+    width: 40px;
+    background: #9ac;
+    box-shadow: 0 0 0 1px #bbb, 0 0 0 5px rgba(0, 0, 0, 0.05), inset 0 0 0 2px #ddd, inset 0 0 0 4px #fff, inset 0 0 0 6px #667fb3;
+}
+.win:nth-child(1) {
+    height: 70px;
+    top: 130px;
+    left: 0;
+}
+.win:nth-child(2) {
+    height: 70px;
+    top: 130px;
+    left: 70px;
+}
+.win:nth-child(3) {
+    height: 70px;
+    top: 130px;
+    left: 140px;
+}
+.win:nth-child(4) {
+    height: 70px;
+    top: 130px;
+    left: 210px;
+}
+.win:nth-child(5) {
+    height: 70px;
+    top: 130px;
+    left: 280px;
+}
+.win:nth-child(6) {
+    height: 70px;
+    top: 130px;
+    left: 350px;
+}
+.win:nth-child(7) {
+    height: 70px;
+    top: 130px;
+    left: 420px;
+}
+.win:nth-child(8) {
+    height: 70px;
+    top: 130px;
+    left: 490px;
+}
+.win:nth-child(9) {
+    height: 70px;
+    top: 130px;
+    left: 560px;
+}
+.win:nth-child(10) {
+    height: 70px;
+    top: 130px;
+    left: 630px;
+}
+.win:nth-child(11) {
+    height: 70px;
+    top: 130px;
+    left: 700px;
+}
+.win:nth-child(12) {
+    height: 70px;
+    top: 130px;
+    left: 770px;
+}
+.win:nth-child(13) {
+    height: 70px;
+    top: 130px;
+    left: 840px;
+}
+.win:nth-child(14) {
+    height: 85px;
+    top: 230px;
+    left: 0;
+}
+.win:nth-child(15) {
+    height: 85px;
+    top: 230px;
+    left: 70px;
+}
+.win:nth-child(16) {
+    height: 85px;
+    top: 230px;
+    left: 140px;
+}
+.win:nth-child(17) {
+    height: 85px;
+    top: 230px;
+    left: 210px;
+}
+.win:nth-child(18) {
+    height: 85px;
+    top: 230px;
+    left: 280px;
+}
+.win:nth-child(19) {
+    height: 85px;
+    top: 230px;
+    left: 350px;
+}
+.win:nth-child(20) {
+    height: 85px;
+    top: 230px;
+    left: 420px;
+}
+.win:nth-child(21) {
+    height: 85px;
+    top: 230px;
+    left: 490px;
+}
+.win:nth-child(22) {
+    height: 85px;
+    top: 230px;
+    left: 560px;
+}
+.win:nth-child(23) {
+    height: 85px;
+    top: 230px;
+    left: 630px;
+}
+.win:nth-child(24) {
+    height: 85px;
+    top: 230px;
+    left: 700px;
+}
+.win:nth-child(25) {
+    height: 85px;
+    top: 230px;
+    left: 770px;
+}
+.win:nth-child(26) {
+    height: 85px;
+    top: 230px;
+    left: 840px;
+}
+.win:nth-child(27) {
+    left: 0;
+}
+.win:nth-child(28) {
+    left: 70px;
+}
+.win:nth-child(29) {
+    left: 140px;
+}
+.win:nth-child(30) {
+    left: 210px;
+}
+.win:nth-child(31) {
+    left: 630px;
+}
+.win:nth-child(32) {
+    left: 700px;
+}
+.win:nth-child(33) {
+    left: 770px;
+}
+.win:nth-child(34) {
+    left: 840px;
+}
+.win:nth-child(27),
+.win:nth-child(28),
+.win:nth-child(29),
+.win:nth-child(30),
+.win:nth-child(31),
+.win:nth-child(32),
+.win:nth-child(33),
+.win:nth-child(34) {
+    height: 30px;
+    top: 365px;
+}
+.win.light-on {
+    background: #fd4;
+    box-shadow: 0 0 0 1px #bbb, 0 0 0 5px rgba(0, 0, 0, 0.05), inset 0 0 0 2px #ddd, inset 0 0 0 4px #fff, inset 0 0 0 6px #667fb3;
+}
+.curtain {
+    top: 4px;
+    left: 4px;
+    width: 12px;
+    height: 70%;
+    background: #667fb3;
+    border-radius: 0 0 100% 0;
+}
+.curtain:after {
+    top: 0;
+    left: 18px;
+    width: 12px;
+    height: 100%;
+    background: #667fb3;
+    border-radius: 0 0 0 100%;
+}
+.table {
+    left: 50%;
+    bottom: 4px;
+    width: 22px;
+    height: 4px;
+    margin-left: -11px;
+    border-radius: 3px 3px 0 0;
+    background: #667fb3;
+}
+.table:before {
+    left: 16px;
+    bottom: 2px;
+    width: 2px;
+    height: 6px;
+    background: #667fb3;
+}
+.table:after {
+    left: 13px;
+    bottom: 8px;
+    width: 8px;
+    height: 4px;
+    border-radius: 100% 100% 0 0;
+    background: #667fb3;
+}
+.shine {
+    top: 4px;
+    left: 4px;
+    width: calc(100% - 8px);
+    height: calc(100% - 8px);
+    background: -webkit-linear-gradient(152deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.1) 50%, transparent 50%, transparent 50%);
+    background: linear-gradient(-62deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.1) 50%, transparent 50%, transparent 50%);
+}
+.grid {
+    top: 4px;
+    left: 50%;
+    width: 2px;
+    height: calc(100% - 8px);
+    margin-left: -1px;
+    background: #fff;
+}
+.grid:before,
+.grid:after {
+    top: 33%;
+    width: 32px;
+    height: 2px;
+    margin-top: -1px;
+    margin-left: -15px;
+    background: #fff;
+}
+.grid:after {
+    top: 66%;
+}
+.shadow {
+    top: 107px;
+    left: 0;
+    width: 100%;
+    height: 233px;
+    background: -webkit-linear-gradient(right, transparent 0%, rgba(0, 0, 0, 0.15) 50%, transparent 100%);
+    background: linear-gradient(to left, transparent 0%, rgba(0, 0, 0, 0.15) 50%, transparent 100%);
+}
+.flowers {
+    left: 0;
+    bottom: 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #7e7;
+    box-shadow: 5px -3px 0 #7e7, 10px -5px 0 #7e7, 30px 0 0 #7e7, 22px -2px 0 #7e7, 15px -3px 0 #7e7;
+}
+.flowers:before {
+    left: 5px;
+    bottom: 6px;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    background: #292;
+    box-shadow: 5px -3px 0 #292, 12px -1px 0 #292, 20px -2px 0 #292, 28px 0 0 #292;
+}
+.flowers:after {
+    left: 0;
+    bottom: 0;
+    width: 40px;
+    height: 5px;
+    background: #960;
+    background: -webkit-repeating-linear-gradient(left, #960 0px, #960 4px, #740 4px, #740 5px);
+    background: repeating-linear-gradient(to right, #960 0px, #960 4px, #740 4px, #740 5px);
+}
+.columns {
+    left: 0;
+}
+.col {
+    top: 107px;
+    width: 10px;
+    height: 232px;
+    background: -webkit-repeating-linear-gradient(left, #fff 0px, #fff 2px, #ddd 2px, #ddd 4px);
+    background: repeating-linear-gradient(to right, #fff 0px, #fff 2px, #ddd 2px, #ddd 4px);
+    box-shadow: 0 0 0 1px #aaa;
+}
+.col:nth-child(1) {
+    left: 0;
+}
+.col:nth-child(2) {
+    left: 70px;
+}
+.col:nth-child(3) {
+    left: 140px;
+}
+.col:nth-child(4) {
+    left: 210px;
+}
+.col:nth-child(5) {
+    left: 280px;
+}
+.col:nth-child(6) {
+    left: 350px;
+}
+.col:nth-child(7) {
+    left: 420px;
+}
+.col:nth-child(8) {
+    left: 490px;
+}
+.col:nth-child(9) {
+    left: 560px;
+}
+.col:nth-child(10) {
+    left: 630px;
+}
+.col:nth-child(11) {
+    left: 700px;
+}
+.col:nth-child(12) {
+    left: 770px;
+}
+.col:nth-child(13) {
+    left: 840px;
+}
+.col:nth-child(14) {
+    left: 910px;
+}
+.col:before,
+.col:after {
+    top: 0;
+    left: 0;
+    width: 24px;
+    height: 10px;
+    margin-left: -7px;
+    border-radius: 5px;
+    background: -webkit-repeating-radial-gradient(#fff 0px, #fff 2px, #ddd 2px, #ddd 4px);
+    background: repeating-radial-gradient(#fff 0px, #fff 2px, #ddd 2px, #ddd 4px);
+    box-shadow: 0 0 0 1px #aaa;
+}
+.col:after {
+    top: auto;
+    bottom: 0;
+}
+.doors {
+    left: 20px;
+}
+.do {
+    top: 360px;
+    width: 40px;
+    height: 57px;
+    border-radius: 50% 50% 0 0;
+    background: brown;
+    background: -webkit-repeating-linear-gradient(left, #fff 0px, #fff 4px, #ddd 4px, #ddd 6px);
+    background: repeating-linear-gradient(to right, #fff 0px, #fff 4px, #ddd 4px, #ddd 6px);
+    box-shadow: 0 0 0 1px #aaa, 0 0 0 3px #fff, 0 0 0 4px #aaa;
+    overflow: hidden;
+}
+.do:nth-child(1) {
+    left: 280px;
+}
+.do:nth-child(2) {
+    left: 350px;
+}
+.do:nth-child(3) {
+    left: 420px;
+}
+.do:nth-child(4) {
+    left: 490px;
+}
+.do:nth-child(5) {
+    left: 560px;
+}
+.inner {
+    top: 0;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    margin-left: -1px;
+    background: #666;
+}
+.inner:before,
+.inner:after {
+    top: 50%;
+    left: -8px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #666;
+}
+.inner:after {
+    left: 6px;
+}
+.do:nth-child(4) .inner {
+    width: 25px;
+    background: #444;
+}
+.do:nth-child(4) .inner:after {
+    display: none;
+}
+.flag {
+    top: 100px;
+    left: 50%;
+    width: 110px;
+    height: 65px;
+    margin-left: -55px;
+    background: -webkit-repeating-linear-gradient(#b00 0px, #b00 5px, #eee 5px, #eee 10px);
+    background: repeating-linear-gradient(#b00 0px, #b00 5px, #eee 5px, #eee 10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+.flag:before {
+    width: 51px;
+    height: 35px;
+    background: #139;
+}
+.flag:after {
+    top: 4px;
+    left: 4px;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.75);
+    box-shadow: 8px 0 0 rgba(255, 255, 255, 0.75), 16px 0 0 rgba(255, 255, 255, 0.75), 24px 0 0 rgba(255, 255, 255, 0.75), 32px 0 0 rgba(255, 255, 255, 0.75), 40px 0 0 rgba(255, 255, 255, 0.75), 4px 6px 0 rgba(255, 255, 255, 0.75), 12px 6px 0 rgba(255, 255, 255, 0.75), 20px 6px 0 rgba(255, 255, 255, 0.75), 28px 6px 0 rgba(255, 255, 255, 0.75), 36px 6px 0 rgba(255, 255, 255, 0.75), 0 12px 0 rgba(255, 255, 255, 0.75), 8px 12px 0 rgba(255, 255, 255, 0.75), 16px 12px 0 rgba(255, 255, 255, 0.75), 24px 12px 0 rgba(255, 255, 255, 0.75), 32px 12px 0 rgba(255, 255, 255, 0.75), 40px 12px 0 rgba(255, 255, 255, 0.75), 4px 18px 0 rgba(255, 255, 255, 0.75), 12px 18px 0 rgba(255, 255, 255, 0.75), 20px 18px 0 rgba(255, 255, 255, 0.75), 28px 18px 0 rgba(255, 255, 255, 0.75), 36px 18px 0 rgba(255, 255, 255, 0.75), 0 24px 0 rgba(255, 255, 255, 0.75), 8px 24px 0 rgba(255, 255, 255, 0.75), 16px 24px 0 rgba(255, 255, 255, 0.75), 24px 24px 0 rgba(255, 255, 255, 0.75), 32px 24px 0 rgba(255, 255, 255, 0.75), 40px 24px 0 rgba(255, 255, 255, 0.75);
+}
+@media only screen and (height: 300px) {
+    .whitehouse {
+        -webkit-transform: scale(0.7, 0.7);
+        -ms-transform: scale(0.7, 0.7);
+        transform: scale(0.7, 0.7);
+    }
+}
+</style>
+</head>
+<body>
+<div class='bg'></div>
+<div class='whitehouse'>
+    <div class='roof'>
+        <div class='dome'>
+            <div class='glass'>
+                <div class='shine'></div>
+            </div>
+        </div>
+        <div class='balcony'>
+            <div class='top'>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+                <div class='middle'></div>
+            </div>
+            <div class='bottom'></div>
+        </div>
+    </div>
+    <div class='wall'></div>
+    <div class='windows'>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win light-on'>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='table'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win light-on'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win'>
+            <div class='curtain'></div>
+            <div class='shine'></div>
+            <div class='grid'></div>
+            <div class='flowers'></div>
+        </div>
+        <div class='win light-on'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+        <div class='win'>
+            <div class='shine'></div>
+        </div>
+    </div>
+    <div class='shadow'></div>
+    <div class='columns'>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+        <div class='col'></div>
+    </div>
+    <div class='doors'>
+        <div class='do'>
+            <div class='inner'></div>
+        </div>
+        <div class='do'>
+            <div class='inner'></div>
+        </div>
+        <div class='do'>
+            <div class='inner'></div>
+        </div>
+        <div class='do'>
+            <div class='inner'></div>
+        </div>
+        <div class='do'>
+            <div class='inner'></div>
+        </div>
+    </div>
+    <div class='flag'></div>
+</div>
+</body>
+</html>
