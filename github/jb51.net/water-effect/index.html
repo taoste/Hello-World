@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CSS3 SVG滤镜实现的简单水面波动特效</title>
+<style>
+img {
+    width: 110vw;
+    height: 110vh;
+    position: absolute;
+    top: -5vh;
+    left: -5vw;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -webkit-filter: url(#water);
+    filter: url(#water);
+}
+</style>
+</head>
+<body>
+<svg width="0" height="0" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
+    <filter id="water">
+        <feTurbulence type="fractalNoise" baseFrequency=".05 .05" numOctaves="1" result="noise1"></feTurbulence>
+        <feColorMatrix in="noise1" type="hueRotate" values="0" result="noise2">
+            <animate attributeName="values" from="0" to="360" dur="1s" repeatCount="indefinite" />
+        </feColorMatrix>
+        <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="7" in="SourceGraphic" in2="noise2" />
+    </filter>
+</svg>
+
+<img src="img/water-small.jpg" alt="water crashes against the rocks">
+</body>
+</html>
