@@ -34,6 +34,12 @@
 
 - 《[Html5导航栏吸顶方案原理与对比实现](https://www.jb51.net/html5/729895.html)》_html5教程技巧_脚本之家
 
+>> 《[基于html和CSS3制作酷炫的导航栏](https://www.jb51.net/css/382483.html)》_css3_CSS_网页制作_脚本之家
+
+>> 《[html5 横向滑动导航栏的方法示例](https://www.jb51.net/html5/724051.html)》_html5教程技巧_脚本之家
+
+>> 《[HTML5播放实现rtmp流直播](https://www.jb51.net/html5/730863.html)》_html5教程技巧_脚本之家
+
 - 《[页面上浮动的返回菜单](http://kisss.cjli.info/clipboard/Float-Back-to-Top-Button.html)》 @ckwongloy
 
 >> 《[网页上直接打电话、发 QQ 消息、打开微信的链接](http://kisss.cjli.info/clipboard/SNS-Link-on-Web.html)》 @ckwongloy
