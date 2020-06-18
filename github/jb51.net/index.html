@@ -1,0 +1,1031 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CSS3 蛋糕+生日礼盒打开动画效果</title>
+<style>
+body {
+    background: #ffebd0;
+}
+.gift {
+    position: absolute;
+    bottom: 0px;
+    width: 150px;
+    left: 172px;
+    z-index: 12;
+    height: 180px;
+}
+.wrap {
+    height: 300px;
+    width: 800px;
+    margin: 0px auto;
+    position: relative;
+}
+.ribbon_right {
+    width: 45px;
+    height: 45px;
+    border-radius: 100% 100% 100% 0px;
+    box-shadow: 0px 0px 0px 10px #1495f1 inset;
+    position: absolute;
+    right: 30px;
+}
+.ribbon_left {
+    width: 45px;
+    height: 45px;
+    border-radius: 100% 100% 0px 100%;
+    box-shadow: 0px 0px 0px 10px #1aa8fc inset;
+    position: absolute;
+    left: 30px;
+}
+.gift_box_top {
+    height: 28px;
+    top: 45px;
+    position: absolute;
+    width: 150px;
+    background: #ff7d6d;
+    box-shadow: -75px 0px 0px #ff6259 inset;
+}
+.gift_ribbon_center {
+    width: 2px;
+    bottom: 0px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0px auto;
+    background: #1cadfe;
+    height: 140px;
+    border-right: 6px solid #28c9ff;
+    border-left: 6px solid #28c9ff;
+    z-index: 10;
+}
+.gift_box_bottom {
+    background: #ff8168;
+    bottom: 0px;
+    height: 102px;
+    overflow: hidden;
+    right: 7px;
+    position: absolute;
+    width: 136px;
+    box-shadow: -70px 0px 0px #fe6d68 inset;
+}
+.gift_box_bottom_top {
+    height: 5px;
+    width: 136px;
+    right: 7px;
+    position: absolute;
+    bottom: 102px;
+    background: #dd4b4c;
+}
+.gift_ribbon_left {
+    height: 55px;
+    width: 15px;
+    left: 15px;
+    position: absolute;
+    background: #28c9ff;
+    top: 40px;
+    z-index: 11;
+}
+.gift_ribbon_left:after {
+    border-width: 9px;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color: #ff8168;
+    z-index: 12;
+    position: absolute;
+    content: "";
+    bottom: 0px;
+}
+.gift_box_bottom_ribbon {
+    position: absolute;
+    right: -25px;
+    height: 12px;
+    width: 110px;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: #ff4149;
+}
+#ribbon1 {
+    top: -15px;
+}
+#ribbon2 {
+    top: 20px;
+}
+#ribbon3 {
+    top: 55px;
+}
+#ribbon4 {
+    top: 90px;
+}
+.line {
+    height: 25px;
+    width: 100%;
+    background: #fff;
+    bottom: -25px;
+    position: absolute;
+}
+.cake {
+    position: absolute;
+    bottom: 0px;
+    width: 330px;
+    right: 172px;
+    height: 240px;
+}
+.cake_bottom {
+    position: absolute;
+    width: 330px;
+    height: 5px;
+    bottom: 0px;
+    background: #9dc5c4;
+    border-top: 2px solid #e6e7e9;
+}
+.cake_bottom2 {
+    position: absolute;
+    width: 320px;
+    bottom: 7px;
+    background: #cd7a1c;
+    height: 22px;
+    right: 5px;
+    border-radius: 3px 3px 0px 0px;
+    left: 5px;
+    box-shadow: -160px 0px 0px #ad631c inset;
+}
+.cake_bottom3 {
+    box-shadow: 0px -3px 0px #fddbea, -155px 0px 0px #5a4027 inset;
+    height: 52px;
+    border-top: 5px solid #ff7ebe;
+    background: #744c28;
+    position: absolute;
+    width: 310px;
+    bottom: 29px;
+    right: 10px;
+    border-radius: 5px 5px 0px 0px;
+    left: 10px;
+}
+.cake_top1 {
+    box-shadow: -115px 0px 0px #ff9201 inset;
+    height: 46px;
+    background: #ffb009;
+    position: absolute;
+    width: 230px;
+    bottom: 89px;
+    right: 50px;
+    border-radius: 5px 5px 0px 0px;
+    left: 50px;
+    border-bottom: 3px solid #c14500;
+}
+.cake_top2 {
+    box-shadow: -70px 0px 0px #5b3f29 inset;
+    height: 52px;
+    background: #744c28;
+    position: absolute;
+    width: 140px;
+    bottom: 138px;
+    border-radius: 5px 5px 0px 0px;
+    left: 0px;
+    right: 0px;
+    margin: 0px auto;
+}
+.cake_line {
+    bottom: 0px;
+    height: 30px;
+    width: 5px;
+    position: absolute;
+}
+#cake_line1 {
+    left: 2px;
+    background: #ff9101;
+}
+#cake_line2 {
+    left: 12px;
+    background: #ff9101;
+}
+#cake_line3 {
+    left: 22px;
+    background: #ff9101;
+}
+#cake_line4 {
+    left: 32px;
+    background: #ff9101;
+}
+#cake_line5 {
+    left: 42px;
+    background: #ff9101;
+}
+#cake_line6 {
+    left: 52px;
+    background: #ff9101;
+}
+#cake_line7 {
+    left: 62px;
+    background: #ff9101;
+}
+#cake_line8 {
+    left: 72px;
+    background: #ff9101;
+}
+#cake_line9 {
+    left: 82px;
+    background: #ff9101;
+}
+#cake_line10 {
+    left: 92px;
+    background: #ff9101;
+}
+#cake_line11 {
+    left: 102px;
+    background: #ff9101;
+}
+#cake_line12 {
+    left: 112px;
+    background: #ff9101;
+}
+#cake_line13 {
+    right: 3px;
+    background: #ff7000;
+}
+#cake_line14 {
+    right: 13px;
+    background: #ff7000;
+}
+#cake_line15 {
+    right: 23px;
+    background: #ff7000;
+}
+#cake_line16 {
+    right: 33px;
+    background: #ff7000;
+}
+#cake_line17 {
+    right: 43px;
+    background: #ff7000;
+}
+#cake_line18 {
+    right: 53px;
+    background: #ff7000;
+}
+#cake_line19 {
+    right: 63px;
+    background: #ff7000;
+}
+#cake_line20 {
+    right: 73px;
+    background: #ff7000;
+}
+#cake_line21 {
+    right: 83px;
+    background: #ff7000;
+}
+#cake_line22 {
+    right: 93px;
+    background: #ff7000;
+}
+#cake_line23 {
+    right: 103px;
+    background: #ff7000;
+}
+#cake_line24 {
+    right: 113px;
+    background: #ff7000;
+}
+.cherry {
+    width: 15px;
+    top: -15px;
+    height: 15px;
+    border-radius: 100%;
+    background: #fff;
+    position: absolute;
+    box-shadow: -2px -1px 0px 6px #ff4d59 inset;
+}
+#cherry1 {
+    left: 20px;
+}
+#cherry2 {
+    left: 64px;
+}
+#cherry3 {
+    left: 108px;
+}
+#cherry4 {
+    right: 64px;
+}
+#cherry5 {
+    right: 20px;
+}
+.cake_circle {
+    height: 56px;
+    width: 56px;
+    border-radius: 100%;
+    box-shadow: 0px 0px 0px 12px #ffebc8 inset;
+    top: -30px;
+    z-index: 100;
+    position: absolute;
+}
+.circles {
+    position: absolute;
+    height: 30px;
+    width: 100%;
+    overflow: hidden;
+    top: 0px;
+}
+#circle1 {
+    left: -1px;
+}
+#circle2 {
+    left: 43px;
+}
+#circle3 {
+    left: 87px;
+}
+#circle4 {
+    right: 43px;
+}
+#circle5 {
+    right: -1px;
+}
+.cake_top1_creams {
+    height: 18px;
+    border-radius: 5px;
+    background: #f24282;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+.cake_top1_cream1 {
+    position: absolute;
+    left: -3px;
+    height: 25px;
+    width: 15px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_top1_cream2 {
+    position: absolute;
+    left: 12px;
+    height: 25px;
+    width: 10px;
+    border-radius: 9px;
+    background: #744c28;
+    top: 10px;
+}
+.cake_top1_cream3 {
+    position: absolute;
+    left: 22px;
+    height: 23px;
+    width: 10px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_top1_cream4 {
+    position: absolute;
+    left: 32px;
+    height: 25px;
+    width: 12px;
+    border-radius: 9px;
+    background: #744c28;
+    top: 13px;
+}
+.cake_top1_cream5 {
+    position: absolute;
+    left: 44px;
+    height: 30px;
+    width: 13px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_top1_cream6 {
+    position: absolute;
+    left: 57px;
+    height: 25px;
+    width: 13px;
+    border-radius: 9px;
+    background: #744c28;
+    top: 9px;
+}
+.cake_top1_cream7 {
+    position: absolute;
+    right: -3px;
+    height: 22px;
+    width: 8px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_top1_cream8 {
+    position: absolute;
+    right: 5px;
+    height: 25px;
+    width: 10px;
+    border-radius: 9px;
+    background: #5b3f29;
+    top: 8px;
+}
+.cake_top1_cream9 {
+    position: absolute;
+    right: 15px;
+    height: 31px;
+    width: 10px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_top1_cream10 {
+    position: absolute;
+    right: 25px;
+    height: 15px;
+    width: 10px;
+    border-radius: 9px;
+    background: #5b3f29;
+    top: 13px;
+}
+.cake_top1_cream11 {
+    position: absolute;
+    right: 35px;
+    height: 24px;
+    width: 13px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_top1_cream12 {
+    position: absolute;
+    right: 48px;
+    height: 15px;
+    width: 12px;
+    border-radius: 9px;
+    background: #5b3f29;
+    top: 10px;
+}
+.cake_top1_cream13 {
+    position: absolute;
+    right: 60px;
+    height: 26px;
+    width: 10px;
+    border-radius: 9px;
+    background: #f14380;
+}
+.cake_bottom3_creams {
+    height: 22px;
+    border-radius: 5px;
+    background: #ff7fbf;
+    position: absolute;
+    top: -5px;
+    width: 100%;
+}
+.cake_bottom3_cream1 {
+    position: absolute;
+    left: -3px;
+    height: 35px;
+    width: 18px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream2 {
+    position: absolute;
+    left: 15px;
+    height: 24px;
+    width: 15px;
+    border-radius: 9px;
+    top: 12px;
+    background: #744c28;
+}
+.cake_bottom3_cream3 {
+    position: absolute;
+    left: 30px;
+    height: 38px;
+    width: 10px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream4 {
+    position: absolute;
+    left: 40px;
+    height: 24px;
+    width: 15px;
+    border-radius: 9px;
+    top: 15px;
+    background: #744c28;
+}
+.cake_bottom3_cream5 {
+    position: absolute;
+    left: 55px;
+    height: 30px;
+    width: 15px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream6 {
+    position: absolute;
+    left: 70px;
+    height: 20px;
+    width: 12px;
+    border-radius: 100px;
+    top: 17px;
+    background: #744c28;
+}
+.cake_bottom3_cream7 {
+    position: absolute;
+    left: 82px;
+    height: 40px;
+    width: 18px;
+    border-radius: 100px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream8 {
+    position: absolute;
+    left: 100px;
+    height: 20px;
+    width: 22px;
+    border-radius: 100px;
+    top: 10px;
+    background: #744c28;
+}
+.cake_bottom3_cream9 {
+    position: absolute;
+    left: 122px;
+    height: 67px;
+    width: 24px;
+    border-radius: 100px;
+    background: #ff7fbf;
+    z-index: 3;
+}
+.cake_bottom3_cream10 {
+    position: absolute;
+    left: 146px;
+    height: 20px;
+    width: 9px;
+    border-radius: 100px;
+    top: 16px;
+    background: #744c28;
+}
+.cake_bottom3_cream11 {
+    position: absolute;
+    right: 140px;
+    height: 37px;
+    width: 15px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream12 {
+    position: absolute;
+    right: 128px;
+    height: 23px;
+    width: 12px;
+    border-radius: 100px;
+    top: 13px;
+    background: #5b3f27;
+}
+.cake_bottom3_cream13 {
+    position: absolute;
+    left: 116px;
+    height: 59px;
+    width: 36px;
+    border-radius: 100px;
+    background: #744c28;
+    z-index: 2;
+    top: 15px;
+}
+.cake_bottom3_cream14 {
+    position: absolute;
+    right: 108px;
+    height: 64px;
+    width: 20px;
+    border-radius: 9px;
+    background: #ff7fbf;
+    z-index: 3;
+}
+.cake_bottom3_cream15 {
+    position: absolute;
+    right: 102px;
+    height: 55px;
+    width: 31px;
+    border-radius: 100px;
+    background: #5a4027;
+    z-index: 2;
+    top: 15px;
+}
+.cake_bottom3_cream16 {
+    position: absolute;
+    right: 93px;
+    height: 23px;
+    width: 15px;
+    border-radius: 100px;
+    top: 8px;
+    background: #5b3f27;
+}
+.cake_bottom3_cream17 {
+    position: absolute;
+    right: 78px;
+    height: 47px;
+    width: 15px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream18 {
+    position: absolute;
+    right: 70px;
+    height: 23px;
+    width: 8px;
+    border-radius: 100px;
+    top: 16px;
+    background: #5b3f27;
+}
+.cake_bottom3_cream19 {
+    position: absolute;
+    right: 58px;
+    height: 30px;
+    width: 12px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream20 {
+    position: absolute;
+    right: 43px;
+    height: 23px;
+    width: 15px;
+    border-radius: 100px;
+    top: 8px;
+    background: #5b3f27;
+}
+.cake_bottom3_cream21 {
+    position: absolute;
+    right: 28px;
+    height: 38px;
+    width: 15px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom3_cream22 {
+    position: absolute;
+    right: 10px;
+    height: 23px;
+    width: 18px;
+    border-radius: 100px;
+    top: 14px;
+    background: #5b3f27;
+}
+.cake_bottom3_cream23 {
+    position: absolute;
+    right: -3px;
+    height: 30px;
+    width: 13px;
+    border-radius: 9px;
+    background: #ff7fbf;
+}
+.cake_bottom1_creams {
+    height: 10px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+.cake_bottom1_cream1 {
+    position: absolute;
+    left: 56px;
+    height: 6px;
+    width: 14px;
+    border-radius: 20px 20px 0px 0px;
+    background: #5a4027;
+    bottom: 0px;
+}
+.cake_bottom1_cream2 {
+    position: absolute;
+    left: 115px;
+    height: 5px;
+    width: 10px;
+    border-radius: 20px 20px 0px 0px;
+    background: #5a4027;
+    bottom: 0px;
+}
+.cake_bottom1_cream3 {
+    position: absolute;
+    right: 33px;
+    height: 8px;
+    width: 14px;
+    border-radius: 20px 20px 0px 0px;
+    background: #744c29;
+    bottom: 0px;
+}
+.cake_bottom1_cream4 {
+    position: absolute;
+    right: 58px;
+    height: 5px;
+    width: 11px;
+    border-radius: 20px 20px 0px 0px;
+    background: #744c29;
+    bottom: 0px;
+}
+.gift_top {
+    -webkit-transition: all 0.6s ease-in-out;
+    transition: all 0.6s ease-in-out;
+    o-transition: all 0.6s ease-in-out;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    -webkit-transition-delay: 0.6s;
+    transition-delay: 0.6s;
+}
+.gift:hover .gift_top {
+    top: -100px;
+    -webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+.gift_ribbon_left {
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    o-transition: all 0.3s ease-in-out;
+    -webkit-transition-delay: 1s;
+    transition-delay: 1s;
+}
+.gift_ribbon_center {
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    o-transition: all 0.3s ease-in-out;
+    -webkit-transition-delay: 1s;
+    transition-delay: 1s;
+}
+.gift:hover .gift_ribbon_left {
+    height: 32px;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+.gift:hover .gift_ribbon_center {
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+    height: 102px;
+}
+.gift_box_bottom_top {
+    -webkit-transition-delay: 1.1s;
+    transition-delay: 1.1s;
+}
+.gift:hover .gift_box_bottom_top {
+    height: 0px;
+    opacity: 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition-delay: 0.4s;
+    transition-delay: 0.4s;
+    o-transition: all 0.3s ease-in-out;
+}
+.giftcard {
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0px 1px 0px 1px #fee4c0;
+    padding: 10px;
+    width: 80px;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ff3f48;
+    left: 0px;
+    top: 100px;
+    right: 0px;
+    margin: 0px auto;
+    position: absolute;
+    line-height: 26px;
+    z-index: -1;
+    text-align: center;
+    -webkit-transition: all 0.6s ease-in-out;
+    transition: all 0.6s ease-in-out;
+    -webkit-transition-delay: 0.5s;
+    transition-delay: 0.5s;
+    o-transition: all 0.6s ease-in-out;
+}
+.gift:hover .giftcard {
+    top: -10px;
+}
+.one_number {
+    position: absolute;
+    left: 147px;
+    top: 25px;
+    width: 9px;
+}
+.one_number:after {
+    content: "";
+    height: 5px;
+    width: 0px;
+    position: absolute;
+    background: #c6c6c6;
+    top: 0px;
+    left: 0px;
+}
+.one_number:before {
+    content: "";
+    height: 25px;
+    width: 5px;
+    position: absolute;
+    background: #c6c6c6;
+    top: 0px;
+    right: 1px;
+}
+.seven_number {
+    position: absolute;
+    right: 147px;
+    top: 25px;
+    width: 14px;
+}
+.seven_number:after {
+    content: "";
+    /*width: 20px;*/
+    
+    height: 5px;
+    position: absolute;
+    background: #c6c6c6;
+    top: 0px;
+    left: -12px;
+}
+.seven_number:before {
+    content: "";
+    height: 27px;
+    width: 5px;
+    position: absolute;
+    background: #c6c6c6;
+    top: 0px;
+    right: 3px;
+}
+.seven_flame {
+    height: 12px;
+    width: 6px;
+    border-radius: 100%;
+    background: #ffd215;
+    position: absolute;
+    right: 3px;
+    -webkit-animation: flame 0.5s infinite linear;
+    animation: flame 0.5s infinite linear;
+    -moz-animation: flame 0.5s infinite linear;
+    bottom: 2px;
+}
+.one_flame {
+    height: 12px;
+    width: 6px;
+    border-radius: 100%;
+    background: #ffd215;
+    position: absolute;
+    right: 1px;
+    bottom: 2px;
+    -webkit-animation: flame 0.5s infinite linear;
+    animation: flame 0.5s infinite linear;
+    -moz-animation: flame 0.5s infinite linear;
+}
+@-webkit-keyframes flame {
+    0% {
+        height: 12px;
+        background: #fdd214;
+    }
+    50% {
+        height: 14px;
+        background: #ffc617;
+    }
+    100% {
+        height: 12px;
+        background: #fdd214;
+    }
+}
+@keyframes flame {
+    0% {
+        height: 12px;
+        background: #fdd214;
+    }
+    50% {
+        height: 14px;
+        background: #ffc617;
+    }
+    100% {
+        height: 12px;
+        background: #fdd214;
+    }
+}
+@-moz-keyframes flame {
+    0% {
+        height: 12px;
+        background: #fdd214;
+    }
+    50% {
+        height: 14px;
+        background: #ffc617;
+    }
+    100% {
+        height: 12px;
+        background: #fdd214;
+    }
+}
+</style>
+</head>
+<body>
+<section class="wrap">
+    <section class="gift">
+        <div class="giftcard">亲们,
+            <br/>生日快乐！</div>
+        <section class="gift_top">
+            <div class="ribbon_right"></div>
+            <div class="ribbon_left"></div>
+            <div class="gift_box_top"></div>
+            <div class="gift_ribbon_left"></div>
+        </section>
+        <div class="gift_ribbon_center"></div>
+        <div class="gift_box_bottom_top"></div>
+        <div class="gift_box_bottom">
+            <div class="gift_box_bottom_ribbon" id="ribbon1"></div>
+            <div class="gift_box_bottom_ribbon" id="ribbon2"></div>
+            <div class="gift_box_bottom_ribbon" id="ribbon3"></div>
+            <div class="gift_box_bottom_ribbon" id="ribbon4"></div>
+        </div>
+    </section>
+    <section class="cake">
+        <div class="one_number">
+            <div class="one_flame"></div>
+        </div>
+        <div class="seven_number">
+            <div class="seven_flame"></div>
+        </div>
+        <section class="cake_top2">
+            <section class="cake_top1_creams">
+                <div class="cake_top1_cream1"></div>
+                <div class="cake_top1_cream2"></div>
+                <div class="cake_top1_cream3"></div>
+                <div class="cake_top1_cream4"></div>
+                <div class="cake_top1_cream5"></div>
+                <div class="cake_top1_cream6"></div>
+                <div class="cake_top1_cream7"></div>
+                <div class="cake_top1_cream8"></div>
+                <div class="cake_top1_cream9"></div>
+                <div class="cake_top1_cream10"></div>
+                <div class="cake_top1_cream11"></div>
+                <div class="cake_top1_cream12"></div>
+                <div class="cake_top1_cream13"></div>
+            </section>
+        </section>
+        <section class="cake_top1">
+            <div class="cherry" id="cherry1"></div>
+            <div class="cherry" id="cherry2"></div>
+            <div class="cherry" id="cherry3"></div>
+            <div class="cherry" id="cherry4"></div>
+            <div class="cherry" id="cherry5"></div>
+            <section class="circles">
+                <div class="cake_circle" id="circle1"></div>
+                <div class="cake_circle" id="circle2"></div>
+                <div class="cake_circle" id="circle3"></div>
+                <div class="cake_circle" id="circle4"></div>
+                <div class="cake_circle" id="circle5"></div>
+            </section>
+            <div class="cake_line" id="cake_line1"></div>
+            <div class="cake_line" id="cake_line2"></div>
+            <div class="cake_line" id="cake_line3"></div>
+            <div class="cake_line" id="cake_line4"></div>
+            <div class="cake_line" id="cake_line5"></div>
+            <div class="cake_line" id="cake_line6"></div>
+            <div class="cake_line" id="cake_line7"></div>
+            <div class="cake_line" id="cake_line8"></div>
+            <div class="cake_line" id="cake_line9"></div>
+            <div class="cake_line" id="cake_line10"></div>
+            <div class="cake_line" id="cake_line11"></div>
+            <div class="cake_line" id="cake_line12"></div>
+            <div class="cake_line" id="cake_line13"></div>
+            <div class="cake_line" id="cake_line14"></div>
+            <div class="cake_line" id="cake_line15"></div>
+            <div class="cake_line" id="cake_line16"></div>
+            <div class="cake_line" id="cake_line17"></div>
+            <div class="cake_line" id="cake_line18"></div>
+            <div class="cake_line" id="cake_line19"></div>
+            <div class="cake_line" id="cake_line20"></div>
+            <div class="cake_line" id="cake_line21"></div>
+            <div class="cake_line" id="cake_line22"></div>
+            <div class="cake_line" id="cake_line23"></div>
+            <div class="cake_line" id="cake_line24"></div>
+        </section>
+        <section class="cake_bottom3">
+            <section class="cake_bottom3_creams">
+                <div class="cake_bottom3_cream1"></div>
+                <div class="cake_bottom3_cream2"></div>
+                <div class="cake_bottom3_cream3"></div>
+                <div class="cake_bottom3_cream4"></div>
+                <div class="cake_bottom3_cream5"></div>
+                <div class="cake_bottom3_cream6"></div>
+                <div class="cake_bottom3_cream7"></div>
+                <div class="cake_bottom3_cream8"></div>
+                <div class="cake_bottom3_cream9"></div>
+                <div class="cake_bottom3_cream10"></div>
+                <div class="cake_bottom3_cream11"></div>
+                <div class="cake_bottom3_cream12"></div>
+                <div class="cake_bottom3_cream13"></div>
+                <div class="cake_bottom3_cream14"></div>
+                <div class="cake_bottom3_cream15"></div>
+                <div class="cake_bottom3_cream16"></div>
+                <div class="cake_bottom3_cream17"></div>
+                <div class="cake_bottom3_cream18"></div>
+                <div class="cake_bottom3_cream19"></div>
+                <div class="cake_bottom3_cream20"></div>
+                <div class="cake_bottom3_cream21"></div>
+                <div class="cake_bottom3_cream22"></div>
+                <div class="cake_bottom3_cream23"></div>
+            </section>
+        </section>
+        <section class="cake_bottom2">
+            <section class="cake_bottom1_creams">
+                <div class="cake_bottom1_cream1"></div>
+                <div class="cake_bottom1_cream2"></div>
+                <div class="cake_bottom1_cream3"></div>
+                <div class="cake_bottom1_cream4"></div>
+            </section>
+        </section>
+        <div class="cake_bottom">
+        </div>
+    </section>
+    <div class="line"></div>
+</section>
+</body>
+</html>
