@@ -21,6 +21,7 @@
 
 - **微软官网**：[安装 PowerShell**](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
    
+- **微软官网**：[保护**个人保管库**中的 OneDrive 文件**](https://support.microsoft.com/zh-cn/office/%E4%BF%9D%E6%8A%A4%E4%B8%AA%E4%BA%BA%E4%BF%9D%E7%AE%A1%E5%BA%93%E4%B8%AD%E7%9A%84-onedrive-%E6%96%87%E4%BB%B6-6540ef37-e9bf-4121-a773-56f98dce78c4)  - OneDrive
 -------------------------------------------------
 
 - **微软常用运行库合集** : [**最新支持的 Visual C++ 官网下载**](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads) @[本地备份下载](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/%E5%BE%AE%E8%BD%AF%E8%BF%90%E8%A1%8C%E5%AE%98%E6%96%B9%E5%BA%93VC_redist.x64.exe)（这是包含Visual C++ 2015、2017 和 2019合集，低版本2012-2008版需到[官网下载](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads)）
