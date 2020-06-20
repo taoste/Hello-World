@@ -22,6 +22,15 @@
 - **微软官网**：[安装 PowerShell**](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
    
 - **微软官网**：[保护**个人保管库**中的 OneDrive 文件**](https://support.microsoft.com/zh-cn/office/%E4%BF%9D%E6%8A%A4%E4%B8%AA%E4%BA%BA%E4%BF%9D%E7%AE%A1%E5%BA%93%E4%B8%AD%E7%9A%84-onedrive-%E6%96%87%E4%BB%B6-6540ef37-e9bf-4121-a773-56f98dce78c4)  - OneDrive
+
+>> [OneDrive 发行说明](https://support.microsoft.com/zh-cn/office/onedrive-%e5%8f%91%e8%a1%8c%e8%af%b4%e6%98%8e-845dcf18-f921-435e-bf28-4e24b95e5fc0?ui=zh-cn&rs=zh-cn&ad=cn) - Office 支持
+
+>> [OneDrive 网页版无法登陆](https://answers.microsoft.com/zh-hans/msoffice/forum/all/onedrive/dba07717-efb1-4c21-b4aa-bab727a6eb53) - Microsoft Community
+
+>>> @[lykwo](https://answers.microsoft.com/zh-hans/profile/36fd33b2-b0af-4cdf-bd73-55fe4b900789) 答案:使用[OneDrive客户端](https://support.office.com/article/845dcf18-f921-435e-bf28-4e24b95e5fc0)就可以了
+
+>>>> 我国相关执法部门屏蔽了网页版OneDrive的服务，在大陆您将无法正常访问网页版的OneDrive，您可以参考@lykwo的建议，[下载最新的OneDrive同步客户端](https://support.office.com/zh-cn/article/onedrive-%e5%8f%91%e8%a1%8c%e8%af%b4%e6%98%8e-845dcf18-f921-435e-bf28-4e24b95e5fc0?ui=zh-CN&rs=zh-CN&ad=CN) ，然后参考这篇文章：[在 Windows 上使用 OneDrive 同步文件](https://support.office.com/zh-cn/article/%e5%9c%a8-windows-%e4%b8%8a%e4%bd%bf%e7%94%a8-onedrive-%e5%90%8c%e6%ad%a5%e6%96%87%e4%bb%b6-615391c4-2bd3-4aae-a42a-858262e42a49?ui=zh-CN&rs=zh-CN&ad=CN) ，登录您的个人账号，然后在本地同步文件夹中删除不需要的文件。
+
 -------------------------------------------------
 
 - **微软常用运行库合集** : [**最新支持的 Visual C++ 官网下载**](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads) @[本地备份下载](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/%E5%BE%AE%E8%BD%AF%E8%BF%90%E8%A1%8C%E5%AE%98%E6%96%B9%E5%BA%93VC_redist.x64.exe)（这是包含Visual C++ 2015、2017 和 2019合集，低版本2012-2008版需到[官网下载](https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads)）
