@@ -25,7 +25,7 @@
 
 》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。 
 
-- 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》
+- 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》 [中文说明](https://github.com/jae-jae/Userscript-Plus/blob/master/README-ZH.md)@[Github](https://github.com/jae-jae/Userscript-Plus)
 
 
 - 《[18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键](https://www.appinn.com/h5player-video-control-greasemonkey/)[[油猴脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)/[Github](https://github.com/xxxily/h5player)]》 - 小众软件
