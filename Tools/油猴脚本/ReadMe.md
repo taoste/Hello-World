@@ -27,6 +27,22 @@
 
 - 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》 [中文说明](https://github.com/jae-jae/Userscript-Plus/blob/master/README-ZH.md)@[Github](https://github.com/jae-jae/Userscript-Plus)
 
+![userscript+cn.gif](https://cdn.rawgit.com/jae-jae/_resources/master/img/userscript+cn.gif)
+
+[![Build Status](https://travis-ci.org/jae-jae/Userscript-Plus.svg?branch=master)](https://travis-ci.org/jae-jae/Userscript-Plus)
+[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-up%20to%20date-green.svg)](https://tampermonkey.net/)
+[![webpack](https://img.shields.io/badge/webpack-3.x-orange.svg)](https://github.com/webpack/webpack)
+[![Vue](https://img.shields.io/badge/Vue-2.4%2B-yellow.svg)](https://vuejs.org/)
+[![iView](https://img.shields.io/badge/iView-2.2.0-brightgreen.svg)](https://www.iviewui.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![i18n](https://img.shields.io/badge/i18n-PR-blue.svg)](https://github.com/jae-jae/Userscript-Plus/tree/master/src/common/lang)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&style=flat-square)](https://github.com/jae-jae/Userscript-Plus)
+
+> 显示当前网站所有的UserJS,一种更容易安装UserJS的方式对于Tampermonkey
+
+**Userscript+** 是一款`Tampermonkey`脚本,作用是当你浏览网页的时候,从右下角自动为你推荐适用于当前页面的`Tampermonkey`脚本，并且可以一键安装指定的脚本。
+
+很多时候，我们并不知道一些网站是否有用户提供用来优化页面的脚本，而**Userscript+** 就能帮你自动寻找适用的UserJS，并默认按照评分高低排序推荐给你,给你带来一种全新的`Tampermonkey`使用体验！
 
 - 《[18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键](https://www.appinn.com/h5player-video-control-greasemonkey/)[[油猴脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)/[Github](https://github.com/xxxily/h5player)]》 - 小众软件
 
