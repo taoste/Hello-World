@@ -41,7 +41,8 @@
 
 
 - **迅捷PDF编辑器（破解版）**（  <a href="https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/%E8%BF%85%E6%8D%B7PDF%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%88%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%89.rar?raw=true" title="【本地下载】迅捷PDF编辑器（破解版）">本地下载</a> ）
-
+> 《[使用迅捷PDF编辑器免费去除pdf水印](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/%E4%BD%BF%E7%94%A8%E8%BF%85%E6%8D%B7PDF%E7%BC%96%E8%BE%91%E5%99%A8%E5%85%8D%E8%B4%B9%E5%8E%BB%E9%99%A4pdf%E6%B0%B4%E5%8D%B0.pdf)》 - @[简书](https://www.jianshu.com/p/7aff4f730d53)
+>> 重点设置：（右击缩略图->选中提取页面->选中页面范围为：全部\文件名称\目标文件夹\确定）
 
 - [**PS如何制作线稿图**](https://jingyan.baidu.com/article/6b1823095110c5ba58e15935.html) - 百度经验  
 > 方法/步骤:
