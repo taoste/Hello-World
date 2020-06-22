@@ -35,6 +35,9 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
 
  - 网传蔡霞教授发言：@[德国之声|DW](https://p.dw.com/p/3dIwq) | 05.06.2020
  >> Youtube网站上可以听到这段音频录音。
+
+ <img src="http://download.iask.ca/remote/www.wenxuecity.com/data/news/202006/21/848a27cde4b408bb343abc9a9088d330.jpg"  title="2020年中国著名教育家聂圣哲与法学教授贺卫方都在微信群组里讨论三峡问题。（图片来源：微信截图）" />
+
  
 -------------------------------------
 
