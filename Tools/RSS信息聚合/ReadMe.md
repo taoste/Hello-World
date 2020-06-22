@@ -3,7 +3,7 @@
 - 《[强大的Tiny Tiny RSS替代品Feedbro-适合新手，无需搭建](https://zhuanlan.zhihu.com/p/62331418)》 - 知乎  
 
 - 《[Fluent Reader - 开源的桌面 RSS 阅读器[Win/macOS]](https://www.appinn.com/fluent-reader/)》 - [小众软件](https://www.appinn.com/) (2020/06/22)
-> Fluent Reader 是一款开源的桌面 RSS 阅读器，支持 Windows 与 macOS，有卡片和列表两种视图，可为每一个订阅源选择两种阅读方式：使用 RSS 正文或者直接加载网页。@[Appinn](https://www.appinn.com/fluent-reader/) 来自[发现频道](https://meta.appinn.net/t/fluent-reader-rss/17096) ，@yang991178 的推荐：一款现代、跨平台、开源的桌面本地 RSS 阅读器。( [如何使用 RSS 订阅论坛 - 站务 - 小众软件官方论坛](https://meta.appinn.net/t/rss/15481) )
+> Fluent Reader 是一款开源的桌面 RSS 阅读器@[Github](https://github.com/yang991178/fluent-reader)，支持 [Windows](https://www.microsoft.com/store/apps/9P71FC94LRH8?cid=appinn) 与 macOS，有卡片和列表两种视图，可为每一个订阅源选择两种阅读方式：使用 RSS 正文或者直接加载网页。@[Appinn](https://www.appinn.com/fluent-reader/) 来自[发现频道](https://meta.appinn.net/t/fluent-reader-rss/17096) ，@yang991178 的推荐：一款现代、跨平台、开源的桌面本地 RSS 阅读器。( [如何使用 RSS 订阅论坛 - 站务 - 小众软件官方论坛](https://meta.appinn.net/t/rss/15481) )
 
 - 《[Feedbro Reader Chrome扩展汉化](https://www.52pojie.cn/thread-992569-1-1.html)》 - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 
