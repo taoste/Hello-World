@@ -31,6 +31,16 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
 ```
 >> 寧與孤獨為伍，不與愚者為友。
 
+- Twitter: 李子佛( @[lizife](https://twitter.com/lizife) ) [上午10:10 · 2020年6月22日](https://twitter.com/lizife/status/1275008251952689157/photo/1)
+
+>　【被毙掉的《水浒》主题歌】
+
+>>　当年任全国政协委员、有“巴蜀鬼才”之称的魏明伦创作的《水浒》电视连续剧主题歌词，送审未予通过。
+
+       据说，这首歌词得到了剧组的一致好评，被决定为连续剧播映时的主题曲。但他们兴冲冲拿到主管部门送审时，被枪毙了。
+
+>> <a href="https://twitter.com/lizife/status/1275008251952689157/photo/1"> <img src="https://pbs.twimg.com/media/EbG9PdbUYAAzE9S?format=jpg&name=medium" title="【被毙掉的《水浒》主题歌】" /></a>
+
 - Twitter: 老司机( @[h5LPyKL7TP6jjop](https://twitter.com/h5LPyKL7TP6jjop) ) [上午8:41 · 2020年2月11日](https://twitter.com/h5LPyKL7TP6jjop/status/1227150538694807552)
 > 今日金贴：
 >> 开会时称人民，落户时称居民，强拆时称刁民，发怒时称屁民，发声时称疑犯，收税时成了公民，打仗时称亲人。对外，老子有钱，到处撒钱。对内，老子有枪，到处开枪。据说，人民的幸福是党和政府给的，那么人民的痛苦是谁给的？我们只能这样回答：人民的痛苦都是自找的....................
