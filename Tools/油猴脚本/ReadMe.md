@@ -83,3 +83,7 @@
  >  支持划词翻译，输入文本翻译,谷歌整页翻译。可以自行选择谷歌翻译,有道字典翻译和百度翻译。 
 
 - [**Google网页翻译**](https://greasyfork.org/zh-CN/scripts/38244-google%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91) - 不跳转Google翻译页面的整页翻译 
+
+- [**自动展开全文**](https://greasyfork.org/zh-CN/scripts/397476-%E8%87%AA%E5%8A%A8%E5%B1%95%E5%BC%80%E5%85%A8%E6%96%87) - 自动展开网站内容而无需点击。
+
+- [**链接地址洗白白**](https://greasyfork.org/zh-CN/scripts/373270-%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E6%B4%97%E7%99%BD%E7%99%BD7) - 把链接地址缩减至最短可用状态，并复制到剪切板，以方便分享。【在每个页面的底部中间，有一个小小的按钮，用来呼出面板】
