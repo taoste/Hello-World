@@ -28,6 +28,10 @@
       
 - [**种子导航**](https://www.zhongzidaohang.com/) _ [**网址导航大全**](https://www.zhongzidaohang.cn/) _ 免费便捷的中文站点安全服务主页_ 上网导航 _ [**种子搜**](https://www.zhongziso.com/) _ [**种子帝**](https://www.zhongzidaohang.com/) 
 https://www.zhongzihu.com
+
+BThook磁力链接搜索引擎
+http://bt23.xyz/
+
 -----------------------------
 
 - [**uTorrent 官网（中文版）**](https://www.utorrent.com/intl/zh_cn/downloads/win) - Windows 
