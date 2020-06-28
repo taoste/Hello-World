@@ -12,7 +12,7 @@
 
 > [**如何高效使用PyCharm的系列文档**](http://pedrokroger.net/getting-started-pycharm-python-ide/) ：图文并茂的介绍了许多高效的技巧，比如快捷键设置等等，可以在上手之后持续学习。
 
-> 参考资料：《[Pycharm2020.1安装中文语言插件教程，不需要汉化](https://blog.csdn.net/qq_42825420/article/details/105690039)》 _ [汐陌青](https://me.csdn.net/qq_42825420) - [CSDN博客](https://blog.csdn.net/)
+> [参考资料](https://so.csdn.net/so/search/s.do?q=Python) ：《[Pycharm2020.1安装中文语言插件教程，不需要汉化](https://blog.csdn.net/qq_42825420/article/details/105690039)》 _ [汐陌青](https://me.csdn.net/qq_42825420) - [CSDN博客](https://blog.csdn.net/)
 
 《[源码图鉴](https://wood.codemao.cn/wood_docs/web/code/)》 | 源码图鉴
 
