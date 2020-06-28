@@ -1,5 +1,7 @@
 》 [国际顶级医学期刊](http://paper.sciencenet.cn/p-CNS-14.aspx)《[**柳叶刀**](https://www.thelancet.com/)》 https://www.thelancet.com/
 
+>> 柳叶刀《[COVID-19相关内容中文翻译精选](https://www.thelancet.com/coronavirus/translations)》
+
 > @[维基百科](https://zh.wikipedia.org/zh/%E6%9F%B3%E8%91%89%E5%88%80_(%E9%9B%9C%E8%AA%8C)) : 
 ```
 《柳叶刀》为世界上最悠久及最受重视的同行评审性质之医学期刊之一，
