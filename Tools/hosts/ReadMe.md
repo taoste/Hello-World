@@ -28,6 +28,10 @@
 > [#csdn.net](https://bgp.he.net/dns/csdn.net)
 > 47.95.164.112 csdn.net
 >
+> [#feedly.com](https://bgp.he.net/dns/feedly.com)
+> #104.20.60.241 feedly.com 
+> #104.20.59.241 feedly.co
+>
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
 > [View on GitHub](https://github.com/bitbeans/SimpleDnsCrypt)
@@ -103,7 +107,11 @@ hosts文件的其它用途
  #2400:CB00:2048:1::681C:1A34 zuola.com
  
  #csdn.net
-47.95.164.112 csdn.net
+ 47.95.164.112 csdn.net
+
+#feedly.com
+#104.20.60.241 feedly.com
+#104.20.59.241 feedly.com
  </code></pre>
 
 -----
