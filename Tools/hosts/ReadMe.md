@@ -90,11 +90,26 @@ hosts文件的其它用途
 -----
 
 <pre><code>
- #草榴社區
- #104.25.32.112 t66y.com
- #104.25.31.112 t66y.com
- #2400:CB00:2048:1::6819:1F70 t66y.com
- #2400:CB00:2048:1::6819:2070 t66y.com
+
+# notepad %SystemRoot%\System32\drivers\etc\hosts
+
+# ipconfig /release 释放ip
+
+# ipconfig /renew 重新获取ip
+
+# ipconfig /flushdns 清除系统DNS缓存
+
+#草榴社區
+104.25.32.112 t66y.com
+104.25.31.112 t66y.com
+172.67.74.241 t66y.com
+104.26.11.160 t66y.com
+104.26.10.160 t66y.com
+2400:CB00:2048:1::6819:1F70 t66y.com
+2400:CB00:2048:1::6819:2070 t66y.com
+2606:4700:20::681A:BA0 t66y.com
+2606:4700:20::681A:AA0 t66y.com
+2606:4700:20::AC43:4AF1 t66y.com
  
  #sex.com
  #206.125.164.82 sex.com
@@ -106,13 +121,25 @@ hosts文件的其它用途
  #2400:CB00:2048:1::681C:1B34 zuola.com
  #2400:CB00:2048:1::681C:1A34 zuola.com
  
- #csdn.net
- 47.95.164.112 csdn.net
-
 #feedly.com
-#104.20.60.241 feedly.com
-#104.20.59.241 feedly.com
- </code></pre>
+104.20.60.241 feedly.com
+104.20.59.241 feedly.com
+
+#csdn.net
+47.95.164.112 csdn.net
+
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
+
+127.0.0.1 idb.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 iunins.iobit.com
+
+</code></pre>
 
 -----
 
