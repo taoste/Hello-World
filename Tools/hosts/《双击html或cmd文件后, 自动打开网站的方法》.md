@@ -7,25 +7,28 @@
 > 方法1
 
 >>保存为xxx.html
- <pre><code>
+
+```
 <script language="javascript" type="text/javascript">   
 // 以下方式直接跳转  
 window.location.href='http://www.weather.com.cn/forecast/';  
 </script> 
-</code></pre>
+```
 
 > 方法2
 >> 保存为xxx.html
- <pre><code>
+
+```
 <head>  
 <!-- 以下方式定时转到其他页面 -->  
 <meta http-equiv="refresh" content="5;url=http://www.weather.com.cn/forecast/">   
 </head> 
-</code></pre>
+```
 
 > 方法3
 >> 保存为xxx.html
- <pre><code>
+
+```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <html lang="en">
@@ -40,32 +43,32 @@ window.location.href='http://www.weather.com.cn/forecast/';
     </script>
 </body>
 </html>
-</code></pre>
+```
 
 > 方法4
 >> 保存为xxx.cmd或者xxx.cmd
- <pre><code>
+```
 @ECHO off
 START http://www.cma.gov.cn/
 REM explorer http://www.cma.gov.cn/
 REM start chrome.exe "http://www.cma.gov.cn/"
 REM START iexplore.exe "http://www.cma.gov.cn/"
-</code></pre>
+```
 
-> 定时跳转
+- 定时跳转
 
 > 方法1
 >> 保存为xxx.html.
- <pre><code>
+```
 <script language="javascript" type="text/javascript">   
 // 以下方式定时跳转, 5s 后跳转
 setTimeout("javascript:location.href='http://www.weather.com.cn/forecast/'", 5000);   
 </script>  
-</code></pre>
+```
 
 > 方法2
 >> 保存为xxx.html.
- <pre><code>
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -90,8 +93,7 @@ setTimeout("javascript:location.href='http://www.weather.com.cn/forecast/'", 500
 <body>
 	<span style="color:red" id="second">5</span>秒钟后跳转，如不跳转点击<a href="http://www.weather.com.cn/forecast/">这里</a>!
 </body>
-</code></pre>
-
+```
 ————————————————
 
 版权声明：本文为CSDN博主「兴趣斗士」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
