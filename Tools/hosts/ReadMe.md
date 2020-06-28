@@ -25,6 +25,9 @@
 > 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 > 
+> [#csdn.net](https://bgp.he.net/dns/csdn.net)
+> 47.95.164.112 csdn.net
+>
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
 > [View on GitHub](https://github.com/bitbeans/SimpleDnsCrypt)
@@ -98,6 +101,9 @@ hosts文件的其它用途
  #104.28.26.52 zuola.com
  #2400:CB00:2048:1::681C:1B34 zuola.com
  #2400:CB00:2048:1::681C:1A34 zuola.com
+ 
+ #csdn.net
+47.95.164.112 csdn.net
  </code></pre>
 
 -----
