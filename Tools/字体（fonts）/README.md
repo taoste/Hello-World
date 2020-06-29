@@ -48,7 +48,7 @@ Windows 运行（Win + R ）：%windir%\fonts
 > 其实就是**华文中宋**字体，它应用于各类发票打印的标准字体，并适用于印刷包装、平面设计、广告创意等行业领域
 
 > [如何辨别红头文件的真假？](https://www.zhihu.com/question/32255298) - 知乎
->> 《[国务院关于国家行政机关和企业事业单位社会团体印章管理的规定](http://www.gov.cn/xxgk/pub/govpublic/mrlm/201011/t20101115_62739.html)》 | 中华人民共和国国务院办公厅 - 政府信息公开专栏
+>> 《[国务院关于国家行政机关和企业事业单位社会团体印章管理的规定](http://www.gov.cn/xxgk/pub/govpublic/mrlm/201011/t20101115_62739.html)》 | 中华人民共和国国务院办公厅 - [政府信息公开专栏](http://www.gov.cn/xxgk/pub/govpublic/)
 
 --------
 
