@@ -19,7 +19,26 @@
    
 -------------------------------------------------
 
-- **微软官网**：[安装 PowerShell**](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
+- **微软官网**：[安装 PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
+   
+- [微软官方上线文件恢复工具](https://www.williamlong.info/archives/6115.html) - @月光博客 (2020-6-28)
+```
+日前，微软应用商店上架了一个来自官方发布的数据恢复工具Windows File Recovery，这款工具可以用来恢复被删除的文件，或者从格式化或损坏的硬盘中恢复文件，在用户不小心删除或丢失数据之时发挥作用、省去一些麻烦。
+
+　　据悉，Windows File Recovery是微软商店中的一个免费应用程序，是一个存储空间占用8.29 MB的命令行工具，可用于恢复因各种原因丢失的数据。即使清空了硬盘，它也可以帮助用户恢复照片，文档，视频等文件。按照功能描述的说法，该工具甚至可以从连接的相机或 SD 卡恢复数据，不过其不支持网络驱动器。
+
+　　按照官方说法，该工具功能包括：
+
+　　1、在恢复文件中定位文件名，关键字，文件路径或扩展名。
+
+　　2、恢复 JPEG，PDF，PNG，MPEG，Office 文件，MP3 和 MP4，ZIP 文件等。
+
+　　3、从 HDD，SSD，USB 和存储卡中恢复文件。
+
+　　4、支持 NTFS、FAT、exFAT、和ReFS文件系统。
+
+　　下载地址：https://www.microsoft.com/en-us/p/Windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab
+```
    
 - **微软官网**：[保护**个人保管库**中的 OneDrive 文件**](https://support.microsoft.com/zh-cn/office/%E4%BF%9D%E6%8A%A4%E4%B8%AA%E4%BA%BA%E4%BF%9D%E7%AE%A1%E5%BA%93%E4%B8%AD%E7%9A%84-onedrive-%E6%96%87%E4%BB%B6-6540ef37-e9bf-4121-a773-56f98dce78c4)  - OneDrive
 
