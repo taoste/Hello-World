@@ -21,11 +21,14 @@
 
 - **微软官网**：[安装 PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)  (尝试新的跨平台 Power Shell [https://aka.ms/pscore6](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7)) | Microsoft Docs
    
-- [微软官方上线文件恢复工具](https://www.williamlong.info/archives/6115.html) - @月光博客 (2020-6-28)
+- **微软官网**：[Windows File Recovery 文件恢复工具](https://www.microsoft.com/zh-cn/p/Windows-file-recovery/9n26s50ln705) - Microsoft Store zh-CN
+> 《[微软官方上线文件恢复工具](https://www.williamlong.info/archives/6115.html)》 - @月光博客 (2020-6-28)
 ```
-日前，微软应用商店上架了一个来自官方发布的数据恢复工具Windows File Recovery，这款工具可以用来恢复被删除的文件，或者从格式化或损坏的硬盘中恢复文件，在用户不小心删除或丢失数据之时发挥作用、省去一些麻烦。
+日前，微软应用商店上架了一个来自官方发布的数据恢复工具Windows File Recovery，这款工具可以用来恢复被删除的文件，
+或者从格式化或损坏的硬盘中恢复文件，在用户不小心删除或丢失数据之时发挥作用、省去一些麻烦。
 
-　　据悉，Windows File Recovery是微软商店中的一个免费应用程序，是一个存储空间占用8.29 MB的命令行工具，可用于恢复因各种原因丢失的数据。即使清空了硬盘，它也可以帮助用户恢复照片，文档，视频等文件。按照功能描述的说法，该工具甚至可以从连接的相机或 SD 卡恢复数据，不过其不支持网络驱动器。
+　　据悉，Windows File Recovery是微软商店中的一个免费应用程序，是一个存储空间占用8.29 MB的命令行工具，可用于恢复因各种原因丢失的数据。
+  即使清空了硬盘，它也可以帮助用户恢复照片，文档，视频等文件。按照功能描述的说法，该工具甚至可以从连接的相机或 SD 卡恢复数据，不过其不支持网络驱动器。
 
 　　按照官方说法，该工具功能包括：
 
