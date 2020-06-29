@@ -19,7 +19,7 @@
 - [社会工程学《欺骗的艺术》](https://taoste.github.io/Hello-World/eBook/ProgramThink/社会工程学《欺骗的艺术》.pdf) 
 - [简·尼尔森：正面管教.pdf](https://taoste.github.io/Hello-World/eBook/ProgramThink/%E7%AE%80%C2%B7%E5%B0%BC%E5%B0%94%E6%A3%AE%EF%BC%9A%E6%AD%A3%E9%9D%A2%E7%AE%A1%E6%95%99.pdf)
 
-💗 - 回复评论：[关于“认清生活的真相”](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592900175011&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author#1592900175011) | [关于“最危险的地方就是最安全的地方”](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592900239657)
+💗 - 回复评论：[关于“认清生活的真相”](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592900175011&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author#1592900175011) | [关于“最危险的地方就是最安全的地方”](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592900239657) | [关于“为啥会聊到【偶像崇拜】？”](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592975837373)
 
 ---------------------------------
 
