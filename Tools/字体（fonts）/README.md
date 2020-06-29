@@ -6,7 +6,7 @@
 
 - [**字体下载**](https://www.jb51.net/fonts/) - **脚本之家** （ site:[jb51.net](https://www.jb51.net/) )
 
-- 【**金山词霸的音标字体( Kingsoft Phonetic Plain )**】 > [英语音标汉语拼音字体/官方下载](https://dl.pconline.com.cn/download/581556.html) - [太平洋下载中心](https://dl.pconline.com.cn/sort/72.html)
+- 【**金山词霸的音标字体( [Kingsoft Phonetic Plain](https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E9%9F%B3%E6%A0%87%E5%AD%97%E4%BD%93Kingsoft%2BPhonetic%2BPlain.ttf) )**】 > [英语音标汉语拼音字体/官方下载](https://dl.pconline.com.cn/download/581556.html) - [太平洋下载中心](https://dl.pconline.com.cn/sort/72.html)
 
 > [48个英语音标表-附一个flash实现的音标的读音_中英文对照](https://www.jb51.net/article/9270.htm) _ 脚本之家
 
