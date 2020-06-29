@@ -25,6 +25,8 @@
 
 [关于“三峡工程” ](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592836557410&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author) | [关于“北朝鲜动态” ](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592836394884&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author) | [关于“北京疫情的看法” ](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592836296283&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author)
 
+[关于“系统分区”](https://program-think.blogspot.com/2020/06/Linux-Logical-Volume-Manager.html?comment=1592757870910&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author)
+
 ---------------------------------
 
 💗  精选：[**分享各个领域的一些格言**](https://program-think.blogspot.com/2014/08/maxim.html) @[编程随想的博客](https://program-think.blogspot.com/)
