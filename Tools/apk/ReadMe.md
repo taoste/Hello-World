@@ -26,6 +26,9 @@
 
 - [Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]](https://www.appinn.com/alphabet-letter-confidence/) @[App Store](https://itunes.apple.com/app/alphabet-letter-confidence/id484776617) - [小众软件](https://www.appinn.com/)
 
+- [Musicolet Music Player - 个人已知安卓下最省心的音乐播放器](https://www.appinn.com/musicolet-music-player/) @[Download](https://590m.com/file/15690961-449565760) - [小众软件](https://www.appinn.com/)
+>> Musicolet Music Player 是一款 Android 下的本地音乐播放器，无需联网权限，免费、小巧、无广告，只有 1.98MB 大小。被发现频道的 @C-Entropy 同学誉为：个人已知安卓下最省心的音乐播放器。@Appinn
+
 💗 [**发现感兴趣的移动应用app**](https://www.douban.com/app/) - [豆瓣](https://www.douban.com/)
 
 - [**乐同步**](https://pim.lenovo.com/contact/portal/pim/index.shtml) ：[联想云服务 —— 联想自称“最好的手机备份恢复工具”](https://github.com/taoste/Hello-World/tree/master/Tools/apk/pim) ( 本地 / [Download](https://github.com/taoste/Hello-World/raw/master/Tools/apk/pim/4719-2019-08-05062338-1565000618714.apk) )
