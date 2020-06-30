@@ -1,3 +1,6 @@
+# [百度网盘](https://yun.baidu.com/) | [版本更新](https://yun.baidu.com/disk/version) |  [帮助中心](https://yun.baidu.com/disk/help) | [服务协议](https://pan.baidu.com/disk/duty/) | [权利声明](http://yun.baidu.com/disk/privacy) | [帐号认证](https://pan.baidu.com/disk/certification)
+
+
 - 《[百度网盘PC版客户端 v6.8.9.1 去广告绿色版](https://www.52pojie.cn/thread-1080291-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
 ```
 下载地址  
