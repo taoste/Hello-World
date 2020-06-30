@@ -58,7 +58,7 @@
 
 -----------------------------------------------------------------------
 
-- [**手動將內容從Android 裝置轉移至iOS 裝置**](https://support.apple.com/zh-hk/HT205063）- Apple 支援
+- [**手動將內容從Android 裝置轉移至iOS 裝置**](https://support.apple.com/zh-hk/HT205063) - Apple 支援
 
 > [**有了它们，Android 和 Mac 也能成为黄金搭档**](https://www.ifanr.com/app/720872) | 爱范儿
 
