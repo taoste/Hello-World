@@ -1,5 +1,8 @@
  - [**万彩手影大师官网**](http://www.animiz.cn/hand/) | [感谢安装万彩手影大师](http://www.animiz.cn/hand/thanks-for-installation.php?version=2.3.5&from=Windows%2010) 
- 
+
+> [万彩手影大师优秀作品展示](http://www.wofficebox.com/hm_excellent_works.html )
+>> 下载源工程，学习分享精彩动画作品 ( [百度网盘下载](https://pan.baidu.com/s/1QCqgTF0hwwMJR5qPHRR3Bw) ，提取码：qt4k )
+
 > [万彩手影大师 – 自媒体(抖音,快手等)动画视频制作软件，送1000个特别版](https://www.appinn.com/wancai-shouying-202006/) - @小众软件 (2020/06/22)
 >>福利：1000 个特别版激活码
 ```
