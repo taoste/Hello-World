@@ -12,6 +12,17 @@
 
 -------------------------------------------------------------------------------
 
+- [**CMLink** | China Mobile International - 中国移动国际有限公司](https://www.cmlink.com/) ( https://www.cmlink.com/ )
+> 《[CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡](https://luolei.org/cmlink-global-borderless-internet-roaming-card/)》 - [罗磊的独立博客](https://luolei.org/)
+```
+「留学生网课卡」是 CMLINK 的一个套餐，需要购买一个 CMLINK 全球数据卡后方能使用，建议直接从官方渠道购买，都是免费配送。
+
+官方网站:https://global.cmlink.com/
+手机APP:「CMlink」，中文名也叫「全球数据卡」
+微信公众号:CMLinkGlobal
+```
+
+
 - 视觉知识博客 | 分享你的福利吧 https://fulizs.net/ 
 
 - 视觉天堂 https://fabudz.com/ 
