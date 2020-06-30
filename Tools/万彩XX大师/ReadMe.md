@@ -1,4 +1,6 @@
-- [万彩手影大师 – 自媒体(抖音,快手等)动画视频制作软件，送1000个特别版](https://www.appinn.com/wancai-shouying-202006/) - @小众软件 (2020/06/22)
+ - [**万彩手影大师官网**](http://www.animiz.cn/hand/) | [感谢安装万彩手影大师](http://www.animiz.cn/hand/thanks-for-installation.php?version=2.3.5&from=Windows%2010) 
+ 
+> [万彩手影大师 – 自媒体(抖音,快手等)动画视频制作软件，送1000个特别版](https://www.appinn.com/wancai-shouying-202006/) - @小众软件 (2020/06/22)
 >>福利：1000 个特别版激活码
 ```
 万彩手影大师下载地址:
@@ -12,3 +14,4 @@ http://www.animiz.cn/hand/download/（需电脑打开下载，它是个电脑软
 激活码有效期：即日起至2020年07月31日
 激活后特别版有效期：365天
 ```
+
