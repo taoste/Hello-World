@@ -5,6 +5,10 @@
 
 - [Title](https://taoste.github.io/Hello-World/Tools/Google%20Chrome/Chrome插件（CRX文件）/Chrome%20插件：谷歌上网助手/Ghelper/index.html) : **谷歌上网助手【Google Helper】** （ [http://googlehelper.net](http://googlehelper.net) ）- 这是一个针对开发人员，跨境工作人员和研究机构的浏览器插件，用于保护和加快上网速度。
 
+（ 【网页实例】 打包下载：> Ghelper [View Raw](
+https://github.com/taoste/Hello-World/blob/master/Tools/Google%20Chrome/Chrome插件（CRX文件）/Chrome%20插件：谷歌上网助手/Ghelper/Ghelper-master.zip) / [Download](
+https://github.com/taoste/Hello-World/blob/master//Tools/Google%20Chrome/Chrome插件（CRX文件）/Chrome%20插件：谷歌上网助手/Ghelper/Ghelper-master.zip?raw=true) ）
+
 >( 设置中心 chrome-extension://nonmafimegllfoonjgplbabhmgfanaka/settings.html )
 >
 > **软件介绍**
