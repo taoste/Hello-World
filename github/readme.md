@@ -14,10 +14,15 @@
 
    <p><b> < p > < b > < / b > < / p > </p>
   
-  `< pre >< code >
+  ```
+  < pre >< code >
 <p>下载地址：<a href="https:// " target="_blank" rel="noopener">https://sourceforge.net/projects/torrent-file-editor/</a></p>
 <a id="more"></a>
-< / code >< / pre >`
+< / code >< / pre >
+```
+（ 【实例】 打包下载：> 播放器 [View Raw](
+https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip) / [Download](
+https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true) ）
 
 <p>特点：</p> < p > <  /p >  < ul >
 <ul> 
