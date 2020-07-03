@@ -87,3 +87,5 @@
 - [**自动展开全文**](https://greasyfork.org/zh-CN/scripts/397476-%E8%87%AA%E5%8A%A8%E5%B1%95%E5%BC%80%E5%85%A8%E6%96%87) - 自动展开网站内容而无需点击。
 
 - [**链接地址洗白白**](https://greasyfork.org/zh-CN/scripts/373270-%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E6%B4%97%E7%99%BD%E7%99%BD7) - 把链接地址缩减至最短可用状态，并复制到剪切板，以方便分享。【在每个页面的底部中间，有一个小小的按钮，用来呼出面板】
+
+- [**黑暗模式**](https://greasyfork.org/zh-CN/scripts/398149-%E9%BB%91%E6%9A%97%E6%A8%A1%E5%BC%8F) - 夜间开启，护眼模式
