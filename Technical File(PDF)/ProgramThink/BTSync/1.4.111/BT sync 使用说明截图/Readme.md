@@ -21,3 +21,5 @@
 <img src="https://taoste.github.io/Hello-World/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20使用说明截图/4.jpg?raw=true"/>
 
 ⬆ 图4 （点击图片可放大）
+
+<img src="https://taoste.github.io/Hello-World/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20使用说明截图/R5.png?raw=true"/>
