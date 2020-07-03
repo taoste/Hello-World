@@ -6,7 +6,7 @@
 
 - **使用方法**： （见：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE)）
 
-1.<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/Windows/BTSync-1.4.111.exe?raw=true" title="下载Windows软件 : BTSync-1.4.111.exe">下载软件</a>（绿色免安装，无需管理员权限即可使用） 【 [**64Bit**](https://www.filehorse.com/download-resilio-sync-64/20030/) / [**下载**](https://www.tovupvepa.com/rvb)bgnmkkv8p/BitTorrent-Sync_x64.exe)，**网站安全性未经核实**】
+1.<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/Windows/BTSync-1.4.111.exe?raw=true" title="下载Windows软件 : BTSync-1.4.111.exe">下载软件</a>（绿色免安装，无需管理员权限即可使用） 【 [**64Bit**](https://www.filehorse.com/download-resilio-sync-64/20030/) 下载有巨大风险，[**非官方网站/安全性未经核实**](https://www.virustotal.com/gui/file/955a6c4a74f9f259cf78558357887a52aa80d95b6bf32c86aa492e8cce092b49/detection)】
 
 > 路径： ./1.4.111/Windows/BTSync-1.4.111.exe
   
