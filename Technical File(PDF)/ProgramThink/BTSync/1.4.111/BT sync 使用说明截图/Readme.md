@@ -4,7 +4,7 @@
 
 <img src="https://img.iplaysoft.com/wp-content/uploads/2013/btsync/btsync.png?raw=true"/>
 
-**BT Sync 使用说明截图** :
+**BT Sync 使用说明截图** : (详细参阅：《[@编程随想的博客:**扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘**](https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html)》)
 
 <img src="https://taoste.github.io/Hello-World/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20使用说明截图/1.jpg?raw=true"/>
 
