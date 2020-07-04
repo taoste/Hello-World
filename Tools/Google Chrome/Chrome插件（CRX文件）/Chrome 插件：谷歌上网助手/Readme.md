@@ -21,10 +21,10 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 
 >   **开发者**
 > 
->  提供方：**Google Helper 官网** http://googlehelper.net/ （[官网下载](http://googlehelper.net/download/Ghelper_1.4.6.beta.zip)）
+>  提供方：**Google Helper 官网** http://googlehelper.net/ （[官网下载](http://v2.googlehelper.net/src/Ghelper2.2.1.all.zip)） 
 >   电子邮件地址：ghelperinfo@gmail.com
 >   
->   **版本信息**： 1.4.3  (最后更新日期： 2018年6月30日) 大小： 205KiB
+>   **版本信息**： [v1.4.6](http://googlehelper.net/download/Ghelper_1.4.6.beta.zip)  (最后更新日期： 2018年6月30日) 大小： 205KiB
   
 >   **参阅**：[Youtube视频讲解](https://youtu.be/tgWeLcMg7TM)
 >  
