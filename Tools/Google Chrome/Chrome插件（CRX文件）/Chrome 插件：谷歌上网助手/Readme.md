@@ -1,4 +1,4 @@
-- 内链切换 : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
+- [内链切换](https://github.com/taoste/Hello-World/tree/master/github/Ghelper) : **[Google Chrome 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome) / 
 [🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
 
 **Readme：Chrome 插件：谷歌上网助手**（[**安装图示**](https://taoste.github.io/Hello-World/Tools/Google%20Chrome/Chrome%E6%8F%92%E4%BB%B6%EF%BC%88CRX%E6%96%87%E4%BB%B6%EF%BC%89/Chrome%20%E6%8F%92%E4%BB%B6%EF%BC%9A%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/%E5%AE%89%E8%A3%85%E5%9B%BE%E7%A4%BA.jpg?raw=true))
