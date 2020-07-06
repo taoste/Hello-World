@@ -1,7 +1,5 @@
 -  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) | [Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
 
-《[**罗辑思维的自频道-优酷视频**](https://i.youku.com/luojisw)》
-
 >  [登录](https://sso.luojilab.com/) | 内部账号登录 - 统一登录平台 ( https://sso.luojilab.com/ ) 
 
 >>  [北京思维造物信息科技股份有限公司](https://www.tianyancha.com/search?key=%E5%8C%97%E4%BA%AC%E6%80%9D%E7%BB%B4%E9%80%A0%E7%89%A9%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8) 
@@ -28,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E3%80%8A%E5%BE%97%E5%88%B0%26%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4%E3%80%8B/%E5%BE%97%E5%88%B0%E6%A0%A1%E6%8B%9B2019(%E8%A7%86%E9%A2%91mp4%E4%BA%8C%E7%BB%B4%E7%A0%81).png" width="298" height="298"  alt="得到校招2019(视频mp4二维码)" title="【视频】得到校招2019.mp4"></a>
  </p>
 
--  **罗辑思维 （ 微信公众号：luojisw ）**
+-  **罗辑思维 （ 微信公众号：luojisw ）**  《[**罗辑思维的自频道-优酷视频**](https://i.youku.com/luojisw)》
 > <p><img src="https://camo.githubusercontent.com/1432ba3c5b0dc5d5d14247bdc617a6b652029ed3/68747470733a2f2f6d702e77656978696e2e71712e636f6d2f6d702f7172636f64653f7363656e653d31303030303030342673697a653d313032265f5f62697a3d4d6a4d354e6a41784f5455344d413d3d266d69643d33303039323237363833266964783d3126736e3d35636139633366343930663161363731326634366265346238376233306562302673656e645f74696d653d" width="298" height="298"  alt="(罗辑思维/微信公众号：luojisw 二维码)" title="微信扫一扫，关注该公众号(罗辑思维/微信公众号：luojisw 二维码)"></p>
 > <p>微信扫一扫 ，关注 罗辑思维 （ 微信公众号：luojisw ）</p> 
 
