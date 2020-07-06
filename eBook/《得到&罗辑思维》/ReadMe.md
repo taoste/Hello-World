@@ -1,8 +1,12 @@
--  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) | [Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 《[罗辑思维的自频道-优酷视频](https://i.youku.com/luojisw)》
+-  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) ** 
+
+ **[Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
+
+《[**罗辑思维的自频道-优酷视频**](https://i.youku.com/luojisw)》
+
 >  [登录](https://sso.luojilab.com/) | 内部账号登录 - 统一登录平台 ( https://sso.luojilab.com/ ) 
 
 >>  [北京思维造物信息科技股份有限公司](https://www.tianyancha.com/search?key=%E5%8C%97%E4%BA%AC%E6%80%9D%E7%BB%B4%E9%80%A0%E7%89%A9%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8) 
-
 
 
 >>>  [罗辑思维的自频道-优酷视频](https://i.youku.com/luojisw) 
@@ -39,6 +43,9 @@ https://www.igetget.com/eBook/%E5%BE%97%E5%88%B0%E5%93%81%E6%8E%A7%E6%89%8B%E5%8
 
 >> [一本不想被同行看到的手册——《得到品控手册》](https://www.jianshu.com/p/44595a2498ac) - 简书
 
+>>> [TED-Hasan Elahi：FBI，我在这儿呢！](https://cn.bing.com/search?q=TED-Hasan+Elahi%EF%BC%9AFBI%EF%BC%8C%E6%88%91%E5%9C%A8%E8%BF%99%E5%84%BF%E5%91%A2%EF%BC%81) - @国内版 Bing
+
 >> [457｜《得到品控手册》（1）为终身学习者「赋能」：全球知识服务者的核心思维](https://www.douban.com/note/671205996/)
 
-
+>>> <a href="https://pic3.zhimg.com/v2-85f402f5adaa6876c454c5825e899fea_r.jpg">
+<img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E3%80%8A%E5%BE%97%E5%88%B0&%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4%E3%80%8B/fea_r.jpg?raw=true" title="【知乎】罗胖为什么开源《得到品控手册》？( https://zhuanlan.zhihu.com/p/27155216 )"></a>
