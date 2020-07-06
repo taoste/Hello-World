@@ -1,6 +1,4 @@
--  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) ** 
-
- **[Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
+-  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) | [Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
 
 《[**罗辑思维的自频道-优酷视频**](https://i.youku.com/luojisw)》
 
