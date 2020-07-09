@@ -4,6 +4,37 @@
 - [**字由**](https://www.hellofont.cn/) ( https://www.hellofont.cn/ ) | 更现代化的跨平台免费字体下载与字体预览管理工具设计利器 - @[异次元软件世界](https://www.iplaysoft.com/hellofont.html)
 >> 字由 - 设计师必备字体利器( [下载](https://hellofont.oss-cn-beijing.aliyuncs.com/Client/0/HelloFont.win.2.4.0.3.zip) https://www.hellofont.cn/download )
 
+----------------
+
+- [**阿里巴巴普惠体**]()-[字体官方下载](http://aifont.oss-cn-beijing.aliyuncs.com/Alibaba%20PuHuiTi/Alibaba%20PuHuiTi_AlibabaSans.zip) - 可免费商用的中文免费字体设计素材 - @[**异次元软件世界**](https://www.iplaysoft.com/alibaba-puhuiti.html)
+
+ <a href="https://www.iplaysoft.com/alibaba-puhuiti.html">
+ <img src="https://img.iplaysoft.com/wp-content/uploads/2019/alibaba-puhuiti/alibaba_puhuiti.jpg!0x0.webp" border="0" title="阿里巴巴普惠字体下载 - 可免费商用的中文免费字体设计素材 - 异次元软件世界"> </a> 
+
+```
+阿里官方发布的「阿里巴巴普惠体」(Alibaba PuHuiTi / Alibaba Sans) 是一款包含中文、英文和多种西文的免费字体，
+这也是第一款由中国企业制作并面向全球、全场景使用的免费商用字体。
+它允许任何个人和企业免费使用，包括商用用途，但禁止用于违法用途。
+
+阿里巴巴普惠体一共收录 116,895 个全形汉字，几乎涵盖了所有生僻字，并且包含 5 种字重粗细。
+西文 Alibaba Sans 则共收录有 7,205 个拉丁字母，提供 2 种风格、共 11 种字重，总共覆盖了 172 个语种！
+```
+- [**UCAN 2020 设计大会**](https://ucan.alibabadesign.com/) ( https://ucan.alibabadesign.com/ )
+
+>> [这些「免费可商用」图片素材网站值得你收藏！设计找图不再烦啦](https://www.iplaysoft.com/free-images.html) - 异次元软件下载
+
+>> [重磅！阿里又推免费商用字：阿里巴巴普惠体（附下载地址）](https://club.1688.com/threadview/53045286.htm） - 阿里巴巴商友圈
+```
+阿里巴巴普惠体的下载渠道：
+
+Alibaba ICS
+https://ics.alibaba.com/project/Hn8mXx
+
+淘宝服务市场
+https://alibabafont.taobao.com/
+```
+----------------
+
 - [**字体下载**](https://www.jb51.net/fonts/) - **脚本之家** （ site:[jb51.net](https://www.jb51.net/) )
 
 - 【**金山词霸的音标字体( [Kingsoft Phonetic Plain](https://github.com/taoste/Hello-World/raw/master/Tools/%E5%AD%97%E4%BD%93%EF%BC%88fonts%EF%BC%89/%E9%9F%B3%E6%A0%87%E5%AD%97%E4%BD%93Kingsoft%2BPhonetic%2BPlain.ttf) )**】 > [英语音标汉语拼音字体/官方下载](https://dl.pconline.com.cn/download/581556.html) - [太平洋下载中心](https://dl.pconline.com.cn/sort/72.html)
