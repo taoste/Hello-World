@@ -39,4 +39,4 @@
 
 >>>  5.2 [Resilio Sync Home分享指南（续）](https://mp.weixin.qq.com/s/1c1YZPaOBoGOD6yYp5k-jg) （ 原创： 林兴陆 网林 2019-04-18 ）  
 
-> 6. [Resilio Sync 科学之路](https://gist.github.com/wangyan/da00e8a97279e94ecf81081c08ca9b6c) 
+> 6. [Resilio Sync 科学之路](https://gist.github.com/wangyan/da00e8a97279e94ecf81081c08ca9b6c) | [wangyan](https://gist.github.com/wangyan) ( https://wangyan.org )
