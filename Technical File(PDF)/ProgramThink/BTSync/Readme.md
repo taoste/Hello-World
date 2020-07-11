@@ -20,6 +20,8 @@
 
 > 0. [扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘](https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html) - [编程随想的博客](https://program-think.blogspot.com/) ( 2015-01-18 )
 
+>>> 0.1 [聊聊 GFW 如何封杀 Resilio Sync（BTSync）？以及如何【免翻墙】继续使用？](https://program-think-mirrors.github.io/blog/html/2017/08/GFW-Resilio-Sync.html) - 编程随想的博客 ( 2017-08-30 )
+
 > 1. [Resilio Sync - 神奇的文件同步软件，无需服务器让多台电脑互相同步！](https://www.iplaysoft.com/bittorrent-sync.html) | [异次元软件下载](https://www.iplaysoft.com/) ( 2013-08-07 )
 
 >>> 1.1 [Syncthing - 免费开源替代 Resilio / BT Sync 的文件夹同步工具神器 (搭建同步网盘)](https://www.iplaysoft.com/syncthing.html)( 2017-08-31 )
