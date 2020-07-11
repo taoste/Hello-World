@@ -14,13 +14,14 @@
 
 > 路径： ./<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt">BT Sync - eblog List.txt</a>
 
-3.更多：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE) 
+3.更多：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE)  ( Tor/使用代理服务器：SOCKS v5 -- 127.0.0.1:9150/ localhost:9050 )
  
 - **其他**：
 
 > 0. [扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘](https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html) - [编程随想的博客](https://program-think.blogspot.com/) ( 2015-01-18 )
 
 >>> 0.1 [聊聊 GFW 如何封杀 Resilio Sync（BTSync）？以及如何【免翻墙】继续使用？](https://program-think-mirrors.github.io/blog/html/2017/08/GFW-Resilio-Sync.html) - 编程随想的博客 ( 2017-08-30 )
+<img src="https://camo.githubusercontent.com/a5156cb9ae416168b3e55a7a968ecd4ffdeb902c/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f61374e34746a444346316a306e785a784e4e747268664846585a47617177695476534579626f473454314b61754b31535442796d6d6e584f7a5f5a6f6e61725f7141586c667674356865576a39327775443052574f525769576b374f564d53345362696465785a795844434b33764d5f796f75535257453664366370" title="扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘"/>
 
 > 1. [Resilio Sync - 神奇的文件同步软件，无需服务器让多台电脑互相同步！](https://www.iplaysoft.com/bittorrent-sync.html) | [异次元软件下载](https://www.iplaysoft.com/) ( 2013-08-07 )
 
