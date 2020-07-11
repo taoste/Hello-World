@@ -40,3 +40,5 @@
 >>>  5.2 [Resilio Sync Home分享指南（续）](https://mp.weixin.qq.com/s/1c1YZPaOBoGOD6yYp5k-jg) （ 原创： 林兴陆 网林 2019-04-18 ）  
 
 > 6. [Resilio Sync 科学之路](https://gist.github.com/wangyan/da00e8a97279e94ecf81081c08ca9b6c) | [wangyan](https://gist.github.com/wangyan) ( https://wangyan.org )
+
+> 7. [Tag](https://www.getnas.com/tag/btsync/):[让 Resilio Sync 运行在 config 配置模式](https://www.getnas.com/resilio-sync-config-mode/) | [**GetNAS**](https://www.getnas.com/) | [一台电脑的NAS之旅](https://space.bilibili.com/454610060/channel/detail?cid=97025)
