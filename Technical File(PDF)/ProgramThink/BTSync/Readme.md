@@ -44,5 +44,9 @@
 > 7. [Tag](https://www.getnas.com/tag/btsync/):[让 Resilio Sync 运行在 config 配置模式](https://www.getnas.com/resilio-sync-config-mode/) | [**GetNAS - 原创 IT 指南**](https://www.getnas.com/) | [一台电脑的NAS之旅](https://space.bilibili.com/454610060/channel/detail?cid=97025)
 
 >>>  7.1 [如何在 Linux 系统安装 Resilio Sync](https://www.getnas.com/resilio-sync-install-on-linux/)
+
+>>>>  7.1.0 [Linux 常用命令速查](https://www.getnas.com/linux-quick-cmd/)
+
 >>>>  7.1.1 [Resilio Sync Linux 系统基础指南](https://www.getnas.com/resilio-sync-linux-guide/)
+
 >>>  7.2 [如何在苹果 Mac 系统安装 Resilio Sync](https://www.getnas.com/resilio-sync-on-macos/)
