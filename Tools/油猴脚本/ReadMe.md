@@ -6,7 +6,23 @@
         <td><b>支持类型</b></td>
         <td><b>备注说明</b></td>
     </tr> 
-<tr>
+    
+   <tr> 
+        <td>★★★★★</td>
+        <td> <a href="https://www.tampermonkey.net/" title="扩展推荐：Tampermonkey | 油猴脚本管理器">Tampermonkey</a> </td>
+        <td> <a href="https://www.tampermonkey.net/" title="扩展推荐：Tampermonkey | 油猴脚本管理器">https://www.tampermonkey.net/</a> </td>
+        <td> 
+		  <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN" title="Tampermonkey – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="chrome-96x96.png" height="20" width="20" />Chrome</a>
+		/ <a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-cn" title="Tampermonkey – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="edge-96x96.png" height="20" width="20" />Edge</a>
+		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" title="Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）"><img src="firefox-32x32.ico" height="20" width="20" />Firefox</a>
+		 </td> 
+        <td style="text-align:left;"><a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">Greasy Fork</a> - 
+		<a href="https://github.com/taoste/Hello-World/tree/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="🦊 油猴脚本 | ❤ Me的收集和汇总">安全、实用的脚本大全</a>
+		<a href="https://github.com/taoste/Hello-World/blob/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/tampermonkey-backup-Edge%26Chrome-2020-07-04.txt" title="🦊 油猴脚本 | ❤ Me的收集和汇总">★</a> 
+		 <a href="https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs" title="🦊 油猴脚本【推荐】 | 《❤Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger》">JS+</a>
+		 </td>
+     </tr> 
+     <tr>
         <td>★★★★★</td>
         <td>Greasy Fork</td>
         <td> <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">https://greasyfork.org/zh-CN</a> </td>
