@@ -108,6 +108,18 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 -------------------------------------------------------------------
 
+- [Firefox或将**强制启用HTTPS链接** 禁止访问不安全页面_HTTPS-only](https://www.sohu.com/a/383583945_604699 )
+
+> 在浏览器的地址栏中加载 about:config
+
+>> 使用顶部的搜索字段搜索 dom.security.https_only_mode：
+
+>> 将首选项设置为 TRUE 可在 Firefox 中启用 HTTPS-only 连接；
+
+>> 将首选项设置为 FALSE 以允许所有连接（默认）。
+
+-------------------------------------------------------------------
+
 <img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>
 
 [Shields.io](https://shields.io/) : [给 GitHub 项目戴上勋章](https://loggerhead.me/posts/gei-github-xiang-mu-dai-shang-xun-zhang.html)
