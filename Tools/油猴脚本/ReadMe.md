@@ -62,6 +62,10 @@
 - [**百度文库破解加强、 CSDN阅读增强、知乎使用增强、抖音去水印原视频下载、全网VIP视频破解，去广告**](https://greasyfork.org/zh-CN/scripts/398195-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E7%A0%B4%E8%A7%A3%E5%8A%A0%E5%BC%BA-csdn%E9%98%85%E8%AF%BB%E5%A2%9E%E5%BC%BA-%E7%9F%A5%E4%B9%8E%E4%BD%BF%E7%94%A8%E5%A2%9E%E5%BC%BA-%E6%8A%96%E9%9F%B3%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%8E%9F%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3-%E5%8E%BB%E5%B9%BF%E5%91%8A)
 > 【自用，长期维护】【功能有】1：百度文库文档免费下载、文档内容自由复制、广告过滤，看了就烦；2：CSDN阅读加强：CSDN自动展开、去广告、净化剪贴板、免登陆等；3：知乎使用增强：外链接直接跳出、内容自动展开、短视频下载、去除登录提醒、自动高清图片等；4：抖音去水印原视频下载，非调用第三方；5：KIWI视频解析，支持大部分视频播放平台[支持优酷 | 腾讯 | 爱奇艺 | 芒果 | 乐视等常用视频]，移动端，PC端都适用
 
+- About [最强的老牌脚本CSDNGreener：CSDN广告完全过滤、人性化脚本优化](https://greasyfork.org/zh-CN/scripts/378351-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-csdn%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4-%E4%BA%BA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96-%E4%B8%8D%E7%94%A8%E5%86%8D%E7%99%BB%E5%BD%95%E4%BA%86-%E8%AE%A9%E4%BD%A0%E4%BD%93%E9%AA%8C%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%96%9C%E7%9A%84%E5%B4%AD%E6%96%B0csdn) | @[GreasyFork](https://greasyfork.org/zh-CN/scripts/378351-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-csdn%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4-%E4%BA%BA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96-%E4%B8%8D%E7%94%A8%E5%86%8D%E7%99%BB%E5%BD%95%E4%BA%86-%E8%AE%A9%E4%BD%A0%E4%BD%93%E9%AA%8C%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%96%9C%E7%9A%84%E5%B4%AD%E6%96%B0csdn) | @[OpenUserJS](https://openuserjs.org/scripts/AdlerED/%E6%9C%80%E5%BC%BA%E7%9A%84%E8%80%81%E7%89%8C%E8%84%9A%E6%9C%ACCSDNGreener%EF%BC%9ACSDN%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96) ( by 作者@[AdlerED](https://openuserjs.org/users/AdlerED/scripts))
+
+⚡️拥有数项独家功能的最强CSDN脚本，不服比一比⚡️|🕶无需登录CSDN，获得比会员更佳的体验|🖥分辨率自适配，分屏不用滚动|💾超级预优化|🔖独家超级免会员|🏷独家原创文章免登录展开|🔌独家推荐内容自由开关|📠独家免登录复制|🔗独家防外链重定向|📝独家论坛未登录自动展开文章、评论|🌵全面净化|📈沉浸阅读|🧴净化剪贴板|📕作者信息文章顶部展示
+
 - [**YouTube 下载器**](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader) 
 
 > 不需要透过第三方的服务就能下载 YouTube 影片。
