@@ -353,6 +353,8 @@ Chrome 多用户分别建快捷方式（默认参数）：--profile-directory=De
 
 **URL快捷功能**：
 
+@[GitHub](https://github.com/mozilla) - [Mozilla Wiki](https://wiki.mozilla.org/) ( https://wiki.mozilla.org/Github ) 
+
 企业策略(已激活/文档) ：about:policies
 
 选项（网络设置）： about:preferences#advanced
