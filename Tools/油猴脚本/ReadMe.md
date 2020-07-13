@@ -11,20 +11,23 @@
         <td> <a href="https://www.tampermonkey.net/" title="扩展推荐：Tampermonkey | 油猴脚本管理器">Tampermonkey</a> </td>
         <td> <a href="https://www.tampermonkey.net/" title="扩展推荐：Tampermonkey | 油猴脚本管理器">tampermonkey.net</a> </td>
         <td> 
-		  <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN" title="Tampermonkey – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" />Chrome</a>
-		/ <a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-cn" title="Tampermonkey – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" />Edge</a>
-		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" title="Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）"><img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" />Firefox</a>
+		  <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN" title="Tampermonkey – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" /></a>
+		/ <a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-cn" title="Tampermonkey – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" /></a>
+		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" title="Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）"><img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" /></a>
 		 </td>  
         <td style="text-align:left;">
-	用户脚本管理器&插件推荐★<a href="https://www.tampermonkey.net/" title="Tampermonkey 官网 | 用户脚本管理器/插件（ 支持：Chrome / 🦊Firefox / Safari / Microsoft Edge / Opera / Dolphin / UC ）">Tampermonkey</a> -
+	用户脚本管理器&插件推荐:★<a href="https://www.tampermonkey.net/" title="Tampermonkey 官网 | 用户脚本管理器/插件（ 支持：Chrome / 🦊Firefox / Safari / Microsoft Edge / Opera / Dolphin / UC ）">Tampermonkey</a>★ / <a href="https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/" title="Greasemonkey 油猴子 – 下载 🦊 Firefox 扩展（zh-CN）">🦊Greasemonkey</a> -
         <a href="https://greasyfork.org/zh-CN/help/installing-user-scripts" title="Greasy Fork - 安全、实用的用户脚本大全">如何安装用户脚本?</a>
 	</td>
      </tr> 
      <tr>
         <td>Greasy Fork</td>
         <td> <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">greasyfork.org/zh-CN</a> </td>
-        <td> <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN" title="Tampermonkey - Chrome 网上应用店">Chrome</a> /
-        <a href="https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/" title="Greasemonkey 油猴子 – 下载 🦊 Firefox 扩展（zh-CN）">🦊Firefox</a> </td>
+        <td> 		 
+	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
+	/   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
+	/   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
+         </td>
         <td style="text-align:left;">
           <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">Greasy Fork</a> 
         - <a href="https://github.com/taoste/Hello-World/tree/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="🦊 油猴脚本 | ❤ Me的收集和汇总">安全、实用的脚本大全</a>
@@ -36,7 +39,11 @@
     <tr>
         <td>OpenUserJS</td>
         <td> <a href="https://openuserjs.org/" title="OpenUserJS - 免费和开源软件( 自由格式) 用户脚本源">openuserjs.org</a> </td>
-        <td> </td>
+        <td> 		 
+	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
+	/   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
+	/   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
+         </td>
         <td style="text-align:left;">
 		OpenUserJS  - 免费和开源软件( 自由格式) 用户脚本源 @<a href="https://github.com/OpenUserJs" title="OpenUserJS">Github</a>
 	</td>
