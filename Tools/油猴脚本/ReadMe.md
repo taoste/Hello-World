@@ -16,8 +16,8 @@
 		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" title="Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）"><img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" /></a>
 		 </td>  
         <td style="text-align:left;">
-	用户脚本管理器:★<a href="https://www.tampermonkey.net/" title="★★★★★ 推荐:❤Tampermonkey❤ 官网 | 用户脚本管理器/插件（ 支持：Chrome / 🦊Firefox / Safari / Microsoft Edge / Opera / Dolphin / UC ）">Tampermonkey</a>★ / <a href="https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/" title="Greasemonkey 油猴子 – 下载 🦊 Firefox 扩展（zh-CN）">🦊Greasemonkey</a> -
-        <a href="https://greasyfork.org/zh-CN/help/installing-user-scripts" title="Greasy Fork - 安全、实用的用户脚本大全">如何安装用户脚本?</a>
+	  <a href="https://greasyfork.org/zh-CN/help/installing-user-scripts" title="Greasy Fork - 安全、实用的用户脚本大全">❓如何安装</a>>>
+	用户脚本管理器:★<a href="https://www.tampermonkey.net/" title="★★★★★ 推荐:❤Tampermonkey❤ 官网 | 用户脚本管理器/插件（ 支持：Chrome / 🦊Firefox / Safari / Microsoft Edge / Opera / Dolphin / UC ）">Tampermonkey</a>★ / <a href="https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/" title="Greasemonkey 油猴子 – 下载 🦊 Firefox 扩展（zh-CN）">🦊Greasemonkey</a>        
 	</td>
      </tr> 
      <tr>
@@ -25,8 +25,8 @@
         <td> <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">greasyfork.org</a> </td>
         <td> 		 
 	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
-	/   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
-	/   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
+	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
+	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
          </td>
         <td style="text-align:left;">
           <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">Greasy Fork</a> 
@@ -41,8 +41,8 @@
         <td> <a href="https://openuserjs.org/" title="OpenUserJS - 免费和开源软件( 自由格式) 用户脚本源">openuserjs.org</a> </td>
         <td> 		 
 	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
-	/   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
-	/   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
+	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
+	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
          </td>
         <td style="text-align:left;">
 		OpenUserJS  - 免费和开源软件( 自由格式) 用户脚本源 @<a href="https://github.com/OpenUserJs" title="OpenUserJS">Github</a>
