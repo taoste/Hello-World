@@ -4,11 +4,7 @@
         <td><b>项目名称</b></td>
         <td><b>网址链接</b></td>
         <td><b>支持类型</b></td>
-        <td><b>备注说明</b>
-	   <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
-	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
-	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
-	    </td>
+        <td><b>备注说明</b></td>
     </tr> 
     
    <tr> 
@@ -16,8 +12,8 @@
         <td> <a href="https://www.tampermonkey.net/" title="扩展推荐：Tampermonkey | 油猴脚本管理器">tampermonkey.net</a> </td>
         <td> 
 		  <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN" title="Tampermonkey – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" /></a>
-		/ <a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-cn" title="Tampermonkey – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" /></a>
-		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" title="Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）"><img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" /></a>
+		 <a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-cn" title="Tampermonkey – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" /></a>
+		 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/" title="Tampermonkey – 下载 🦊 Firefox 扩展（zh-CN）"><img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" /></a>
 		 </td>  
         <td style="text-align:left;">
 	  <a href="https://greasyfork.org/zh-CN/help/installing-user-scripts" title="Greasy Fork - 安全、实用的用户脚本大全">❓如何安装</a>>>
