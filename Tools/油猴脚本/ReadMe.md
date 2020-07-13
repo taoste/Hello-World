@@ -3,7 +3,11 @@
     <tr>
         <td><b>项目名称</b></td>
         <td><b>网址链接</b></td>
-        <td><b>支持类型</b></td>
+        <td><b>支持类型</b> 		 
+	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
+	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
+	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
+         </td>
         <td><b>备注说明</b></td>
     </tr> 
     
@@ -23,11 +27,7 @@
      <tr>
         <td></td>
         <td> <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">greasyfork.org</a> </td>
-        <td> 		 
-	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
-	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
-	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
-         </td>
+        <td></td>
         <td style="text-align:left;">
           <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">❤ Greasy Fork ❤</a> 
         - <a href="https://github.com/taoste/Hello-World/tree/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="🦊 油猴脚本 | ❤ Me的收集和汇总">安全、实用的脚本大全</a>
@@ -39,11 +39,7 @@
     <tr>
         <td> </td>
         <td> <a href="https://openuserjs.org/" title="OpenUserJS - 免费和开源软件( 自由格式) 用户脚本源">openuserjs.org</a> </td>
-        <td> 		 
-	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
-	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
-	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
-         </td>
+        <td></td>
         <td style="text-align:left;">
 		OpenUserJS  - 免费和开源软件( 自由格式) 用户脚本源 @<a href="https://github.com/OpenUserJs" title="OpenUserJS">Github</a>
 	</td>
