@@ -21,15 +21,13 @@
  @<a href="https://github.com/JasonBarnabe/greasyfork" title="Greasy Fork 采用开源的 GPLv3 许可证。可以在 GitHub 上查看源码">GitHub</a> 。
         </td>
     </tr> 
-    
     <tr>
         <td>★★★★</td>
         <td>OpenUserJS</td>
         <td> <a href="https://openuserjs.org/" title="OpenUserJS - 免费和开源软件( 自由格式) 用户脚本源">https://openuserjs.org/</a> </td>
         <td> </td>
         <td> OpenUserJS  - 免费和开源软件( 自由格式) 用户脚本源 @<a href="https://github.com/OpenUserJs" title="OpenUserJS">Github</a> </td>
-    </tr> 
-       
+    </tr>        
   </table>
 
 》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
