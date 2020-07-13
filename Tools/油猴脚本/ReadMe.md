@@ -3,12 +3,12 @@
     <tr>
         <td><b>项目名称</b></td>
         <td><b>网址链接</b></td>
-        <td><b>支持类型</b> 		 
-	    <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
+        <td><b>支持类型</b></td>
+        <td><b>备注说明</b>
+	   <img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" title="Chrome " />
 	   <img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" title="Microsoft Edge" />
 	   <img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" title="🦊 Firefox" />
-         </td>
-        <td><b>备注说明</b></td>
+	    </td>
     </tr> 
     
    <tr> 
