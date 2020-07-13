@@ -25,10 +25,10 @@
         <td> <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">greasyfork.org/zh-CN/</a> </td>
         <td></td>
         <td style="text-align:left;">
-          <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">❤Greasy Fork</a> 
-        - <a href="https://github.com/taoste/Hello-World/tree/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="🦊 油猴脚本 | ❤ Me的收集和汇总">安全、实用的脚本大全❤</a>
-		<a href="https://github.com/taoste/Hello-World/blob/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/tampermonkey-backup-Edge%26Chrome-2020-07-04.txt" title="🦊 油猴脚本 | ❤ Me的收集和汇总">★</a> 
-		 <a href="https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs" title="🦊 油猴脚本【推荐】 | 《❤Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger》">JS+</a>
+          <a href="https://greasyfork.org/zh-CN" title="Greasy Fork - 安全、实用的用户脚本大全">❤ Greasy Fork - 安全、实用的脚本大全 ❤</a> 
+          <a href="https://github.com/taoste/Hello-World/tree/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="🦊 油猴脚本 | ❤ Me的收集和汇总">推荐</a>
+	  <a href="https://github.com/taoste/Hello-World/blob/master/Tools/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/tampermonkey-backup-Edge%26Chrome-2020-07-04.txt" title="🦊 油猴脚本 | ❤ Me的收集和汇总">★</a> 
+		 <a href="https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs" title="🦊 油猴脚本【推荐】 | 《❤Userscript+ : 显示当前网站所有可用的UserJS脚本 Jaeger》">Userscript+</a>
  @<a href="https://github.com/JasonBarnabe/greasyfork" title="Greasy Fork 采用开源的 GPLv3 许可证。可以在 GitHub 上查看源码">GitHub</a> 
         </td>
     </tr> 
