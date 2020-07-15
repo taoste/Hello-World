@@ -1,4 +1,4 @@
-( 便捷好记的短网址： [go.choong.net/BTSync](https://go.choong.net/BTSync) )
+( ❤ 便捷好记的短网址直达： [go.choong.net/BTSync](https://github.com/taoste/Hello-World/raw/master/Technical%20File(PDF)/ProgramThink/BTSync/BTSync-v1.4.111.7z?raw=true) )
 
 **BT SYNC** ( 曾又名：BitTorrent Sync  / 现名：Resilio Sync ) —— "不仅是文件同步利器，而且是【分布式】网盘"
 
