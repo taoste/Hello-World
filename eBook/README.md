@@ -121,6 +121,17 @@ https://www.google.com/search?hl=zh_CN&source=hp&ei=Dmp4Xa2wJIWA-QavvanACg&q=%E8
 
 -------------------------------------------------------------------------------
 
+- Twitter : 117@[0x1110101](https://twitter.com/0x1110101/)
+
+> 4 大出版社书若干，天翼云 https://bit.ly/3ex8qcA 密码 [8vkr](https://cloud.189.cn/t/uAjqAjuyIzE3)
+
+>>  <p><img src="https://pbs.twimg.com/media/EdC8-JgUwAAMB3_?format=png&name=large"/>
+>>     <img src="https://pbs.twimg.com/media/EdC8-oUUcAAfAgV?format=png&name=900x900"/></p>
+
+<a href="https://twitter.com/0x1110101/status/1283733683942244352">下午8:02 · 2020年7月16日</a>·Twitter for iPhone XS Max
+
+-------------------------------------------------------------------------------
+
 <a href="https://twitter.com/0792z/status/1150922079761522689">我认同反脆弱的观点，你需要有个副业，哪怕你的副业带来的收入特别少，他也部分地给了你选择的权利。你在一个岗位干得越久，积累经验是个假象，本质是你作为一个衰败的螺丝拧得越来越深，已经无法脱离开这个行业这个岗位，然后说着自己不愿意说的话做着自己不愿意做的事情，就是所谓的油腻吧。</a>
 
 <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E8%B0%88.PNG">
