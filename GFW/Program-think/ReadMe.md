@@ -98,6 +98,8 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 
 💗  技术精选：[**博客站内搜索 @ 编程随想的博客**](https://program-think.blogspot.com/p/search.html?q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3) @[编程随想的博客](https://program-think.blogspot.com/)
 
+- [使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验](https://program-think.blogspot.com/2016/03/GitHub-Security-Tips.html) [ 2016年3月8日 / [编程随想](https://program-think.blogspot.com/)-[原文链接](https://program-think.blogspot.com/2016/03/GitHub-Security-Tips.html) ]	
+
 > [**TO	IPFSS（41单元）**](https://program-think.blogspot.com/2019/03/weekly-share-128.html?comment=1554394054303&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author)
 >> 多谢分享关于	IPFS	的使用经验	:)
 >> 
@@ -297,8 +299,7 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 >>引申阅读：
 >> 
 >>《 [分析“制度性腐败”——为啥天朝的贪官屡禁不止？](https://program-think.blogspot.com/2014/07/corruption-and-form-of-government.html) 》
-
->> 
+>>
 >>再来说“美国体制与天朝的差异”
 >> 
 >>很多人只看到“选票”的因素，而忽略了另一个关键因素——美国的政治体制是【分层】滴！
@@ -308,3 +309,33 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    “博客离线浏览”以及“博客电�
 >>所以，美国的州长根本不用看总统的脸色。
 >> 
 >>同样的，美国的州议会议员，也不用看国会议员的脸色。
+
+> [**TO Navbar（7单元）**](https://program-think.blogspot.com/2020/07/Security-News.html?comment=1594744523313&q=%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3&scope=comment-author)
+
+>>关于“多重代理的组合”
+
+>>针对你提到的思路，俺补充一下，供你参考
+
+>> ========
+
+>>如果你手头有 Tor 以及另两个不同的翻墙工具（梯子A、体制B）
+
+>>你先评估一下，哪个梯子更稳定（不妨假设 梯子A 更稳定）
+
+>>那么你可以搭建三种通道分别是
+
+>>通道1、浏览器 over 梯子A
+
+>>通道2、浏览器 over Tor over 梯子A
+
+>>通道3、浏览器 over 梯子B over Tor over 梯子A
+
+>>上述这三种通道，性能依次递【减】，但安全性（隐匿性）依次递【增】。
+
+>>这时候，你可以根据不同情况，采用不同的通道。
+
+>>通道1——【无】敏感性的上网行为
+
+>>通道2——【有】敏感性的上网行为，且目标网站对 Tor 友好
+
+>>通道3——【有】敏感性的上网行为，且目标网站对 Tor 【不】友好
