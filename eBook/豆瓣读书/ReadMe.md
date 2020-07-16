@@ -10,6 +10,9 @@
 
 >>> <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/NQI食谱图.jpg?raw=true"/> 
 
+- 【[**全历史**--换个角度看世界](https://www.allhistory.com/)】[这款冷门但逆天的APP，真的惊艳到我了！](https://mp.weixin.qq.com/s/CiGiUDaFzeT5BxYNbLJCkQ)
+
+ <img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6/%E5%85%A8%E5%8E%86%E5%8F%B2.jpg?raw=true" height="200" width="200" />
 
 ------------------------------------------------
 
