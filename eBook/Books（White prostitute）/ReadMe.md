@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 
-- Twitter : 117@[0x1110101](https://twitter.com/0x1110101/)
+- Twitter : 117@[0x1110101](https://twitter.com/0x1110101/) | 加入于2018年12月  ( 简介： 不定期推送影视资源，所有资源 Telegram 频道可见: http://t.me/share117 )
 
-> 4 大出版社书若干，天翼云 https://bit.ly/3ex8qcA 密码 [8vkr](https://cloud.189.cn/t/uAjqAjuyIzE3)
+> 4 大出版社书若干，**天翼云** https://bit.ly/3ex8qcA **密码** [8vkr](https://cloud.189.cn/t/uAjqAjuyIzE3)
 
 >>  <p><img src="https://pbs.twimg.com/media/EdC8-JgUwAAMB3_?format=png&name=large"/>
 >>     <img src="https://pbs.twimg.com/media/EdC8-oUUcAAfAgV?format=png&name=900x900"/></p>
