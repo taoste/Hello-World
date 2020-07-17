@@ -202,6 +202,8 @@ https://taoste.github.io/Hello-World/eBook/Marco%20Polettes.png
 
 https://taoste.github.io/Hello-World/eBook/program.think-list.txt
 
+https://taoste.github.io/Hello-World/eBook/金瓶梅（崇祯本）.pdf
+
 https://taoste.github.io/Hello-World/eBook/金瓶梅（崇祯本）.mobi
 
 https://taoste.github.io/Hello-World/eBook/Gaobook20161115.pdf
