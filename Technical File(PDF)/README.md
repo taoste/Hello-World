@@ -54,6 +54,8 @@ https://taoste.github.io/Hello-World/Technical%20File(PDF)/月光博客/在小�
 
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/Python编程入门（第3版）-%20高清扫描文字版，带详细书签.pdf
 
+https://taoste.github.io/Hello-World/Technical%20File(PDF)/TJ%20O'Connor：Python%20绝技——运用%20Python%20成为顶级黑客%20(第1版).pdf
+
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/1010000003986612.png （**代码实现**在知乎复制的文本自带一些**版权声明**）
 
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/电子世界-一种基于Microsoft%20Excel自动生成HTML表单及打印格式的方法%20.pdf
