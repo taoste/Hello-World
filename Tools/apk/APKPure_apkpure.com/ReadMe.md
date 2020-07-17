@@ -1,7 +1,7 @@
 - [**APKPure 应用市场**](https://apkpure.com/cn/)，安卓市场，手机，平板应用商店，APKPure TV应用市场 (官网 https://apkpure.com/cn/ )
 >> <a href="https://github.com/taoste/Hello-World/raw/master/Tools/apk/APKPure_apkpure.com/APKPure_v3.17.10(Android%204.2%2B).apk" title="官网2020年6月5日版：APKPure_v3.17.10(Android 4.2+).apk">下载</a> ：[APKPure应用程序](https://apkpure.com/cn/apkpure-app.html)
 
->>> <a href="https://apkpure.com/cn/" title=" 【需科学上网】扫描二维码可以访问:使用APKPure APK下载器在线极速下载原版应用 - APKPure官网"><img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/APKPure-qrcode.png?raw=true"/></a>
+>>> <p><a href="https://apkpure.com/cn/" title=" 【需科学上网】扫描二维码可以访问:使用APKPure APK下载器在线极速下载原版应用 - APKPure官网"><img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/APKPure_apkpure.com/APKPure-qrcode_v3.17.10.jpg?raw=true"/><img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/APKPure-qrcode.png?raw=true"/></a></p>
 
 - [**科学上网**](https://github.com/taoste/Hello-World/blob/master/eBook/t66y.com/)：[**使用批处理bat更改hosts的多个方法**](https://www.jb51.net/article/51902.htm)_DOS/BAT_脚本之家
 
