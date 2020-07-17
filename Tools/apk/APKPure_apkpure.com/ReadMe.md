@@ -18,7 +18,12 @@
 > 1. [https://bgp.he.net/dns/zuola.com](https://bgp.he.net/dns/t66y.com)
 > 
 > [apkpure.com](https://bgp.he.net/dns/apkpure.com) dns: 172.67.1.139, 104.20.83.194, 104.20.82.194
-> 
+```
+# APKPure 应用市场  https://apkpure.com/cn/
+172.67.1.139 apkpure.com
+104.20.83.194 apkpure.com
+104.20.82.194 apkpure.com
+```
 > - <kbd>Win徽标键</kbd> + <kbd>R</kbd>，打开-->运行：cmd
 > 
 > ipconfig /release 释放ip
