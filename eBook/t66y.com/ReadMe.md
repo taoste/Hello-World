@@ -69,6 +69,8 @@ https://www.zhongzihu.com
 > 
 > 1. [https://bgp.he.net/dns/zuola.com](https://bgp.he.net/dns/t66y.com)
 > 
+> [apkpure.com](https://bgp.he.net/dns/apkpure.com) dns: 172.67.1.139, 104.20.83.194, 104.20.82.194
+> 
 > [sex](https://bgp.he.net/dns/sex.com) dns: 206.125.164.82
 > 
 > [t66y.com](https://bgp.he.net/dns/t66y.com) dns: 104.25.32.112 , 104.25.31.112
