@@ -42,7 +42,7 @@
     </tr>        
   </table>
 
-》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
+》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。你可以用关键词 [**.user.js**](https://gist.github.com/search?l=javascript&q=%22user.js%22) 搜索。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
 
 # 推荐❤[**用户脚本**](https://greasyfork.org/zh-CN/scripts):  [发布你编写的脚本](https://greasyfork.org/zh-CN/script_versions/new)(或 [了解如何编写脚本](https://greasyfork.org/zh-CN/help/writing-user-scripts))
 
