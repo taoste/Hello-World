@@ -44,6 +44,22 @@
 
 》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。你可以用关键词 [**.user.js**](https://gist.github.com/search?l=javascript&q=%22user.js%22) 搜索。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
 
+- **补一些Userscript脚本基础知识** ( 《 [R酱的Userscript笔记](https://blog.rhilip.info/category/userscript/) ： [（1）基础介绍篇](https://blog.rhilip.info/archives/898/) | [（2）新手入门篇](https://blog.rhilip.info/archives/903/) - @[R酱小窝](https://rhilip.info/) ~ [个人博客](https://blog.rhilip.info/) )
+
+>> Userscript实际是JavaScript。并很考验脚本编写者HTML、CSS、JavaScript的综合能力。
+
+> 以下为一些网站，你可以作为基础学习，也可以作为手册翻阅。
+
+>> 菜鸟教程 - 学的不仅是技术，更是梦想！ ：https://www.runoob.com <br>
+>> w3school 在线教程（中文）： http://www.w3school.com.cn <br>
+>> W3Schools Online Web Tutorials（英文）： https://www.w3schools.com <br>
+>> Web 技术文档 | MDN： https://developer.mozilla.org/zh-CN/docs/Web <- 推荐
+
+> 当然随着ES6规范被浏览器不断支持，你可以开始了解下ES6的一些语法特性：
+
+>> ECMAScript 6入门 ： http://es6.ruanyifeng.com <br>
+>> Can I use... Support tables for HTML5, CSS3, etc ： https://caniuse.com <- 检查浏览器支持情况
+
 # 推荐❤[**用户脚本列表**](https://greasyfork.org/zh-CN/scripts):  [发布你编写的脚本](https://greasyfork.org/zh-CN/script_versions/new)(或 [了解如何编写脚本](https://greasyfork.org/zh-CN/help/writing-user-scripts))
 
 - 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》
