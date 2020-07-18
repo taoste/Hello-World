@@ -42,7 +42,7 @@
 
 -------------------------------------------------------------------------------
 
-- ***程序员小辉:《[跳出小圈子，独立思考，才会有真正的“人间第一流”](https://www.xiaohui.com/weekly/2020gaokao.htm)》 - XiaoHui.com (建站于 1997年)
+- **程序员小辉:《[跳出小圈子，独立思考，才会有真正的“人间第一流”](https://www.xiaohui.com/weekly/2020gaokao.htm)》 - XiaoHui.com (建站于 1997年)**
 
 >> 第 3 楼  @人民 发表于 2020-07-13 10:07 | [@人民 的所有评论](https://www.xiaohui.com/msg/review_disp.php?sid=0&name=%E4%BA%BA%E6%B0%91)
 ```
