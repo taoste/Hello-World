@@ -44,7 +44,7 @@
 
 》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
 
-# 推荐❤[**用户脚本**](https://greasyfork.org/zh-CN/scripts):
+# 推荐❤[**用户脚本**](https://greasyfork.org/zh-CN/scripts):  [发布你编写的脚本](https://greasyfork.org/zh-CN/script_versions/new)(或 [了解如何编写脚本](https://greasyfork.org/zh-CN/help/writing-user-scripts))
 
 - 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》
 
@@ -67,12 +67,11 @@
 
 >> 很多时候，我们并不知道一些网站是否有用户提供用来优化页面的脚本，而**Userscript+** 就能帮你自动寻找适用的UserJS，并默认按照评分高低排序推荐给你,给你带来一种全新的`Tampermonkey`使用体验！
 
-- 《[18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键](https://www.appinn.com/h5player-video-control-greasemonkey/)[[油猴脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)/[Github](https://github.com/xxxily/h5player)]》 - 小众软件
+- 《[**18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键**](https://www.appinn.com/h5player-video-control-greasemonkey/)[[油猴脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)/[Github](https://github.com/xxxily/h5player)]》 - 小众软件
 
 >> 这是一款叫做 HTML5视频播放器增强脚本 的油猴脚本，可以为在线视频播放添加多达 18 项辅助功能，包括倍速、画中画、截图、亮度调节、逐帧播放、画面移动、播放进度保存等功能，全程快捷键操作，非常高能。@Appinn
 
 > **HTML5视频播放器增强脚本** 是一款油猴脚本，需要先安装 [Tampermonkey](https://www.tampermonkey.net/) 插件（支持绝大多数主流浏览器），然后在通过[这个页面](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)安装脚本，在 [GitHub](https://github.com/xxxily/h5player) 开源。
-
 
 - [**会员视频**](https://greasyfork.org/zh-CN/scripts?q=%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91)《[懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、百度网盘直接下载、知乎视频下载等多合一版。长期更新，放心使用。](https://greasyfork.org/zh-CN/scripts/370634-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A-%E5%85%A8%E7%BD%91%E9%9F%B3%E4%B9%90%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD-%E7%9F%A5%E4%B9%8E%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%9A%E5%90%88%E4%B8%80%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8)]》
 
@@ -120,3 +119,28 @@
 - [**链接地址洗白白**](https://greasyfork.org/zh-CN/scripts/373270-%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E6%B4%97%E7%99%BD%E7%99%BD7) - 把链接地址缩减至最短可用状态，并复制到剪切板，以方便分享。【在每个页面的底部中间，有一个小小的按钮，用来呼出面板】
 
 - [**黑暗模式**](https://greasyfork.org/zh-CN/scripts/398149-%E9%BB%91%E6%9A%97%E6%A8%A1%E5%BC%8F) - 夜间开启，护眼模式
+
+- [**豆瓣资源下载大师：1秒搞定豆瓣电影|音乐|图书下载**](https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD) - 
+```
+【装这一个脚本就够了！可能是你遇到的最好的豆瓣增强脚本】聚合数百家资源网站，
+通过右侧边栏1秒告诉你哪些网站能下载：豆瓣页面上的电影|电视剧|纪录片|综艺|动画|音乐|图书等，
+有资源的网站显示绿色，没资源的网站显示黄色，就这么直观！
+所有豆瓣条目均提供：在线播放|阅读、字幕|歌词下载及PT|NZB|BT|磁力|百度盘|115网盘等下载链接，
+加入官网打死也不出的豆列搜索功能，
+此外还能给豆瓣条目额外添加IMDB评分|IMDB TOP 250|Metascore评分|烂番茄评分|AniDB评分|Bgm评分|MAL|亚马逊评分等更多评分形式。
+
+官方电报群：@doubandown，官方QQ群：691023412，验证口令：imdb
+```
+
+- [**【玩的嗨】VIP工具箱,全网VIP视频免费破解去广告,一站式音乐搜索下载,获取B站封面,下载B站视频,上学吧答案获取等众多功能聚合**](
+https://greasyfork.org/zh-CN/scripts/384538-%E7%8E%A9%E7%9A%84%E5%97%A8-vip%E5%B7%A5%E5%85%B7%E7%AE%B1-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A-%E4%B8%80%E7%AB%99%E5%BC%8F%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E4%B8%8B%E8%BD%BD-%E8%8E%B7%E5%8F%96b%E7%AB%99%E5%B0%81%E9%9D%A2-%E4%B8%8B%E8%BD%BDb%E7%AB%99%E8%A7%86%E9%A2%91-%E4%B8%8A%E5%AD%A6%E5%90%A7%E7%AD%94%E6%A1%88%E8%8E%B7%E5%8F%96%E7%AD%89%E4%BC%97%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%81%9A%E5%90%88-2020-07-16-%E6%9B%B4%E6%96%B0-%E6%8A%A5%E9%94%99%E8%AF%B7%E5%8F%8A%E6%97%B6%E5%8F%8D%E9%A6%88)  2020-07-16 更新，报错请及时反馈
+```
+功能介绍：
+	1、Vip视频解析；
+	2、一站式音乐搜索解决方案；
+	3、bilibili视频封面获取；
+	4、bilibili视频下载；
+	5、上学吧答案查询(接口偶尔抽风)；
+	6、商品历史价格展示(一次性告别虚假降价)；
+	7、优惠券查询
+```
