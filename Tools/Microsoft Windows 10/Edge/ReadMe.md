@@ -68,3 +68,11 @@
 -------------------------------------------------
 
 - [想给Microsoft Edge设置进入（打开）独立密码？](https://answers.microsoft.com/zh-hans/edge/forum/all/%E6%83%B3%E7%BB%99microsoft/4069a0d8-1c87-4448-8b56-3e19a12f6227) - Microsoft Community
+
+-------------------------------------------------
+
+- [**Windows 10 系统如何打开edge缓存文件**](https://www.pconline.com.cn/win10/1105/11059165.html) - 太平洋电脑网
+
+> 快捷键【win+r】呼出"运行"，输入：**C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe**  点击“确定”即可打开edge浏览器缓存文件夹。
+
+>> Microsoft Edge 浏览器缓存文件夹默认地址：**C:\账户名\电脑名\AppData\Local\Microsoft\Windows\INetCache** 。
