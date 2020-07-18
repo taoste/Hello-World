@@ -44,6 +44,8 @@
 
 》》你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
 
+# 推荐❤[**用户脚本**](https://greasyfork.org/zh-CN/scripts):
+
 - 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》
 
 >> [中文说明](https://github.com/jae-jae/Userscript-Plus/blob/master/README-ZH.md)@[Github](https://github.com/jae-jae/Userscript-Plus) :
@@ -86,6 +88,10 @@
 >> CSDNGreener 是于 GreasyFork 及 OpenUserJS 双平台发布的 CSDN 优化脚本：老牌脚本，欢迎体验。
 
 > ⚡️拥有数项独家功能的最强CSDN脚本，不服比一比⚡️|🕶无需登录CSDN，获得比会员更佳的体验|🖥分辨率自适配，分屏不用滚动|💾超级预优化|🔖独家超级免会员|🏷独家原创文章免登录展开|🔌独家推荐内容自由开关|📠独家免登录复制|🔗独家防外链重定向|📝独家论坛未登录自动展开文章、评论|🌵全面净化|📈沉浸阅读|🧴净化剪贴板|📕作者信息文章顶部展示
+
+- [**Twitter 下载视频**](https://greasyfork.org/zh-CN/scripts/404515-twitter-download-video) 
+
+> 一键导向下载视频的网页。
 
 - [**YouTube 下载器**](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader) 
 
