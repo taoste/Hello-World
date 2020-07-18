@@ -134,6 +134,7 @@
 
 - [**【玩的嗨】VIP工具箱,全网VIP视频免费破解去广告,一站式音乐搜索下载,获取B站封面,下载B站视频,上学吧答案获取等众多功能聚合**](
 https://greasyfork.org/zh-CN/scripts/384538-%E7%8E%A9%E7%9A%84%E5%97%A8-vip%E5%B7%A5%E5%85%B7%E7%AE%B1-%E5%85%A8%E7%BD%91vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A-%E4%B8%80%E7%AB%99%E5%BC%8F%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E4%B8%8B%E8%BD%BD-%E8%8E%B7%E5%8F%96b%E7%AB%99%E5%B0%81%E9%9D%A2-%E4%B8%8B%E8%BD%BDb%E7%AB%99%E8%A7%86%E9%A2%91-%E4%B8%8A%E5%AD%A6%E5%90%A7%E7%AD%94%E6%A1%88%E8%8E%B7%E5%8F%96%E7%AD%89%E4%BC%97%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%81%9A%E5%90%88-2020-07-16-%E6%9B%B4%E6%96%B0-%E6%8A%A5%E9%94%99%E8%AF%B7%E5%8F%8A%E6%97%B6%E5%8F%8D%E9%A6%88)  2020-07-16 更新，报错请及时反馈
+🔧 [插件功能(点我查看详情)](https://wiki.wandhi.com/zh-cn/Feature.html)
 ```
 功能介绍：
 	1、Vip视频解析；
