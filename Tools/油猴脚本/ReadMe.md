@@ -104,6 +104,10 @@
 
 > ⚡️拥有数项独家功能的最强CSDN脚本，不服比一比⚡️|🕶无需登录CSDN，获得比会员更佳的体验|🖥分辨率自适配，分屏不用滚动|💾超级预优化|🔖独家超级免会员|🏷独家原创文章免登录展开|🔌独家推荐内容自由开关|📠独家免登录复制|🔗独家防外链重定向|📝独家论坛未登录自动展开文章、评论|🌵全面净化|📈沉浸阅读|🧴净化剪贴板|📕作者信息文章顶部展示
 
+- [**PrintFriendly and PDF**](https://microsoftedge.microsoft.com/addons/detail/printfriendly-and-pdf/nhiebejbpolmpkikgbijamagibifhjib?hl=zh-CN)  - 特别适合需要在Web上打印文章的朋友
+
+>  这个插件会自动清理相关的广告，导航按钮和其他垃圾信息，让你可以非常清晰地打印你所需的页面内容。另外，你还可以选择删除其中不想打印的部分图文内容。
+
 - [**Twitter 下载视频**](https://greasyfork.org/zh-CN/scripts/404515-twitter-download-video) 
 
 > 一键导向下载视频的网页。
