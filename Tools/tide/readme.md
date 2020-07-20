@@ -1,6 +1,10 @@
 - [Title](https://taoste.github.io/Hello-World/Tools/tide/index.html) : [**潮汐**](https://tide.moreless.io/) - 睡眠、专注、放松与冥想 ( https://tide.fm )
 
->> 潮汐下载2020安卓最新版_[手机app官方版免费安装下载](https://www.wandoujia.com/apps/7546010/history)_@[安卓最新版豌豆荚下载](https://www.wandoujia.com/apps/7546010) / [‎App Store 上的“潮汐 - 睡眠、专注与冥想的白噪音番茄钟”](https://apps.apple.com/cn/app/tide/id1077776989)
+>> 潮汐下载2020安卓最新版_[手机app官方版免费安装下载](https://www.wandoujia.com/apps/7546010/history)_@[安卓最新版豌豆荚下载](https://www.wandoujia.com/apps/7546010)
+
+>>  [‎App Store 上的“潮汐 - 睡眠、专注与冥想的白噪音番茄钟”](https://apps.apple.com/cn/app/tide/id1077776989) 
+
+>>  [潮汐 - 极简番茄钟与白噪音 - @Chrome 网上应用店](https://chrome.google.com/webstore/detail/tide-focus-timer-white-no/lmbegcmkonokdjbhbamhpmkihpachdbk)
 
 > 和大自然一起，平静身心。
 
