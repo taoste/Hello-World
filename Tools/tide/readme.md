@@ -1,8 +1,6 @@
 - [Title](https://taoste.github.io/Hello-World/Tools/tide/index.html) : [**潮汐**](https://tide.moreless.io/) - 睡眠、专注、放松与冥想 ( https://tide.fm )
 
-<a href="https://tide.fm/zh_CN/events/covid19/"  title="COVID-19：关心疫情，更关心你 - 潮汐">潮汐「面对疫情」内容向全球免费提供，帮助你缓解焦虑，睡得更好。点击体验>>></a>
-
->>> 潮汐下载2020安卓最新版_[手机app官方版免费安装下载](https://www.wandoujia.com/apps/7546010/history)_@[安卓最新版豌豆荚下载](https://www.wandoujia.com/apps/7546010)
+>> 潮汐下载2020安卓最新版_[手机app官方版免费安装下载](https://www.wandoujia.com/apps/7546010/history)_@[安卓最新版豌豆荚下载](https://www.wandoujia.com/apps/7546010)
 
 > 和大自然一起，平静身心。
 
@@ -14,6 +12,8 @@
 通过我们提供的自然声音场景，配合「专注」与「睡眠」两大功能模块，
 从快节奏的当下抽离，进入另一个平和安静的时空——减少焦虑与压力、保持专注不分心、获得更好的睡眠。
 ```
+
+<a href="https://tide.fm/zh_CN/events/covid19/"  title="COVID-19：关心疫情，更关心你 - 潮汐">潮汐「面对疫情」内容向全球免费提供，帮助你缓解焦虑，睡得更好。点击体验>>></a>
 
 --------------------------------------------
 
