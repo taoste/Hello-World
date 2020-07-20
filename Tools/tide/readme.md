@@ -1,4 +1,4 @@
-# [Title](https://taoste.github.io/Hello-World/Tools/tide/index.html) : [**潮汐**](https://tide.moreless.io/) - 睡眠、专注、放松与冥想 ( https://tide.fm )
+# [Title](https://taoste.github.io/Hello-World/Tools/tide/index.html) : [**潮汐**](https://tide.moreless.io/) - 睡眠、专注、放松与冥想 ( https://tide.fm ) | [登录](https://tide-api.moreless.io/static/login/)
 
 > 和大自然一起，平静身心。
 
@@ -40,8 +40,9 @@
 
 - **其它**:
 
-《[这款白噪音 App 不仅让你学习工作保持专注，还帮你睡得更好，减少焦虑：潮汐](https://sspai.com/post/45543)》 - @[少数派](https://sspai.com/)(2018年07月13日)
+>> 《[这款白噪音 App 不仅让你学习工作保持专注，还帮你睡得更好，减少焦虑：潮汐](https://sspai.com/post/45543)》 - @[少数派](https://sspai.com/)(2018年07月13日)
 
+>> 《[潮汐 - 极简番茄钟与白噪音，基于番茄工作法设计，让你保持专注、打败拖延症 (iPhone / iPad)](https://www.douban.com/app/26732522/)》（豆瓣-App下载_图片_评论）丨豆瓣评分 8.5
 
 --------------------------------------------
 
