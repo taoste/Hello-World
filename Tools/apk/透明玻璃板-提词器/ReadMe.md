@@ -1,6 +1,6 @@
 ----------------------------------
 
-💗 【提词器】 手机app / iPAD变身提词器：
+💗 【[辅助工具](https://github.com/taoste/Hello-World/tree/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)】 手机app / iPAD变身提词器：
 
 - @[小众软件](https://www.appinn.com/) : [**Parrot Teleprompter** – 适合于拍摄视频的「**提词器**」 — 公众演讲的备注工具](https://www.appinn.com/parrot-teleprompter/) 丨2018/12/16
 > ( 【下载】 [iOS](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn) : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
@@ -49,6 +49,23 @@
 >
 > 在<a href="https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn" title="【Apple iTunes】iPhone手机提词器app(Parrot Teleprompter)">App Store</a> 免费下载。
 
+----------------------------------
+
+- [Sofronio](https://www.youtube.com/channel/UC3Y-3mkUsU7hyAge2iA0x3A):视频制作效率提升十倍！提词器了解一下！天影视通TS-310 iPad提词器评测 - YouTube
+https://www.youtube.com/watch?v=8zTyuWw7MNM
+
+```
+过去老是有观众说我拍视频说话太慢，我也想说话快呀但说快了错太多了！
+不过用了这视频制作神器，就再也不会为NG发愁了！
+拍摄设备一览：http://sofronio.cn/page-about.php
+提词器：天影视通 TS-310
+相机：Sony A7、Canon 200D
+镜头：Sony 28-70、Canon 10-18、Sigma 18-35
+拍摄设备一览：http://sofronio.cn/page-about.php
+提词器：天影视通 TS-310
+相机：Sony A7、Canon 200D
+镜头：Sony 28-70、Canon 10-18、Sigma 18-35
+```
 ----------------------------------
 
 💗  - **推荐**：乌镇互联网大会上的 [ 透明玻璃板 - 提词器 ]
