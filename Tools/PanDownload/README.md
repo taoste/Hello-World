@@ -33,6 +33,13 @@
 
 >> <img src="https://attach.52pojie.cn/forum/201904/04/000826yyepgkzytok77dt9.png"/>
 
+
+- [**雷鸟下载**_百度网盘|网盘下载|高速下载-雷鸟科技|网盘资源|电影网盘](http://www.thunderbird.bar/) - **雷鸟下载**  @[**Bing搜索**](https://cn.bing.com/search?q=%E9%9B%B7%E9%B8%9F%E4%B8%8B%E8%BD%BD%E5%99%A8)
+
+- [某度网盘的又一款下载软件"**雷鸟下载器**",低调使用[6P] ](https://t66y.com/htm_data/2007/7/4014071.html)- 技術討論區 | 草榴社區 - t66y.com
+
+- [【转载】雷鸟下载器](https://www.52pojie.cn/thread-1222078-1-1.html) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+
 -----------------------------------------------------------
 
 #万能命令-快捷寻找和直达你想要的各类工具 https://wn.run/cn/ 
