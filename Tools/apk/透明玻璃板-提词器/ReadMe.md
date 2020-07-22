@@ -6,6 +6,8 @@
 > ( 【下载】 [iOS](https://itunes.apple.com/us/app/parrot-teleprompter/id1010384663?mt=8&ref=appinn) : [iPhone / iPad](https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663) - Android ：[Google Play 上的应用](https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh)/
 [APKPure 上的原版应用](https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app) )
 
+>> 专业主持人设置提词器，每行9个字左右。
+
 <p><a href="https://itunes.apple.com/hk/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(香港HK)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器-qrcode.png?raw=true"/>
 </a>
@@ -79,6 +81,8 @@
 何况绝大多数自媒体视频，都无法作到一镜到底，一次完美录完，中间肯定会有暂停，重录的，
 到时你手机上控制一下音频进度，重新录，根本不叫事。希望up主，可以试试我的方案。
 ```
+有点复杂 我用的是提词宝 app https://sj.qq.com/myapp/detail.htm?apkName=com.app.remind.words
+
 ----------------------------------
 
 💗  - **推荐**：乌镇互联网大会上的 [ 透明玻璃板 - 提词器 ]
