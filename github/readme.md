@@ -20,7 +20,7 @@
 <a id="more"></a>
 < / code >< / pre >
 ```
-（ 【实例】 打包下载：> 播放器 [View Raw](
+（ 【<a href="https://cloud.tencent.com/developer/tag/10284?entry=article" title="GitHub - 标签 - 云+社区 - 腾讯云">实例</a>】 打包下载：> 播放器 [View Raw](
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip) / [Download](
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true) ）
 
