@@ -51,8 +51,7 @@
 
 ----------------------------------
 
-- [Sofronio](https://www.youtube.com/channel/UC3Y-3mkUsU7hyAge2iA0x3A):视频制作效率提升十倍！提词器了解一下！天影视通TS-310 iPad提词器评测 - YouTube
-https://www.youtube.com/watch?v=8zTyuWw7MNM
+- [**Sofronio**](https://www.youtube.com/channel/UC3Y-3mkUsU7hyAge2iA0x3A?lang=zh-cn) : [**视频制作效率提升十倍！提词器了解一下！天影视通TS-310 iPad提词器评测**](https://www.youtube.com/watch?v=8zTyuWw7MNM?lang=zh-cn) - YouTube
 
 ```
 过去老是有观众说我拍视频说话太慢，我也想说话快呀但说快了错太多了！
