@@ -10,6 +10,27 @@
 
 - [**由于系统特殊维护，暂时无法修改昵称/头像/个人简介等设置**](https://www.jianshu.com/p/18234ebb2db4)。(简书@[2020/6/4](https://www.jianshu.com/settings/basic))
 
+# HTML图文分享简易代码：
+```
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>《都要脱钩了，怎么每次还大惊小怪？》</title>
+  <link rel="icon" href="./images/share.jpg" > 
+</head>
+<body bgcolor="#1B1B1B" text="#000000">
+  <p style="text-align:center">
+   <a href="https://github.com/inchoong/go/raw/master/s/wx/20200723/0.PNG" title="《都要脱钩了，怎么每次还大惊小怪？》">
+   <img src="https://github.com/inchoong/go/blob/master/s/wx/20200723/0.PNG?raw=true" />
+   </a>
+  </p>
+</body>
+</html>
+```
+
 🎦 Github Code 编码：
 
    <p><b> < p > < b > < / b > < / p > </p>
