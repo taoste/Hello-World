@@ -18,6 +18,10 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
 > 这些天，中国关于孩子的新闻有些吓人，刚有14的不爱国的少年被立案调查，现在又看到网络浙江有学校给小学生带上脑机接口监测头环。[https://bit.ly/34ctJes](https://www.thepaper.cn/newsDetail_forward_4826013) 这国厉害。
 >>  《[家长谈学生戴头环监测走神：高考比分数_七环视频_澎湃新闻](https://www.thepaper.cn/newsDetail_forward_4826013)》
 
+- Twitter: @北正:家庭是守卫价值观的最后一道防线。魔鬼一旦抢夺了孩子的灵魂，也就抢夺了孩子的肉体。
+<img src="https://pbs.twimg.com/media/EdvuVZAVAAEerP0?format=jpg&name=small" title="家庭是守卫价值观的最后一道防线。魔鬼一旦抢夺了孩子的灵魂，也就抢夺了孩子的肉体。" />
+
+
 - Twitter: 财经冷眼( @[charles984681](https://twitter.com/MJTVxchen15/) ) [上午8:19 · 2020年1月08日](https://twitter.com/charles984681/status/1214823931296698369)
 > 【《[少年派](https://github.com/taoste/Hello-World/blob/master/eBook/dy2018.com/2019%E5%B9%B4%E5%9B%BD%E4%BA%A7%E5%89%A7%E3%80%8A%E5%B0%91%E5%B9%B4%E6%B4%BE%E3%80%8B%E5%85%A841%E9%9B%86.md)》 中张嘉译饰演的林大为对女儿经典台词】“历朝历代最难搞的像定时炸弹一样的人，就是你这年龄的血气方刚的青少年。梁山好汉108将，平均年龄才21岁，项羽起兵反秦的时候也只有24岁。国家为了把你们这批人管理好，都采取了圈起来的办法，让你们学这些没用的东西，省得你们这些愣头青们七想八想……”
 
@@ -45,6 +49,19 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
 > 今日金贴：
 >> 开会时称人民，落户时称居民，强拆时称刁民，发怒时称屁民，发声时称疑犯，收税时成了公民，打仗时称亲人。对外，老子有钱，到处撒钱。对内，老子有枪，到处开枪。据说，人民的幸福是党和政府给的，那么人民的痛苦是谁给的？我们只能这样回答：人民的痛苦都是自找的....................
 
+```
+某微信群，
+一帮＂爱国者＂在讨论哪个国家最反华？
+于是开始列举：
+限制华人自由出入，
+限制华人买房买车，
+限制华人子女就学，
+对华人收更高的税，
+强制华人买更贵的汽油，
+给华人吃地沟油毒奶粉，
+限制华人生孩子...
+最后所有人都不说话了
+```
  - 网传蔡霞教授发言：@[德国之声|DW](https://p.dw.com/p/3dIwq) | 05.06.2020
  >> Youtube网站上可以听到这段音频录音。
  
