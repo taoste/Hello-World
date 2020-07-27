@@ -142,6 +142,14 @@ hosts文件的其它用途
 #csdn.net https://bgp.he.net/dns/csdn.net
 47.95.164.112 csdn.net
 
+#v2ex.com https://bgp.he.net/dns/v2ex.com
+104.20.10.218 v2ex.com
+104.20.9.218 v2ex.com
+172.67.3.188 v2ex.com
+2606:4700:10::6814:ADA v2ex.com
+2606:4700:10::AC43:3BC v2ex.com
+2606:4700:10::6814:9DA v2ex.com
+
 ##64.150.183.194 huanghuagang.org
 199.34.228.75 huanghuagang.org
 204.79.197.217 onedrive.live.com
