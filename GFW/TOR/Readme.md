@@ -17,7 +17,11 @@
 
 > 官方网站是 https://www.torproject.org/zh-CN/
 
+>> Onion站点 http://expyuzz4wqqyqhjn.onion/zh-CN/
+
 > Tor浏览器 https://www.torproject.org/zh-CN/download/
+
+>> Onion站点 http://expyuzz4wqqyqhjn.onion/zh-CN/download/languages/index.html
 
 > （[必须翻墙才能访问](https://www.torproject.org/zh-CN/download/)） 
 
