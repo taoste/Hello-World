@@ -7,7 +7,7 @@
 - [**Tor Project | 匿名上网**](https://www.torproject.org/zh-CN/)
 （ [下载你的语言的 Tor 浏览器](https://www.torproject.org/zh-CN/download/languages/) ，体验真正的私密浏览，不被追踪、监视或审查。）
 
-> 我们的任务：
+> @[**Github**](https://github.com/torproject) 我们的任务：
 
 >>> 通过开发和部署自由和开源的匿名和隐私技术，来支持人们不受限制地使用网络，以及提高他们对科学和普世价值的认知，并增进他们对科学和日常知识的理解。
 
@@ -75,7 +75,11 @@
 
 Tor Browser 更新日志：view-source:**about:tbupdate**
 
-Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周二 , 2019年11月5日 （最新版 Tor Browser v 9.5.3 :[32bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe.asc))  --  (Tor Browser v9.5.3 [说明](https://www.torproject.org/releases/tor-browser-95/index.html))
+> Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周三 , 2020年7月29日 （最新版 Tor Browser v 9.5.3 :[32bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe.asc))  --  (Tor Browser v9.5.3 [说明](https://www.torproject.org/releases/tor-browser-95/index.html))
+
+>> 你是 iOS 用户吗？我们推荐你尝试 [**Onion Browser**](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8)。 
+
+>> 你是 安卓 用户吗？我们推荐你尝试 [**Onion Browser**](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)。
 
 > **关于Tor:**  ( view-source:**about:tor**  )
 > 
