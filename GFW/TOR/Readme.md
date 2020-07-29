@@ -23,6 +23,8 @@
 
 >> Onion站点 http://expyuzz4wqqyqhjn.onion/zh-CN/download/languages/index.html
 
+>> http://expyuzz4wqqyqhjn.onion/releases/tor-browser-95/index.html
+
 > （[必须翻墙才能访问](https://www.torproject.org/zh-CN/download/)） 
 
 本目录提供的安装包，还附带了安装包的签名文件（扩展名为 asc）。
