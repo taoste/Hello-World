@@ -27,6 +27,8 @@
 
 > （[必须翻墙才能访问](https://www.torproject.org/zh-CN/download/)） 
 
+>> 下载 Tor 源代码 http://expyuzz4wqqyqhjn.onion/zh-CN/download/tor/
+
 本目录提供的安装包，还附带了安装包的签名文件（扩展名为 asc）。
 
 为了保险起见，需要验证一下签名。
@@ -35,19 +37,14 @@
 
 > https://www.torproject.org/docs/verifying-signatures.html.en
 
-更详细的介绍，请参见【编程随想的博客】的如下几篇博文：
+更详细的介绍，请参见【[**编程随想的博客**](https://program-think.blogspot.com/)】的如下几篇博文：
 
-> 《“如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理》
+> 《[“如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理](https://program-think.blogspot.com/2014/10/gfw-tor-meek.html)》
 >
-> https://program-think.blogspot.com/2014/10/gfw-tor-meek.html
+> 《[“如何翻墙”系列：关于 TOR 的常见问题解答](https://program-think.blogspot.com/2013/11/tor-faq.html)》 
 >
-> 《“如何翻墙”系列：关于 TOR 的常见问题解答》 
+>《[“如何翻墙”系列：戴“套”翻墻的方法](https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html)》
 >
->https://program-think.blogspot.com/2013/11/tor-faq.html
->
->《“如何翻墙”系列：戴“套”翻墻的方法》
->
->https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html
 
 --------------------------------------------------------------------------------
 
@@ -78,7 +75,7 @@
 
 Tor Browser 更新日志：view-source:**about:tbupdate**
 
-Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周二 , 2019年11月5日 （最新版 Tor Browser v 9.0.1 :[32bit](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-9.0.1_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-9.0.1_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-win64-9.0.1_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.0.1/torbrowser-install-win64-9.0.1_zh-CN.exe.asc))  --  (Tor Browser v9.0.1 [说明](https://blog.torproject.org/new-release-tor-browser-901))
+Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周二 , 2019年11月5日 （最新版 Tor Browser v 9.5.3 :[32bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe.asc))  --  (Tor Browser v9.5.3 [说明](https://www.torproject.org/releases/tor-browser-95/index.html))
 
 > **关于Tor:**  ( view-source:**about:tor**  )
 > 
