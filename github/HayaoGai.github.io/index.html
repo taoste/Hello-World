@@ -1,0 +1,36 @@
+<html>
+
+	<head>
+		<script src="lib/aframe_v1.0.3.js"></script>
+		<script src="lib/aframear_v2.1.8.js"></script>
+		<script src="lib/animation_v3.4.0.js"></script>
+		<script src="lib/hammer_v2.0.8.js"></script>
+		<script src="lib/tween_v18.5.0.js"></script>
+		<script src="lib/merge_v1.2.0.js"></script>
+	</head>
+
+	<body style = 'margin: 0px; overflow: hidden;'>
+		<a-scene vr-mode-ui="enabled: false" embedded arjs='debugUIEnabled: false;'>
+
+			<a-assets>
+				<!-- 宣告欲生成的模型 -->
+				<a-asset-item id="gltf" src="model/OPA.gltf"></a-asset-item>
+			</a-assets>
+      
+			<!-- 偵測掃描圖 -->
+			<a-marker id="marker" type="pattern" url="marker/pattern-opa.patt">
+				<!-- 掃描到就顯示模型 -->
+				<a-gltf-model id="model" src="#gltf" rotation="-45 0 0" scale="3 3 3" animation-mixer></a-gltf-model>
+			</a-marker>
+         
+			<a-entity camera></a-entity>
+		</a-scene>
+
+		<script type="text/javascript" src="js/gesture.js"></script>
+		<script type="text/javascript" src="js/ar.js"></script>
+		<script type="text/javascript" src="js/camera.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+
+	</body>
+
+</html>
