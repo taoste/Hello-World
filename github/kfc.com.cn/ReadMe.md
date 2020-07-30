@@ -1,0 +1,1 @@
+- [肯德基](http://www.kfc.com.cn/)[手机网](http://m.kfc.com.cn/) ( http://m.kfc.com.cn/ )
