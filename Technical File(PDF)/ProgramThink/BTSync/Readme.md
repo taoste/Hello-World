@@ -10,7 +10,7 @@
 
 > 路径： ./1.4.111/Windows/BTSync-1.4.111.exe
   
-2.添加BT Sync 同步密钥KEY
+2.添加BT Sync 同步密钥KEY ( [BTSync 中继服务器 - @Google 搜索](https://www.google.com/search?q=BTSync+%E4%B8%AD%E7%BB%A7%E6%9C%8D%E5%8A%A1%E5%99%A8) )
 
 > 路径： ./<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt">BT Sync - eblog List.txt</a>
 
