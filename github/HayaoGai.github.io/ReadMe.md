@@ -1,1 +1,1 @@
-- [HayaoGai](https://github.com/HayaoGai/) / [HayaoGai.github.io](https://github.com/HayaoGai/HayaoGai.github.io) : A web about myself.
+- [view-source]() : [HayaoGai](https://github.com/HayaoGai/) / [HayaoGai.github.io](https://github.com/HayaoGai/HayaoGai.github.io) : A web about myself.
