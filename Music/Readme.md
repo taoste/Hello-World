@@ -125,7 +125,9 @@ https://music.163.com/song/media/outer/url?id=29750099.mp3
 
 - [周迅 - 寂寞- 越人歌(《夜宴》插曲).mp3](https://taoste.github.io/Hello-World/Music/%E5%91%A8%E8%BF%85%20-%20%E5%AF%82%E5%AF%9E%20-%20%E8%B6%8A%E4%BA%BA%E6%AD%8C(%E3%80%8A%E5%A4%9C%E5%AE%B4%E3%80%8B%E6%8F%92%E6%9B%B2).mp3)
 
-- [赵真&王晓婷 - 亲亲我的小宝贝](https://taoste.github.io/Hello-World/Music/赵真&王晓婷 - 亲亲我的小宝贝.mp3) - 【[音乐MP3](https://music.163.com/#/song?id=5232921)】【[歌词下载](http://www.22lrc.com/geci/716464437)】
+- [赵真&王晓婷 - 亲亲我的小宝贝](https://taoste.github.io/Hello-World/Music/%E8%B5%B5%E7%9C%9F&%E7%8E%8B%E6%99%93%E5%A9%B7%20-%20%E4%BA%B2%E4%BA%B2%E6%88%91%E7%9A%84%E5%B0%8F%E5%AE%9D%E8%B4%9D.mp3) - 【[音乐MP3](https://music.163.com/#/song?id=5232921)】【[歌词下载](http://www.22lrc.com/geci/716464437)】
+
+- [海来阿木 - 青山一别](https://taoste.github.io/Hello-World/Music/%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20-%20%E9%9D%92%E5%B1%B1%E4%B8%80%E5%88%AB.mp3) - 【[音乐](https://www.kugou.com/song/#hash=864D5DEF2E43985325EDF110DDA7CF3A&album_id=37345102)】【[MP3](https://webfs.yun.kugou.com/202008011925/e3866d93a16543f2b40b35b86f760707/G219/M07/1D/10/u5QEAF6mtTmAYvlRAD88vLwRjxk294.mp3)|[歌词下载](http://www.22lrc.com/gs-PQg.html)】
 
 💗 专辑：
 
