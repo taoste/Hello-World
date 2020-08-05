@@ -131,6 +131,9 @@ https://music.163.com/song/media/outer/url?id=29750099.mp3
 
 - [海来阿木 - 青山一别](https://taoste.github.io/Hello-World/Music/%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20-%20%E9%9D%92%E5%B1%B1%E4%B8%80%E5%88%AB.mp3) - 【[音乐](https://www.kugou.com/song/#hash=864D5DEF2E43985325EDF110DDA7CF3A&album_id=37345102)】【[MP3](https://webfs.yun.kugou.com/202008011925/e3866d93a16543f2b40b35b86f760707/G219/M07/1D/10/u5QEAF6mtTmAYvlRAD88vLwRjxk294.mp3)|[歌词下载](https://taoste.github.io/Hello-World/Music/%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20-%20%E9%9D%92%E5%B1%B1%E4%B8%80%E5%88%AB.lrc)】
 
+- [罗文](https://music.163.com/#/artist?id=3698) - [**戏说人生**](https://music.163.com/#/song?id=112081) - [单曲](http://music.163.com/song/media/outer/url?id=112081.mp3)[下载](http://m8.music.126.net/20200805182553/375fe034d9fcfd0155b7f1d1ce4b8d68/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3066552544/3e68/630b/6927/9a569c72923246eefcb8c0b5216e33ba.mp3) - 网易云音乐
+
+
 💗 专辑：
 
 -  [〖心静意禅〗心经（多人协作合集）](https://www.ximalaya.com/yinyue/4185135/15009543) _ [音乐下载](http://audio.xmcdn.com/group7/M09/56/90/wKgDX1chvMODcIzYAUlSM09gag0469.mp3) | [备份](https://github.com/taoste/Hello-World/raw/master/Music/Health/%E3%80%90%E7%A6%85%E4%B8%8E%E6%B2%89%E3%80%91%E9%9D%99%E5%BF%83/%E3%80%96%E5%BF%83%E9%9D%99%E6%84%8F%E7%A6%85%E3%80%97%E5%BF%83%E7%BB%8F%EF%BC%88%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9C%E5%90%88%E9%9B%86%EF%BC%89%20.mp3) - [喜马拉雅FM](https://www.ximalaya.com/)
