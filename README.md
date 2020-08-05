@@ -12,7 +12,7 @@
 	
 # 📕 [README](README.md) ： <p><a href="https://github.com/taoste/taoste.github.io/issues/1" title="[Note] : ??? 科学上网 / hosts · Issue #1 · taoste/taoste.github.io"><img src="https://img.shields.io/badge/苦撑-待变-brightgreen.svg"/></a></p> 
 
-<hr> 
+>> 2020/8/5 ：与其呆坐唉声叹气，不如出去碰碰运气。--《乌龙院》
 
 <marquee><a href="https://github.com/taoste/Hello-World/raw/master/github/Git-Command-List.png"><img src="https://github.com/taoste/Hello-World/blob/master/github/Git-Command-List.png?raw=true"/></a></marquee>
 
