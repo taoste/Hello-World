@@ -24,7 +24,7 @@
 
 >>>> 2017年6月2日@[IT之家](http://www.ithome.com/html/it/311554.htm)：《[用树莓派在B站24小时直播音乐](https://shumeipai.nxez.com/2017/06/05/use-raspberry-pi-to-send-music-to-the-bilibili-for-24-hours.html)》 | 树莓派实验室 （@[哔哩哔哩直播](https://live.bilibili.com/16703)）
 
->>>《[在树莓派上搭建智能家居网关](https://www.emqx.io/cn/blog/smart-home-hub-on-raspberry-pi)》 | EMQ
+>>> 2020-07-15:《[在树莓派上搭建智能家居网关](https://www.emqx.io/cn/blog/smart-home-hub-on-raspberry-pi)》 | EMQ
 
 >> [树莓派](http://kisss.cjli.info/home/tag.html#%E6%A0%91%E8%8E%93%E6%B4%BE)：
 
