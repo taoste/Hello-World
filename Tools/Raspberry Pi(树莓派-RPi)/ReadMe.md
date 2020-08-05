@@ -20,6 +20,10 @@
 
 >>> 《[树莓派能用来做啥？](https://shumeipai.nxez.com/what-raspi-used-for)》 | 树莓派实验室
 
+>>>> 2017年6月11日：《[直播续章：用树莓派搭建B站直播“点歌台”](https://shumeipai.nxez.com/2017/06/11/use-raspberry-pi-to-build-bilibili-vod.html)》 | 树莓派实验室（@[哔哩哔哩直播](https://live.bilibili.com/16703)）
+
+>>>> 2017年6月2日@[IT之家](http://www.ithome.com/html/it/311554.htm)：《[用树莓派在B站24小时直播音乐](https://shumeipai.nxez.com/2017/06/05/use-raspberry-pi-to-send-music-to-the-bilibili-for-24-hours.html)》 | 树莓派实验室 （@[哔哩哔哩直播](https://live.bilibili.com/16703)）
+
 >> [树莓派](http://kisss.cjli.info/home/tag.html#%E6%A0%91%E8%8E%93%E6%B4%BE)：
 
 >>>《[在树莓派上使用 Kali](http://kisss.cjli.info/linux/Kali-On-Raspberry.html)》@ckwongloy
