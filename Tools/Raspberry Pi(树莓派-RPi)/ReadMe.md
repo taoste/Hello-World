@@ -16,6 +16,10 @@
 
 >>> 2017年12月17日：《[树莓派真的适合学习Linux系统吗？](https://www.cnbeta.com/articles/tech/680619.htm)》 - Linux - cnBeta.COM  
 
+>> **site:cnbeta.com 树莓派 › Raspberry Pi**( @[V2EX](https://www.v2ex.com/go/pi) ) : 
+
+>>> 《[树莓派能用来做啥？](https://shumeipai.nxez.com/what-raspi-used-for)》 | 树莓派实验室
+
 >> [树莓派](http://kisss.cjli.info/home/tag.html#%E6%A0%91%E8%8E%93%E6%B4%BE)：
 
 >>>《[在树莓派上使用 Kali](http://kisss.cjli.info/linux/Kali-On-Raspberry.html)》@ckwongloy
