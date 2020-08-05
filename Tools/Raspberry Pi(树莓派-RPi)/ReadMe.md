@@ -18,7 +18,7 @@
 
 >> **site:v2ex.com 树莓派 › Raspberry Pi**( @[V2EX](https://www.v2ex.com/go/pi) ) : 
 
->>> 《@v2ex:[树莓派能用来做啥？](https://www.v2ex.com/t/691436)》 | @[树莓派实验室](https://shumeipai.nxez.com/what-raspi-used-for)
+>>> 《@v2ex:[树莓派能用来做啥？](https://www.v2ex.com/t/691436)》 | @[树莓派实验室](https://shumeipai.nxez.com/what-raspi-used-for) - [Raspberry Pi 中文资讯站，提供丰富的树莓派使用教程和DIY资讯](https://shumeipai.nxez.com/)
 
 >>>> 2017年6月11日：《[直播续章：用树莓派搭建B站直播“点歌台”](https://shumeipai.nxez.com/2017/06/11/use-raspberry-pi-to-build-bilibili-vod.html)》 | 树莓派实验室（@[哔哩哔哩空间](https://space.bilibili.com/7848412)）
 
