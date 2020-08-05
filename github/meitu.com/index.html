@@ -1,0 +1,735 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title> 美图公司 </title>
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, user-select:0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"
+        />
+        <meta
+            name="format-detection"
+            content="telephone=no,email=no,adress=no"
+        />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link rel="shortcut icon" href="https://js.app.meitudata.com/corp-new/favicon.ico" />
+        <link rel="dns-prefetch" href="//img.app.meitudata.com" />
+        <link rel="dns-prefetch" href="//js.app.meitudata.com" />
+        <link rel="stylesheet" href="https://js.app.meitudata.com/corp-new/css/common.@ab04f4c1.css" />
+        <link
+            rel="stylesheet"
+            href="https://js.app.meitudata.com/corp-new/css/component/header.@c67aead0.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://js.app.meitudata.com/corp-new/css/component/footer.@6145dbc4.css"
+        />
+
+        <script src="//public.static.meitudata.com/meitu/mtstat-sdk/mtstat-sdk.min.js"></script>
+        
+<link rel="stylesheet" href="https://js.app.meitudata.com/corp-new/css/home.@ee92ca3c.css" />
+
+        <script>
+            var __errorLogs__ = [];
+            var __clickCount__ = 0;
+            var __logContainer__;
+            window.onerror = function () {
+                if (__errorLogs__.length > 1000) {
+                    __errorLogs__ = [];
+                }
+                __errorLogs__.push([].slice.call(arguments, 0).join(','));
+            };
+            function logger() {
+                __errorLogs__.push([].slice.call(arguments, 0).join(','));
+            }
+            function closeLog() {
+                document.body.removeChild(__logContainer__);
+            }
+            function createLog() {
+                __logContainer__ = document.createElement('div');
+                __logContainer__.style.position = 'absolute';
+                __logContainer__.style.left = '0';
+                __logContainer__.style.right = '0';
+                __logContainer__.style.top = '0';
+                __logContainer__.style.zIndex = 9999;
+                __logContainer__.style.background = '#fff';
+                __logContainer__.style.minHeight = '100px';
+                var html = '';
+                if (__errorLogs__.length > 0) {
+                    __errorLogs__.forEach(function (item, index) {
+                        html += '<p>#' + index + ' ' + item + '</p>';
+                    });
+                } else {
+                    html += '<p>没有错误日志</p>';
+                }
+                html +=
+                    '<p onclick="closeLog()" style="background:red; line-height: 40px;text-align: center; margin: 20px;">关闭</p>';
+                __logContainer__.innerHTML = html;
+                document.body.appendChild(__logContainer__);
+            }
+            window.onload = function () {
+                document.body.addEventListener('click', function (e) {
+                    if (e.pageX < 50 && e.pageY < 50) {
+                        __clickCount__++;
+                    } else {
+                        __clickCount__ = 0;
+                    }
+                    if (__clickCount__ > 10) {
+                        __clickCount__ = 0;
+                        createLog();
+                    }
+                });
+            };
+            // console.log = function() {
+            //   logger.call(window, [].slice.call(arguments,0));
+            // }
+        </script>
+        <script>
+            var setRem = function (baseWidth) {
+                var dpr = window.devicePixelRatio;
+                var currentWidth = document.documentElement.clientWidth;
+
+                var remSize = 0;
+                var scale = 0;
+                scale = currentWidth / baseWidth;
+                remSize = 100;
+                remSize = remSize * scale;
+                document.documentElement.style.fontSize = remSize + 'px';
+                document.documentElement.setAttribute('data-dpr', dpr);
+            };
+
+            var resizeWindow = function (callback) {
+                var reSetRem = true;
+                window.addEventListener('resize', function () {
+                    if (reSetRem) {
+                        reSetRem = false;
+                        setTimeout(function () {
+                            reSetRem = true;
+                            callback();
+                        }, 66);
+                    }
+                });
+            };
+
+            resizeWindow(function () {
+                setRem(1920);
+            });
+
+            setRem(1920);
+        </script>
+    </head>
+    <body>
+         <div class="header_wrap js-header-page" id="topAnchor">
+    <div class="header_content">
+        <a class="logo" href="/zh"></a>
+        
+        <ul class="menu js-menu-container">
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/introduction">简介</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/introduction#introduction">美图简介</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/introduction#history">发展历程</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/introduction#business">业务框架</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/introduction#culture">美图文化</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/introduction#team">美图团队</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/business">业务</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/business#user">面向用户</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/business#industry">面向行业</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/business#core">核心技术</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/talents">人才</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/talents#talents-develop">人才发展</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/talents#salary-welfare">薪酬福利</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/talents#work-environment">工作环境</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/talents#employee-activity">员工活动</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/talents#contact">加入我们</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/responsibility">社会责任</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/responsibility#responsibility">社会责任</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/partner">合作案例</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/partner#marketing">营销合作</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/partner#technology">技术合作</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/partner#contact">联系我们</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/investor">投资者</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/investor#public-circular">公告与通函</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/investor#business">业绩与财务报告</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/investor#activity-analyst">IR活动与分析师列表</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/investor#governance">企业管治</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/investor#contact">联系我们</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/media">媒体</a>
+                
+                    <ul class="sub_menu js-sub-menu">
+                        
+                        <li>
+                            <a href="/zh/media#dynamic">美图动态</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/media#database">媒体资料库</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/zh/media#contact">联系我们</a>
+                        </li>
+                        
+                    </ul>
+                <div class="empty_placeholder"></div>
+                
+            </li>
+            
+        </ul>
+        
+        <div class="lang_wrap">
+            <span class="lang_logo"></span>
+            <a class="text js-lang current" lang="zh" data-lang="zh">简</a>
+            <i class="text"> / </i>
+            <a class="text js-lang" lang="hk" data-lang="hk">繁</a>
+            <i class="text"> / </i>
+            <a class="text js-lang" lang="en" data-lang="en">EN</a>
+        </div>
+    </div>
+    <div class="white_background"></div>
+    <div  class="side_menu_container js-side-menu-container">
+        <i class="side_menu_close js-close-side-menu"></i>
+        <a class="side_menu_logo" href="/zh"></a>
+        <ul class="mobile_menu" >
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/introduction">简介</a>
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/business">业务</a>
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/talents">人才</a>
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/responsibility">社会责任</a>
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/partner">合作案例</a>
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/investor">投资者</a>
+            </li>
+            
+            <li class="menu_item">
+                <a class="text" href="/zh/media">媒体</a>
+            </li>
+            
+        </ul>
+        <div class="lang_wrap side_lang">
+            <a class="text js-lang current" lang="zh" data-lang="zh">简</a>
+            <i> | </i>
+            <a class="text js-lang" lang="hk" data-lang="hk">繁</a>
+            <i> | </i>
+            <a class="text js-lang" lang="en" data-lang="en">English</a>
+        </div>
+
+    </div>
+    <div class="mobile_menu_icon_wrap js-open-side-menu">
+        <i class="icon white js-icon-white" ></i>
+        <i class="icon gray js-icon-gray"></i>
+    </div>
+</div>
+
+
+ <div class="swiper-container ui-carousel" id="carousel">
+    
+
+    <div class="swiper-wrapper">
+        
+            
+                <div class="swiper-slide" style="background-image: url('https://corp-static.meitu.com/corp-new/060b7688371a2d487f9ddab39d6f32c5_1587361557.jpg?x-image-process=image/format,jpg/quality,q_80')">
+                    <div class="banner" style="color: #fff">
+                        <span class="banner-title"></span>
+                        <p class="banner-subtitle"></p>
+                    </div>
+                </div>
+            
+        
+    </div>
+    <!-- 如果需要分页器 -->
+    
+
+</div>
+
+<link rel="stylesheet" href="https://js.app.meitudata.com/corp-new/css/component/carousel.@1f5d1f64.css">
+
+<div class="container">
+  <p class="company_intro">美图公司成立于2008年10月，以人工智能为驱动，是中国领先的影像处理及社交平台。美图公司以“让每个人都能简单变美”为使命，围绕“美”创造了一系列如美图秀秀、美颜相机、美拍、美图宜肤及美图魔镜等软硬件产品，改变了用户创造与分享美的方式，也使自拍文化深入人心。2016年12月15日，美图公司在香港联合交易所（“联交所”）主板挂牌上市， 股票代码: 1357。</p>
+  <div class="company_module">
+    <div class="content_wrap">
+      <ul class="content_list">
+        <li>
+          <a href="/zh/introduction#introduction">
+            <span>美图简介</span>
+          </a>
+          <div class="mask"></div>
+        </li>
+        <li>
+          <a href="/zh/introduction#culture">
+            <span>美图文化</span>
+          </a>
+          <div class="mask"></div>
+        </li>
+        <li>
+          <a href="/zh/introduction#team">
+            <span>美图团队</span>
+          </a>
+          <div class="mask"></div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="product_module">
+    <ul class="tabs js-tabs-container">
+      <li class="current" data-id="user">面向用户</li>
+      <li data-id="industry">面向行业</li>
+      <li data-id="core">核心技术</li>
+    </ul>
+    <div class="content">
+      <div class="content_area clearfix">
+        <ul class="content_area_wrap show js-product-content">
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/94a2d9857e7b02938814152c0e4a3810_1587114474.png" alt="app" />
+              
+              <span class="name">美图秀秀</span>
+            </div>
+            <p class="description js-product-multi-text">广受欢迎的图片处理软件，全球累计超10亿用户，在摄影图像类应用中长期保持领先优势，目前美图秀秀已从单一的图片处理工具转型成以让用户变美为核心的社区平台。</p>
+            
+            <a class="detail_wrap" href="https://xiuxiu.web.meitu.com/" target="_blank">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+            
+          </li>
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/fb5d5ab73fb6009c372db5b4dba2f701_1587114490.png" alt="app" />
+              
+              <span class="name">美颜相机</span>
+            </div>
+            <p class="description js-product-multi-text">面向年轻用户推出的潮流个性相机APP，以人像为核心，为用户提供强大而简单的变美功能！据QuestMobile数据显示，美颜相机用户规模及月活均位列行业第一。</p>
+            
+            <a class="detail_wrap" href="http://meiyan.meipai.com/" target="_blank">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+            
+          </li>
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/91b8fa626c79fd22ed483014badbeb44_1587114539.png" alt="app" />
+              
+              <span class="name">美拍</span>
+            </div>
+            <p class="description js-product-multi-text">女生最爱的潮流短视频社区。这里有超多有趣又好看的原创短视频，酷炫嘻哈特效、百变魔法表情以及最好用的剪辑、字幕、变声功能，让普通视频一秒变大片！</p>
+            
+            <a class="detail_wrap" href="http://www.meipai.com/" target="_blank">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+            
+          </li>
+          
+        </ul>
+        <ul class="content_area_wrap js-product-content">
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/eb4a65675bf88f70fb0aa98249b6579b_1587115174.png" alt="app" />
+              
+              <span class="name">美图AI开放平台</span>
+            </div>
+            <p class="description js-product-multi-text">美图公司推出的AI服务平台，专注于人脸技术、人体技术、图像识别、图像处理、图像生成等核心领域，为客户提供经市场验证的专业AI算法服务和解决方案。</p>
+            
+            <a class="detail_wrap" href="https://ai.meitu.com/index" target="_blank">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+            
+          </li>
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/d7228f863e80ac4f63083ad7d2afcffe_1587361978.png" alt="app" />
+              
+              <span class="name">美图宜肤（智能硬件）</span>
+            </div>
+            <p class="description js-product-multi-text">美图旗下的科学测肤品牌，产品包括图像测肤、便携式测肤、桌面型测肤服务，通过AI测肤算法，为皮肤科研及皮肤管理行业提供技术支持与多场景测肤解决方案。</p>
+            
+            <a class="detail_wrap" href="https://eve.meitu.com/" target="_blank">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+            
+          </li>
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/fd0a062cc6d49b7dd4e0de86de707a4b_1587115409.png" alt="app" />
+              
+              <span class="name">美图品牌星球</span>
+            </div>
+            <p class="description js-product-multi-text">以美图独家AI测肤和试妆为加速器，链接原创内容制造能力，最大化为品牌向用户进行安利，为品牌建立专属的粉丝营销体系和销售链路。</p>
+            
+          </li>
+          
+        </ul>
+        <ul class="content_area_wrap js-product-content">
+          
+          <li class="app_item">
+            <div class="logo_wrap">
+              
+              <img src="https://corp-static.meitu.com/corp-new/76b704dd7d8a10260a9adc57728936fd_1587361843.png" alt="app" />
+              
+              <span class="name">美图影像实验室</span>
+            </div>
+            <p class="description js-product-multi-text">美图公司致力于计算机视觉、机器学习、增强现实、云计算等领域的算法研究、工程开发和产品化落地的团队。美图AI开放平台由MTlab提供技术支持和保障。</p>
+            
+            <a class="detail_wrap" href="http://mtlab.meitu.com/" target="_blank">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+            
+          </li>
+          
+        </ul>
+        <span class="more js-more-product" data-id="user"
+          >查看更多业务</span
+        >
+      </div>
+    </div>
+  </div>
+  <p class="dynamic">美图动态</p>
+  <div class="dynamic_module">
+    <ul class="dynamic_list">
+      
+      <li class="dynamic_item">
+        <img src="https://corp-static.meitu.com/corp-new/e35b33a24d8c0a14e8e99149353c4a01_1595495952.jpg?x-image-process=image/format,jpg/quality,q_80" alt="美图动态" />
+        <div class="dynamic_info">
+          <p class="title js-dynamic-title">美图创意平台正式上线 激励优质原创素材创作</p>
+          <p class="description js-multi-text">近日，“美图创意平台”正式发布，面向全网招募优质AR效果创作者。无论是设计师、漫画家、视觉特效师或是创意手绘达人，只要愿意分享你的创意，都将有机会被美图公司推荐给用户。还将有机会获得专属流量扶持，更有万元激励奖金等着你！</p>
+          <div class="operate_area">
+            <span class="time">2020-06-30</span>
+            <a class="detail_wrap" href="./zh/media/285">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+      </li>
+      
+      <li class="dynamic_item">
+        <img src="https://corp-static.meitu.com/corp-new/f5e62be218fabfecb0b8f8c0d393df2e_1596531524.png?x-image-process=image/format,jpg/quality,q_80" alt="美图动态" />
+        <div class="dynamic_info">
+          <p class="title js-dynamic-title">美图公司助力共青团中央特别关爱行动 为染疫青少年加油打气</p>
+          <p class="description js-multi-text">近日，由共青团中央发起“同舟共济 青春偕进”关爱帮扶受新冠肺炎疫情直接影响的青少年特别行动，引起了社会各界人士的广泛关注。其中，美图公司联合中国光华科技基金会联合发起的#美图公司能量涂鸦T恤#活动吸引了众多用户参与。</p>
+          <div class="operate_area">
+            <span class="time">2020-06-29</span>
+            <a class="detail_wrap" href="./zh/media/288">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+      </li>
+      
+      <li class="dynamic_item">
+        <img src="https://corp-static.meitu.com/corp-new/ecb9de0f9218a5807d42243da79dc345_1595579859.png?x-image-process=image/format,jpg/quality,q_80" alt="美图动态" />
+        <div class="dynamic_info">
+          <p class="title js-dynamic-title">美图发布无接触虚拟试妆产品美图魔镜Online 帮助美业数字化转型</p>
+          <p class="description js-multi-text">4月15日，美图公司正式发布美图魔镜Online。至此，在连接泛美妆品类的消费者场景中，美图魔镜同时支持线下、线上试妆服务。</p>
+          <div class="operate_area">
+            <span class="time">2020-04-15</span>
+            <a class="detail_wrap" href="./zh/media/287">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+      </li>
+      
+      <li class="dynamic_item">
+        <img src="https://corp-public.zone1.meitudata.com/11111120200326185810.jpg?x-image-process=image/format,jpg/quality,q_80" alt="美图动态" />
+        <div class="dynamic_info">
+          <p class="title js-dynamic-title">美图公司2019年营收9.779亿元，广告收入强劲增长21.1%</p>
+          <p class="description js-multi-text">2020年3月26日，美图公司公布2019年全年业绩。期内持续经营业务实现总收入9.779亿元人民币，同比增长3.2%。</p>
+          <div class="operate_area">
+            <span class="time">2020-03-26</span>
+            <a class="detail_wrap" href="./zh/media/282">
+              <span class="detail">查看详情</span>
+              <i class="icon"></i>
+            </a>
+          </div>
+        </div>
+      </li>
+      
+    </ul>
+    <a class="more" href="/zh/media#dynamic"
+      >查看更多动态</a
+    >
+  </div>
+</div>
+<div class="footer_wrap">
+    <div class="footer_content">
+        <div class="meitu_logo_wrap">
+            <span class="logo"></span>
+            <div class="time">客服在线时间：9:00 - 18:00</div>
+            <div class="contact">400-990-9696</div>
+        </div>
+        <div class="clearfix">
+            <div class="join_us">
+                <div class="title_wrap js-menu-container">
+                    <h3 class="title">加入我们</h3>
+                    <i class="icon"></i>
+                </div>
+                <ul class="join_us_list list">
+                    <li>
+                        <a target="_blank" href="http://hr.meitu.com/">社会招聘</a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://hr.meitu.com/">校园招聘</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="contact_us">
+                <div class="title_wrap js-menu-container">
+                    <h3 class="title">联系我们</h3>
+                    <i class="icon"></i>
+                </div>
+                <ul class="contact_us_list list">
+                    <li>
+                        <a href="/zh/contact">商务合作</a>
+                    </li>
+                    <li>
+                        <a href="https://corp.meitu.com/contact/offices/"
+                            target="_blank">公司地址</a>
+                    </li>
+                    <li>
+                        <a href="https://corp.meitu.com/contact/report/" target="_blank">廉政举报</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="attention_us">
+                <div class="title_wrap js-menu-container">
+                    <h3 class="title">关注我们</h3>
+                    <i class="icon"></i>
+                </div>
+                <ul class="attention_us_list list">
+                    <li>
+                        <span class="text js-code-item">美图公司新浪微博</span>
+                        <img src="https://js.app.meitudata.com/corp-new/image/sina.@34cd44c0.jpg" alt="">
+                    </li>
+                    <li>
+                        <span class="text js-code-item">美图公司微信公众号</span>
+                        <img src="https://js.app.meitudata.com/corp-new/image/weixin.@e77956e8.jpg" alt="">
+                    </li>
+                    <li>
+                        <span class="text js-code-item"><a target="_blank" href="https://twitter.com/meituofficial">美图公司官方推特</a></span>
+                        <img src="https://js.app.meitudata.com/corp-new/image/twitter.@6753866d.png" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class="more_web">
+                <div class="title_wrap js-menu-container">
+                    <h3 class="title">更多网站</h3>
+                    <i class="icon"></i>
+                </div>
+                <ul class="more_web_list list">
+                    <li>
+                        <a href="https://mall.meitu.com" target="_blank">美图商城</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer_info">
+            <span class="copyright">© 2020</span>
+            <span class="copyright_info">meitu. All Rights Reserved.</span>
+            <div class="logo"></div>
+            <div class="relate_link_wrap">
+                <ul class="relate_link">
+                    <li>
+                        <a href="https://corp.meitu.com/privacy.html" target="_blank">隐私政策</a>
+                    </li>
+                    <!-- <li class="line"></li>
+                    <li>
+                        <a href="_blank">使用条款</a>
+                    </li>
+                    <li class="line"></li>
+                    <li>
+                        <a href="_blank">法律声明</a>
+                    </li>
+                    <li class="line"></li>
+                    <li>
+                        <a href="_blank">广告投放</a>
+                    </li>
+                    <li class="line"></li>
+                    <li>
+                        <a href="_blank">廉政建设</a>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+        <div class="archival_info js-copyright-container">
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302000186" target="_blank" rel="nofollow">闽公网安备 35020302000186号,</a>
+            <a href="http://www.beian.miit.gov.cn/" target="_blank" rel="nofollow">闽ICP证B2-20040192,</a>
+            <a href="//img.app.meitudata.com/meitumv/pdf/meitu-www.pdf" target="_blank" rel="nofollow">闽网文(2018)8421-380号 </a>
+            <br class="wrap">
+            <span>违法和不良信息举报电话：400-990-9696 </span>
+            <br class="wrap">
+            <!-- <a href="http://wljg.xmgs.gov.cn/ei/Ei!certificate.action?id=40288a8556c64ea30156da8a8efd0036" target="_blank" rel="nofollow">经营性实名认证</a> -->
+            <a href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/2b18b637ee6f4f28bd62bfcc9d6598c5" target="_blank" rel="nofollow">网络文化经营</a>
+            <br class="wrap">
+            <a href="http://maavatar1.meitudata.com/23bf39d01bc4ba5aecc09c58622dff1d.jpg" target="_blank" rel="noopener noreferrer">互联网药品信息服务资格证书（闽）-非经营性-2018-0058</a>
+        </div>
+    </div>
+</div>
+<a class="scroll_to_top js-scroll-container" href="#topAnchor">回到顶部</a>
+ 
+    </body>
+    <script src="https://js.app.meitudata.com/corp-new/js/dll.@7f40db33.js"></script>
+    <script src="https://js.app.meitudata.com/corp-new/js/common.@9a4b19e5.js"></script>
+    <script src="https://js.app.meitudata.com/corp-new/js/component/header.@5d603382.js"></script>
+    <script src="https://js.app.meitudata.com/corp-new/js/component/footer.@666438dc.js"></script>
+    
+<script src="https://js.app.meitudata.com/corp-new/js/component/carousel.@75d3211a.js"></script>
+<script src="https://js.app.meitudata.com/corp-new/js/home.@ec3b27a6.js"></script>
+
+</html>
