@@ -26,7 +26,7 @@
 
 >>> 2020-07-15:《[在树莓派上搭建智能家居网关](https://www.emqx.io/cn/blog/smart-home-hub-on-raspberry-pi)》 | EMQ
 
->>> 2020-07-04:《[中学生都能玩的人工智能](https://talk.quwj.com/topic/1232)》 - 趣小组
+>>> 2020-07-04:《[中学生都能玩的人工智能](https://talk.quwj.com/topic/1232)》 - [**趣小组**](https://talk.quwj.com/)
 
 >> [树莓派](http://kisss.cjli.info/home/tag.html#%E6%A0%91%E8%8E%93%E6%B4%BE)：
 
