@@ -173,7 +173,7 @@ https://greasyfork.org/zh-CN/scripts/384538-%E7%8E%A9%E7%9A%84%E5%97%A8-vip%E5%B
 >> 智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。<br>
 >> 同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。
 
-- [**Picviewer CE+**](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce) - **批量下载网页图片必备，可对图片旋转、放大、导出原始大图、下载等功能** - @[小众软件](https://www.appinn.com/picviewer-ce/) [**精选**](https://www.appinn.com/category/featured/)
+- [**Picviewer CE+**](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce) - **批量下载网页图片必备，可对图片旋转、放大、导出原始大图、下载等功能(@[Github](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)**) - @[小众软件](https://www.appinn.com/picviewer-ce/) [**精选**](https://www.appinn.com/category/featured/)
 
 >> 在线看图工具，支持图片翻转、旋转、缩放、弹出大图、批量保存
 
