@@ -4,9 +4,9 @@
  <tr>
         <td> <a href="https://hoxx.com/" title="高效工作/扩展推荐：备注：SetupVPN和Hoxx VPN 属于同一公司，都是免费和收费一体的vpn。另外Astar VPN也免费又好用。">Hoxx VPN Proxy</a> </td>
         <td> 
-		  <a href="https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN" title="Hoxx VPN Proxy – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="chrome-96x96.png" height="20" width="20" />Chrome</a>
-	    / <a href="https://microsoftedge.microsoft.com/addons/detail/mmkgibaofkehmmnbcfleonelhenlgcbc?hl=zh-cn" title="Hoxx VPN Proxy – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="edge-96x96.png" height="20" width="20" />Edge</a>
-		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/" title="Hoxx VPN Proxy – 下载 🦊 Firefox 扩展（zh-CN）"><img src="firefox-32x32.ico" height="20" width="20" />Firefox</a>
+		  <a href="https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh?hl=zh-CN" title="Hoxx VPN Proxy – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" />Chrome</a>
+	    / <a href="https://microsoftedge.microsoft.com/addons/detail/mmkgibaofkehmmnbcfleonelhenlgcbc?hl=zh-cn" title="Hoxx VPN Proxy – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" />Edge</a>
+		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/hoxx-vpn-proxy/" title="Hoxx VPN Proxy – 下载 🦊 Firefox 扩展（zh-CN）"><img src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" />Firefox</a>
 		 </td> 
         <td style="text-align:left;">		
                <a href="https://hoxx.com/download/" title="Download Hoxx VPN Proxy For Free">VPN</a>:
