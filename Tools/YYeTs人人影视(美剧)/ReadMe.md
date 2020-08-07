@@ -5,3 +5,6 @@
 > [人人影视客户端](http://app.rrysapp.com/) ,人人影视PC客户端,人人视频PC客户端,人人影视APP,人人影视下载器,IOS,安卓,WINDOWS,MAC客户端下载|YYeTs人人影视唯一官方客户端下载页
 
 > [人人影视下载站](http://www.zmz2019.com/rrys/index.html) 永久域名 RRYS.TV
+
+
+推荐下一个"华为应用商店"，搜索"小小影视"，里面好多付费影片，可以投屏
