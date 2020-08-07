@@ -18,11 +18,19 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 - 2019年03月26日：《[一个简单的教程：如何在中国大陆使用Apple News](https://sspai.com/post/53547)》 - 少数派
 >> 需要 : 美区Apple ID / 翻墙App
+```
+操作步骤（以iPhone为例）:
+ 1.关闭Wi-Fi
+ 2.打开飞行模式
+ 3.在设置里将「区域」切换为United States
+ 4.重新打开Wi-Fi
+ 5.VPN连接「美国」
+ 6.在App Store里找到Apple News，这时已经可以打开了
+```
 
 - 2018年09月27日：《[再过3个月 苹果低价更换iPhone电池的福利就要取消](https://www.cnbeta.com/articles/tech/772393.htm)》  - Apple iPhone - cnBeta.COM  
 
 - 2020年04月28日：《[重新启动 iPhone](https://support.apple.com/zh-cn/HT201559)》 - Apple 支持
-
 
 - 2020年04月28日：《[强制重新启动 iPhone](https://support.apple.com/zh-cn/guide/iphone/iph8903c3ee6/ios)》 - Apple 支持
 
