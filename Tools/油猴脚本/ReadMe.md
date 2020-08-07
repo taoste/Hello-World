@@ -129,6 +129,11 @@
 - [**AC-baidu:重定向优化百度搜狗谷歌必应搜索_favicon_双列**](https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97) 
 > 1.繞過百度、搜狗、谷歌、好搜搜索結果中的自己的跳轉鏈接，直接訪問原始網頁-反正都能看懂 <br> 2.新增自定义网站拦截功能 <br> 3.添加Favicon显示 <br>  4.页面CSS <br>  5.添加计数 <br>  6.开关选择以上功能 <br> 7.自动翻页功能 
 
+- [**一，网站屏蔽，进入必应首页，设定屏蔽/解除屏蔽网站; <br>二，科学上网，SS/SSR/v2ray分享,不需要注册，直连facebook/google,适合工作和学习需要的人，尽量别看视频网站，流量不够。
+**](https://greasyfork.org/zh-CN/scripts/403211-%E4%B8%80-%E7%BD%91%E7%AB%99%E5%B1%8F%E8%94%BD-%E8%BF%9B%E5%85%A5%E5%BF%85%E5%BA%94%E9%A6%96%E9%A1%B5-%E8%AE%BE%E5%AE%9A%E5%B1%8F%E8%94%BD-%E8%A7%A3%E9%99%A4%E5%B1%8F%E8%94%BD%E7%BD%91%E7%AB%99-%E4%BA%8C-%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-ss-ssr-v2ray%E5%88%86%E4%BA%AB-%E4%B8%8D%E9%9C%80%E8%A6%81%E6%B3%A8%E5%86%8C-%E7%9B%B4%E8%BF%9Efacebook-google-%E9%80%82%E5%90%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E7%9A%84%E4%BA%BA-%E5%B0%BD%E9%87%8F%E5%88%AB%E7%9C%8B%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99-%E6%B5%81%E9%87%8F%E4%B8%8D%E5%A4%9F)
+
+> 功能一：网站屏蔽器，设定你想屏蔽的网站； <br> 功能二：免费SS/SSR/v2ray分享，无需注册，直连google/facebook,个人自用分享，速度快且稳定；
+
 - [**网页翻译助手**](https://greasyfork.org/zh-CN/scripts/389784-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E5%8A%A9%E6%89%8B)
  >  支持划词翻译，输入文本翻译,谷歌整页翻译。可以自行选择谷歌翻译,有道字典翻译和百度翻译。 
 
