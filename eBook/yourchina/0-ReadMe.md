@@ -9,9 +9,7 @@
 
 - [关于 Twitter 上的政府和官媒账号标签](https://help.twitter.com/zh-cn/rules-and-policies/state-affiliated-china) - [Twitter 透明度报告](https://transparency.twitter.com/)
 
-> <img src="https://help.twitter.com/content/dam/help-twitter/govt-and-state-media-accounts/governmentchinese.png" title="一个国旗小图标，表明该账号是一个政府账号" />
-
-> <img src="https://help.twitter.com/content/dam/help-twitter/govt-and-state-media-accounts-new/stateaffchina.png" title="一个讲台小图标，表明是官媒" />
+> <p><img src="https://help.twitter.com/content/dam/help-twitter/govt-and-state-media-accounts/governmentchinese.png" title="一个国旗小图标，表明该账号是一个政府账号" height="380" width="380" /><img src="https://help.twitter.com/content/dam/help-twitter/govt-and-state-media-accounts-new/stateaffchina.png" title="一个讲台小图标，表明是官媒" height="380" width="380" /></p>
 
 -------------------------------------
 
