@@ -7,6 +7,12 @@
 
 国庆70周年 [活动标识](https://mp.weixin.qq.com/s/RXkGsd4zraDMOwNCTwP5Cg)
 
+- [关于 Twitter 上的政府和官媒账号标签](https://help.twitter.com/zh-cn/rules-and-policies/state-affiliated-china) - [Twitter 透明度报告](https://transparency.twitter.com/)
+
+> <img src="https://help.twitter.com/content/dam/help-twitter/govt-and-state-media-accounts/governmentchinese.png" title="一个国旗小图标，表明该账号是一个政府账号" />
+
+> <img src="https://help.twitter.com/content/dam/help-twitter/govt-and-state-media-accounts-new/stateaffchina.png" title="一个讲台小图标，表明是官媒" />
+
 -------------------------------------
 
 > 《[习近平埋伏笔 大阅兵红二代坐花车那件事还在发酵](http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20191012-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9F%8B%E4%BC%8F%E7%AC%94-%E5%A4%A7%E9%98%85%E5%85%B5%E7%BA%A2%E4%BA%8C%E4%BB%A3%E5%9D%90%E8%8A%B1%E8%BD%A6%E9%82%A3%E4%BB%B6%E4%BA%8B%E8%BF%98%E5%9C%A8%E5%8F%91%E9%85%B5)》（2019-10-12）
