@@ -117,7 +117,7 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 
 - [**天气插件** - 心知天气 - 天气预警 - 天气推送](https://www.seniverse.com/widget?source=widgetV2)
 
-> [获取插件代码 | 心知天气文档](https://docs.seniverse.com/widget/start/get.html）
+> [获取插件代码|心知天气文档](https://docs.seniverse.com/widget/start/get.html)
 
 注：配置插件前需要先有 API 产品权限。心知用户可以自行申请免费版 API 产品，或根据需求购买付费 API 产品。[点击此处购买](https://www.seniverse.com/buy) API 产品
 
