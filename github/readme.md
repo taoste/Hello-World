@@ -123,9 +123,7 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 
 V3 版插件前后端代码全部开源在 GitHub：
 
->> [插件前端](https://github.com/seniverse/widget-v3-frontend)
-
->> [插件后端](https://github.com/seniverse/widget-v3-server)
+>> [插件前端](https://github.com/seniverse/widget-v3-frontend) / [插件后端](https://github.com/seniverse/widget-v3-server)
 
 ----------------------------------------------------------------------
 
