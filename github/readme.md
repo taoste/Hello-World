@@ -103,6 +103,8 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 
 - **1-Line Layouts | 页面布局CodePen 示例  ( https://1linelayouts.glitch.me/ )**
 
+- [**分类**](https://www.ruanyifeng.com/blog/archives.html) ：[**开发者手册**](https://www.ruanyifeng.com/blog/developer/) - @[**阮一峰的网络日志**](https://www.ruanyifeng.com/) :
+
 >> 2020年8月10日：《[**只要一行代码，实现五种 CSS 经典布局**](https://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html)》 - [分类](https://www.ruanyifeng.com/blog/archives.html) ：[**开发者手册**](https://www.ruanyifeng.com/blog/developer/) - @[**阮一峰的网络日志**](https://www.ruanyifeng.com/)
 
 >> 2019年3月16日：《[**普通人的网页配色方案**](https://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html)》 - [分类](https://www.ruanyifeng.com/blog/archives.html) ：[**开发者手册**](https://www.ruanyifeng.com/blog/developer/) - @[**阮一峰的网络日志**](https://www.ruanyifeng.com/)
