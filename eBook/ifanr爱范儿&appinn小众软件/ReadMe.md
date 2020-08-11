@@ -16,5 +16,7 @@
 
 -----------------------------------------------------------------------------
 
+> 《[DAVx⁵- 在 iPhone 与 Android 间双向同步通讯录和日历](https://www.appinn.com/davx5/)》 - @[小众软件](https://www.appinn.com/) （2020/08/11）
+
 > 《[instantbox - 几秒内启动一个干净的 Linux 系统](https://www.appinn.com/instantbox/)》 - @[小众软件](https://www.appinn.com/) （2020/07/01）
 
