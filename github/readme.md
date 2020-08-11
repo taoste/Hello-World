@@ -31,7 +31,7 @@
 </html>
 ```
 
-🎦 Github Code 编码： ( 《[使用 GitHub Pages - @GitHub Docs](https://docs.github.com/cn/github/working-with-github-pages)》 )
+🎦 Github Code 编码： ( 《[使用 GitHub Pages - @GitHub Docs](https://docs.github.com/cn/github/working-with-github-pages)》《@[知乎](https://zhuanlan.zhihu.com/p/76951130)/[**免费CDN加速：jsDelivr+Github 使用方法**](https://zhuanlan.zhihu.com/p/76951130)》 )
 
    <p><b> < p > < b > < / b > < / p > </p>
   
