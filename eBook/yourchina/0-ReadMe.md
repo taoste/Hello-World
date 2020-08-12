@@ -757,3 +757,6 @@ https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-10102019155244.html)�
 
 > Twitter：[太恐怖了，300多个孩子被冻起来准备运输去贩卖器官！ CCP不灭，天理何在！](https://twitter.com/KJ88tCfyiKAGBLx/status/1182071378872295425)
 >> https://twitter.com/KJ88tCfyiKAGBLx/status/1182071378872295425
+
+
+> <p><img src="https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/eeee.jpg?raw=true" title="洗脑的总结" height="380" width="380" /><img src="https://github.com/taoste/Hello-World/blob/master/eBook/yourchina/fff.jpg?raw=true" title="洗脑的总结" height="380" width="380" /></p>
