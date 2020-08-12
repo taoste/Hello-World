@@ -39,7 +39,7 @@
 
 - [**PDF编辑软件，万兴PDF专家 v7.4.5.471**](https://www.cwhello.com/14485.html) | [**重蔚自留地**](https://www.cwhello.com/14485.html)
 
-- [**PDF Page Merger Pro**](https://pdfpagemerger.com/) 是一款 [**PDF 文档页面合并工具**](https://github.com/taoste/Hello-World/tree/master/Tools/Adobe%20PDF/PDF%20Page%20Merger%20Pro)，它可以帮你将多个 PDF 文档合并为一个 PDF 文档，你可以自定义合并的文档，也可以设置合并后的页面大小。
+- [**PDF Page Merger Pro**](https://pdfpagemerger.com/) 是一款 [**PDF 文档页面合并工具**](https://github.com/taoste/Hello-World/tree/master/Tools/Adobe%20PDF/PDF%20Page%20Merger%20Pro)，它可以帮你将多个 PDF 文档合并为一个 PDF 文档，<br>你可以自定义合并的文档，也可以设置合并后的页面大小。
 >> [激活码](https://github.com/taoste/Hello-World/raw/master/Tools/Adobe%20PDF/PDF%20Page%20Merger%20Pro/pdfpagemerger%EF%BC%88%E6%BF%80%E6%B4%BB%E7%A0%81%EF%BC%9APPM58690DMVUING%EF%BC%89.zip) ：PPM58690DMVUING
 
 - **迅捷PDF编辑器（破解版）**（  <a href="https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/%E8%BF%85%E6%8D%B7PDF%E7%BC%96%E8%BE%91%E5%99%A8%EF%BC%88%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%89.rar?raw=true" title="【本地下载】迅捷PDF编辑器（破解版）">本地下载</a> ）
