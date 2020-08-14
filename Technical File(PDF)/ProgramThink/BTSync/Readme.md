@@ -4,6 +4,8 @@
 
 <a href="https://www.iplaysoft.com/bittorrent-sync.html"><img src="https://img.iplaysoft.com/wp-content/uploads/2013/btsync/btsync.png?raw=true" title="Resilio Sync - 神奇的文件同步软件，无需服务器让多台电脑互相同步！ - 异次元软件下载"/></a>
 
+2020/08/12:<a href="https://www.appinn.com/resilio-sync-hotspot/" title="如何利用手机热点使用 Resilio Sync 同步数据？ - 小众软件">如何利用手机热点使用 Resilio Sync 同步数据？ - 小众软件</a>
+
 - **使用方法**： （见：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE)）
 
 1.<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/Windows/BTSync-1.4.111.exe?raw=true" title="下载Windows软件 : BTSync-1.4.111.exe">下载软件</a>（绿色免安装，无需管理员权限即可使用） 【 [**64Bit**](https://www.filehorse.com/download-resilio-sync-64/20030/) 下载有巨大风险，[**非官方网站/安全性未经核实**](https://www.virustotal.com/gui/file/955a6c4a74f9f259cf78558357887a52aa80d95b6bf32c86aa492e8cce092b49/detection)】
