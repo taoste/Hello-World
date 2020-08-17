@@ -20,3 +20,4 @@
 的事实，作者请求死者原谅，也请求生者协助，以拓宽和深化此书
 的内容。 
 ```
+>> <a href="https://ywang.uchicago.edu/history/ebook-list.htm" title="《1966-1976：文革受难者--关于迫害、监禁与杀戮的寻访实录》王友琴·著"><img src="https://ywang.uchicago.edu/history/victim-book-cover.jpg" /></a>
