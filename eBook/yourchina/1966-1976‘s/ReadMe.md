@@ -3,7 +3,7 @@
 
 >> 无产阶级文化大革命，通称文化大革命、简称文革，是中华人民共和国历史上的一场政治运动，于1966年5月16日—1976年10月6日间发生在中国大陆境内。因其时间长达十年之久，故也被后世称为“十年动乱”或“十年浩劫”。<br>文革是由时任中国共产党中央委员会主席的毛泽东与中央文化革命小组，自上而下动员成千上万红卫兵在中国大陆进行全方位发动的阶级斗争。
 
-【[**書齋夜話**](https://www.youtube.com/channel/UChRE0pMeij_O5FqWrSKBF-Q?lang=zh-cn)】[**215**](https://go.choong.net/zt/szyh/mp3/215.mp3):[**文革是中共法西斯化的歷史根源，歷史上的這一月，推薦《文革受難者》一書（2020-8-15）**](https://www.youtube.com/watch?v=MqTKuz97leg?lang=zh-cn) - @[**YouTube**](https://www.youtube.com/watch?v=MqTKuz97leg?lang=zh-cn) 
+-【[**書齋夜話**](https://www.youtube.com/channel/UChRE0pMeij_O5FqWrSKBF-Q?lang=zh-cn)】[**215**](https://go.choong.net/zt/szyh/mp3/215.mp3):[**文革是中共法西斯化的歷史根源，歷史上的這一月，推薦《文革受難者》一書（2020-8-15）**](https://www.youtube.com/watch?v=MqTKuz97leg?lang=zh-cn) - @[**YouTube**](https://www.youtube.com/watch?v=MqTKuz97leg?lang=zh-cn) 
 
 > 《[**文革受难者**](https://ywang.uchicago.edu/history/docs/EBookVictim%2020190528.pdf) [——](https://ywang.uchicago.edu/history/ebook-list.htm) [关于迫害、监禁和杀戮的寻访实录](https://ywang.uchicago.edu/history/victim_ebook_070505.pdf)》[王友琴](https://ywang.uchicago.edu/).[**PDF**](https://github.com/taoste/Hello-World/raw/master/eBook/yourchina/1966-1976%E2%80%98s/EBookVictim-20190528.pdf)  @[**中国文革受难者纪念园**](https://ywang.uchicago.edu/history/)
 ```
