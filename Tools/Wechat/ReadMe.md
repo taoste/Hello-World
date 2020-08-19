@@ -17,10 +17,10 @@ exit
 
 2.[wechat.bat | 代码](https://www.jianshu.com/p/a103897c9924)：
 ```
-@echo off
-start /d “d:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
-start /d “d:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
-exit
+TASKKILL /F /IM wechat.exe
+start "" "D:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
+start "" "D:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
+start "" "D:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
 ```
 3.《Win10系统：[UWP 中的各种文件路径（用户、缓存、漫游、安装……）](https://blog.csdn.net/weixin_34307464/article/details/86134613)》-CSDN博客
 
