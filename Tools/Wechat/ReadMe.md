@@ -16,6 +16,8 @@ start /d “d:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
 start /d “d:\Program Files (x86)\Tencent\WeChat\WeChat.exe"
 exit
 ```
+3.《Win10系统：[UWP 中的各种文件路径（用户、缓存、漫游、安装……）](https://blog.csdn.net/weixin_34307464/article/details/86134613)》-CSDN博客
+
 --------------------------------------------------------------------------------------------
 
 - 《[最新的微信PC版「2.8.0.112」多开防撤回绿色**免安装版**](https://www.52pojie.cn/thread-1088591-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
