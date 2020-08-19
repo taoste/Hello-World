@@ -1,6 +1,6 @@
 
 
-# [get](https://github.com/igetget/get/blob/master/get.md)&[README.md](https://github.com/igetget/get/blob/master/README.md)
+# [Get](https://github.com/qianguxintu/get)&[igetget](https://github.com/igetget/get/blob/master/README.md)
 知识分享：得到专栏、喜马拉雅、知乎live等。更多知识交流，请联系[get](https://github.com/igetget/get/blob/master/):Q 201798348
 
 ## 得到专栏
