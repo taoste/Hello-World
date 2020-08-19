@@ -1,4 +1,4 @@
-# 得到 [igetget](https://github.com/taoste/Hello-World/blob/master/eBook/%E3%80%8A%E5%BE%97%E5%88%B0&%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4%E3%80%8B/get.md)
+# [罗辑思维](https://github.com/luojilab) | 得到App
 -  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) | [Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
 
 >  [登录](https://sso.luojilab.com/) | 内部账号登录 - 统一登录平台 ( https://sso.luojilab.com/ ) 
@@ -36,7 +36,7 @@
 - 《**得到品控手册**》 v[5.0](https://www.igetget.com/eBook/%E5%BE%97%E5%88%B0%E5%93%81%E6%8E%A7%E6%89%8B%E5%86%8C5.0?param=9rAsOHofB&token=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg049rNWJzxbE9LZl1o8RkGd2BPYv4x6d9meB) /[v6.0](
 https://www.igetget.com/eBook/%E5%BE%97%E5%88%B0%E5%93%81%E6%8E%A7%E6%89%8B%E5%86%8C6.0?param=9rAsOHofB&token=Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwN4M9WAp4aGOkJmYQrLbP7e2glqxl9qNPeX)
 
->> [罗胖为什么开源《得到品控手册》？](https://zhuanlan.zhihu.com/p/27155216) - 知乎
+>> [罗胖为什么开源《得到品控手册》？](https://zhuanlan.zhihu.com/p/27155216) - 知乎 | [**igetget**](https://github.com/taoste/Hello-World/blob/master/eBook/%E3%80%8A%E5%BE%97%E5%88%B0&%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4%E3%80%8B/get.md)
 
 >> [一本不想被同行看到的手册——《得到品控手册》](https://www.jianshu.com/p/44595a2498ac) - 简书
 
