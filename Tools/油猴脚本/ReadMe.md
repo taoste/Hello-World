@@ -60,6 +60,11 @@
 >> ECMAScript 6入门 ： http://es6.ruanyifeng.com <br>
 >> Can I use... Support tables for HTML5, CSS3, etc ： https://caniuse.com <- 检查浏览器支持情况
 
+》》 《[Win10运行bat文件一闪而过怎么办](https://www.php.cn/windows-443546.html)》-PHP中文网
+
+》》 《[bat批处理闪退、运行中断等问题的处理方法](https://www.jb51.net/article/175814.htm)》_DOS/BAT_脚本之家
+
+
 # 推荐❤[**用户脚本列表**](https://greasyfork.org/zh-CN/scripts):  [发布你编写的脚本](https://greasyfork.org/zh-CN/script_versions/new)(或 [了解如何编写脚本](https://greasyfork.org/zh-CN/help/writing-user-scripts))
 
 - 《[**Userscript+**](https://github.com/jae-jae/Userscript-Plus) : [**显示当前网站所有可用的UserJS脚本 Jaeger**](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs)》
