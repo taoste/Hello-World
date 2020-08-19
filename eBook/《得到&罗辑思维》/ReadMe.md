@@ -48,10 +48,11 @@ https://www.igetget.com/eBook/%E5%BE%97%E5%88%B0%E5%93%81%E6%8E%A7%E6%89%8B%E5%8
 >>> <a href="https://pic3.zhimg.com/v2-85f402f5adaa6876c454c5825e899fea_r.jpg">
 <img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E3%80%8A%E5%BE%97%E5%88%B0&%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4%E3%80%8B/fea_r.jpg?raw=true" title="【知乎】罗胖为什么开源《得到品控手册》？( https://zhuanlan.zhihu.com/p/27155216 )"></a>
 
-- [Github](https://github.com/luojilab)@[罗辑思维技术博客](https://luojilab.github.io) [luojilab.github.io](https://blog.luojilab.com/)
+- [**Github**](https://github.com/luojilab)@[**罗辑思维技术博客**](https://luojilab.github.io) ( [**luojilab.github.io**](https://blog.luojilab.com/) )
 
 >> 《[如何打造一套Vue组件库](https://blog.luojilab.com/2019/08/26/fontend/build-a-vue-component/)》 - @[罗辑思维技术博客](https://luojilab.github.io)(2019/08/26)
 
+>> 《[Vue社区的路由解决方案：vue-stack-router](https://blog.luojilab.com/2019/09/10/fontend/vue-stack-router/)》 - @[罗辑思维技术博客](https://luojilab.github.io)(2019/09/10)
 
  - @[Bob Fu 傅丰元](https://twitter.com/fm100/) [下午2:31 · 2020年8月14日](https://twitter.com/fm100/status/1294159631967645697) 在 Twitter: 
 
