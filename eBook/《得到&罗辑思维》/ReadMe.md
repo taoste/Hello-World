@@ -50,9 +50,9 @@ https://www.igetget.com/eBook/%E5%BE%97%E5%88%B0%E5%93%81%E6%8E%A7%E6%89%8B%E5%8
 
 - [**Github**](https://github.com/luojilab)@[**罗辑思维技术博客**](https://luojilab.github.io) ( [**luojilab.github.io**](https://blog.luojilab.com/) )
 
->> 《[如何打造一套Vue组件库](https://blog.luojilab.com/2019/08/26/fontend/build-a-vue-component/)》 - @[罗辑思维技术博客](https://luojilab.github.io)(2019/08/26)
+>>> 《[如何打造一套Vue组件库](https://blog.luojilab.com/2019/08/26/fontend/build-a-vue-component/)》(2019/08/26)
 
->> 《[Vue社区的路由解决方案：vue-stack-router](https://blog.luojilab.com/2019/09/10/fontend/vue-stack-router/)》 - @[罗辑思维技术博客](https://luojilab.github.io)(2019/09/10)
+>>> 《[Vue社区的路由解决方案：vue-stack-router](https://blog.luojilab.com/2019/09/10/fontend/vue-stack-router/)》 (2019/09/10)
 
  - @[Bob Fu 傅丰元](https://twitter.com/fm100/) [下午2:31 · 2020年8月14日](https://twitter.com/fm100/status/1294159631967645697) 在 Twitter: 
 
