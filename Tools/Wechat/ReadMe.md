@@ -9,6 +9,12 @@ start /d “%~sdp0” WeChat.exe
 start /d “%~sdp0” WeChat.exe
 exit
 ```
+
+》》 《[Win10运行bat文件一闪而过怎么办](https://www.php.cn/windows-443546.html)》-PHP中文网
+
+》》 《[批处理闪退、运行中断等问题的处理方法](https://www.jb51.net/article/175814.htm)》_DOS/BAT_脚本之家
+
+
 2.[wechat.bat | 代码](https://www.jianshu.com/p/a103897c9924)：
 ```
 @echo off
