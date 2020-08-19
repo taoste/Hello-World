@@ -2,6 +2,13 @@
 > <p><a href="https://static.cnbetacdn.com/article/2019/1009/ba9bb9703e4eab3.jpg"><img src="https://camo.githubusercontent.com/e97934cac225e1410dd4ff792ec8c4ddb7ac8d1e/68747470733a2f2f7374617469632e636e6265746163646e2e636f6d2f61727469636c652f323031392f313030392f6261396262393730336534656162332e6a7067" title="史上最简单 1分钟教你在电脑上开启多个PC版微信" /></a></p>
 > 存盘退出记事本，勾选“此电脑”→“查看”中的“文件扩展名”复选框，将刚建立好的文件扩展名修改为“.bat”；
 
+[BAT代码](https://www.euweb.cn/archives/4999)：
+```
+@echo off
+start /d “%~sdp0” WeChat.exe
+start /d “%~sdp0” WeChat.exe
+exit
+```
 --------------------------------------------------------------------------------------------
 
 - 《[最新的微信PC版「2.8.0.112」多开防撤回绿色**免安装版**](https://www.52pojie.cn/thread-1088591-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
