@@ -1,4 +1,4 @@
-# 罗辑思维 | 得到App - [Github](https://github.com/luojilab)@[罗辑思维技术博客](https://luojilab.github.io) [luojilab.github.io](https://blog.luojilab.com/)
+# 罗辑思维 | 得到App - [Github](https://github.com/luojilab)@[罗辑思维技术博客](https://github.com/luojilab/luojilab.github.io) [luojilab.github.io](https://blog.luojilab.com/)
 
 -  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) | [Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
 
