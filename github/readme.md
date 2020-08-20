@@ -34,8 +34,11 @@
 >> [**精选多个程序员都想要的免费HTML模板下载**](https://www.w3cschool.cn/html/html-template.html)_[**w3cschool**](https://www.w3cschool.cn/)
 
 🎦 Github Code 编码： ( 《[使用 GitHub Pages - @GitHub Docs](https://docs.github.com/cn/github/working-with-github-pages)》《@[知乎](https://zhuanlan.zhihu.com/p/76951130)/[**免费开源CDN加速**](https://hacks.mozilla.org/2014/03/jsdelivr-the-advanced-open-source-public-cdn/) ：[**jsDelivr**](https://www.jsdelivr.com/)+[**GitHub**](https://github.com/jsdelivr) [**使用方法**](https://mazhuang.org/2020/05/01/cdn-for-github-pages/)》 )
-
-   <p><b> < p > < b > < / b > < / p > </p>
+```
+<link href="https://cdn.jsdelivr.net/gh/inchoong/choong.github.io/images/favicon.png" rel="shortcut icon" type="image/x-icon"> <!-- IE地址栏前换成自己的图标 -->
+<link href="https://cdn.jsdelivr.net/gh/inchoong/go/images/favicon.png" rel="Bookmark">  <!-- 可以在收藏夹中显示出你的图标 -->
+ ```
+>   <p><b> < p > < b > < / b > < / p > </p>
   
   ```
   < pre >< code >
