@@ -141,7 +141,7 @@ V3 版插件前后端代码全部开源在 GitHub：
 
 > [**javascript实现两侧横幅广告特效代码**](https://www.cwhello.com/6063.html) | 重蔚自留地
 
-> 【[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > [滚动字幕标记](http://www.webhek.com/demos/demo-marquee.html) ：块元素
+> 【[w3cschool](https://www.w3cschool.cn/html/html-Label.html):[跑马灯效果](https://www.cwhello.com/134.html)】< marquee >< / marquee > [滚动字幕标记](http://www.webhek.com/demos/demo-marquee.html) ：块元素
 ```
 Direction：滚动的方向，取值：left、right、up、down
 
