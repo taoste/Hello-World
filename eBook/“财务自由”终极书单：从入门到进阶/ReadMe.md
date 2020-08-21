@@ -59,7 +59,7 @@
 
 ------------------------
 
- @**金融八卦女频道**：
+ @**金融八卦女频道**：  [金八传媒](https://jinrongbaguanv.com/)( https://jinrongbaguanv.com/ ) 金八文化传媒（北京）有限公司
  
 - 《[招聘！快来跟八妹做同事吧！](https://mp.weixin.qq.com/s/jdxh8YJH1LQ-8cI_LgmzZA)》( 原创： @金融八卦女频道 2020-05-31 ) 
 
