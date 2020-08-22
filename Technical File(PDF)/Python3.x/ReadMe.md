@@ -6,7 +6,7 @@
 
 > [**快速上手的中文视频**](http://v.youku.com/v_show/id_XODMyMzM1NzQ4.html) ：简单介绍了如何安装、如何创建文件、如何设置皮肤。新手先掌握这些就够用了。
 
-> [**Python 教程**](https://www.w3school.com.cn/python/index.asp) - [W3School 简体中文版在线教程](https://www.w3school.com.cn/)
+> [**Python 3**](https://www.w3school.com.cn/python/index.asp) [教程](https://www.w3cschool.cn/python3/) (Python3.x版本，未来主流的版本) - [W3School 简体中文版在线教程](https://www.w3school.com.cn/)
 
 > [**PyCharm 官方的快速上手视频**](https://www.jetbrains.com/pycharm/documentation/)
 
