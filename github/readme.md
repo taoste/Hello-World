@@ -59,7 +59,7 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 <style>a{TEXT-DECORATION:none}</style> 
 </head>
 <body>
-<center>居中显示</center>
+<center><a href="http://www.w3cschool.cn">居中显示</a> </center>
 </body>
 </html> 
 
@@ -68,7 +68,7 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 <style>.n{ TEXT-DECORATION:none }</style>
 </head>
 引用：
-<a class=n href=http://www.w3cschool.cn>W3Cschool编程入门教程</a> 
+<a class=n href="http://www.w3cschool.cn">W3Cschool编程入门教程</a> 
 ```
 
 <p>特点：</p> < p > <  /p >  < ul >
