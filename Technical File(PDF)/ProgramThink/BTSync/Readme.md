@@ -47,6 +47,8 @@
 
 > 6. [Resilio Sync 科学之路](https://gist.github.com/wangyan/da00e8a97279e94ecf81081c08ca9b6c) | [wangyan](https://gist.github.com/wangyan) ( https://wangyan.org )
 
+>>>  [Resilio Sync · 乐高](http://178518.github.io/book/cloud/resilio_sync.html)
+
 > 7. [Tag](https://www.getnas.com/tag/btsync/):[让 Resilio Sync 运行在 config 配置模式](https://www.getnas.com/resilio-sync-config-mode/) | [**GetNAS - 原创 IT 指南**](https://www.getnas.com/) | [一台电脑的NAS之旅](https://space.bilibili.com/454610060/channel/detail?cid=97025)
 
 >>>  7.1 [如何在 Linux 系统安装 Resilio Sync](https://www.getnas.com/resilio-sync-install-on-linux/)
