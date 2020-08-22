@@ -39,7 +39,7 @@
 <link href="https://cdn.jsdelivr.net/gh/inchoong/go/images/favicon.png" rel="Bookmark">  <!-- 可以在收藏夹中显示出你的图标 -->
  ```
 >   <p><b> < p > < b > < / b > < / p > </p>
-  
+ 
   ```
   < pre >< code >
 <p>下载地址：<a href="https:// " target="_blank" rel="noopener">https://sourceforge.net/projects/torrent-file-editor/</a></p>
@@ -49,6 +49,27 @@
 （ 【<a href="https://cloud.tencent.com/developer/tag/10284?entry=article" title="GitHub - 标签 - 云+社区 - 腾讯云">实例</a>】 打包下载：> 播放器 [View Raw](
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip) / [Download](
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true) ）
+
+>> [在HTML代码中如何把超链接(标签 a)的下划线去掉？](https://www.w3cschool.cn/html5/question-10231595.html)_w3cschool
+
+```
+1.一次性去掉超链接下划线
+<html> 
+<head> 
+<style>a{TEXT-DECORATION:none}</style> 
+</head>
+<body>
+<center>居中显示</center>
+</body>
+</html> 
+
+2.有的超链接需要下划线，有的不需要，该怎么办？
+<head>
+<style>.n{ TEXT-DECORATION:none }</style>
+</head>
+引用：
+<a class=n href=http://www.w3cschool.cn>W3Cschool编程入门教程</a> 
+```
 
 <p>特点：</p> < p > <  /p >  < ul >
 <ul> 
