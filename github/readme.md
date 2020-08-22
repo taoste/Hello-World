@@ -69,6 +69,18 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 </head>
 引用：
 <a class=n href="http://www.w3cschool.cn">W3Cschool编程入门教程</a> 
+
+3.让超链接去掉下划线，鼠标停留在上面时有下划线？
+<style type="text/css"> 
+a:link,a:visited{ 
+ text-decoration:none;  /*超链接无下划线*/ 
+} 
+a:hover{ 
+ text-decoration:underline;  /*鼠标放上去有下划线*/ 
+} 
+</style> 
+引用：
+<a href="#">超链接</a>
 ```
 
 <p>特点：</p> < p > <  /p >  < ul >
