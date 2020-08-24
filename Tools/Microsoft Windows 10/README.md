@@ -6,7 +6,7 @@
 - [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
 -------------------------------------------------
 
-- **[Microsoft Edge 中的家庭功能](https://support.microsoft.com/zh-cn/family-safety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
+- **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
 （ 对于家庭组，每个人都可以更轻松地在线浏览。 edge://settings/familySafety ）
 
 -------------------------------------------------
