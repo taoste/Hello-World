@@ -35,7 +35,7 @@
 
 >>>> 安装前，请注意：
 >>>>> 这些虚拟机将在 90 天后过期. 如果是首次安装随后可回滚的虚拟机，建议设置快照。  <br> Mac 用户将需要使用支持 zip64 的工具（如 [Unarchiver](https://unarchiver.c3.cx/unarchiver) ）来解压缩文件。 <br>
->>>>> VM 的密码为 "**Passw0rd!**"
+>>>>> **VM 的密码**为 " **Passw0rd!** "
 
 >>>> [查看安装说明](https://az792536.vo.msecnd.net/vms/release_notes_license_terms_8_1_15.pdf)
 >>>>> [发行说明](https://az792536.vo.msecnd.net/vms/release_notes_license_terms_8_1_15.pdf)中包含了适用于 Microsoft Edge 和 IE VM 的 Microsoft 软件许可条款，并取代了VM中包含的所有冲突的 Windows 许可条款。 下载和使用此软件，视为同意这些[许可条款](https://az792536.vo.msecnd.net/vms/release_notes_license_terms_8_1_15.pdf)。
