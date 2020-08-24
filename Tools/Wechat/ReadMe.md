@@ -1,3 +1,23 @@
+
+<table><tr><td><a href="https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80" title="微信&营销">微信&营销</a></td><td>
+<img class="bottom"  src="https://xmt.cn/static/img/favicon.png" height="15" width="15" />
+<a href="https://xmt.cn/" title="新媒体管家「Plus」-微信公众号-神器:微信排版、编辑、帐号管理，多账号同步管理">新媒体管家</a><a href="https://xmt.cn/plugin/download" title="新媒体管家「Plus」下载安装 - 微信排版、编辑、帐号管理 / 新媒体管家「Plus」是运行在网页浏览器端的插件">「Plus」</a></td>
+     　　 <td> 
+	    <a href="https://chrome.google.com/webstore/detail/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6/jicmnjcngcnfhgfggbdhlbjpcbadimaj?hl=zh-CN" title="新媒体管家 – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img class="bottom"  src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" />Chrome</a>
+	    / <a href="https://microsoftedge.microsoft.com/addons/detail/afljpghollbanbohmmonkjgjfakaabih?hl=zh-CN" title="新媒体管家 - Microsoft Edge Addons – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img class="bottom"  src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" />Edge</a>
+		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/" title="未找到 ｜ 下载 🦊 Firefox 扩展（zh-CN）"><img class="bottom"  src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" />Firefox</a>
+	  </td> 
+          <td style="text-align:left;">		
+		<a href="https://mp.weixin.qq.com/" title="微信公众平台">微信公众号</a>
+	        -<a href="https://github.com/taoste/Hello-World/raw/master/Tools/Wechat/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6_7_4_0__3.crx" title="【本地备份】Chrome浏览器插件手动安装">插件</a>☞ 排版、编辑、帐号管理 | 
+		<a href="https://zhangfensir.com/" title="微信公众号吸粉平台_微信粉丝_快速加粉软件_推广微信公众号-涨粉先生
+		 【新媒体管家】自2014年9月成立以来，一直专注于新媒体领域，
+		致力于帮助媒体人解决新媒体运营、管理和变现的问题，累计用户已突破500万。
+							  @上海政凯信息科技有限公司">涨粉</a>
+	   </td>
+      </tr> 
+</table>  
+
 - 《[史上最简单 1分钟教你在电脑上开启多个PC版微信](https://www.cnbeta.com/articles/soft/897111.htm)》 - Tencent WeChat 腾讯微信 - cnBeta.COM  
 > <p><a href="https://static.cnbetacdn.com/article/2019/1009/ba9bb9703e4eab3.jpg"><img src="https://camo.githubusercontent.com/e97934cac225e1410dd4ff792ec8c4ddb7ac8d1e/68747470733a2f2f7374617469632e636e6265746163646e2e636f6d2f61727469636c652f323031392f313030392f6261396262393730336534656162332e6a7067" title="史上最简单 1分钟教你在电脑上开启多个PC版微信" /></a></p>
 > 存盘退出记事本，勾选“此电脑”→“查看”中的“文件扩展名”复选框，将刚建立好的文件扩展名修改为“.bat”；
