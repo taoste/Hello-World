@@ -3,7 +3,7 @@
 
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 
-- **Microsoft Edge 中的家庭功能:[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
+- **[Microsoft Edge 中的家庭功能](https://support.microsoft.com/zh-cn/family-safety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
 （ 对于家庭组，每个人都可以更轻松地在线浏览。 edge://settings/familySafety ）
 
 -------------------------------------------------
