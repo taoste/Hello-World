@@ -1,3 +1,5 @@
+#升维思考（抬头看天），降维行动（低头走路）|《三体》哲学下的社会生存和发展法则：我消灭你，与你无关
+
 - 【搜索】思维导图 site:github.io ( @[Google](https://www.google.com/search?hl=zh_CN&source=hp&ei=NIVkXYCiMc_ZhwP9zobwBw&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Bing](https://cn.bing.com/search?q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Baidu](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%20site%3Agithub.io) )
 
 >  [思维导图 理财 site:github.io](https://www.google.com/search?hl=zh_CN&ei=R4VkXeX_EoqEoASmlp3QDA&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+%E7%90%86%E8%B4%A2+site%3Agithub.io)
