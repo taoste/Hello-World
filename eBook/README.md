@@ -1,4 +1,6 @@
-# 升维思考（抬头看天），降维行动（低头走路）<br>《[三体](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93_(%E5%B0%8F%E8%AF%B4))》哲学下的社会生存和发展法则：[我消灭你，与你无关](https://book.douban.com/subject/2567698/)
+# 升维思考（抬头看天），降维行动（低头走路）
+
+《[三体](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93_(%E5%B0%8F%E8%AF%B4))》哲学下的社会生存和发展法则：[我消灭你，与你无关](https://book.douban.com/subject/2567698/)
 
 - 【搜索】思维导图 site:github.io ( @[Google](https://www.google.com/search?hl=zh_CN&source=hp&ei=NIVkXYCiMc_ZhwP9zobwBw&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Bing](https://cn.bing.com/search?q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Baidu](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%20site%3Agithub.io) )
 
