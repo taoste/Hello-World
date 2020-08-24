@@ -1,4 +1,4 @@
-<table><tr><td>
+<table><tr><td><a href="https://github.com/taoste/Hello-World/tree/master/Tools/Wechat" title="微信&Wechat">Wechat</a></td><td>
 <img class="bottom"  src="https://xmt.cn/static/img/favicon.png" height="15" width="15" />
 <a href="https://xmt.cn/" title="新媒体管家「Plus」-微信公众号-神器:微信排版、编辑、帐号管理，多账号同步管理">新媒体管家</a><a href="https://xmt.cn/plugin/download" title="新媒体管家「Plus」下载安装 - 微信排版、编辑、帐号管理 / 新媒体管家「Plus」是运行在网页浏览器端的插件">「Plus」</a></td>
      　　 <td> 
@@ -8,7 +8,7 @@
 	  </td> 
           <td style="text-align:left;">		
 		<a href="https://mp.weixin.qq.com/" title="微信公众平台">微信公众号</a>
-	        -<a href="https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80/新媒体管家_7_4_0__3.crx" title="【本地备份】Chrome浏览器插件手动安装">插件</a>☞ 排版、编辑、帐号管理 | 
+	        -<a href="https://github.com/taoste/Hello-World/raw/master/Tools/Wechat/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6_7_4_0__3.crx" title="【本地备份】Chrome浏览器插件手动安装">插件</a>☞ 排版、编辑、帐号管理 | 
 		<a href="https://zhangfensir.com/" title="微信公众号吸粉平台_微信粉丝_快速加粉软件_推广微信公众号-涨粉先生
 		 【新媒体管家】自2014年9月成立以来，一直专注于新媒体领域，
 		致力于帮助媒体人解决新媒体运营、管理和变现的问题，累计用户已突破500万。
