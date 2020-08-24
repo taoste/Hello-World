@@ -15,5 +15,20 @@
 >> 求助，我有支付宝，我该怎么样才能购买到正版Windows操作系统？<br>
 >> 我不需要购买预装Windows的电脑，我只是想在虚拟机里有个正版Windows。
 
->>>   达人现身告知：[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/)   官方提供的免费vm镜像，多种格式
+>>>   达人现身告知：[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/)   官方提供的免费vm镜像，多种格式:
 
+- [**虚拟机 - Microsoft Edge Developer**](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/)
+
+>>> [Home 键](https://developer.microsoft.com/zh-cn/microsoft-edge/) \ [工具](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/) \ VM
+
+>>>> 虚拟机:使用本地下载和管理的免费 Windows 10 虚拟机测试 IE11 和旧版 Microsoft Edge
+
+>>>> 配有旧版 Microsoft Edge 和 Internet Explorer 11 的 Windows 10
+
+>>>> 选择 VM 平台：
+
+>>>>> [VirtualBox](https://az792536.vo.msecnd.net/vms/VMBuild_20190311/VirtualBox/MSEdge/MSEdge.Win10.VirtualBox.zip) <br>
+>>>>> [Vagrant](https://az792536.vo.msecnd.net/vms/VMBuild_20190311/Vagrant/MSEdge/MSEdge.Win10.Vagrant.zip) <br>
+>>>>> [HyperV (Windows)](https://az792536.vo.msecnd.net/vms/VMBuild_20190311/HyperV/MSEdge/MSEdge.Win10.HyperV.zip) <br>
+>>>>> [VMware (Windows, Mac)](https://az792536.vo.msecnd.net/vms/VMBuild_20190311/VMware/MSEdge/MSEdge.Win10.VMware.zip) <br>
+>>>>> [Parallels (Mac)](https://az792536.vo.msecnd.net/vms/VMBuild_20190311/Parallels/MSEdge/MSEdge.Win10.Parallels.zip)
