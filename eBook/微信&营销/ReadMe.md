@@ -15,12 +15,13 @@
 <a href="https://xmt.cn/plugin/download" title="新媒体管家「Plus」下载安装
 微信排版、编辑、帐号管理 / 新媒体管家「Plus」是运行在网页浏览器端的插件">「Plus」</a></td>
      　　 <td> 
-	    <a href="https://chrome.google.com/webstore/detail/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6/jicmnjcngcnfhgfggbdhlbjpcbadimaj?hl=zh-CN" title="新媒体管家 – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img class="bottom"  src="chrome-96x96.png" height="20" width="20" />Chrome</a>
-	    / <a href="https://microsoftedge.microsoft.com/addons/detail/afljpghollbanbohmmonkjgjfakaabih?hl=zh-CN" title="新媒体管家 - Microsoft Edge Addons – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img class="bottom"  src="edge-96x96.png" height="20" width="20" />Edge</a>
-		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/" title="未找到 ｜ 下载 🦊 Firefox 扩展（zh-CN）"><img class="bottom"  src="firefox-32x32.ico" height="20" width="20" />Firefox</a>
+	    <a href="https://chrome.google.com/webstore/detail/%E6%96%B0%E5%AA%92%E4%BD%93%E7%AE%A1%E5%AE%B6/jicmnjcngcnfhgfggbdhlbjpcbadimaj?hl=zh-CN" title="新媒体管家 – Chrome 网上应用店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img class="bottom"  src="https://go.choong.net/welcome/chrome-96x96.png" height="20" width="20" />Chrome</a>
+	    / <a href="https://microsoftedge.microsoft.com/addons/detail/afljpghollbanbohmmonkjgjfakaabih?hl=zh-CN" title="新媒体管家 - Microsoft Edge Addons – Microsoft Edge 加载项 - 应用商店 | 你现在可以将 [ Chrome Web Store ] 中的扩展插件添加到 “Microsoft Edge” "><img class="bottom"  src="https://go.choong.net/welcome/edge-96x96.png" height="20" width="20" />Edge</a>
+		/ <a href="https://addons.mozilla.org/zh-CN/firefox/addon/" title="未找到 ｜ 下载 🦊 Firefox 扩展（zh-CN）"><img class="bottom"  src="https://go.choong.net/welcome/firefox-32x32.ico" height="20" width="20" />Firefox</a>
 	  </td> 
           <td style="text-align:left;">		
-		<a href="https://mp.weixin.qq.com/" title="微信公众平台">微信公众号</a>☞ 排版、编辑、帐号管理 | 
+		<a href="https://mp.weixin.qq.com/" title="微信公众平台">微信公众号</a>
+	        -<a href="https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80/新媒体管家_7_4_0__3.crx" title="【本地备份】Chrome浏览器插件手动安装">插件</a>☞ 排版、编辑、帐号管理 | 
 		<a href="https://zhangfensir.com/" title="微信公众号吸粉平台_微信粉丝_快速加粉软件_推广微信公众号-涨粉先生
 		 【新媒体管家】自2014年9月成立以来，一直专注于新媒体领域，
 		致力于帮助媒体人解决新媒体运营、管理和变现的问题，累计用户已突破500万。
