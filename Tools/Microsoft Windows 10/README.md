@@ -4,7 +4,11 @@
 -------------------------------------------------
 
 - [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
-   
+-------------------------------------------------
+
+- **Microsoft Edge 中的家庭功能:[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)**
+（ 对于家庭组，每个人都可以更轻松地在线浏览。 edge://settings/familySafety ）
+
 -------------------------------------------------
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
