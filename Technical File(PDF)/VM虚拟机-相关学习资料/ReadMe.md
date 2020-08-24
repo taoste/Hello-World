@@ -15,5 +15,5 @@
 >> 求助，我有支付宝，我该怎么样才能购买到正版Windows操作系统？<br>
 >> 我不需要购买预装Windows的电脑，我只是想在虚拟机里有个正版Windows。
 
->>>   达人现身告知：https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/   官方提供的免费vm镜像，多种格式
+>>>   达人现身告知：[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/)   官方提供的免费vm镜像，多种格式
 
