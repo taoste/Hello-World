@@ -7,7 +7,9 @@
 
 最完美的奴隶制，就是奴隶们以为自己是主人；<br>最完美的监狱，就是让囚犯们不知道自己身在监狱。<br>要让他们热爱自己的锁链，并使他们认为，如果失去了锁链，他们将一无所有。
 
-国庆70周年 [活动标识](https://mp.weixin.qq.com/s/RXkGsd4zraDMOwNCTwP5Cg)
+国庆70周年 [活动标识](https://mp.weixin.qq.com/s/RXkGsd4zraDMOwNCTwP5Cg) 
+
+>> 【General Secretary  总书记】<br>【State Chairman  国家主席（英文无此说法）】
 
 - [关于 Twitter 上的政府和官媒账号标签](https://help.twitter.com/zh-cn/rules-and-policies/state-affiliated-china) - [Twitter 透明度报告](https://transparency.twitter.com/)
 
