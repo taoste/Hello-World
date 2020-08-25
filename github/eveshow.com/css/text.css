@@ -1,0 +1,44 @@
+.STYLE1 {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	color: #FFFFFF;
+}
+.text1 {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 30px;
+	color: #000000;
+}
+.contact_text {
+	font-size: 12px;
+	font-style: normal;
+	line-height: 25px;
+	color: #000000;
+}
+a:link {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+a:visited {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	color: #502f29;
+	text-decoration: none;
+}
