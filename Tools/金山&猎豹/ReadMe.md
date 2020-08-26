@@ -4,7 +4,7 @@
 
 - [**新版WPS建立右键新建菜单**](https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html) -百度经验
 
-> 解决方法（一）
+☞ **解决方法（一）**
 
 >> 1.打开**开始**菜单-运行，输入: **regedit**，打开**注册表编辑器**。
 
@@ -22,8 +22,8 @@
 >>>> **HKEY_CLASSES_ROOT\.et** ，在**KET.Workbook.9**下新建**ShellNew**，并在右侧窗格新建** NullFile **;<br> 
 >>>> **HKEY_CLASSES_ROOT\.dps** ，在**KWPP.Presentation.9**下新建**ShellNew**，并在右侧窗格新建**NullFile** 。
 
-> 解决方法（二）
+☞ **解决方法（二）**
 
-> <img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E9%87%91%E5%B1%B1&%E7%8C%8E%E8%B1%B9/Win10-WPS-SoS.png?raw=true" title="新版WPS建立右键新建菜单的解决方案" height="200" width="200" />
+> <img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E9%87%91%E5%B1%B1&%E7%8C%8E%E8%B1%B9/Win10-WPS-SoS.png?raw=true" title="新版WPS建立右键新建菜单的解决方案"  />
 
 -------------------------------------------------------
