@@ -50,6 +50,16 @@
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip) / [Download](
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true) ）
 
+- [HTML常用meta大全(推荐)](https://www.jb51.net/web/708299.html)_HTML/Xhtml_网页制作_脚本之家
+>> 强制Webkit内核和提示低版本IE访问用户升级完整代码如下所示，把这段代码添加到头部模板文件<head>标签下即可：
+```
+<meta name="renderer" content="webkit"/>
+<meta name="force-rendering" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<script>/*@cc_on window.location.href="http://support.dmeng.net/upgrade-your-browser.html?referrer="+encodeURIComponent(window.location.href); @*/</script>
+
+```
+
 >> [在HTML代码中如何把超链接(标签 a)的下划线去掉？](https://www.w3cschool.cn/html5/question-10231595.html)_w3cschool
 
 ```
