@@ -51,7 +51,7 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true) ）
 
 - [HTML常用meta大全(推荐)](https://www.jb51.net/web/708299.html)_HTML/Xhtml_网页制作_脚本之家
->> 强制Webkit内核和提示低版本IE访问用户升级完整代码如下所示，把这段代码添加到头部模板文件<head>标签下即可：
+>> @[在线技术支持](https://support.dmeng.net/)/[tips](https://death-to-ie11.com/):强制Webkit内核和提示低版本IE访问用户升级完整代码如下所示，把这段代码添加到头部模板文件<head>标签下即可：
 ```
 <meta name="renderer" content="webkit"/>
 <meta name="force-rendering" content="webkit"/>
