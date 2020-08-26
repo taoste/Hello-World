@@ -56,10 +56,28 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 <meta name="renderer" content="webkit"/>
 <meta name="force-rendering" content="webkit"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-<script>/*@cc_on window.location.href="http://support.dmeng.net/upgrade-your-browser.html?referrer="+encodeURIComponent(window.location.href); @*/</script>
-
+<script>/*@cc_on window.location.href="http://support.dmeng.net/upgrade-your-browser.html
+   ?referrer="+encodeURIComponent(window.location.href); @*/</script>
 ```
-
+>> 一个完整的HTML示例:
+```
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="renderer" content="webkit"/>
+    <meta name="force-rendering" content="webkit"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <script>/*@cc_on window.location.href="https://support.dmeng.net/upgrade-your-browser.html
+       ?referrer="+encodeURIComponent(window.location.href); @*/</script>
+    <title>网页标题</title>
+    <!-- 其他meta标签 -->
+</head>
+<body>
+    <h1>网页内容</h1>
+</body>
+</html>
+```
 >> [在HTML代码中如何把超链接(标签 a)的下划线去掉？](https://www.w3cschool.cn/html5/question-10231595.html)_w3cschool
 
 ```
