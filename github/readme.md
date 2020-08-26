@@ -10,7 +10,7 @@
 
 - [**由于系统特殊维护，暂时无法修改昵称/头像/个人简介等设置**](https://www.jianshu.com/p/18234ebb2db4)。(简书@[2020/6/4](https://www.jianshu.com/settings/basic))
 
-# HTML图文分享简易代码：
+# HTML图文分享简易代码：《[HTML页面插入SVG的多种方式](https://www.jb51.net/web/720878.html)》
 ```
 <!DOCTYPE html>
 <html lang="en-US">
