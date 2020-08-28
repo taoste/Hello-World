@@ -5,3 +5,31 @@ CorelDRAW 2018官方正式版
 如果注册码失效可以尝试联系博主。
 
 博客首页http://blog.hdqyf.club
+
+注册码：DR20R03S2FQCP3L8SM22CGHHAXQA
+
+如果注册码失效可以尝试联系博主。
+a@163.com
+博客首页http://blog.hdqyf.club
+
+------------------------------------------------------- 
+
+d:\Program Files\Corel\CorelDRAW Graphics Suite 2018\
+
+CorelDRAW 2018 ：
+
+第一步 notepad %SystemRoot%\System32\drivers\etc\hosts
+
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+
+第二步：入站规则 控制面版——Windows防火墙——入站规则——新建规则——看图
+
+d:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\CorelDRW.exe
+d:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\DIM.exe
+d:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\CorelPP.exe
+d:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Draw\DIM.exe
+
+把这四个程序一个一个新建添加进去 第三步：出站规则同第二步一样
