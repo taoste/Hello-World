@@ -77,10 +77,10 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
 	<style type="text/css"> 
 		p.QingKe {
 		font-size: 25px;
-		font-family: 'ZCOOL QingKe HuangYou', cursive;  /* Google fonts 输出的 CSS 引用方式<p class="QingKe"">搜天下</a>*/
+		font-family: 'ZCOOL QingKe HuangYou', cursive;  /* Google fonts 输出的 CSS 引用方式<p class="QingKe"">搜天下</p>*/
 		}
 		a.QingKe {
-		  font-size: 20px;
+		  font-size: 30px;
 		 font-family: 'ZCOOL QingKe HuangYou', cursive;  /* Google fonts 输出的 CSS 引用方式:<a class="QingKe"">搜天下</a> */
 		}
 	</style> <!-- Google fonts开源字体：QingKe -->
