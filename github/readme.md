@@ -71,7 +71,19 @@ https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.
     <script>/*@cc_on window.location.href="https://support.dmeng.net/upgrade-your-browser.html
        ?referrer="+encodeURIComponent(window.location.href); @*/</script>
     <title>网页标题</title>
-    <!-- 其他meta标签 -->
+     <!-- 其他meta标签 -->  
+         <!-- Google fonts开源字体：QingKe -->
+     <link href="https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap" rel="stylesheet"> 
+	<style type="text/css"> 
+		p.QingKe {
+		font-size: 25px;
+		font-family: 'ZCOOL QingKe HuangYou', cursive;  /* Google fonts 输出的 CSS 引用方式<p class="QingKe"">搜天下</a>*/
+		}
+		a.QingKe {
+		  font-size: 20px;
+		 font-family: 'ZCOOL QingKe HuangYou', cursive;  /* Google fonts 输出的 CSS 引用方式:<a class="QingKe"">搜天下</a> */
+		}
+	</style> <!-- Google fonts开源字体：QingKe -->
 </head>
 <body>
     <h1>网页内容</h1>
