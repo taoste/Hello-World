@@ -1,4 +1,4 @@
-- [view-source](https://github.com/taoste/Hello-World/tree/master/github/duba.net) : [**猎豹护眼大师**](http://www.duba.net/dbt/eyes.html)，防蓝光，护眼，缓解眼睛疲劳（ [立即](https://github.com/taoste/Hello-World/raw/master/Tools/%E9%87%91%E5%B1%B1%26%E7%8C%8E%E8%B1%B9/%E7%8C%8E%E8%B1%B9%E6%8A%A4%E7%9C%BC%E5%A4%A7%E5%B8%88keyeprotect_10_1.exe)[下载](http://cd002.www.duba.net/duba/install/2011/ever/keyeprotect_10_1.exe) ）
+- [view](https://go.choong.net/DuBa/eyes/)-[source](https://github.com/taoste/Hello-World/tree/master/github/duba.net) : [**猎豹护眼大师**](http://www.duba.net/dbt/eyes.html)，防蓝光，护眼，缓解眼睛疲劳（ [立即](https://github.com/taoste/Hello-World/raw/master/Tools/%E9%87%91%E5%B1%B1%26%E7%8C%8E%E8%B1%B9/%E7%8C%8E%E8%B1%B9%E6%8A%A4%E7%9C%BC%E5%A4%A7%E5%B8%88keyeprotect_10_1.exe)[下载](http://cd002.www.duba.net/duba/install/2011/ever/keyeprotect_10_1.exe) ）
 ```
 猎豹护眼大师为你的电脑开启护眼模式，科学过滤屏幕有害蓝光，保护眼睛。
 提供智能、办公、影视、游戏四种护眼模式，可缓解长时间看屏幕时眼睛干涩、眼睛疲劳、视力模糊的症状。
