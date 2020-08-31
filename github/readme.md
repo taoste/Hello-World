@@ -10,7 +10,7 @@
 </details>
 -----------------------------------------------
 
-# Anyway.FM 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客 Podcast   
+- Anyway.FM 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客 Podcast   
 <details>
    <summary> 
          <a href="http://go.choong.net/Anyway.FM/" title="">view</a>-<a href="https://github.com/inchoong/go/blob/master/Anyway.FM/" title="">source</a>:
