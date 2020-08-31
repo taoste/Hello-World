@@ -65,7 +65,7 @@
    <summary>  <b>HTML图文分享简易代码：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a></b>》
 </summary>
 <table> 
-```
+<code>```
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -83,7 +83,7 @@
   </p>
 </body>
 </html>
-```
+```</code>
 </table> </details>
 
 >> [**精选多个程序员都想要的免费HTML模板下载**](https://www.w3cschool.cn/html/html-template.html)_[**w3cschool**](https://www.w3cschool.cn/)
