@@ -60,7 +60,11 @@
 
 - [**由于系统特殊维护，暂时无法修改昵称/头像/个人简介等设置**](https://www.jianshu.com/p/18234ebb2db4)。(简书@[2020/6/4](https://www.jianshu.com/settings/basic))
 
-# HTML图文分享简易代码：《[HTML页面插入SVG的多种方式](https://www.jb51.net/web/720878.html)》
+
+<details>
+   <summary>  <b>HTML图文分享简易代码：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a></b>》
+</summary>
+<table> 
 ```
 <!DOCTYPE html>
 <html lang="en-US">
@@ -80,6 +84,7 @@
 </body>
 </html>
 ```
+</table> </details>
 
 >> [**精选多个程序员都想要的免费HTML模板下载**](https://www.w3cschool.cn/html/html-template.html)_[**w3cschool**](https://www.w3cschool.cn/)
 
