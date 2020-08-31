@@ -66,7 +66,7 @@
 </summary>
 <table> 
 	
-<code><pre>```
+<code><pre>
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -84,7 +84,7 @@
   </p>
 </body>
 </html>
-```</code></pre>
+</code></pre>
 
 </table> </details>
 
