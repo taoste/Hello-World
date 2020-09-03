@@ -30,6 +30,8 @@ tree > 文件树2.xls
 
  《[我是怎样爱上读历史书的？](https://mp.weixin.qq.com/s/C0PyrvYmVK81GXsqZNEbsA)》( @秋叶大叔 2020-09-03 )
 
+《[实力决定的事情，努力就能成功。运气左右的事情，怎么办？](https://mp.weixin.qq.com/s/Pa9K0Qvr9kisMHrKj_eMzg)》( @秋叶大叔 2020-08-30)
+
 【[2020年5月13日](https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80)】 秋叶大叔为大家推荐一篇深度好文，值得耐心品读，理解未来的互联网核心战斗。
 > 《[**腾讯的背水一战**](https://app.myzaker.com/news/article.php?pk=5eba99ab8e9f0943bd7d7eec)》/ [ZAKER - 传递价值资讯](https://app.myzaker.com/) 
 ```
