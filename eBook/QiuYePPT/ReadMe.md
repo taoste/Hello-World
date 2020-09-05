@@ -2,6 +2,54 @@
 
 💗 [Title](https://github.com/taoste/Hello-World/tree/master/github/qiuyeppt.com/dasai.qiuyeppt.com) : [**PPT投影演示辅助工具**](https://github.com/taoste/Hello-World/tree/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7) /  [💗](https://github.com/taoste/Hello-World/tree/master/github/qiuyeppt.com/dasai.qiuyeppt.com) [**秋叶PPT专题**](https://github.com/taoste/Hello-World/tree/master/eBook/QiuYePPT) 
 
+<details>
+    <summary>
+     💗
+       <a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">中国学位与研究生教育信息网（学位网）</a> |  
+       <a href="http://www.chinadegrees.com.cn/" title="学位在线">学位在线</a> - 
+       <a href="http://www.chinadegrees.com.cn/help/help.html?#p10" title="学位查询帮助中心">查询帮助中心</a>
+     </summary> 
+      <tr>
+		 	 <td class="date"><b>
+			 教育
+            </b></td> 		 
+		 	<td class="main"><b>  <!-- HTML 转义字符 http://www.w3chtml.com/html/character.html -->
+			   <a href="https://github.com/taoste/taoste.github.io/issues/21" title="🔄 内链切换[Note] 🍬教 育 网 站 （Kids） · Issue #21">
+			     <!-- <img class="bottom"  src="http://www.moe.gov.cn/favorite.ico" />  -->
+				 <a href="http://www.gov.cn/fuwu/index.htm" title="全国政务服务总门户_中国政府网"><img class="bottom"  src="images/moe.ico" height="20" width="20" /></a>
+				<a href="http://www.moe.gov.cn/" title="中华人民共和国教育部 | 政府门户网站">教育部</a>&amp;<a href="http://zwfw.moe.gov.cn/" title="中华人民共和国教育部网上服务大厅 | 全国一体化在线政务服务平台（试运行）">政务服务网</a>&gt;<a href="https://www.chsi.com.cn/" title="中国高等教育学生信息网（学信网）
+			     -- 教育部学历查询网站、教育部高校招生阳光工程指定网站、全国硕士研究生招生报名和调剂指定网站">学信网</a>&amp;<a href="https://yz.chsi.com.cn/" title="中国研究生招生信息网">研招</a><a href="https://my.chsi.com.cn/" title="学信档案(高等教育信息档案) | 中国高等教育学生信息网（学信网）">档案</a>&gt;<a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">学位网</a>&gt;<a href="http://www.chinaedu.edu.cn/" title="中国教育信息网
+			     教育部教育管理信息中心主管、主办的“中国教育信息网”（www.chinaedu.edu.cn），是为公众提供权威教育行业信息、院校信息、教育相关产业信息为核心的教育信息服务平台。 ">中国教育信息网</a>
+			 </b></td> 
+		 </tr>
+   <table> 
+       <tr> 
+             <td><a href="#"> (1)什么是学位？</a>
+
+学位是标志被授予者的受教育程度和学术水平达到规定标准的学术称号。我国学位分学士、硕士、博士三级，博士是学位的最高一级。
+
+学士学位，由国务院授权高等学校授予，硕士学位、博士学位由国务院授权的高等学校和科研机构授予。高等学校本科毕业生，成绩优良，达到规定的学术水平者，授予学士学位；高等学校和科研机构的研究生，或具有研究生毕业同等学力的人员，通过硕士（博士）学位的课程考试和论文答辩，成绩合格，达到规定的学术水平者，授予硕士（博士）学位。授予学位的高等学校和科学研究机构，在学位评定委员会做出授予学位的决议后，发给学位获得者相应的学位证书。符合上述条件所授予的学位证书国家予以承认。
+
+对于国内外卓越的学者或著名的社会活动家，经学位授予单位提名，国务院学位委员会批准，可以授予名誉博士学位。
+ </td>
+ 
+ <td><a href="#"> (2)什么是学历？</a>
+
+学历是指人们在教育机构中接受科学、文化知识训练的学习经历。一个人在什么层次的教育机构中学习，接受了何种层次的训练，便具有相应层次的学历。
+
+我国目前国民教育系列的高等教育学历分专科、本科、硕士研究生和博士研究生四个层次。高等教育学历文凭主要有三种,即:普通高等教育毕业（结业）证书、成人高等教育毕业（结业）证书、高等教育自学考试毕业（结业）证书。
+ </td>
+ 
+ <td><a href="#"> (3)学位与学历的联系与区别？</a>
+
+学位不等同于学历，取得大学本科、硕士研究生、博士研究生毕业证书的，却不一定能够获得相应学士、硕士、博士学位证书，而通过国民教育系列高等教育本科、硕士研究生、博士研究生学习取得学位证书者，则同时会获得相应学历证书。
+
+通过同等学力申请硕士、博士学位的，以及在职人员攻读硕士专业学位（单证方式）的，只颁发学位证书，一般不颁发学历证书。
+</td>
+      </tr> 
+    </table> 
+</details>
+
 ------------------------------------------------------------------------------
 
 > 快速提取文件名称 
@@ -162,3 +210,5 @@ tree > 文件树2.xls
 - 《[**【视频教程】1 分钟学会在线协作和身份证提取**](https://mp.weixin.qq.com/s/BrlAx2LK0LOCgDFQClltiA)》  ( WPS会员 2019-10-14 )
 
 - 《[**专业性，才是摆脱职场焦虑的灵药**](https://www.zreading.cn/archives/7418.html)》 – 左岸读书 (2019-12-19) 
+
+
