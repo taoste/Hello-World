@@ -4,8 +4,7 @@
 
 <details>
     <summary>           
-      <tr>
-	<td class="date"><b>💗</b></td> 		 
+      <tr>	 
 	<td class="main"><b>  <!-- HTML 转义字符 http://www.w3chtml.com/html/character.html -->
 		<a href="https://github.com/taoste/taoste.github.io/issues/21" title="🔄 内链切换[Note] 🍬教 育 网 站 （Kids） · Issue #21">
 		  <!-- <img class="bottom"  src="http://www.moe.gov.cn/favorite.ico" />  -->
