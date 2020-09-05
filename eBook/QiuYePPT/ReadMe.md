@@ -4,24 +4,24 @@
 
 <details>
     <summary>
-     💗
-       <a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">中国学位与研究生教育信息网（学位网）</a> |  
-       <a href="http://www.chinadegrees.com.cn/" title="学位在线">学位在线</a> - 
-       <a href="http://www.chinadegrees.com.cn/help/help.html?#p10" title="学位查询帮助中心">查询帮助中心</a>
-     </summary> 
+     💗      
       <tr>
-		 	 <td class="date"><b>
+	<td class="date"><b>
 			 教育
             </b></td> 		 
 		 	<td class="main"><b>  <!-- HTML 转义字符 http://www.w3chtml.com/html/character.html -->
 			   <a href="https://github.com/taoste/taoste.github.io/issues/21" title="🔄 内链切换[Note] 🍬教 育 网 站 （Kids） · Issue #21">
 			     <!-- <img class="bottom"  src="http://www.moe.gov.cn/favorite.ico" />  -->
-				 <a href="http://www.gov.cn/fuwu/index.htm" title="全国政务服务总门户_中国政府网"><img class="bottom"  src="images/moe.ico" height="20" width="20" /></a>
+				 <a href="http://www.gov.cn/fuwu/index.htm" title="全国政务服务总门户_中国政府网"><img class="bottom"  src="https://go.choong.net/City/images/moe.ico" height="20" width="20" /></a>
 				<a href="http://www.moe.gov.cn/" title="中华人民共和国教育部 | 政府门户网站">教育部</a>&amp;<a href="http://zwfw.moe.gov.cn/" title="中华人民共和国教育部网上服务大厅 | 全国一体化在线政务服务平台（试运行）">政务服务网</a>&gt;<a href="https://www.chsi.com.cn/" title="中国高等教育学生信息网（学信网）
 			     -- 教育部学历查询网站、教育部高校招生阳光工程指定网站、全国硕士研究生招生报名和调剂指定网站">学信网</a>&amp;<a href="https://yz.chsi.com.cn/" title="中国研究生招生信息网">研招</a><a href="https://my.chsi.com.cn/" title="学信档案(高等教育信息档案) | 中国高等教育学生信息网（学信网）">档案</a>&gt;<a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">学位网</a>&gt;<a href="http://www.chinaedu.edu.cn/" title="中国教育信息网
 			     教育部教育管理信息中心主管、主办的“中国教育信息网”（www.chinaedu.edu.cn），是为公众提供权威教育行业信息、院校信息、教育相关产业信息为核心的教育信息服务平台。 ">中国教育信息网</a>
 			 </b></td> 
 		 </tr>
+     </summary> 
+	 <a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">中国学位与研究生教育信息网（学位网）</a> |  
+         <a href="http://www.chinadegrees.com.cn/" title="学位在线">学位在线</a> - 
+         <a href="http://www.chinadegrees.com.cn/help/help.html?#p10" title="学位查询帮助中心">查询帮助中心</a>
    <table> 
        <tr> 
              <td><a href="#"> (1)什么是学位？</a>
