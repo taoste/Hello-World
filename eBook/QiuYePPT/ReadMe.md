@@ -7,7 +7,7 @@
      💗      
       <tr>
 	<td class="date"><b>
-			 教育
+		教育
             </b></td> 		 
 		 	<td class="main"><b>  <!-- HTML 转义字符 http://www.w3chtml.com/html/character.html -->
 			   <a href="https://github.com/taoste/taoste.github.io/issues/21" title="🔄 内链切换[Note] 🍬教 育 网 站 （Kids） · Issue #21">
@@ -19,9 +19,9 @@
 			 </b></td> 
 		 </tr>
      </summary> 
-	 <a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">中国学位与研究生教育信息网（学位网）</a> |  
+	 【<a href="http://www.cdgdc.edu.cn/" title="中国学位与研究生教育信息网（学位网）">中国学位与研究生教育信息网（学位网）</a> |  
          <a href="http://www.chinadegrees.com.cn/" title="学位在线">学位在线</a> - 
-         <a href="http://www.chinadegrees.com.cn/help/help.html?#p10" title="学位查询帮助中心">查询帮助中心</a>
+         <a href="http://www.chinadegrees.com.cn/help/help.html?#p10" title="学位查询帮助中心">查询帮助中心</a>】
    <table> 
        <tr> 
              <td><a href="#"> (1)什么是学位？</a>
