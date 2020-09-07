@@ -63,7 +63,7 @@
     <summary>           
       <tr><td>
 	      <a href="http://news.163.com/14/0916/17/A69IMLDN0001124J.html" title="再见，假日办！_网易新闻(2014-09-16)">再见，假日办！_网易新闻(2014-09-16)</a>
-	      (<a href="http://www.gov.cn/zhengce/content/2014-01/02/content_1183.htm" title="国务院关于修改《全国年节及纪念日放假办法》的决定（国令第644号）_政府信息公开专栏">《全国年节及纪念日放假办法》</a>|<a href="http://www.gov.cn/zhengce/xxgk/index.htm" title="政府信息公开平台_中国政府网">节假日安排>>政府信息公开平台_中国政府网</a>)
+	      【<a href="http://www.gov.cn/zhengce/content/2014-01/02/content_1183.htm" title="国务院关于修改《全国年节及纪念日放假办法》的决定（国令第644号）_政府信息公开专栏">《全国年节及纪念日放假办法》</a> | <a href="http://www.gov.cn/zhengce/xxgk/index.htm" title="政府信息公开平台_中国政府网">节假日安排 >> 政府信息公开平台_中国政府网</a>】
 	</b></td> 
   </tr>
 </summary> 
