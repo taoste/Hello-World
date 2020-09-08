@@ -36,6 +36,8 @@ https://chrome.google.com/webstore/detail/谷歌上网助手/nonmafimegllfoonjgp
 >   
 >   插进中心搜索：谷歌上网助手 插件下载（无需翻墙）：https://www.lanzous.com/i1k4njc 
 
+（ **防火墙：TCP 端口 443 (HTTPS), 访问用于身份验证和API 调用的主要网址。**<br /> 443端口主要用于SSL证书配置安装的作用，如果不设置443端口，就算是SSL证书配置好，网站也无法访问）
+
  **推荐2👍《谷歌访问助手（ggfwzs）》一键安装，无需其他配置，即可访问谷歌。**
  
 - **更多同类型：**[**Chrome 插件：谷歌访问助手（ggfwzs）**](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN) - Chrome 网上应用店
