@@ -69,8 +69,15 @@ F12 --》Sources（图片） / Audits（音频）
  - tips：**2020年9月3日(壁纸)**<a href="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200903/Wallpaper-20200903.7z">打包下载</a>：
  ./Wallpaper-20200903/ 横版 & 竖版
   <a href="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200903/Wallpaper-20200903.7z">
-<img src="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200903/101cb.jpg.jpg?raw=true"/>
- <img src="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200903/14cb.jpg.jpg?raw=true"/>
+<img src="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200903/101cb.jpg?raw=true"/>
+ <img src="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200903/14cb.jpg?raw=true"/>
+ </a>
+ 
+  - tips：**2020年9月8日(壁纸)**<a href="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200908/Wallpaper-20200908.7z">打包下载</a>：
+ ./Wallpaper-20200908/ 横版 & 竖版
+  <a href="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200908/Wallpaper-20200908.7z">
+<img src="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200908/c66?raw=true"/>
+ <img src="https://github.com/taoste/Hello-World/raw/master/images/Wallpaper/Wallpaper-20200908/d88.jpg?raw=true"/>
  </a>
   
 - 《[葡萄牙 海上花园 jardim do mar](https://cn.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99+%E6%B5%B7%E4%B8%8A%E8%8A%B1%E5%9B%AD+jardim+do+mar&filters=IsConversation%3A%22True%22+BTWLKey%3A%22MadeiraIslandPortugal%22+BTWLType%3A%22Trivia%22&ensearch=0&FORM=EMSDS0)》 - 国内版 Bing 
