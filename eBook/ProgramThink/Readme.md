@@ -7,6 +7,8 @@
 
 - [使用python集合进行EXCEL数据分析](https://www.jianshu.com/p/da1eca0283e9) - 简书  (2019.10.29)
 
+- [【整理】Mac软件安装与配置](https://www.yuque.com/gangafengliu/frontend-rookie/install-software-on-mac) / [前端小白成长实录](https://www.yuque.com/gangafengliu/frontend-rookie) · 语雀
+
 ----------------------------------------------------
 
 >  读书是在别人思想的帮助下建立自己的思想
