@@ -29,6 +29,8 @@
 
 - 《[**国产职场剧，什么时候才能让人不尴尬？**](https://mp.weixin.qq.com/s/k_-BBek-YCivCGXop4KALA)》  | ( 新周刊 2020-01-03 )
 
+- 《[**豆瓣搜索: 重生八零：媳妇有点辣**](https://www.douban.com/search?source=suggest&q=重生八零：媳妇有点辣)》 
+
 ------------------------------------------------
 
 <a href="https://twitter.com/0792z/status/1150922079761522689">引用</a> ：
