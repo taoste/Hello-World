@@ -6,7 +6,7 @@
 - 【搜索】思维导图 site:github.io ( @[Google](https://www.google.com/search?hl=zh_CN&source=hp&ei=NIVkXYCiMc_ZhwP9zobwBw&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Bing](https://cn.bing.com/search?q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Baidu](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%20site%3Agithub.io) )  ☞ 未知全貌，不予置评
 
 >  [思维导图 理财 site:github.io](https://www.google.com/search?hl=zh_CN&ei=R4VkXeX_EoqEoASmlp3QDA&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+%E7%90%86%E8%B4%A2+site%3Agithub.io) 
->> [软技能-代码之外的生存指南读书心得 | 学习之路](https://dumingcode.github.io/2018/04/22/2018-04-22-%E8%BD%AF%E6%8A%80%E8%83%BD%20%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97%E8%AF%BB%E4%B9%A6%E5%BF%83%E5%BE%97/)
+>> [软技能-代码之外的生存指南读书心得 - 学习之路](https://dumingcode.github.io/2018/04/22/2018-04-22-%E8%BD%AF%E6%8A%80%E8%83%BD%20%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97%E8%AF%BB%E4%B9%A6%E5%BF%83%E5%BE%97/) | [前端小白成长实录 · 语雀](https://www.yuque.com/gangafengliu/frontend-rookie)
 
 >  [**思维导图** python site:github.io](https://www.google.com/search?hl=zh_CN&ei=G4lkXbmSI8zi-Aauiq3oDg&q=思维导图+python+site%3Agithub.io)
 >> [【笔记】四幅思维导图学会 Python 爬虫：Requests，BeautifulSoup & Scrapy](https://woaielf.github.io/2018/04/28/scrappy/)
