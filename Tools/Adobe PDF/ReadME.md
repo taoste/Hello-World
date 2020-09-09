@@ -1,3 +1,5 @@
+# 完美替代 Photoshop 和 CorelDRAW 的两个软件：[krita](https://krita.org/zh/) 和 [inkscape](https://inkscape.org/zh-hans/)
+
 - 错误提示：**载入增效工具时出错。 DxfDwg.aip** - @[国内版 Bing](https://cn.bing.com/search?q=%E8%BD%BD%E5%85%A5%E5%A2%9E%E6%95%88%E5%B7%A5%E5%85%B7%E6%97%B6%E5%87%BA%E9%94%99%E3%80%82+DxfDwg.aip)
 >> Adobe 官网 : [Adobe Illustrator 学习和支持](https://helpx.adobe.com/cn/support/illustrator.html) / [Illustrator 用户指南](https://helpx.adobe.com/cn/illustrator/user-guide.html) / [如何在 Illustrator 中设置首选项](https://helpx.adobe.com/cn/illustrator/using/setting-preferences.html) / [Illustrator 增效工具](https://helpx.adobe.com/cn/illustrator/plug-ins.html) 
 
