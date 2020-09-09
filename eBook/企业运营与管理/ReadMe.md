@@ -1,14 +1,44 @@
-- [**云上公司/个体工商注册**](https://gs.aliyun.com/product/gongshang) – [**阿里云工商注册**](https://gs.aliyun.com/) | 阿里云公司注册-提供工商企业注册，公司名称免费查询服务 - [**阿里云**](https://www.aliyun.com/)
 
+<details>
+    <summary>
+     <b><a href="https://gs.aliyun.com/product/gongshang">云上公司/个体工商注册</a> - 
+     <a href="https://gs.aliyun.com/">阿里云工商注册</a></b> | 
+     阿里云公司注册-提供工商企业注册，公司名称免费查询服务 - 
+     <b><a href="(https://www.aliyun.com/">阿里云</a></b>
+     </summary> 
+>    &nbsp;
+   <table> 
+       <tr> 
+         <td>
+              <a href="https://gs.aliyun.com/product/gongshang"><img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E4%BC%81%E4%B8%9A%E8%BF%90%E8%90%A5%E4%B8%8E%E7%AE%A1%E7%90%86/2020aliyun.png?raw=true" border="0" title="【阿里云】还不抓紧时间注册？仅需￥9.9, 云上公司/个体工商注册 + 刻章费"> </a>
+        </td> 
+          <td>
+           <a href="#">&nbsp;</a> 
+          </td>
+      </tr> 
+    </table> 
+</details>
 
-> <a href="https://gs.aliyun.com/product/gongshang"><img src="https://github.com/taoste/Hello-World/blob/master/eBook/%E4%BC%81%E4%B8%9A%E8%BF%90%E8%90%A5%E4%B8%8E%E7%AE%A1%E7%90%86/2020aliyun.png?raw=true" border="0" title="【阿里云】还不抓紧时间注册？仅需￥9.9, 云上公司/个体工商注册 + 刻章费"> </a>
+> 
 
 - [《**中华人民共和国劳动合同法**》（全文）](http://www.gov.cn/jrzg/2007-06/29/content_667720.htm) ( @中华人民共和国中央人民政府门户网站　www.gov.cn　2007年06月29日 )
  
->> [国务院办公厅关于2020年部分节假日安排的通知（国办发明电〔2019〕16号）](http://www.gov.cn/zhengce/content/2019-11/21/content_5454164.htm)_政府信息公开专栏
-
->> [五一休5天，十一休8天，一图看懂2020年放假安排！](http://www.gov.cn/xinwen/2019-11/21/content_5454242.htm)_图解图表_中国政府网
-
+<details>
+    <summary>
+     <b> 《<a href="http://www.gov.cn/jrzg/2007-06/29/content_667720.htm">中华人民共和国劳动合同法</a>》</b> 
+     @<a href="http://www.gov.cn/">中华人民共和国中央人民政府门户网站 www.gov.cn</a> 2007年06月29日
+     </summary> 
+   <table> 
+       <tr> 
+             <td>
+              <a href="http://www.gov.cn/zhengce/content/2019-11/21/content_5454164.htm">国务院办公厅关于2020年部分节假日安排的通知（国办发明电〔2019〕16号）</a>_政府信息公开专栏                </td> 
+             <td>
+              <a href="http://www.gov.cn/xinwen/2019-11/21/content_5454242.htm">五一休5天，十一休8天，一图看懂2020年放假安排！</a>_图解图表_中国政府网 
+            </td>
+      </tr> 
+    </table> 
+</details>
+ 
 
 <details>
     <summary>
@@ -20,7 +50,7 @@
    <table> 
        <tr> 
            <td>
-            <a href="https://www.36kr.com/p/867638776886665">【“<b>向上管理</b>”的7种<b>最佳实践</b>】</a>
+            <a href="https://www.36kr.com/p/867638776886665">【“<b>向上管理</b>”的7种<b>最佳实践</b>】</a><br />
             针对如何有效地学习向上管理这个问题，你可以通过以下7种最佳实践方法:<br /><br />
         1.在“过量”和“不够”之间找到合理的平衡<br />
         2.沟通交流方式一定要尽量保持简洁<br />
@@ -31,7 +61,7 @@
         7.归类整理所有重要信息
         </td> 
          <td>          
-        <a href="https://www.36kr.com/p/867638776886665">【<b>不懂得</b>向上管理的<b>潜在风险</b>】</a>
+        <a href="https://www.36kr.com/p/867638776886665">【<b>不懂得</b>向上管理的<b>潜在风险</b>】</a><br />
           管理者可能会因为信息流中的缺陷而做出错误的决策。其中，主要的缺陷包括以下这5种情况:<br /><br />
           1.员工可能会扭曲事实以博得喜爱。<br />
           2.员工可能会遗漏关键的信息。<br />
