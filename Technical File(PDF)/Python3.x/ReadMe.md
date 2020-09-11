@@ -17,3 +17,5 @@
 《[源码图鉴](https://wood.codemao.cn/wood_docs/web/code/)》 | 源码图鉴
 
 《[Python 入门指南](http://www.pythondoc.com/pythontutorial3/)》 — Python tutorial 3.6.3 documentation
+
+《[TJ O'Connor：Python 绝技——运用 Python 成为顶级黑客 (第1版)](https://github.com/taoste/Hello-World/raw/master/Technical%20File(PDF)/TJ%20O'Connor%EF%BC%9APython%20%E7%BB%9D%E6%8A%80%E2%80%94%E2%80%94%E8%BF%90%E7%94%A8%20Python%20%E6%88%90%E4%B8%BA%E9%A1%B6%E7%BA%A7%E9%BB%91%E5%AE%A2%20(%E7%AC%AC1%E7%89%88).pdf)》
