@@ -81,31 +81,11 @@
 也无权直接发布，而是需要由国务院批准，由国务院发布。
 </details>
 
-------------------------------------------------------------------------------
-
-> 快速提取文件名称 
-```DIR *.*/B>LIST.TXT```
-
-- [技巧](https://github.com/taoste/Hello-World/tree/master/Tools/hosts)《[**如何1秒批量提取电脑文件夹中的所有文件名字**](https://jingyan.baidu.com/article/0f5fb0993446156d8334ea8a.html)》 -百度经验  
-.bat代码:
-```
-@ECHO OFF
-tree /F > 文件树.txt
-```
-或者
-```
-@ECHO OFF
-tree > 文件树.txt
-```
-或者
-```
-@ECHO OFF
-tree > 文件树2.xls
-```
-
->>> <img src="https://img-blog.csdn.net/20150120123542744?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzQ3NjQ2NA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
-
 -------------------------------------------------------------
+
+# 微信公众号/文章推荐：
+
+- 《[给热爱视频号的中年人提个醒](https://mp.weixin.qq.com/s/QcPBUNENnj-Dhx_eHWUOiA)》( @秋叶大叔 2020-09-14 )
 
 - 《[我是怎样爱上读历史书的？](https://mp.weixin.qq.com/s/C0PyrvYmVK81GXsqZNEbsA)》( @秋叶大叔 2020-09-03 )
 
@@ -138,6 +118,8 @@ tree > 文件树2.xls
 
 >> **如果一件事能够标准化管理时，我们应该关注结果的交付，通过结果改进发现过程不足，对过程加以改进就好。**
 
+[2020/6/9](https://mp.weixin.qq.com/s/ZZCW5vrCevRexab4nNnwjQ) 《[**写给女儿成人礼的一封信**](https://go.choong.net/s/wx/20200609/) 》 | <a href="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/QiuYePPT/20200614.jpg" title="【文章拆解】@秋叶PPT：成年后的你，一定要懂这4个道理！">延伸阅读</a>《 2020/6/14@秋叶PPT:<a href="https://mp.weixin.qq.com/s/quxtb8AEk8Do-5Xf7b0JZQ">成年后的你，一定要懂这4个道理！</a> 》
+
 【[2020年5月13日](https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80)】 秋叶大叔为大家推荐一篇深度好文，值得耐心品读，理解未来的互联网核心战斗。
 > 《[**腾讯的背水一战**](https://app.myzaker.com/news/article.php?pk=5eba99ab8e9f0943bd7d7eec)》/ [ZAKER - 传递价值资讯](https://app.myzaker.com/) 
 ```
@@ -152,9 +134,37 @@ tree > 文件树2.xls
 ------------------------------------------------------------------------------
 
 ❤ 萧秋水 :
+
+- 《[与自己和解，是最大的治愈](https://go.choong.net/s/wx/20200526/) 》 （ 萧秋水 [2020/5/26](https://mp.weixin.qq.com/s/jlHo_DpPNdcH2gfrrPnxPg) ）
+
 - 《[**我在此停留，只为成为最强者！**](https://mp.weixin.qq.com/s/cqyhccADax98PfLjXTYofw)》（ 萧秋水 2017-05-11 ）
 
 ------------------------------------------------------------------------------
+
+> 快速提取文件名称 
+```DIR *.*/B>LIST.TXT```
+
+- [技巧](https://github.com/taoste/Hello-World/tree/master/Tools/hosts)《[**如何1秒批量提取电脑文件夹中的所有文件名字**](https://jingyan.baidu.com/article/0f5fb0993446156d8334ea8a.html)》 -百度经验  
+.bat代码:
+```
+@ECHO OFF
+tree /F > 文件树.txt
+```
+或者
+```
+@ECHO OFF
+tree > 文件树.txt
+```
+或者
+```
+@ECHO OFF
+tree > 文件树2.xls
+```
+
+>>> <img src="https://img-blog.csdn.net/20150120123542744?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzQ3NjQ2NA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
+
+------------------------------------------------------------------------------
+
 - [豆瓣读书：《**和秋叶一起学职场技能**》](https://book.douban.com/subject/26836278/)
 <table>   
  <tr>
