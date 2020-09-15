@@ -127,8 +127,14 @@
 
 [2020/6/9](https://mp.weixin.qq.com/s/ZZCW5vrCevRexab4nNnwjQ) 《[**写给女儿成人礼的一封信**](https://go.choong.net/s/wx/20200609/) 》 | <a href="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/QiuYePPT/20200614.jpg" title="【文章拆解】@秋叶PPT：成年后的你，一定要懂这4个道理！">延伸阅读</a>《 2020/6/14@秋叶PPT:<a href="https://mp.weixin.qq.com/s/quxtb8AEk8Do-5Xf7b0JZQ">成年后的你，一定要懂这4个道理！</a> 》
 
-【[2020年5月13日](https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80)】 秋叶大叔为大家推荐一篇深度好文，值得耐心品读，理解未来的互联网核心战斗。
-> 《[**腾讯的背水一战**](https://app.myzaker.com/news/article.php?pk=5eba99ab8e9f0943bd7d7eec)》/ [ZAKER - 传递价值资讯](https://app.myzaker.com/) 
+<details>
+<summary>
+【<a href="https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80">2020年5月13日</a>】
+秋叶大叔为大家推荐一篇深度好文，值得耐心品读，理解未来的互联网核心战斗。
+</summary> 
+<a href="https://taoste.github.io/Hello-World/eBook/微信%26营销/《腾讯的背水一战》.png">抓紧看，可能会删</a>
+《<a href="https://app.myzaker.com/news/article.php?pk=5eba99ab8e9f0943bd7d7eec">腾讯的背水一战</a>》 | <a href="https://app.myzaker.com/">ZAKER - 传递价值资讯</a><br>
+
 ```
 为什么微信要推出视频号？
 腾讯的背水一战到底是什么？
@@ -136,7 +142,7 @@
 
 请看高人解读，给你带来不一样的视角。
 ```
->> [抓紧看，可能会删](https://taoste.github.io/Hello-World/eBook/微信%26营销/《腾讯的背水一战》.png)
+</details>
 
 ------------------------------------------------------------------------------
 
@@ -149,7 +155,7 @@
 ------------------------------------------------------------------------------
 
 <details>
-    <summary> 快速提取文件名称<br> ```DIR *.*/B>LIST.TXT``` </summary> 
+    <summary> <b>快速提取文件名称</b>  DIR *.*/B>LIST.TXT</summary> 
 
 <li><a href="https://github.com/taoste/Hello-World/tree/master/Tools/hosts">技巧</a>:
 《<a href="https://jingyan.baidu.com/article/0f5fb0993446156d8334ea8a.html">如何1秒批量提取电脑文件夹中的所有文件名字</a>》 -百度经验</li>
@@ -174,8 +180,10 @@ tree > 文件树2.xls
 </details>
 
 ------------------------------------------------------------------------------
-
-- [豆瓣读书：《**和秋叶一起学职场技能**》](https://book.douban.com/subject/26836278/)
+<details>
+    <summary>
+     <b>豆瓣读书：《<a href="https://book.douban.com/subject/26836278/">和秋叶一起学职场技能</a>》</b>
+     </summary> 
 <table>   
  <tr>
       <td> 
@@ -199,6 +207,7 @@ tree > 文件树2.xls
      </td>
      </tr>
 </table>
+</details>
 
 - 《[**熬夜加班做的PPT，演示现场翻车？演讲冠军送你5个避坑锦囊，快收藏**](https://mp.weixin.qq.com/s/ABlvVdUQ-pchopz9RqYa4g)》 ( 水哥 @秋叶PPT 2019-12-20 ) 
 
