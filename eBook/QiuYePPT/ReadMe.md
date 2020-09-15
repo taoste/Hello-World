@@ -85,6 +85,8 @@
 
 # 微信公众号/文章推荐：
 
+- 《[今天说一说我司三个女员工的故事](https://mp.weixin.qq.com/s/kGGTHvt4b6RCSfjphuqpTQ)》( @秋叶大叔 2020-09-15 )
+
 - 《[给热爱视频号的中年人提个醒](https://mp.weixin.qq.com/s/QcPBUNENnj-Dhx_eHWUOiA)》( @秋叶大叔 2020-09-14 )
 
 - 《[我是怎样爱上读历史书的？](https://mp.weixin.qq.com/s/C0PyrvYmVK81GXsqZNEbsA)》( @秋叶大叔 2020-09-03 )
