@@ -83,7 +83,7 @@
 
 -------------------------------------------------------------
 
-# 微信公众号/文章推荐：
+<b>微信公众号/文章推荐：</b>
 
 - 《[今天说一说我司三个女员工的故事](https://mp.weixin.qq.com/s/kGGTHvt4b6RCSfjphuqpTQ)》( @秋叶大叔 2020-09-15 )
 
@@ -155,7 +155,9 @@
 ------------------------------------------------------------------------------
 
 <details>
-    <summary> <b>快速提取文件名称</b>  DIR *.*/B>LIST.TXT</summary> 
+    <summary> <b>快速提取文件名称</b>  
+	<li> DIR *.*/B>LIST.TXT </li>
+	</summary> 
 
 <li><a href="https://github.com/taoste/Hello-World/tree/master/Tools/hosts">技巧</a>:
 《<a href="https://jingyan.baidu.com/article/0f5fb0993446156d8334ea8a.html">如何1秒批量提取电脑文件夹中的所有文件名字</a>》 -百度经验</li>
@@ -175,11 +177,11 @@ tree > 文件树.txt
 @ECHO OFF
 tree > 文件树2.xls
 ```
-
->>> <img src="https://img-blog.csdn.net/20150120123542744?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzQ3NjQ2NA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
+<img src="https://img-blog.csdn.net/20150120123542744?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzQ3NjQ2NA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 </details>
 
 ------------------------------------------------------------------------------
+
 <details>
     <summary>
      <b>豆瓣读书：《<a href="https://book.douban.com/subject/26836278/">和秋叶一起学职场技能</a>》</b>
@@ -215,40 +217,26 @@ tree > 文件树2.xls
 
 <details>
     <summary>
-《<a href="https://mp.weixin.qq.com/s/Aagxrg4lXOCzOjxmoUL_Gw">Costco这么牛，学了《市场营销》你应该看见啥？</a>》 （ 原创： @秋叶大叔	2019-08-31 ） 
-</summary> 
->          在学校给学生上《市场营销》，讲到做竞品调研，我就谈到最近爆火的Costco这个案例，也给大家聊聊我的看法。
-> 
->                                                                                ——秋叶大叔
-
+《<a href="https://mp.weixin.qq.com/s/Aagxrg4lXOCzOjxmoUL_Gw">Costco这么牛，学了《市场营销》你应该看见啥？</a>》 （ 原创： @秋叶大叔	2019-08-31 ） <br>
+在学校给学生上《市场营销》，讲到做竞品调研，我就谈到最近爆火的Costco这个案例，也给大家聊聊我的看法。<br> —— 秋叶大叔
+</summary>          
 <li> Costco的开业搞成了满网跟的大新闻：</li>
-```
-    第一天开业半天就被迫停业，人太多，茅台太便宜，上海人民太识货；
-
-    第二天卖场限量2000人，怕服务不周，还有会员卡已经办了16万张；
-
-
-    第三天Costco美国股票大涨，相当于人民币560亿；
-
-
-    第四天不用说了，各路财经账户都得第一反应跟上评论，我看刘润，吴晓波频道都写了文章分析。
-
-```
+第一天开业半天就被迫停业，人太多，茅台太便宜，上海人民太识货；<br>
+第二天卖场限量2000人，怕服务不周，还有会员卡已经办了16万张；<br>
+第三天Costco美国股票大涨，相当于人民币560亿；<br>
+第四天不用说了，各路财经账户都得第一反应跟上评论，我看刘润，吴晓波频道都写了文章分析。<br>
 </details>
 
 -------------------------------------------------------------
 
 <details>
-    <summary>
-    《<a href="https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA">请把这张图打印出来，下次做PPT时对照检查！</a>》 （ @曹将 秋叶PPT 2019-11-22 ）
-     </summary> 
-
->> 经常给大家分享PPT技巧，但是很多小伙伴留言告诉我们：需要做整套PPT的时候，还是会大脑空白、手忙脚乱。
->> 
->> 今天曹将给大家分享他总结的「演示设计工作清单」，帮你理清PPT演示步骤，提高效率！
->> 
->>> 作者：曹将  来源：曹将(ID：CJPPTAO)
-> <p><a href="https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/oxJBB1QtCdoJCP7323kdPibwQm286WPianHIZ5LYkgtic7pxTJLkibMiaOZGUDhTK6mNe251L4B9NK1ws9h6BEfoGXw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" border="0" alt="演示设计工作清单" title="请把这张图打印出来，下次做PPT时对照检查！"></a></p>
+ <summary>
+《<a href="https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA">请把这张图打印出来，下次做PPT时对照检查！</a>》 （ @曹将 秋叶PPT 2019-11-22 ）
+</summary> 
+经常给大家分享PPT技巧，但是很多小伙伴留言告诉我们：需要做整套PPT的时候，还是会大脑空白、手忙脚乱。<br>
+今天曹将给大家分享他总结的「演示设计工作清单」，帮你理清PPT演示步骤，提高效率！<br>
+ 作者：曹将  来源：曹将(ID：CJPPTAO)<br>
+<p><a href="https://mp.weixin.qq.com/s/748OSfymCi9gH0NEJeNNCA"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/oxJBB1QtCdoJCP7323kdPibwQm286WPianHIZ5LYkgtic7pxTJLkibMiaOZGUDhTK6mNe251L4B9NK1ws9h6BEfoGXw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" border="0" alt="演示设计工作清单" title="请把这张图打印出来，下次做PPT时对照检查！"></a></p>
 </details>
 
 -------------------------------------------------------------
@@ -258,20 +246,15 @@ tree > 文件树2.xls
 -------------------------------------------------------------
 
 <details>
-    <summary>
-    《<a href="https://www.52pojie.cn/thread-1037808-1-1.html">大型会议室座次表编排-源码</a>》- 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn
-     </summary> 
-
-> 也不知道宏是什么意思，担心包含病毒
-
-> 我把代码放txt里了，自己复制到vba里面就行
-
-> 第4个工作簿里，从excel开发工具里可以查看代码，无毒
-
->> 链接：https://pan.baidu.com/s/1LkoVjib7Sqm9RLcBFu1C8Q
->> 提取码：8xhg 
-
-> <p><a href="https://www.52pojie.cn/thread-1037808-1-1.html"><img src="https://attach.52pojie.cn/forum/201910/14/190938qiqpz9w4n5pktdoj.gif" border="0" alt="[原创工具] 大型会议室座次表编排-源码" title="大型会议室座次表编排-源码 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn"></a></p>
+<summary>
+《<a href="https://www.52pojie.cn/thread-1037808-1-1.html">大型会议室座次表编排-源码</a>》- 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn
+</summary> 
+也不知道宏是什么意思，担心包含病毒<br><br>
+我把代码放txt里了，自己复制到vba里面就行<br><br>
+第4个工作簿里，从excel开发工具里可以查看代码，无毒<br><br>
+链接：https://pan.baidu.com/s/1LkoVjib7Sqm9RLcBFu1C8Q<br>
+提取码：8xhg <br><br>
+<p><a href="https://www.52pojie.cn/thread-1037808-1-1.html"><img src="https://attach.52pojie.cn/forum/201910/14/190938qiqpz9w4n5pktdoj.gif" border="0" alt="[原创工具] 大型会议室座次表编排-源码" title="大型会议室座次表编排-源码 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn"></a></p>
 </details>
 
 ------------------------------------------------------------------------------
