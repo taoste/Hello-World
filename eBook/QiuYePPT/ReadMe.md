@@ -130,10 +130,10 @@
 <details>
 <summary>
 【<a href="https://github.com/taoste/Hello-World/tree/master/eBook/%E5%BE%AE%E4%BF%A1%26%E8%90%A5%E9%94%80">2020年5月13日</a>】
-秋叶大叔为大家推荐一篇深度好文，值得耐心品读，理解未来的互联网核心战斗。
-</summary> 
-<a href="https://taoste.github.io/Hello-World/eBook/微信%26营销/《腾讯的背水一战》.png">抓紧看，可能会删</a>
+秋叶大叔为大家推荐一篇深度好文，值得耐心品读，理解未来的互联网核心战斗。<br>
+<a href="https://taoste.github.io/Hello-World/eBook/微信%26营销/《腾讯的背水一战》.png">抓紧看，可能会删</a>:
 《<a href="https://app.myzaker.com/news/article.php?pk=5eba99ab8e9f0943bd7d7eec">腾讯的背水一战</a>》 | <a href="https://app.myzaker.com/">ZAKER - 传递价值资讯</a><br>
+</summary> 
 
 ```
 为什么微信要推出视频号？
