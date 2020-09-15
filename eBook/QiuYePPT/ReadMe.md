@@ -213,6 +213,8 @@ tree > 文件树2.xls
 
 - 《[**熬夜加班做的PPT，演示现场翻车？演讲冠军送你5个避坑锦囊，快收藏**](https://mp.weixin.qq.com/s/ABlvVdUQ-pchopz9RqYa4g)》 ( 水哥 @秋叶PPT 2019-12-20 ) 
 
+- 《微博话题：[**#和秋叶一起学新媒体#**](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%92%8C%E7%A7%8B%E5%8F%B6%E4%B8%80%E8%B5%B7%E5%AD%A6%E6%96%B0%E5%AA%92%E4%BD%93%23&isnewpage=1&luicode=20000061&lfid=4534531165520771)》 | 《[**和秋叶一起学新媒体写作 - 网易云课堂**](https://study.163.com/course/introduction/1209765805.htm)》 
+
 - 《[**自媒体能作为长期职业吗？**](https://mp.weixin.qq.com/s/2_3SjIQOADSSC72Em1NBfg)》（ 原创： @秋叶大叔 2019-11-09 ） 
 
 <details>
