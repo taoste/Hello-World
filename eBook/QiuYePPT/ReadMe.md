@@ -91,8 +91,11 @@
 
 - 《[我是怎样爱上读历史书的？](https://mp.weixin.qq.com/s/C0PyrvYmVK81GXsqZNEbsA)》( @秋叶大叔 2020-09-03 )
 
-- 《[实力决定的事情，努力就能成功。运气左右的事情，怎么办？](https://mp.weixin.qq.com/s/Pa9K0Qvr9kisMHrKj_eMzg)》( @秋叶大叔 2020-08-30)
-
+<details>
+    <summary>
+    《<a href="https://mp.weixin.qq.com/s/Pa9K0Qvr9kisMHrKj_eMzg"> 实力决定的事情，努力就能成功。运气左右的事情，怎么办？</a>》( @秋叶大叔 2020-08-30)
+     </summary> 
+<table>
 > 那么哪些事情更依赖个人的奋斗，哪些事情更看重历史的进程如何转向？<br />
 > 《**实力、运气与成功：斯坦福大学经济思维课**》这本书作者**莫布森**有3个洞见：
 
@@ -119,6 +122,9 @@
 > 反过来
 
 >> **如果一件事能够标准化管理时，我们应该关注结果的交付，通过结果改进发现过程不足，对过程加以改进就好。**
+
+    </table> 
+</details>
 
 [2020/6/9](https://mp.weixin.qq.com/s/ZZCW5vrCevRexab4nNnwjQ) 《[**写给女儿成人礼的一封信**](https://go.choong.net/s/wx/20200609/) 》 | <a href="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/QiuYePPT/20200614.jpg" title="【文章拆解】@秋叶PPT：成年后的你，一定要懂这4个道理！">延伸阅读</a>《 2020/6/14@秋叶PPT:<a href="https://mp.weixin.qq.com/s/quxtb8AEk8Do-5Xf7b0JZQ">成年后的你，一定要懂这4个道理！</a> 》
 
