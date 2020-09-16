@@ -90,7 +90,7 @@
 >>> 打开移动热点 ms-settings:network-mobilehotspot?activationSource=SMC-IA-4027762
 
 <details>
-    <summary>
+<summary>
  <b>CSDN博客: <a href="https://blog.csdn.net/lpwmm/article/details/106036513">Windows10 设置"移动热点"开机自动开启</a>:  </b><br>
 简介：带有无线网卡设备的Windows10系统中提供了移动热点的功能,可以很方便的将电脑有线网络通过无线广播出去(相当于无线路由器的效果),但是这个功能必须要手动开启,下面提供一个可以开机自动开启移动热点的方法。...
 </summary> 
@@ -99,9 +99,8 @@
 <li>1.右键点击开始按钮>运行,运行下面命令: notepad d:\开启热点.ps1</li>
 <img src="https://img-blog.csdnimg.cn/20200510151748481.png" height="150" width="150" />
 <li>2.打开的记事本中确定新建文件,随后粘贴下面内容:</li>
-<blockquote>
-<code> ```
 
+<code><blockquote>
    Add-Type -AssemblyName System.Runtime.WindowsRuntime
 $asTaskGeneric = ([System.WindowsRuntimeSystemExtensions].GetMethods() | ? { $_.Name -eq 'AsTask' -and $_.GetParameters().Count -eq 1 -and $_.GetParameters()[0].ParameterType.Name -eq 'IAsyncOperation`1' })[0]
 Function Await($WinRtTask, $ResultType) {
@@ -127,12 +126,9 @@ else{
     "Hotspot is off! Turning it on"
     Await ($tetheringManager.StartTetheringAsync()) ([Windows.Networking.NetworkOperators.NetworkOperatorTetheringOperationResult])
 }
-```</code>   
-</blockquote>
+</blockquote></code>
 记事本保存并关闭。至此,我们就在D盘根目录下面创建好了这个开启热点.ps1脚本文件.
-
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
-
 <li>3.测试脚本</li>
 由于Windows10系统默认的策略是禁止直接运行ps1脚本文件的,所以需要先修改一下系统策略<br><br>
 右键点击开始按钮>Windows PowerShell(管理员)，执行下面命令:set-executionpolicy remotesigned <br><br>
@@ -145,14 +141,14 @@ else{
 点击下一步后快捷方式命名为开启热点,点击完成按钮<br><br>
 至此设置完毕,重启一下系统看看效果吧<br><br>
 </td> </tr> 
-</table> 
-</details>
+</table></details>
 
--------------------------------------------------
+----------------------------------------------
 
 - [Win10 音量调节快捷键设置](https://www.jianshu.com/p/cc890ddc58a0) - 简书
 
 > [**导入注册表**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E8%AE%BE%E7%BD%AE%E9%94%AE%E7%9B%98%E8%B0%83%E8%8A%82%E9%9F%B3%E9%87%8F/ReadMe.md) (在网上找到了一个导入注册表的方法。)
+
 ```
 Windows Registry Editor Version 5.00
           
