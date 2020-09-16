@@ -97,7 +97,7 @@
 <table> 
 <tr>    
 <li>1.右键点击开始按钮>运行,运行下面命令: notepad d:\开启热点.ps1</li>
-<img src="https://img-blog.csdnimg.cn/20200510151748481.png" height="150" width="350" />
+<img src="https://img-blog.csdnimg.cn/20200510151748481.png" height="200" width="350" /><br>
 <li>2.打开的记事本中确定新建文件,随后粘贴下面内容:</li>
 
 <blockquote><code>
@@ -127,14 +127,14 @@ else{
     Await ($tetheringManager.StartTetheringAsync()) ([Windows.Networking.NetworkOperators.NetworkOperatorTetheringOperationResult])
 }
 </code></blockquote>
-记事本保存并关闭。至此,我们就在D盘根目录下面创建好了这个开启热点.ps1脚本文件.
-<hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
-<li>3.测试脚本</li>
+记事本保存并关闭。至此,我们就在D盘根目录下面创建好了这个开启热点.ps1脚本文件.<br><br>
+
+<li>3.测试脚本</li><br>
 由于Windows10系统默认的策略是禁止直接运行ps1脚本文件的,所以需要先修改一下系统策略<br><br>
 右键点击开始按钮>Windows PowerShell(管理员)，执行下面命令:set-executionpolicy remotesigned <br><br>
 出现策略更改提示后按字母a <br><br>
-修改完策略后执行d:\开启热点.ps1运行我们刚才创建的脚本进行测试<br>
-<li>4.设置脚本开机自启动</li>
+修改完策略后执行d:\开启热点.ps1运行我们刚才创建的脚本进行测试<br><br>
+<li>4.设置脚本开机自启动</li><br>
 右键点击开始按钮>运行>shell:startup <br><br>
 在打开的启动文件夹空白处点击鼠标右键>新建>快捷方式<br><br>
 对象位置处填写powershell d:\开启热点.ps1<br><br>
