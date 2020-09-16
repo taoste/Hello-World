@@ -96,11 +96,11 @@
 </summary> 
 <table> 
 <tr>    
-<li>1.右键点击开始按钮>运行,运行下面命令: notepad d:\开启热点.ps1</li>
+<li>1.右键点击开始按钮>运行,运行下面命令: notepad d:\开启热点.ps1</li><br>
 <img src="https://img-blog.csdnimg.cn/20200510151748481.png" height="200" width="350" /><br>
-<li>2.打开的记事本中确定新建文件,随后粘贴下面内容:</li>
+<li>2.打开的记事本中确定新建文件,随后粘贴下面内容:</li><br>
 
-<blockquote><code>
+<blockquote>
    Add-Type -AssemblyName System.Runtime.WindowsRuntime
 $asTaskGeneric = ([System.WindowsRuntimeSystemExtensions].GetMethods() | ? { $_.Name -eq 'AsTask' -and $_.GetParameters().Count -eq 1 -and $_.GetParameters()[0].ParameterType.Name -eq 'IAsyncOperation`1' })[0]
 Function Await($WinRtTask, $ResultType) {
@@ -126,7 +126,7 @@ else{
     "Hotspot is off! Turning it on"
     Await ($tetheringManager.StartTetheringAsync()) ([Windows.Networking.NetworkOperators.NetworkOperatorTetheringOperationResult])
 }
-</code></blockquote>
+</blockquote>
 记事本保存并关闭。至此,我们就在D盘根目录下面创建好了这个开启热点.ps1脚本文件.<br><br>
 
 <li>3.测试脚本</li><br>
