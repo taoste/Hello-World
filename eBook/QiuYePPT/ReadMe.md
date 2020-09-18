@@ -85,9 +85,13 @@
 
 <b>微信公众号/文章推荐：</b>
 
+- 《[35岁女性职场困境](https://mp.weixin.qq.com/s/lX5fzbSoMT03CwCHLyV50Q)》( @秋叶大叔 2020-09-18 )
+
 - 《[今天说一说我司三个女员工的故事](https://mp.weixin.qq.com/s/kGGTHvt4b6RCSfjphuqpTQ)》( @秋叶大叔 2020-09-15 )
 
 - 《[给热爱视频号的中年人提个醒](https://mp.weixin.qq.com/s/QcPBUNENnj-Dhx_eHWUOiA)》( @秋叶大叔 2020-09-14 )
+
+- 《[“朱一龙”30几岁面试被羞辱，重新出发最需要的是勇气](https://mp.weixin.qq.com/s/3OoUQ9dM1g0LUPjzXNQ1qg)》( @秋叶大叔 2020-09-13 )
 
 - 《[我是怎样爱上读历史书的？](https://mp.weixin.qq.com/s/C0PyrvYmVK81GXsqZNEbsA)》( @秋叶大叔 2020-09-03 )
 
