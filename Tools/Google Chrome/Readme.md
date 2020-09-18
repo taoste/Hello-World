@@ -6,6 +6,22 @@
 
 [[Note](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome)] 🚀 [谷歌 Google 系列 · Issue #9](https://github.com/taoste/taoste.github.io/issues/9) · [Go : taoste/Hello-World](http://go.choong.net/google)
 
+> Chrome 多用户分别建快捷方式（默认参数）：`--profile-directory=Default`
+
+> **IE**浏览器是 `-private`，**chrome** 是 `-incognito` ，**Edge** 是 `-inprivate`
+
+> 这样我们每次启动它们就都是隐身模式了，
+
+> 而不用每次都要**Firefox：`Ctrl+Shift+p`**或者**chrome：`Ctrl+shift+n`** 。
+
+> **Firefox** 常见启动参数[介绍](http://mozilla.com.cn/thread-21637-1-1.html)：
+```
+-safe-mode  启动安全模式
+-profile "路径" 以特定路径里面的配置文件启动
+-no-remote 可以同时运行多个实例
+-private 以隐私模式启动
+```
+
 -------------------------------------------
 
 -  [**Google 翻译**](https://translate.google.com/?hl=zh-CN#view=home&op=translate&sl=en&tl=zh-CN) 
