@@ -23,8 +23,9 @@
 ```
 
 <details>
-<summary><b><a href="https://github.com/taoste/Hello-World/blob/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/%E3%80%90%E4%B8%93%E9%A2%98%E3%80%91WPS%20Office%202019%20%E5%85%9A%E6%94%BF%E6%9C%BA%E5%85%B3%EF%BC%88%E6%94%BF%E5%BA%9C%E7%89%88%EF%BC%89%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88.md">专题</a>：<a href="http://429006.com/article/technology/4413.htm">WPS Office 2019党政机关（政府版）专业增强版</a></b> | 无需激活/无广告/无弹窗/绿色版下载(2020.08.20 更新): <br>
->  2019年1月收集的WPS相关地区的版本，该政府版本是无广告无弹窗且不会跳激活的，经过Pop在2020年8月20日测试是可以正常下载的。...
+<summary><b><a href="#">专题</a>：<a href="http://429006.com/article/technology/4413.htm">WPS Office 2019党政机关（政府版）专业增强版</a></b> | 无需激活/无广告/无弹窗/绿色版下载(2020.08.20 更新): <br>
+<br>
+>  2019年1月收集的WPS相关地区的版本，该政府版本是无广告无弹窗且不会跳激活的，经过Pop在2020年8月20日测试是可以正常下载的。...<br>
      </summary>       
 >> <a href="http://ts.wps.cn/gov/guangdong/zhuhai/installation/WPS%20Office%202019%20%E7%8F%A0%E6%B5%B7%E5%B8%82%E6%94%BF%E5%BA%9C%E4%B8%93%E4%B8%9A%E7%89%88(11.8.2.8506).exe">WPS Office 2019 珠海市政府专业版(11.8.2.8506).exe</a>  百度云盘： <a href="https://pan.baidu.com/s/1l0YmYJaL8vycZh-au2FJiA">下载链接 (已失效) </a> 提取码：j9ww
 <table> 
@@ -116,155 +117,165 @@ WPS Office 2016 专业版（10.8.2.6784）<br><br>
 WPS Office 2016 专业版（10.8.2.6784）<br><br>
 
 
-
 <li><b>4、云南省</b></li>
 <br>
 云南省党政机关单位：http://wpsupdate.ynxgj.gov.cn:21009/wps_download/index.html <br>
 WPS Office 2016 专业增强版（10.8.2.6837）<br><br>
-
-
 
 <li><b>5、山东省</b></li>
 <br>
 山东省部分省级预算单位：http://wpspro.support.wps.cn/gov/shandong/<br>
 WPS Office 2016 专业版（版本号：10.8.2.6726）<br><br>
 
-德州市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/dezhou/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6837）
+德州市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/dezhou/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6837）<br>
+
+日照市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/rizhao/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6948）
 <br>
-日照市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/rizhao/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6948）
+莱芜市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/laiwu/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6870）
 <br>
-莱芜市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/laiwu/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6870）
+烟台市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/yantai/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6726）
 <br>
-烟台市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/yantai/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6726）
+枣庄市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/zaozhuang/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6949）
 <br>
-枣庄市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/zaozhuang/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6949）
-<br>
-威海市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/weihai/
-<br>WPS Office2019 （版本号：11.8.2.7978）
-<br>
+威海市党政机关单位：http://wpspro.support.wps.cn/gov/shandong/weihai/<br>
+WPS Office2019 （版本号：11.8.2.7978）<br><br>
+
 <li><b>6、山西省</b></li>
 <br>
-晋城市政府机关单位：http://wpspro.support.wps.cn/gov/shanxi/jincheng/
-<br>WPS Office 2016 专业版（10.8.0.6870）
+晋城市政府机关单位：http://wpspro.support.wps.cn/gov/shanxi/jincheng/<br>
+WPS Office 2016 专业版（10.8.0.6870）
 <br>
-运城市党政机关单位：http://wpspro.support.wps.cn/gov/shanxi/yuncheng/
-<br>WPS Office 2016 运城市党政机关专用版（10.8.0.6058）
+运城市党政机关单位：http://wpspro.support.wps.cn/gov/shanxi/yuncheng/<br>
+WPS Office 2016 运城市党政机关专用版（10.8.0.6058）
 <br>
-国家税务总局山西省税务局：http://wpspro.support.wps.cn/gov/shanxi/shuiwu/
-<br>WPS Office 2016 专业版（10.8.0.6423）
-<br>
+国家税务总局山西省税务局：http://wpspro.support.wps.cn/gov/shanxi/shuiwu/<br>
+WPS Office 2016 专业版（10.8.0.6423）<br><br>
+
 <li><b>7、广西省</b></li>
 <br>
-广西省党政机关单位：http://wpspro.support.wps.cn/gov/guangxi/
-<br>WPS Office 2016 专用版（10.8.2.6666）
-<br>
+广西省党政机关单位：http://wpspro.support.wps.cn/gov/guangxi/<br>
+WPS Office 2016 专用版（10.8.2.6666）
+<br><br>
+
 <li><b>8、吉林省</b></li>
 <br>
-吉林市党政机关单位：http://wpspro.support.wps.cn/gov/jilin/
-<br>WPS Office 2016 专用版（10.8.0.6501）
-<br>
+吉林市党政机关单位：http://wpspro.support.wps.cn/gov/jilin/<br>
+WPS Office 2016 专用版（10.8.0.6501）
+<br><br>
+
 <li><b>9、湖南省</b></li>
 <br>
-长沙市党政机关单位：http://wpspro.support.wps.cn/gov/hunan/changsha/
-<br>WPS Office 2016 专业版（10.8.0.6058）
-<br>
+长沙市党政机关单位：http://wpspro.support.wps.cn/gov/hunan/changsha/<br>
+WPS Office 2016 专业版（10.8.0.6058）
+<br><br>
+
 <li><b>10、四川省</b></li>
 <br>
-四川省政府机关单位：http://wpspro.support.wps.cn/gov/sichuan/
-<br>WPS Office 2016 专业版（10.8.2.6784）
+四川省政府机关单位：http://wpspro.support.wps.cn/gov/sichuan/<br>
+WPS Office 2016 专业版（10.8.2.6784）
 <br>
-成都市党政机关单位：http://wpspro.support.wps.cn/gov/sichuan/chengdu/
-<br>WPS Office 2016 专业版（10.8.0.6058）
+成都市党政机关单位：http://wpspro.support.wps.cn/gov/sichuan/chengdu/<br>
+WPS Office 2016 专业版（10.8.0.6058）
 <br>
-雅安市党政机关单位：http://wpspro.support.wps.cn/gov/sichuan/yaan/
-<br>WPS Office 2016 专业版（10.8.0.6058）
+雅安市党政机关单位：http://wpspro.support.wps.cn/gov/sichuan/yaan/<br>
+WPS Office 2016 专业版（10.8.0.6058）
 <br>
-广元市教育行业：http://wpspro.support.wps.cn/gov/sichuan/guangyuan/
-<br>WPS Office 2016 广元市教育专用版（10.8.0.6253）
-<br>
+广元市教育行业：http://wpspro.support.wps.cn/gov/sichuan/guangyuan/<br>
+WPS Office 2016 广元市教育专用版（10.8.0.6253）
+<br><br>
+
 <li><b>11、辽宁省</b></li>
 <br>
-辽宁省直机关政府单位：http://wpspro.support.wps.cn/gov/liaoning/
-<br>WPS_Office_2016_辽宁省直机关政府专用版
+辽宁省直机关政府单位：http://wpspro.support.wps.cn/gov/liaoning/<br>
+WPS_Office_2016_辽宁省直机关政府专用版
 <br>
-沈阳市党政机关单位：http://wpspro.support.wps.cn/gov/liaoning/shenyang/
-<br>WPS Office 2013 专业增强版（9.1.0.5026）
-<br>
+沈阳市党政机关单位：http://wpspro.support.wps.cn/gov/liaoning/shenyang/<br>
+WPS Office 2013 专业增强版（9.1.0.5026）
+<br><br>
+
 <li><b>12、黑龙江省</b></li>
 <br>
-黑龙江省直党政机关：http://wpspro.support.wps.cn/gov/heilongjiang/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6870）
+黑龙江省直党政机关：http://wpspro.support.wps.cn/gov/heilongjiang/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6870）
 <br>
-大庆市党政机关单位：http://wpspro.support.wps.cn/gov/heilongjiang/daqing/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6666）
+大庆市党政机关单位：http://wpspro.support.wps.cn/gov/heilongjiang/daqing/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6666）
 <br>
-绥化市党政机关单位：http://wpspro.support.wps.cn/gov/heilongjiang/suihua/
-<br>WPS Office 2016 专业版（版本号：10.8.2.6784）
-<br>
+绥化市党政机关单位：http://wpspro.support.wps.cn/gov/heilongjiang/suihua/<br>
+WPS Office 2016 专业版（版本号：10.8.2.6784）
+<br><br>
+
 <li><b>13、福建省</b></li>
 <br>
-福建省党政机关单位：http://wpspro.support.wps.cn/gov/fujian/
-<br>WPS Office 2016 福建省直试用版（10.8.0.6501）
+福建省党政机关单位：http://wpspro.support.wps.cn/gov/fujian/<br>
+WPS Office 2016 福建省直试用版（10.8.0.6501）
 <br>
-泉州市党政机关单位：http://wpspro.support.wps.cn/gov/fujian/quanzhou/
-<br>WPS Office 2016 专业增强版（10.8.0.6058）
+泉州市党政机关单位：http://wpspro.support.wps.cn/gov/fujian/quanzhou/<br>
+WPS Office 2016 专业增强版（10.8.0.6058）
 <br>
-福州市党政机关单位：http://wpspro.support.wps.cn/gov/fujian/fuzhou/
-<br>WPS Office 2016 专业增强版（10.8.0.6058）
+福州市党政机关单位：http://wpspro.support.wps.cn/gov/fujian/fuzhou/<br>
+WPS Office 2016 专业增强版（10.8.0.6058）
 <br>
-厦门市党政机关单位：http://wpspro.support.wps.cn/gov/fujian/xiamen/
-<br>WPS Office 2016 专业版和专业增强版（10.8.0.6501）
-<br>
+厦门市党政机关单位：http://wpspro.support.wps.cn/gov/fujian/xiamen/<br>
+WPS Office 2016 专业版和专业增强版（10.8.0.6501）
+<br><br>
+
 <li><b>14、江西省</b></li>
 <br>
-江西省党政机关单位：http://wpspro.support.wps.cn/gov/jiangxi/
-<br>WPS Office 2016 江西省电子政务专版（10.8.0.6294）
-<br>
+江西省党政机关单位：http://wpspro.support.wps.cn/gov/jiangxi/<br>
+WPS Office 2016 江西省电子政务专版（10.8.0.6294）
+<br><br>
+
 <li><b>15、西藏自治区</b></li>
 <br>
-西藏自治区党政机关单位：http://wpspro.support.wps.cn/gov/xizang/
-<br>WPS Office 2016 专业版（10.8.2.6666）
-<br>
+西藏自治区党政机关单位：http://wpspro.support.wps.cn/gov/xizang/<br>
+WPS Office 2016 专业版（10.8.2.6666）
+<br><br>
+
 <li><b>16、北京市</b></li>
 <br>
-西城区政府机关单位：http://wpspro.support.wps.cn/gov/beijing/xicheng/
-<br>WPS Office 2016 专业版（10.8.0.6253）
+西城区政府机关单位：http://wpspro.support.wps.cn/gov/beijing/xicheng/<br>
+WPS Office 2016 专业版（10.8.0.6253）
 <br>
-平谷区政府机关单位：http://wpspro.support.wps.cn/gov/beijing/pinggu/
-<br>WPS Office 2016 专业版（10.8.2.6726）
+平谷区政府机关单位：http://wpspro.support.wps.cn/gov/beijing/pinggu/<br>
+WPS Office 2016 专业版（10.8.2.6726）
 <br>
-石景山区党政机关单位：http://wpspro.support.wps.cn/gov/beijing/shijingshan/
-<br>WPS Office 2016 专业版（10.8.0.6058）
-<br>
+石景山区党政机关单位：http://wpspro.support.wps.cn/gov/beijing/shijingshan/<br>
+WPS Office 2016 专业版（10.8.0.6058）
+<br><br>
+
 <li><b>17、安徽省</b></li>
 <br>
-六安市政府机关单位：http://wpspro.support.wps.cn/gov/anhui/liuan/
-<br>WPS Office 2016 专业增强版（10.8.0.6253）
-<br>
+六安市政府机关单位：http://wpspro.support.wps.cn/gov/anhui/liuan/<br>
+WPS Office 2016 专业增强版（10.8.0.6253）
+<br><br>
+
 <li><b>18、湖北省</b></li>
 <br>
 武汉市党政机关单位：
-<br>http://wpspro.support.wps.cn/gov/hubei/wuhan/
-<br>WPS Office 2016 专业增强版（10.8.2.6837）
-<br>
+<br>http://wpspro.support.wps.cn/gov/hubei/wuhan/<br>
+WPS Office 2016 专业增强版（10.8.2.6837）
+<br><br>
+
 <li><b>19、各其他企业单位</b></li>
 <br>
 中国能源建设股份有限公司：
-<br>http://wpspro.support.wps.cn/enterprise/ceec/
-<br>WPS Office 2016 专业增强版（10.8.2.6784）
+<br>http://wpspro.support.wps.cn/enterprise/ceec/<br>
+WPS Office 2016 专业增强版（10.8.2.6784）
 <br>
-中国铁建：http://wpspro.support.wps.cn/enterprise/crcc/
-<br>WPS Office（10.8.0.6470）
+中国铁建：http://wpspro.support.wps.cn/enterprise/crcc/<br>
+WPS Office（10.8.0.6470）
 <br>
 石家庄市人力资源和社会保障局：
 <br>http://www.sjzrs.gov.cn/col/1515 ... /1518329562990.html
 <br>WPS Office 2016 专业版（10.8.0.5562）
-<br>
+<br><br>
+
 <li><b>【WPS Office 2019党政机关（政府版）专业增强版--使用技巧】</b></li>
 <br>
 把那行xxxx单位的字去了的方法：
@@ -283,7 +294,8 @@ WPS Office简单去广告方法：
 <br>序列号5：R7AKQ-KLBXV-RNX3F-BPACQ-NQDGE
 <br>
 ====================================================
-<br>
+<br><br>
+
 <li><b>【WPS Office 2019党政机关（政府版）专业增强版 下载地址：】</b></li>
 <br>
 WPS Office 2019 专业增强版，珠海目前可以下载（2020-08-20 Pop亲测）。
@@ -297,18 +309,18 @@ File: <a href="http://ts.wps.cn/gov/guangdong/zhuhai/installation/WPS%20Office%2
 <br>MD5: DEC2E0DEA563F6E42A8C6A534A7639CD
 <br>SHA1: 55468CA9BC8704A36C4E59E009E3D181A994026B
 <br>CRC32: C8542180
-<br>
-File: VBA_Setup.exe
+<br><br>
+File: <b>VBA_Setup.exe</b>
 <br>Size: 23439912 bytes
 <br>Modified: 2019年10月18日, 11:35:01
 <br>MD5: 73BA37D37D3FDE0A3FB3FA5D190F1E9E
 <br>SHA1: 66E8656FDEC357B42E9E0C5135C2B9245D2E3943
 <br>CRC32: E502E236
-<br>
+<br><br>
 https://pan.baidu.com/s/1ghUHphIVILMB5JDG8G6J9Q 密码：nm7r
 <br>
-https://htcuicom.ctfile.com/dir/271121-32249365-8d6875/
-<br>
+https://htcuicom.ctfile.com/dir/271121-32249365-8d6875/<br>
+
 https://www.cr173.com/soft/1115891.html
 <br>
 其他地区直接下载地址：
@@ -380,6 +392,7 @@ http://wpspro.support.wps.cn/gov/guangdong/jieyang/installation/WPS%20Office%202
 </tr> 
 </table> 
 </details>
+
 
 -----------------------------------------------------------------------
 
