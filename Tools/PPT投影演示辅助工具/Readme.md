@@ -21,6 +21,9 @@
 
 这个政府采购版是WPS专业版，经过本人安装使用，亲测无广告，无弹窗，欢迎下载。
 ```
+
+【[WPS Office 2019 珠海市政府专业版(11.8.2.8506).exe](http://ts.wps.cn/gov/guangdong/zhuhai/installation/WPS%20Office%202019%20%E7%8F%A0%E6%B5%B7%E5%B8%82%E6%94%BF%E5%BA%9C%E4%B8%93%E4%B8%9A%E7%89%88(11.8.2.8506).exe)】
+
 >> 下载链接：https://pan.baidu.com/s/1l0YmYJaL8vycZh-au2FJiA
 >> 提取码：j9ww
 
