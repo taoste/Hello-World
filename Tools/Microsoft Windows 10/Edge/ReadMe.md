@@ -26,9 +26,9 @@
 
 - Ⓜ️ 【Microsoft Edge】 view-source:[**新建标签页**](https://ntp.msn.cn/edge/ntp?locale=zh-cn&fre=1&dsp=1&sp=必应) | ( **Edge 实验**  edge://flags/ )
 
-> Chrome 多用户分别建快捷方式（默认参数）：--profile-directory=Default
+> Chrome 多用户分别建快捷方式（默认参数）：`--profile-directory=Default`
 
-> **IE**浏览器是 -private，**chrome** 是 -incognito ，**Edge** 是 -inprivate
+> **IE**浏览器是 `-private`，**chrome** 是 `-incognito` ，**Edge** 是 `-inprivate`
 
 > 这样我们每次启动它们就都是隐身模式了，
 
