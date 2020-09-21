@@ -89,11 +89,9 @@
  <td>
 <li><b>方法如下：</b></li>
      <br><br>
-&nbsp;&nbsp;你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：<br>
-
-&nbsp;&nbsp;首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。<br>
-
-&nbsp;&nbsp;然后以管理员身份运行命令提示符，输入以下命令：<br>
+你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：<br>
+&nbsp;&nbsp;1.首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。<br>
+&nbsp;&nbsp;2.然后以管理员身份运行命令提示符，输入以下命令：<br>
 ```
 ren D:\Wallpaper\* *.jpg
 ```
