@@ -86,7 +86,7 @@
  <table> 
  <tr> 
  <td>
-
+<li><b>方法如下：</b></li>
 你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：<br><br>
 
 首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。<br><br>
@@ -102,11 +102,11 @@ ren D:\Wallpaper\* *.jpg
  </li>
     <br><br>
    <li> 💗  Chrome浏览器-图片下载技巧：<br>    
-        `F12 --》Sources（图片） / Audits（音频）` </li><br><br>
+        `F12 --》Sources（图片） / Audits（音频）` </li><br>
   <li>【<a href="https://github.com/taoste/Hello-World/tree/master/eBook/QiuYePPT" title="">备注</a>】快速提取文件名称的命令： `DIR  * . * /B>LIST.TXT` </li>
-    <br><br>
+    <br>
   <li>【备注】图片展示HTML代码：<br> `< p > < a href=" 要插入的URL ">< img src=" 要插入的圖片URL.jpg?raw=true " alt=" 圖片替代文字 " title=" 要顯示的文字 " border=" 圖片邊框 " / >< / a > < / p >` </li>
-      <br><br>
+      <br>
 </td>
 </tr> 
  </table>
