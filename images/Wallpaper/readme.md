@@ -87,18 +87,20 @@
  <tr> 
  <td>
 <li><b>方法如下：</b></li>
-你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：<br><br>
+&nbsp;&nbsp;你需要为这些文件名添加.jpg后缀才可以正常显示，批量添加文件后缀名的方法如下：<br>
 
-首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。<br><br>
+&nbsp;&nbsp;首先把Assets里的所有壁纸文件复制到一个新的位置，例如D盘的Wallpaper目录下。<br>
 
-然后以管理员身份运行命令提示符，输入以下命令：<br><br>
+&nbsp;&nbsp;然后以管理员身份运行命令提示符，输入以下命令：<br>
 ```
 ren D:\Wallpaper\* *.jpg
 ```
 </td>
 <td> 
-  <li><b> <a href="https://www.msn.cn/zh-cn">MSN 中国</a>:<br>《<a href="https://www.msn.cn/zh-cn/travel/holidays/Lockscreen_Autumn/ar-AAFZbPc?ocid=ems.msn.09162019">亚洲秋季最佳旅游目的地Top25</a>》 <br>《<a href="https://www.msn.cn/zh-cn/travel/holidays/Lockscreen_Asia_WorldAerial/ss-BB15hiX8?ocid=ems.msn.aerialasia">来自世界各地的出色航拍相片</a>》<br>
-《<a href="https://www.msn.cn/zh-cn/travel/holidays/Lockscreen_Asia_AerialViews/ss-BB15h2rD?ocid=ems.msn.aerialasia">让您惊艳的亚洲城市航拍景观</a>》</b>
+  <li><b> <a href="https://www.msn.cn/zh-cn">MSN 中国</a>:<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;《<a href="https://www.msn.cn/zh-cn/travel/holidays/Lockscreen_Autumn/ar-AAFZbPc?ocid=ems.msn.09162019">亚洲秋季最佳旅游目的地Top25</a>》 <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;《<a href="https://www.msn.cn/zh-cn/travel/holidays/Lockscreen_Asia_WorldAerial/ss-BB15hiX8?ocid=ems.msn.aerialasia">来自世界各地的出色航拍相片</a>》<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;《<a href="https://www.msn.cn/zh-cn/travel/holidays/Lockscreen_Asia_AerialViews/ss-BB15h2rD?ocid=ems.msn.aerialasia">让您惊艳的亚洲城市航拍景观</a>》</b>
  </li>
     <br><br>
    <li> 💗  Chrome浏览器-图片下载技巧：<br>    
