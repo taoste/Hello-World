@@ -76,8 +76,8 @@
 我个人比较喜欢最小化成本解决问题，所以除了上述几种方式，我更倾向于下面这种：
 不知道你有没有发现，Unicode中有个和 @符号很像的字符：0xFF20，除此之外，还有个和 .很像的字符：0x2024。
 那么这两个Unicode字符在此处就有用武之地了。在网页里，我们可以把foo@bar.com编码为:<br>
-<pre><div class="line">me&#xFF20;choong&#X2024;net</div></pre>
-最终显示效果：me&#xFF20;choong&#X2024;net<br>
+<pre><div class="line">me&amp;#xFF20;choong&amp;#X2024;com</div></pre>
+最终显示效果：me&#xFF20;choong&#X2024;com<br>
 </table> </details>
 
 <details>
