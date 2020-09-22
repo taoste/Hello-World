@@ -69,6 +69,21 @@
 
 
 <details>
+   <summary>
+	   <a href="https://zerosoul.github.io/2016/01/23/another-email-hiding-technique/" title="隐藏email地址的小技巧 | 杨二小">隐藏email地址的小技巧 | 杨二小</a></li>
+</summary>
+<table> 
+我个人比较喜欢最小化成本解决问题，所以除了上述几种方式，我更倾向于下面这种：
+不知道你有没有发现，Unicode中有个和 @符号很像的字符：0xFF20，除此之外，还有个和 .很像的字符：0x2024。
+那么这两个Unicode字符在此处就有用武之地了。在网页里，我们可以把foo@bar.com编码为:<br>
+<pre><code>
+foo&#xFF20;BAR&#X2024;com
+</code></pre>
+<br>
+最终显示效果：foo＠BAR․com <br>
+</table> </details>
+
+<details>
    <summary>  <b>HTML图文分享简易代码：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a></b>》
 </summary>
 <table> 
