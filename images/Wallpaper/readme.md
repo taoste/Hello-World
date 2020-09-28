@@ -116,13 +116,12 @@ ren D:\Wallpaper\* *.jpg
 <details>
     <summary>
     💗<b>【<a href="https://cn.bing.com/?FORM=Z9FD1">微软 Bing 搜索 - 国内版</a>】<a href="https://cn.bing.com/search?q=windows+%E8%81%9A%E7%84%A6+%E5%B0%8F%E6%B5%8B%E9%AA%8C&filters=IsConversation:%22True%22+BTWLKey:%22AfricanTulipTreeBali%22+BTWLType:%22Quiz%22&FORM=MLQZ01&ensearch=0&rdr=1&rdrig=EC19247C153745BFB8E12C844C1C1B26">Windows 聚焦 小测验</a></b><br>
->> 点开查看：预览图 ...           
-   </summary>      
+>> 点开查看：预览图 ...  </summary>      
   <a href="https://cn.bing.com/images/search?q=%E7%81%AB%E7%84%B0%E6%9C%A8%E5%B1%9E+%E9%9D%9E%E6%B4%B2%E9%83%81%E9%87%91%E9%A6%99%E6%A0%91&FORM=wsbs01&ensearch=0">
 <img src="https://s.cn.bing.net/th?id=ABTA438BA9A6019FCF97BF79CBAF25C35909FC95737E1414BDAEC7BC1EE0B5BC673" /></a><br>
  提问：<b>这种观赏树又叫做喷泉树和森林火焰，它最为人熟知的名字是什么？ </b><br>
- 答案:<b>火焰木属+非洲郁金香树 </b><br>
-&nbsp;&nbsp; 非洲郁金香树有许多昵称，主要是由于它丰富的鲜橙色花朵。<br>这些硕大的花朵呈杯状，半开放状的花瓣中积存着雨水，让鸟类可以从中喝水。<br><br>
+ 答案：<b>火焰木属+非洲郁金香树 </b><br>
+&nbsp;&nbsp; 非洲郁金香树有许多昵称，主要是由于它丰富的鲜橙色花朵。<br>这些硕大的花朵呈杯状，半开放状的花瓣中积存着雨水，让鸟类可以从中喝水。<br>
   </table>
 </details> 
 <b><a href="https://windows-聚焦-小测验.com" title="Windows Spotlight测验：它如何工作以及如何使用 2020 https://xn--windows---em5qu03mlxjuy3cswye.com/">Windows 聚焦 小测验</a></b> ,  由Microsoft提供的供Windows 10使用的服务。它下载在锁定屏幕上旋转的图像。 这些图像是从Microsoft的Bing照片中挑选的，并且每天都会更改。 这些来自世界热带地区的图像使Windows 10锁定屏幕变得有趣起来。<br>  
