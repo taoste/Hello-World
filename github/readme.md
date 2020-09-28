@@ -10,7 +10,7 @@
 	<a href="https://w3c.github.io/webappsec-secure-contexts/" title="W3C:Secure Contexts">W3C:Secure Contexts</a>
 </details>
 
-- Markdown 语法 : 代码区块和语法高亮<br><br>
+- Markdown 语法 : 代码区块和语法高亮<br>
 < p >这是一个普通段落：< / p > <br>
 < pre >< code >这是一个代码区块。 < / code >< / pre ><br>
 
