@@ -11,6 +11,8 @@
 
 >>> 《[运行AI载入增效工具时出错](https://blog.csdn.net/qq_29769263/article/details/86550543)》-CSDN博客
 
+>>> 《[10+最NB的Photoshop笔刷下载网站](https://zhuanlan.zhihu.com/p/63586063)》  - 知乎
+
 -------------------------------------------------------------------
  
 - [**中国哲学书电子化计划**](https://zh.wikipedia.org/wiki/中國哲學書電子化計劃) - [维基百科，自由的百科全书](https://zh.wikipedia.org/)
