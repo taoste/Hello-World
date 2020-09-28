@@ -1,4 +1,6 @@
-# 🔄:[🔗](https://github.com/taoste/taoste.github.io/wiki) [📕](https://github.com/taoste/Hello-World/tree/master/eBook/) -- 升维思考（抬头看天），降维行动（低头走路）<br><blockquote>人生须有凌云志，折桂终归面壁人。<br>破茧化蝶何惧痛？粉翅翩翩趁轻风。</blockquote>
+# 🔄:[🔗](https://github.com/taoste/taoste.github.io/wiki) [📕](https://github.com/taoste/Hello-World/tree/master/eBook/) -- 升维思考（抬头看天），降维行动（低头走路）<br>
+
+<blockquote>人生须有凌云志，折桂终归面壁人。<br>破茧化蝶何惧痛？粉翅翩翩趁轻风。</blockquote>
 
 <blockquote>蝶变：美在翩翩起舞，疼在破茧之难。</blockquote>
 
