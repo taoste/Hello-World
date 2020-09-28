@@ -1,7 +1,7 @@
 # [🔍](https://www.google.com/search?hl=zh_CN&ei=lL5eX5rvHc78wAP1ppeAAw&q=%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%AE%8C%E7%BE%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) 开源软件替代方案：<br> Photoshop : [🔍](https://www.google.com/search?hl=zh_CN&ei=Gb5eX9DdNsnAoASalqSYCw&q=Photoshop+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+krita) <a href="https://docs.krita.org/zh_CN/" title="Krita 4.3 文档中心 — Krita Manual 4.3.0 文档"><img src="https://docs.krita.org/zh_CN/_static/favicon.ico" height="20" width="20" /></a> [krita](https://krita.org/zh/) 和 CorelDRAW : [🔍](https://www.google.com/search?hl=zh_CN&ei=KShYX_H5JMKbmAX-vr_oAQ&q=CorelDRAW+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+Inkscape) [inkscape](https://inkscape.org/zh-hans/)
 
 - 错误提示：**载入增效工具时出错。 DxfDwg.aip** - @[国内版 Bing](https://cn.bing.com/search?q=%E8%BD%BD%E5%85%A5%E5%A2%9E%E6%95%88%E5%B7%A5%E5%85%B7%E6%97%B6%E5%87%BA%E9%94%99%E3%80%82+DxfDwg.aip)
->> Adobe 官网 : [Adobe Illustrator 学习和支持](https://helpx.adobe.com/cn/support/illustrator.html) / [Illustrator 用户指南](https://helpx.adobe.com/cn/illustrator/user-guide.html) / [如何在 Illustrator 中设置首选项](https://helpx.adobe.com/cn/illustrator/using/setting-preferences.html) / [Illustrator 增效工具](https://helpx.adobe.com/cn/illustrator/plug-ins.html) 
+>> Adobe 官网 : [Adobe Illustrator 学习和支持](https://helpx.adobe.com/cn/support/illustrator.html) / [Illustrator 用户指南](https://helpx.adobe.com/cn/illustrator/user-guide.html) / [如何在 Illustrator 中设置首选项](https://helpx.adobe.com/cn/illustrator/using/setting-preferences.html) / [Illustrator 增效工具](https://helpx.adobe.com/cn/illustrator/plug-ins.html)  | 《官网：[优化 Photoshop 的性能](https://helpx.adobe.com/cn/photoshop/kb/optimize-photoshop-cc-performance.html)》
 
 >>其它参考：
 
@@ -10,6 +10,8 @@
 >>> 《[【求助】打开Ai时提示缺少必需的增效工具，无法运行但文件存在【illustrator吧】](https://tieba.baidu.com/p/5763374645?red_tag=2746951161)》_百度贴吧
 
 >>> 《[运行AI载入增效工具时出错](https://blog.csdn.net/qq_29769263/article/details/86550543)》-CSDN博客
+
+>>> 《[优化 Photoshop 的性能](https://helpx.adobe.com/cn/photoshop/kb/optimize-photoshop-cc-performance.html)》
 
 >>> 《[10+最NB的Photoshop笔刷下载网站](https://zhuanlan.zhihu.com/p/63586063)》  - 知乎
 
