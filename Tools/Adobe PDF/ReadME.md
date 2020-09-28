@@ -17,7 +17,9 @@
 
 - [涨知识！你真的会用PS参考线了吗](https://www.uisdc.com/how-to-use-guidelines) - 优设网 - UISDC 
 
-> Photoshop 建立"**中间垂直参考线（辅助线）**"的快捷键或方法是什么？
+ （ 官网：[在 Photoshop 中使用网格和参考线](https://helpx.adobe.com/cn/photoshop/using/grid-guides.html) ）
+
+> Photoshop 建立"**中间垂直参考线（辅助线）**"的快捷键或方法是什么？ （参考线的显示/隐藏 快捷键：Ctrl + H）
 >>> 直接使用快捷键“Alt+V+E”，选择水平和垂直取向和位置，点击确定新建参考线。（居中的话可以设置位置为50%即可）
 
 
