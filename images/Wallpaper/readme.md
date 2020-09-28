@@ -124,4 +124,4 @@ ren D:\Wallpaper\* *.jpg
 &nbsp;&nbsp; 非洲郁金香树有许多昵称，主要是由于它丰富的鲜橙色花朵。<br>这些硕大的花朵呈杯状，半开放状的花瓣中积存着雨水，让鸟类可以从中喝水。<br>
   </table>
 </details> 
-&nbsp;&nbsp; <b><a href="https://windows-聚焦-小测验.com" title="Windows Spotlight测验：它如何工作以及如何使用 2020 https://xn--windows---em5qu03mlxjuy3cswye.com/">Windows 聚焦 小测验</a></b> ,  由Microsoft提供的供Windows 10使用的服务。它下载在锁定屏幕上旋转的图像。 <br>这些图像是从Microsoft的Bing照片中挑选的，并且每天都会更改。 <br>这些来自世界热带地区的图像使Windows 10锁定屏幕变得有趣起来。<br>  
+&nbsp;&nbsp; <b><a href="https://windows-聚焦-小测验.com" title="Windows Spotlight测验：它如何工作以及如何使用 2020 https://xn--windows---em5qu03mlxjuy3cswye.com/">Windows 聚焦 小测验</a></b> ,  由Microsoft提供的供Windows 10使用的服务。它下载在锁定屏幕上旋转的图像。 这些图像是从Microsoft的Bing照片中挑选的，并且每天都会更改。 这些来自世界热带地区的图像使Windows 10锁定屏幕变得有趣起来。<br>  
