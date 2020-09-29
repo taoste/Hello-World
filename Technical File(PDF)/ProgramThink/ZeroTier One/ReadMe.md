@@ -1,4 +1,4 @@
-- 「**内网穿透**」:[ZeroTier Central 官网](https://my.zerotier.com/)  | [下载](https://download.zerotier.com/dist/ZeroTier%20One.msi)（ https://my.zerotier.com/ ）
+- 「[**内网穿透**](https://github.com/taoste/Hello-World/raw/master/Technical%20File(PDF)/ProgramThink/ZeroTier%20One/ZeroTier%20One%20-%20%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E8%BF%9C%E7%A8%8B%E5%8D%8F%E5%8A%A9.rar)」:[ZeroTier Central 官网](https://my.zerotier.com/)  | [下载](https://download.zerotier.com/dist/ZeroTier%20One.msi)（ https://my.zerotier.com/ ）
 
 ------------------------------------------------------
 
