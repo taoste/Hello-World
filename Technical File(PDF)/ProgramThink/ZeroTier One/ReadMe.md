@@ -90,3 +90,28 @@ ZeroTier 还是很适合私人或者团队使用的，至于里面那个公开�
 </blockquote>
 
 <cite>– 《[**ZeroTier** - 无配置，零基础「**内网穿透**」随时随地连回家/学校/办公室 [跨平台]](https://www.appinn.com/zerotier-one/)》 - 小众软件 （ 2017/11/06 ）</cite>
+
+`
+Download - Zorin OS
+https://zorinos.com/download/#core
+
+System Requirements - Zorin OS
+https://zorinos.com/help/system-requirements/#lite
+`
+
+- [使用 Zerotier 组建虚拟局域网实现内网穿透](http://einverne.github.io/post/2018/06/zerotier.html) | Verne in GitHub
+
+ZeroTier – Global Area Networking
+> https://www.zerotier.com/
+> https://github.com/zerotier/ZeroTierOne
+
+LINUX (DEB/RPM)
+Debian and RPM based distributions including Debian, Ubuntu, CentOS, RHEL, Fedora, and others are supported via a script that adds the right repository and installs the package.
+
+Other Linux distributions may have their own packages. If not try building and installing from source.
+
+If you’re willing to rely on SSL to authenticate the site, a one line install can be done with:
+`curl -s https://install.zerotier.com | sudo bash`
+
+
+- [无公网IP搞定群晖+ZEROTIER ONE实现内网穿透](https://post.smzdm.com/p/741270/)_NAS存储_什么值得买
