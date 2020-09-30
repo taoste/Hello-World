@@ -12,7 +12,7 @@
 - 《[系统迁移记录](https://silenwang.github.io/2018/07/29/%E7%B3%BB%E7%BB%9F%E8%BF%81%E7%A7%BB%E8%AE%B0%E5%BD%95/)》 | Silen's Blog (2018-07-29)
 
 
-- **专为儿童设计的Linux 系统**
+- **专为儿童设计的Linux 系统** 🔄 [内链切换](https://github.com/taoste/Hello-World/tree/master/Tools/Linux) : [**🍬儿童网站（Kids）#21**](https://github.com/taoste/taoste.github.io/issues/21) / [**🍬育儿百科**](https://github.com/taoste/Hello-World/tree/master/eBook/%E8%82%B2%E5%84%BF%E7%99%BE%E7%A7%91/)
 
 >> 《[💽 极客: 最适合儿童的Linux发行版 - 五大免费操作系统](https://cn.computerspywarescanner.com/s4765-best-linux-distributions-kids-free-operating-system)》
 
