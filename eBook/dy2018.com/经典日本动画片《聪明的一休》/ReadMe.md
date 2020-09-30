@@ -2,7 +2,10 @@
 
 发布时间：2007-03-30
 
->  [**《聪明的一休》298集全—日本—动漫—优酷网，视频高清在线观看—又名：《Ikkyu-san》《一休さん》**](https://list.youku.com/show/id_zcc004bd4962411de83b1.html) @[维基百科](https://zh.wikipedia.org/wiki/%E6%A9%9F%E9%9D%88%E5%B0%8F%E5%92%8C%E5%B0%9A) :
+>  **《[聪明的一休](https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html)》—日本动漫—又名：《Ikkyu-san》《一休さん》**
+>>> @[腾讯视频](https://v.qq.com/x/search/?q=%E8%81%AA%E6%98%8E%E7%9A%84%E4%B8%80%E4%BC%91) @[优酷视频](https://list.youku.com/show/id_zcc004bd4962411de83b1.html) @[豆瓣](https://movie.douban.com/subject/1883755/) @[维基百科](https://zh.wikipedia.org/wiki/%E6%A9%9F%E9%9D%88%E5%B0%8F%E5%92%8C%E5%B0%9A) :
+
+
 
 >> 《聪明的一休》（一休さん）是一部以日本室町时代特立独行的禅宗僧人一休童年为主角的电视动画，东映动画出品，于1975年10月15日到1982年6月28日于日本NET电视台（今朝日电视台）播出，共296集，历时8年之久，获得日本中央儿童福祉审议会推荐。动画描写一休在安国寺出家修行的童年时代。故事里，一休总是能以过人的机智解决复杂的难题。动画相当受日本、泰国、中国大陆等地的儿童欢迎，他在思考时盘坐用手指在头顶打转的样子也广受模仿。
 >> 
