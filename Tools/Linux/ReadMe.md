@@ -1,4 +1,4 @@
-# [系统下载](https://cn.ubuntu.com/download) | [Ubuntu](https://cn.ubuntu.com/)
+# [系统下载](https://cn.ubuntu.com/download) | [Ubuntu](https://cn.ubuntu.com/) [Linux](https://zh.wikipedia.org/wiki/Linux)
 
 - 《[在 Ubuntu 上安装 TeamViewer](https://mi.js.org/2019-08/%E5%9C%A8Ubuntu%E4%B8%8A%E5%AE%89%E8%A3%85TeamViewer/)》 | 米米的博客 (2019-08-06)
 
