@@ -1,6 +1,8 @@
 # [系统下载](https://cn.ubuntu.com/download) | [Ubuntu](https://cn.ubuntu.com/) [Linux](https://zh.wikipedia.org/wiki/Linux) 
 
-> ( [在WSL上运行Ubuntu|从微软商店下载](https://www.microsoft.com/store/productId/9NBLGGH4MSV6) )
+>  《[在WSL上运行Ubuntu|从微软商店下载](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)》
+
+>  《[在 Linux 上安装 Azure IoT Edge](https://docs.microsoft.com/zh-cn/azure/iot-edge/how-to-install-iot-edge-linux)》 | Microsoft Docs 官网 - [Microsoft **Edge** Insider](https://www.microsoftedgeinsider.com/zh-cn/)
 
 - 《[在 Ubuntu 上安装 TeamViewer](https://mi.js.org/2019-08/%E5%9C%A8Ubuntu%E4%B8%8A%E5%AE%89%E8%A3%85TeamViewer/)》 | 米米的博客 (2019-08-06)
 
