@@ -1,16 +1,12 @@
--  《[聪明的一休](https://www.dy2018.com/html/dongman/qitadongman/20070330/927.html)》迅雷下载_电影天堂
-
-发布时间：2007-03-30
-
-<details>
+# <details>
     <summary>
-    腾讯视频《<a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html">聪明的一休</a>》 
+    腾讯视频《<a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html">聪明的一休</a>》 @<a href="https://www.dy2018.com/html/dongman/qitadongman/20070330/927.html">电影天堂_迅雷下载</a>
      </summary> 
-      扫一扫，二维码
+      发布时间：2007-03-30
    <table> 
        <tr> 
-             <td><a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html" title="腾讯视频《聪明的一休》">腾讯视频《聪明的一休》</a> </td> 
-			 <td><img src="腾讯视频-二维码.jpg" height="50%" width="50%" /></td>
+             <td><a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html" title="腾讯视频《聪明的一休》">腾讯视频《聪明的一休》</a> <br>
+		     <img src="腾讯视频-二维码.jpg" height="50%" width="50%" /><br>扫一扫，二维码</td>
              <td><a href="01-jkst.html" title="">表格2</a> &nbsp; </td>
       </tr> 
     </table> 
