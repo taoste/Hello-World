@@ -2,6 +2,21 @@
 
 发布时间：2007-03-30
 
+<details>
+    <summary>
+    腾讯视频《<a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html">聪明的一休</a>》 
+     </summary> 
+      扫一扫，二维码
+   <table> 
+       <tr> 
+             <td><a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html" title="腾讯视频《聪明的一休》">腾讯视频《聪明的一休》</a> </td> 
+			 <td><img src="腾讯视频-二维码.jpg" height="100%" width="100%" /></td>
+             <td><a href="01-jkst.html" title="">表格2</a> &nbsp; </td>
+      </tr> 
+    </table> 
+</details>
+
+
 >  **《[聪明的一休](https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html)》—日本动漫—又名：《Ikkyu-san》《一休さん》**
 >>> @[腾讯视频](https://v.qq.com/x/search/?q=%E8%81%AA%E6%98%8E%E7%9A%84%E4%B8%80%E4%BC%91) @[优酷视频](https://list.youku.com/show/id_zcc004bd4962411de83b1.html) @[豆瓣](https://movie.douban.com/subject/1883755/) @[维基百科](https://zh.wikipedia.org/wiki/%E6%A9%9F%E9%9D%88%E5%B0%8F%E5%92%8C%E5%B0%9A) :
 
