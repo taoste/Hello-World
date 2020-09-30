@@ -10,7 +10,7 @@
    <table> 
        <tr> 
              <td><a href="https://v.qq.com/detail/y/yonkwnfjgu9p3ls.html" title="腾讯视频《聪明的一休》">腾讯视频《聪明的一休》</a> </td> 
-			 <td><img src="腾讯视频-二维码.jpg" height="100%" width="100%" /></td>
+			 <td><img src="腾讯视频-二维码.jpg" height="50%" width="50%" /></td>
              <td><a href="01-jkst.html" title="">表格2</a> &nbsp; </td>
       </tr> 
     </table> 
