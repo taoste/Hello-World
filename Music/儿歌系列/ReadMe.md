@@ -4,4 +4,7 @@
 
 - 喜马拉雅FM：《<a href="http://m.ximalaya.com/share/album/20394123?wechat=true&uid=6341524&shrdv=580F972B-96DB-4A0B-B15A-9A0186B2CEF5&shrh5=iphone&subType=1045&shrid=174f81f1fc482f4&shrdh=1&shrpid=174f81f1fc48362" title="">声律启蒙 | 笠翁对韵 | 儿童国学</a>》
 
+FCBU喜马拉雅音频下载工具下载 FCBU喜马拉雅音频批量下载器 V22.1607 绿色免费版 下载-脚本之家
+https://www.jb51.net/softs/624148.html
+
 
