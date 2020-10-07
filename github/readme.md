@@ -41,6 +41,8 @@
 	<hr>
      <li><a href="https://www.51it.wang/ll/1842">GitHub 文件加速下载 - lcry-我的主页</a></li>	
      <li><a href="https://www.51it.wang/ll/18372">神奇的两行代码实现随意编辑网页 - lcry-我的主页</a></li>
+	<hr>
+     <li><a href="https://so.gushiwen.org/mingju/">经典名句_古诗文名句_古诗文网</a></li>
 </details>
 
 <hr>
