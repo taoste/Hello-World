@@ -188,7 +188,7 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
        <a href="https://zhuanlan.zhihu.com/p/111764932">优酷kux怎么转码mp4 </a></b> - <a href="https://zhihu.com/">知乎</a>
     </b>	( <a href="https://www.media.io/zh/convert/kux-to-mp4.html" title="免费在线转换 KUX 至 MP4 | 万兴优转在线端 (原Media.io) - 免费视频&音频转换器">免费在线转换 KUX 至 MP4 | 万兴优转在线端 (原Media.io) - 免费视频&音频转换器</a> )
 	
-> 2020年9月12日实测可行，本专栏不定期更新最新的方法。
+> 2020年9月12日实测可行，本专栏不定期更新最新的方法。 ( <a href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/%E4%BC%98%E9%85%B7kux%E8%BD%AC%E7%A0%81%E5%B7%A5%E5%85%B7-kux2mp4.rar"/>优酷kux转码工具-kux2mp4</a> )
 
 <blockquote> 可以借助优酷自带的解码器进行kux转码成mp4，以下方法能转1080P及4K非独播的剧，大家可以新建一个文本文档然后把以下文字复制进去然后另存为bat，这个bat只要在kux所在目录运行就可以将所有kux自动转换成mp4，1G视频基本上几秒转好，完全无损。 ...   </blockquote>    
    </summary>   
