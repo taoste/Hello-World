@@ -208,8 +208,12 @@ pause
 </pre>
 
 <blockquote>
-如果你的youku客户端安装地址不是默认目录请自行更改ffmpeg.exe目录，当然如果你懒得折腾也有现成的已经打包了优酷kux转码工具，默认为转mp4，
- 网盘 https://pan.baidu.com/share/init?surl=s6O0vibmj_X-c7QPgpoLlg  提取码：91we
-    (补充：黑屏白屏的证明有版权保护加密了，目前市面工具都不可以转换。)
+如果你的youku客户端安装地址不是默认目录请自行更改ffmpeg.exe目录。
+
+当然如果你懒得折腾，也有现成的已经打包了优酷kux转码工具，默认为转mp4，
+
+网盘 https://pan.baidu.com/share/init?surl=s6O0vibmj_X-c7QPgpoLlg  提取码：91we
+
+(补充：黑屏白屏的证明有版权保护加密了，目前市面工具都不可以转换。)
 </blockquote>
 </details>
