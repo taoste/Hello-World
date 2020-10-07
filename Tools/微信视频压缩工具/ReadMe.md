@@ -130,7 +130,7 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 <details>
     <summary>
     <b><a href="http://mydown.yesky.com/pcsoft/107251473.html">微信视频压缩工具</a></b>_ <a href="http://yesky.xzstatic.com/2017/03/15/weixinshipingyasuo.zip">正版免费下载</a>【视频压缩】_天极下载
-     </summary> 
+      
 
 > 微信视频压缩工具 1.0 （ <b><a href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7%20v1.0.zip">本地备份下载</a></b> ）
 > 
@@ -143,7 +143,7 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 > 软件语言：简体中文
 > 
 > 软件平台：WinXP/2000/vista/Win7/Win8/Win10
-
+</summary>
  <b>软件介绍:</b>
 >  <b>微信视频压缩软件</b>是一款可以视频压缩软件，专门解决了微信视频大小限制的问题(微信视频压缩20m)，使用微信视频压缩软件可以帮助你把喜欢的视频压缩后发到朋友圈中，非常方便快捷，且又功能性强大的软件，让繁琐复杂的工作变得简单有趣!
 
