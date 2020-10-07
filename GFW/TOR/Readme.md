@@ -48,7 +48,7 @@
 
 --------------------------------------------------------------------------------
 
-# Twitter 搜索 : [Tor 暗网](https://twitter.com/search?q=Tor%20%E6%9A%97%E7%BD%91&src=typed_query)
+# Twitter 搜索 : [Tor 暗网](https://twitter.com/search?q=Tor%20%E6%9A%97%E7%BD%91&src=typed_query) | [维基百科](https://zh.wikipedia.org/wiki/):[暗网](https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E7%BD%91%E7%AB%99)&[深网](https://zh.wikipedia.org/wiki/%E6%B7%B1%E7%BD%91)
 
 - Twitter : BBC News 中文 @bbcchinese [2019年10月24日](https://twitter.com/bbcchinese/status/1187511607510949888)
 >[BBC新闻国际版Tor 镜像页](https://www.bbcnewsv2vjtpsuy.onion/) 在“暗网”上线，以期突破新闻封锁和网络监控。
