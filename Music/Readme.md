@@ -54,6 +54,9 @@ https://music.163.com/song/media/outer/url?id=29750099.mp3
 FCBU喜马拉雅音频下载工具下载 FCBU喜马拉雅音频批量下载器 V22.1607 绿色免费版 下载-脚本之家
 https://www.jb51.net/softs/624148.html
 
+smallmuou/xmlyfetcher: 喜马拉雅音频下载工具
+https://github.com/smallmuou/xmlyfetcher
+
 - [**极客下载**](http://jikexiazai.cn/) : 
 
 > [下载喜马拉雅音频](http://jikexiazai.cn/xmlyxz.html)（[帮助](http://jikexiazai.cn/xmly_help.html)）  
