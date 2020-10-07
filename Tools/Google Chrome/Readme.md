@@ -72,7 +72,7 @@ Windows/Mac/Linux:离线下载和安装Chrome - Google Chrome帮助
  
 https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh-Hans
 
-（离线下载链接最后加上：[?standalone=1](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh-Hans?standalone=1) , 如果需要在线安装包，只需要去掉standalone=1&即可！）
+（ [**离线下载**](https://www.google.com/intl/zh-cn/chrome/?standalone=1)链接最后加上：[?standalone=1](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh-Hans?standalone=1) , 如果需要在线安装包，只需要去掉standalone=1&即可！）
 
 
 下载历史版本 https://dl.google.com/chrome/install/[版本号后两位]/chrome_installer.exe
