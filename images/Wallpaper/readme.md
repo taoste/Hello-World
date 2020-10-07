@@ -1,4 +1,4 @@
-# [电脑壁纸](http://lab.mkblog.cn/wallpaper/)
+# [Wallpaper](https://github.com/mengkunsoft/wallpaper) [电脑壁纸](http://lab.mkblog.cn/wallpaper/)
 
 <details>
     <summary>
