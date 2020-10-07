@@ -48,13 +48,15 @@
 
 ------------------------------------------------------------------------------------------
 
-- 《[**视频剪辑编辑器 ShotCut v19.09.14 中文绿色便携版**](https://www.52pojie.cn/thread-1062061-1-1.html)》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
-
+<details>
+    <summary>
+《<b><a href="https://www.52pojie.cn/thread-1062061-1-1.html">视频剪辑编辑器 ShotCut v19.09.14 中文绿色便携版</a></b>》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+     
 <p><a href="https://www.52pojie.cn/thread-1062061-1-1.html" title="视频剪辑编辑器 ShotCut v19.09.14 中文绿色便携版 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn ">
 <img src="https://attach.52pojie.cn/forum/201911/25/002828q6hpnskes1sphrbc.png"/></a></p>
   
 >  链接： https://pan.baidu.com/s/1ElpANrUGtGZBZY8VE3yslg  提取码：kzp8
-
+</summary> 
 >> https://www.lanzous.com/i7k7jve
 
 ```
@@ -122,6 +124,7 @@ FFmpeg支持最新的音频和视频格式 支持流行的图像格式，如BMP�
 JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处理（不使用GPU和帧丢失时禁用） 
 基于OpenGL GPU的图像处理，每个颜色分量具有16位浮点线性 AMD，Intel和NVIDIA硬件编码
 ```
+</details>
 
 ------------------------------------------------------------------------------------------
 
