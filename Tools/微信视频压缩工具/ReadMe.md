@@ -127,10 +127,12 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 </details>
 
 ------------------------------------------------------------------------------------------
+<details>
+    <summary>
+    <b><a href="http://mydown.yesky.com/pcsoft/107251473.html">微信视频压缩工具</a></b>_ <a href="http://yesky.xzstatic.com/2017/03/15/weixinshipingyasuo.zip">正版免费下载</a>【视频压缩】_天极下载
+     </summary> 
 
-- [**微信视频压缩工具**](http://mydown.yesky.com/pcsoft/107251473.html) _ [正版免费下载](http://yesky.xzstatic.com/2017/03/15/weixinshipingyasuo.zip)【视频压缩】_天极下载
-
-> 微信视频压缩工具 1.0 （ [本地备份下载](https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7%20v1.0.zip) ）
+> 微信视频压缩工具 1.0 （ <b><a href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7%20v1.0.zip">本地备份下载</a></b> ）
 > 
 > 更新时间：2018-01-10
 > 
@@ -142,10 +144,10 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 > 
 > 软件平台：WinXP/2000/vista/Win7/Win8/Win10
 
- **软件介绍:**
->  **微信视频压缩软件**是一款可以视频压缩软件，专门解决了微信视频大小限制的问题(微信视频压缩20m)，使用微信视频压缩软件可以帮助你把喜欢的视频压缩后发到朋友圈中，非常方便快捷，且又功能性强大的软件，让繁琐复杂的工作变得简单有趣!
+ <b>软件介绍:</b>
+>  <b>微信视频压缩软件</b>是一款可以视频压缩软件，专门解决了微信视频大小限制的问题(微信视频压缩20m)，使用微信视频压缩软件可以帮助你把喜欢的视频压缩后发到朋友圈中，非常方便快捷，且又功能性强大的软件，让繁琐复杂的工作变得简单有趣!
 
- **主要功能：**
+ <b>主要功能：</b>
 
 > 　　高质量的H264+AAC视频压制
 
@@ -155,13 +157,13 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 
 > 　　MP4/MKV/FLV的无损抽取和封装
 
- **软件特色：**
+ <b>软件特色：</b>
 
-> 　　**微信视频压缩软件**是一个免费和轻量级视频压缩软件，可以压缩几乎常见的视频文件，它可以帮助您轻松缩小视频剪辑，减少视频文件大小。
+> 　　<b>微信视频压缩软件</b>是一个免费和轻量级视频压缩软件，可以压缩几乎常见的视频文件，它可以帮助您轻松缩小视频剪辑，减少视频文件大小。
 
-> 　　**微信视频压缩软件**可支持多种流行视频格式，如MP4(MPEG4)，MPG，AVI，FLV，F4V，M4V，WMV，MOV，MKV，ASF，RMVB(RM)等。
+> 　　<b>微信视频压缩软件</b>可支持多种流行视频格式，如MP4(MPEG4)，MPG，AVI，FLV，F4V，M4V，WMV，MOV，MKV，ASF，RMVB(RM)等。
 
- **使用方法：**
+ <b>使用方法：</b>
 
 > 　　用法很简单，点击“打开文件”按钮选择一个视频文件，然后设置所需的压缩视频大小，最后点击“压缩”按钮开始视频压缩。
 
@@ -174,3 +176,5 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 > 　　此所需的视频大小是近似值，生成的文件可能小于或大于此大小，您可以根据需要更改此值。(比特率信息显示为KB / S，KB / S =千位/秒)。
 
 > 　　生成的视频格式是具有H.264视频编解码器和AAC音频编解码器的MP4容器格式。编码视频质量是基于输出文件大小，输出文件大小更大，导致视频质量更高，更清晰。
+
+</details>
