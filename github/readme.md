@@ -37,7 +37,9 @@
      <li><a href="https://mkblog.cn/1106/">从零开始，学会 PHP 采集 | 孟坤博客</a></li>
      <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>		
      <li><a href="https://mkblog.cn/1748/">PHP简单实现一言 / 随机一句功能 | 孟坤博客</a></li>	
-     <li><a href="https://mkblog.cn/2137/">HTML + CSS 实现一个酷炫的夜间模式切换动画 | 孟坤博客</a></li>
+     <li><a href="https://mkblog.cn/1836/">PHP 实现随机图像功能 | 孟坤博客</a></li>
+     <li><a href="https://mkblog.cn/242/">修改WordPress后台的字体为微软雅黑 | 孟坤博客</a></li>
+     <li><a href="https://mkblog.cn/2137/">HTML + CSS 实现一个酷炫的夜间模式切换动画 | 孟坤博客</a></li>	
 	<hr>
      <li><a href="https://www.51it.wang/ll/1842">GitHub 文件加速下载 - lcry-我的主页</a></li>	
      <li><a href="https://www.51it.wang/ll/18372">神奇的两行代码实现随意编辑网页 - lcry-我的主页</a></li>
