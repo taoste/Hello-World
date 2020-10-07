@@ -35,7 +35,8 @@
      <li><a href="https://mkblog.cn/2183/">deepin 安装小记 | 孟坤博客</a></li>	
      <li><a href="https://mkblog.cn/1992/">服务器 选购指南 | 孟坤博客</a></li>
      <li><a href="https://mkblog.cn/1106/">从零开始，学会 PHP 采集 | 孟坤博客</a></li>
-     <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>	
+     <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>		
+     <li><a href="https://mkblog.cn/1748/">PHP简单实现一言 / 随机一句功能 | 孟坤博客</a></li>	
      <li><a href="https://mkblog.cn/2137/">HTML + CSS 实现一个酷炫的夜间模式切换动画 | 孟坤博客</a></li>
 	<hr>
      <li><a href="https://www.51it.wang/ll/1842">GitHub 文件加速下载 - lcry-我的主页</a></li>	
