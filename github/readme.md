@@ -17,8 +17,8 @@
 -----------------------------------------------
 
 <details>
-   <summary> 
-    <table> 
+	<summary>  <b><a href="https://mkblog.cn/" title="孟坤博客 | 每年更新一点点">孟坤博客</a> | 每年更新一点点</b>
+<table> 
    <tr>
        <td><b><a href="https://mkblog.cn/">孟坤博客</a> @<a href="https://github.com/mengkunsoft/">Github</a></b>	   
       </td>
@@ -31,12 +31,17 @@
       </td>     
   </tr> 
 </table>
-   </summary>    
+   </summary>    	
+     <li><a href="https://mkblog.cn/2183/">deepin 安装小记 | 孟坤博客</a></li>
      <li><a href="https://mkblog.cn/1106/">从零开始，学会 PHP 采集 | 孟坤博客</a></li>
-     <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>		
+     <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>	
+     <li><a href="https://mkblog.cn/2137/">HTML + CSS 实现一个酷炫的夜间模式切换动画 | 孟坤博客</a></li>
+	<hr>
      <li><a href="https://www.51it.wang/ll/1842">GitHub 文件加速下载 - lcry-我的主页</a></li>	
      <li><a href="https://www.51it.wang/ll/18372">神奇的两行代码实现随意编辑网页 - lcry-我的主页</a></li>
 </details>
+
+<hr>
 	
 <details>
    <summary> 
