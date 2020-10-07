@@ -18,12 +18,19 @@
 
 <details>
    <summary> 
-    <b><a href="https://mkblog.cn/">孟坤博客</a> @<a href="https://github.com/mengkunsoft/">Github</a></b>	   
-     <li><a href="http://tool.mkblog.cn/">孟坤工具箱网页版</a></li>
-     <li><a href="http://lab.mkblog.cn/">孟坤 Web 实验室</a></li>
-     <li><a href="http://www.mkblog.cn/">孟坤软件</a></li>
-     <li><a href="https://www.52doutu.cn/">我爱斗图 - 斗图表情包在线制作</a></li>
-     <li><a href="http://toolwa.com/tao/" title="优惠淘 - 淘宝优惠券 - 每天千款优惠券秒杀，一折限时疯抢！_优惠淘">优惠淘</a></li>
+    <table> 
+   <tr>
+       <td><b><a href="https://mkblog.cn/">孟坤博客</a> @<a href="https://github.com/mengkunsoft/">Github</a></b>	   
+      </td>
+      <td>
+     • <a href="http://tool.mkblog.cn/">工具箱网页版</a>
+     • <a href="http://lab.mkblog.cn/">Web 实验室</a>
+     • <a href="http://www.mkblog.cn/">孟坤软件</a>
+     • <a href="https://www.52doutu.cn/" title="我爱斗图 - 斗图表情包在线制作">我爱斗图</a>
+     • <a href="http://toolwa.com/tao/" title="优惠淘 - 淘宝优惠券 - 每天千款优惠券秒杀，一折限时疯抢！_优惠淘">优惠淘</a>
+      </td>     
+  </tr> 
+</table>
    </summary>    
      <li><a href="https://mkblog.cn/1106/">从零开始，学会 PHP 采集 | 孟坤博客</a></li>
      <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>		
