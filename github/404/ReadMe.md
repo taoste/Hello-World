@@ -4,3 +4,5 @@
 打包下载：[View Raw](https://github.com/taoste/Hello-World/blob/master/github/404/404.7z) / [Download](
 https://github.com/taoste/Hello-World/blob/master/github/404/404.7z?raw=true)
 
+- [分享](https://mkblog.cn/556/):[一个仿 Windows 蓝屏的 404 页面](http://windowsblue404.mkblog.cn/) | [孟坤博客](https://mkblog.cn/) @[Github](https://github.com/mengkunsoft/)
+
