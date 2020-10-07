@@ -168,8 +168,8 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 > 　　用法很简单，点击“打开文件”按钮选择一个视频文件，然后设置所需的压缩视频大小，最后点击“压缩”按钮开始视频压缩。
 
 
-<p><a href="http://yesky.img.zz314.com/2018-01-10/bef73b702b12a58b27b7fa316d733d8b.jpg" title="微信视频压缩软件">
-<img src="https://camo.githubusercontent.com/c9b606ded97c6850f8c269983f8a32121b497aac/687474703a2f2f7965736b792e696d672e7a7a3331342e636f6d2f323031382d30312d31302f62656637336237303262313261353862323762376661333136643733336438622e6a7067"/></p>
+<a href="http://yesky.img.zz314.com/2018-01-10/bef73b702b12a58b27b7fa316d733d8b.jpg" title="微信视频压缩软件">
+<img src="https://camo.githubusercontent.com/c9b606ded97c6850f8c269983f8a32121b497aac/687474703a2f2f7965736b792e696d672e7a7a3331342e636f6d2f323031382d30312d31302f62656637336237303262313261353862323762376661333136643733336438622e6a7067"/></a>
 
 > 　　首先，最重要的选项是“所需视频大小”。软件打开源视频后，将读取并显示关键视频信息，如：文件大小，比特率，持续时间，视频格式，视频比特率，音频格式，音频比特率和视频尺寸估计输出视频大小，即“目标视频大小”。
 
@@ -177,4 +177,39 @@ JACK音频，PulseAudio，IP流和Windows DirectShow设备 多核并行图像处
 
 > 　　生成的视频格式是具有H.264视频编解码器和AAC音频编解码器的MP4容器格式。编码视频质量是基于输出文件大小，输出文件大小更大，导致视频质量更高，更清晰。
 
+</details>
+
+------------------------------------------------------------------------------------------
+
+<details>
+    <summary>
+    <b><a href="https://zhuanlan.zhihu.com/p/111764932">优酷kux怎么转码mp4 </a></b> - <a href="https://zhihu.com/">知乎</a>
+
+> 2020年9月12日实测可行，本专栏不定期更新最新的方法。
+
+<blockquote> 可以借助优酷自带的解码器进行kux转码成mp4，以下方法能转1080P及4K非独播的剧，大家可以新建一个文本文档然后把以下文字复制进去然后另存为bat，这个bat只要在kux所在目录运行就可以将所有kux自动转换成mp4，1G视频基本上几秒转好，完全无损。 ...   </blockquote>    
+   </summary>   
+
+<a href="https://zhuanlan.zhihu.com/p/111764932">
+<img src="hhttps://pic2.zhimg.com/v2-cf0fbf7e34f3ed97e7895ecaa03fd785_r.jpg"/></a>
+
+<pre>
+@echo off
+setlocal enabledelayedexpansion
+set ffmpeg="C:\Program Files (x86)\YouKu\YoukuClient\nplayer\ffmpeg.exe"
+if exist %ffmpeg% (
+	for /r . %%i in (*.kux) do (
+		%ffmpeg% -y -i "%%i" -c:a copy -c:v copy -threads 2 "%%~dpni.mp4"
+		
+	)
+) else echo
+
+pause
+</pre>
+
+<blockquote>
+如果你的youku客户端安装地址不是默认目录请自行更改ffmpeg.exe目录，当然如果你懒得折腾也有现成的已经打包了优酷kux转码工具，默认为转mp4，
+ 网盘 https://pan.baidu.com/share/init?surl=s6O0vibmj_X-c7QPgpoLlg  提取码：91we
+    (补充：黑屏白屏的证明有版权保护加密了，目前市面工具都不可以转换。)
+</blockquote>
 </details>
