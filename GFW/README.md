@@ -20,6 +20,8 @@
 - Github@[evil-huawei](https://github.com/evil-huawei): [Evil Huawei - 华为作过的恶](https://github.com/evil-huawei/evil-huawei)
 ( https://evil-huawei.github.io/evil-huawei/ )
 
+- [robots.txt](https://zh.wikipedia.org/wiki/Robots.txt) - 维基百科，自由的百科全书
+
 -------------------------------------------------------------------
 
 - [**CMLink** | China Mobile International - 中国移动国际有限公司](https://www.cmlink.com/) ( https://www.cmlink.com/ )
