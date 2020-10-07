@@ -14,9 +14,23 @@
 < p >这是一个普通段落：< / p > <br>
 < pre >< code >这是一个代码区块。 < / code >< / pre ><br>
 
-
 -----------------------------------------------
 
+<details>
+   <summary> 
+    <b><a href="https://mkblog.cn/">孟坤博客</a> @<a href="https://github.com/mengkunsoft/">Github</a></b>	   
+     <li><a href="http://tool.mkblog.cn/">孟坤工具箱网页版</a></li>
+     <li><a href="http://lab.mkblog.cn/">孟坤 Web 实验室</a></li>
+     <li><a href="http://www.mkblog.cn/">孟坤软件</a></li>
+     <li><a href="https://www.52doutu.cn/">我爱斗图 - 斗图表情包在线制作</a></li>
+     <li><a href="http://toolwa.com/tao/" title="优惠淘 - 淘宝优惠券 - 每天千款优惠券秒杀，一折限时疯抢！_优惠淘">优惠淘</a></li>
+   </summary>    
+     <li><a href="https://mkblog.cn/1106/">从零开始，学会 PHP 采集 | 孟坤博客</a></li>
+     <li><a href="https://mkblog.cn/360/">php获取指定网站的favicon图标 | 孟坤博客</a></li>		
+     <li><a href="https://www.51it.wang/ll/1842">GitHub 文件加速下载 - lcry-我的主页</a></li>	
+     <li><a href="https://www.51it.wang/ll/18372">神奇的两行代码实现随意编辑网页 - lcry-我的主页</a></li>
+</details>
+	
 <details>
    <summary> 
 	   <b><a href="https://anyway.fm/">Anyway.FM</a> 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客 Podcast</b> 
