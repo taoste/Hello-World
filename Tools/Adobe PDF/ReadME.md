@@ -15,7 +15,7 @@
 
 >>> 《[10+最NB的Photoshop笔刷下载网站](https://zhuanlan.zhihu.com/p/63586063)》  - 知乎
 
-- [涨知识！你真的会用PS参考线了吗](https://www.uisdc.com/how-to-use-guidelines) - 优设网 - UISDC 
+- [涨知识！你真的会用PS参考线了吗](https://www.uisdc.com/how-to-use-guidelines) - **优设网** - UISDC ( [**所有文章**](https://www.uisdc.com/archives) )
 
  （ 官网：[在 Photoshop 中使用网格和参考线](https://helpx.adobe.com/cn/photoshop/using/grid-guides.html) ）
 
