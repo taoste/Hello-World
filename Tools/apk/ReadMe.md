@@ -19,15 +19,71 @@
 
 ----------------------------------
 
+<details>
+    <summary>
+      💗<b><a href="https://www.appinn.com/">小众软件</a> - 分享免费、小巧、实用、有趣、绿色的软件</b>
+     </summary>     
+   <table> 
+       <tr> 
+         <td>
+        <li><a href="https://www.appinn.com/forghetti/">Forghetti - 不保存密码数据的密码管理器</a> @<a href="https://www.forghetti.com/eng/download/a">Download</a> |<a href="https://www.appinn.com/">小众软件</a></li>
+      <li><a href="https://www.appinn.com/alphabet-letter-confidence/">Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]</a> @<a href="https://itunes.apple.com/app/alphabet-letter-confidence/id484776617">App Store</a> |<a href="https://www.appinn.com/">小众软件</a></li>
+      <li><a href="https://www.appinn.com/musicolet-music-player/">Musicolet Music Player - 个人已知安卓下最省心的音乐播放器</a> @<a href="https://590m.com/file/15690961-449565760">Download</a> |<a href="https://www.appinn.com/">小众软件</a></li>
+ >>  Musicolet Music Player 是一款 Android 下的本地音乐播放器，无需联网权限，免费、小巧、无广告，只有 1.98MB 大小。被发现频道的 @C-Entropy 同学誉为：个人已知安卓下最省心的音乐播放器。@Appinn
+        </td> 
+			      <td> &nbsp; </td>
+      </tr> 
+    </table> 
+</details>
 
-💗 [**小众软件**](https://www.appinn.com/) :
+<details>
+    <summary>
+      💗<b><a href="https://sspai.com/">少数派</a> - 高效工作，品质生活</b>
+     </summary>   
+ <table> 
+       <tr> 
+         <td>
+1. X Progress：https://sspai.com/s/KP9v
 
-- [Forghetti - 不保存密码数据的密码管理器](https://www.appinn.com/forghetti/) @[Download](https://www.forghetti.com/eng/download/a) - [小众软件](https://www.appinn.com/)
+2. PomoNow 2：https://sspai.com/s/K1Q2
 
-- [Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]](https://www.appinn.com/alphabet-letter-confidence/) @[App Store](https://itunes.apple.com/app/alphabet-letter-confidence/id484776617) - [小众软件](https://www.appinn.com/)
+3. Sorted³：https://sspai.com/s/Ke0P
 
-- [Musicolet Music Player - 个人已知安卓下最省心的音乐播放器](https://www.appinn.com/musicolet-music-player/) @[Download](https://590m.com/file/15690961-449565760) - [小众软件](https://www.appinn.com/)
->> Musicolet Music Player 是一款 Android 下的本地音乐播放器，无需联网权限，免费、小巧、无广告，只有 1.98MB 大小。被发现频道的 @C-Entropy 同学誉为：个人已知安卓下最省心的音乐播放器。@Appinn
+4. 滴答清单：https://sspai.com/s/z5N8
+
+5. Fantastical：https://sspai.com/s/zlVG
+
+6. Timepage：https://sspai.com/s/nXRD
+
+7. Calendars：https://sspai.com/s/z2g0
+
+8. 滴墨书摘：https://sspai.com/s/zwmP
+
+- 少数派正版软件商城：https://sspai.com/item/57
+
+9. 微信读书：https://sspai.com/s/K3ad
+
+10. 豆瓣：https://sspai.com/s/nrOR
+
+11. Sigma Planner：https://sspai.com/s/z2gm
+
+12. 课程时间表：https://sspai.com/s/nXRZ
+
+13. 懒饭：https://sspai.com/s/JvE7
+
+14. YaoYao：https://sspai.com/s/KxW2
+
+15. NOMO：https://sspai.com/s/JDlY
+
+16. 网易严选：https://sspai.com/s/JYN3
+
+17. 招商银行：https://sspai.com/s/nAW2
+        </td> 
+        
+			      <td> &nbsp; </td>
+      </tr> 
+    </table> 
+</details>
 
 💗 [**发现感兴趣的移动应用app**](https://www.douban.com/app/) - [豆瓣](https://www.douban.com/)
 
