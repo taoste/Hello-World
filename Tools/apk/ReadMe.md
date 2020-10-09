@@ -36,6 +36,8 @@
     </table> 
 </details>
 
+<hr>
+
 <details>
     <summary>
       💗<b><a href="https://sspai.com/">少数派</a> - 高效工作，品质生活</b>
@@ -43,47 +45,48 @@
  <table> 
        <tr> 
          <td>
-1. X Progress：https://sspai.com/s/KP9v
+<li>1. X Progress：https://sspai.com/s/KP9v</li>
 
-2. PomoNow 2：https://sspai.com/s/K1Q2
+<li> 2. PomoNow 2：https://sspai.com/s/K1Q2 </li>
 
-3. Sorted³：https://sspai.com/s/Ke0P
+<li>3. Sorted³：https://sspai.com/s/Ke0P </li>
 
-4. 滴答清单：https://sspai.com/s/z5N8
+<li> 4. 滴答清单：https://sspai.com/s/z5N8 </li>
 
-5. Fantastical：https://sspai.com/s/zlVG
+<li> 5. Fantastical：https://sspai.com/s/zlVG </li>
 
-6. Timepage：https://sspai.com/s/nXRD
+<li> 6. Timepage：https://sspai.com/s/nXRD </li>
 
-7. Calendars：https://sspai.com/s/z2g0
+<li> 7. Calendars：https://sspai.com/s/z2g0 </li>
 
-8. 滴墨书摘：https://sspai.com/s/zwmP
+<li> 8. 滴墨书摘：https://sspai.com/s/zwmP </li>
 
-- 少数派正版软件商城：https://sspai.com/item/57
+<li> 少数派正版软件商城：https://sspai.com/item/57 </li>
 
-9. 微信读书：https://sspai.com/s/K3ad
+<li> 9. 微信读书：https://sspai.com/s/K3ad </li>
 
-10. 豆瓣：https://sspai.com/s/nrOR
+<li> 10. 豆瓣：https://sspai.com/s/nrOR </li>
 
-11. Sigma Planner：https://sspai.com/s/z2gm
+<li> 11. Sigma Planner：https://sspai.com/s/z2gm </li>
 
-12. 课程时间表：https://sspai.com/s/nXRZ
+<li> 12. 课程时间表：https://sspai.com/s/nXRZ </li>
 
-13. 懒饭：https://sspai.com/s/JvE7
+<li> 13. 懒饭：https://sspai.com/s/JvE7 </li>
 
-14. YaoYao：https://sspai.com/s/KxW2
+<li> 14. YaoYao：https://sspai.com/s/KxW2 </li>
 
-15. NOMO：https://sspai.com/s/JDlY
+<li> 15. NOMO：https://sspai.com/s/JDlY </li>
 
-16. 网易严选：https://sspai.com/s/JYN3
+<li> 16. 网易严选：https://sspai.com/s/JYN3 </li>
 
-17. 招商银行：https://sspai.com/s/nAW2
-        </td> 
-        
-			      <td> &nbsp; </td>
+<li> 17. 招商银行：https://sspai.com/s/nAW2 </li>
+</td> 
+<td> &nbsp; </td>
       </tr> 
     </table> 
 </details>
+
+<hr>
 
 💗 [**发现感兴趣的移动应用app**](https://www.douban.com/app/) - [豆瓣](https://www.douban.com/)
 
