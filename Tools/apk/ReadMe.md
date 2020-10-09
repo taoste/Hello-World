@@ -1,5 +1,5 @@
-💗 **推荐**：手机APK
-
+<details>
+    <summary>💗 **推荐**：手机APK     </summary>  
 <p>
 <a href="https://go.choong.net/app" title="扫描二维码可以访问本网址:https://go.choong.net/app">
  <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/apk-qrcode.png?raw=true"/></a>
@@ -12,6 +12,7 @@
 <a href="https://go.choong.net/apple" title="扫描二维码可以访问【苹果Apple-Tool导航】">
 <img src="https://github.com/taoste/Hello-World/raw/master/Tools/Apple%20iTunes/Apple-qrcode.png?raw=true"/></a>
 </p>
+</details>
 
 ----------------------------------
 
