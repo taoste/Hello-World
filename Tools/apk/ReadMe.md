@@ -26,10 +26,10 @@
    <table> 
        <tr> 
          <td>
-        <li><a href="https://www.appinn.com/forghetti/">Forghetti - 不保存密码数据的密码管理器</a> @<a href="https://www.forghetti.com/eng/download/a">Download</a> |<a href="https://www.appinn.com/">小众软件</a></li>
-      <li><a href="https://www.appinn.com/alphabet-letter-confidence/">Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]</a> @<a href="https://itunes.apple.com/app/alphabet-letter-confidence/id484776617">App Store</a> |<a href="https://www.appinn.com/">小众软件</a></li>
-      <li><a href="https://www.appinn.com/musicolet-music-player/">Musicolet Music Player - 个人已知安卓下最省心的音乐播放器</a> @<a href="https://590m.com/file/15690961-449565760">Download</a> |<a href="https://www.appinn.com/">小众软件</a></li>
- >>  Musicolet Music Player 是一款 Android 下的本地音乐播放器，无需联网权限，免费、小巧、无广告，只有 1.98MB 大小。被发现频道的 @C-Entropy 同学誉为：个人已知安卓下最省心的音乐播放器。@Appinn
+        <li><a href="https://www.appinn.com/forghetti/">Forghetti - 不保存密码数据的密码管理器</a> @<a href="https://www.forghetti.com/eng/download/a">Download</a> | <a href="https://www.appinn.com/">小众软件</a></li>
+      <li><a href="https://www.appinn.com/alphabet-letter-confidence/">Alphabet - 适合2+岁小朋友，从 ABC 开始学字母[iOS 限免]</a> @<a href="https://itunes.apple.com/app/alphabet-letter-confidence/id484776617">App Store</a> | <a href="https://www.appinn.com/">小众软件</a></li>
+      <li><a href="https://www.appinn.com/musicolet-music-player/">Musicolet Music Player - 个人已知安卓下最省心的音乐播放器</a> @<a href="https://590m.com/file/15690961-449565760">Download</a> | <a href="https://www.appinn.com/">小众软件</a></li>
+>  Musicolet Music Player 是一款 Android 下的本地音乐播放器，无需联网权限，免费、小巧、无广告，只有 1.98MB 大小。被发现频道的 @C-Entropy 同学誉为：个人已知安卓下最省心的音乐播放器。@Appinn
         </td> 
 			      <td> &nbsp; </td>
       </tr> 
