@@ -170,7 +170,7 @@
 : <a href="https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663">iPhone / iPad</a>
 - Android ：<a href="https://play.google.com/store/apps/details?id=com.parrotteleprompter.app&hl=zh">Google Play 上的应用</a>
 / <a href="https://apkpure.com/cn/parrot-teleprompter/com.parrotteleprompter.app">APKPure 上的原版应用</a> )
-
+</summary> 
 <p><a href="https://itunes.apple.com/hk/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(香港HK)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器-qrcode.png?raw=true"/>
 </a>
@@ -178,7 +178,7 @@
 <a href="https://itunes.apple.com/cn/app/parrot-teleprompter/id1010384663" title="【Apple iTunes】iPhone手机提词器app(中国CN)">
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/iPhone手机提词器cn-qrcode.png?raw=true"/>
 </a></p>
-</summary> 
+
 
 > ( 扫描二维码可以访问下载网址：iPhone手机提词器 )
 
