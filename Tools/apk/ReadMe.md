@@ -1,7 +1,7 @@
 <details>
     <summary>💗 <b>推荐：手机APK   <br><br>
-	<a href="https://www.i4.cn/)" title="【爱思助手官网】_苹果助手_苹果刷机助手_苹果越狱助手 ( https://www.i4.cn/ ) ">爱思助手</a> _苹果助手_苹果刷机助手_苹果越狱助手 ( https://www.i4.cn/ ) </b><br>
-	</summary>  
+	<a href="https://www.i4.cn/)" title="【爱思助手官网】_苹果助手_苹果刷机助手_苹果越狱助手 ( https://www.i4.cn/ ) ">爱思助手</a> _苹果助手_苹果刷机助手_苹果越狱助手 ( https://www.i4.cn/ ) </b>
+	</summary>  <br>
 <p>
 <a href="https://go.choong.net/app" title="扫描二维码可以访问本网址:https://go.choong.net/app">
  <img src="https://github.com/taoste/Hello-World/blob/master/Tools/apk/apk-qrcode.png?raw=true"/></a>
