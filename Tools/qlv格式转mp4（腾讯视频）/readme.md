@@ -1,7 +1,14 @@
-﻿- [【已解决】**qlv格式转mp4（腾讯视频）**](https://blog.csdn.net/guomutian911/article/details/72395707)  - CSDN博客
- 
----------------------
+<details>
+    <summary>
+     <a href="https://github.com/taoste/Hello-World/tree/master/">Hello-World</a>/<a href="https://github.com/taoste/Hello-World/raw/master/Tools/">Tools</a>/<a href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/">微信视频压缩工具</a>/<a href="https://github.com/taoste/Hello-World/raw/master/Tools/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7/%E4%BC%98%E9%85%B7kux%E8%BD%AC%E7%A0%81%E5%B7%A5%E5%85%B7-kux2mp4.rar">优酷kux转码工具-kux2mp4.rar</a>
+     </summary> 
+</details>
 
+﻿
+<details>
+    <summary>
+     <a href="https://blog.csdn.net/guomutian911/article/details/72395707">【已解决】<b>qlv格式转mp4（腾讯视频）</b></a> - CSDN博客
+     </summary> 
 关键来了，最后什么工具也没有，在cmd命令行下敲一小行代码就搞定了。
 
 > copy /b *.tdl guo.mp4
@@ -19,10 +26,7 @@
 
 <img src="https://img-blog.csdn.net/20170517160532838?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ3VvbXV0aWFuOTEx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center"/>
 
-
 经测试这个MP4文件是普通视频文件，可正常播放。
-
-
 
 作者：guomutian911 
 
@@ -31,6 +35,7 @@
 原文：https://blog.csdn.net/guomutian911/article/details/72395707?utm_source=copy 
 
 版权声明：本文为博主原创文章，转载请附上博文链接！
+</details>
 
 ---------------------
 
