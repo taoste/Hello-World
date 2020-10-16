@@ -46,8 +46,6 @@
     
 <li><a href="https://answers.microsoft.com/en-us/windows/forum/apps_windows_10-winapps-appscat_tools/comctl32ocx-file-missinginvalid-for-windows-10/0d515059-0397-4b72-a39b-120a7be96043"><b>COMCTL32.Windows 10 的 OCX 文件丢失/无效</b></a></li>
 
-<hr>
-
 Comctl32.ocx 是一个可视基本 6.0 运行时文件，不包括在 Windows 10 中。高尔夫程序，大概是使用VB 6.0开发的，需要提供所需的运行时库。
 
 Windows Vista、Windows 服务器 2008、Windows 7、Windows 8 和 Windows 8.1、Windows 服务器 2012 和 Windows 10 上的视觉基本 6.0 支持声明
@@ -76,7 +74,7 @@ regsvr32 comdlg32. ocx
 C:\Windows\SysWOW64\regsvr32 C:\Windows\SysWOW64\comdlg32.ocx
 
 </details>
-
+<hr>
 - [qlv转mp4工具下载 qlv2mp4(qlv转mp4软件) v3.0.0 免费绿色版](https://www.jb51.net/softs/681772.html) | [下载]() - 脚本之家
 
 ---------------------
