@@ -37,8 +37,45 @@
 </details>
 
 ---------------------
+<details>
+    <summary>
+     <a href="http://www.onlinedown.net/soft/264076.htm">【未解决】<b>qlv格式转换成mp4最新版官方免费下载</b></a>  - 华军软件园<br>
+     <a href="https://github.com/taoste/Hello-World/raw/master/Tools/qlv%E6%A0%BC%E5%BC%8F%E8%BD%ACmp4%EF%BC%88%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%EF%BC%89/qlvzhmp4.7z"><b>本地下载</b></a>
+     </summary> <br> 
+<img src="https://src.onlinedown.net/Public/images/bigsoftimg/270000/q264076.jpg"/>
+    
+<li><a href="https://answers.microsoft.com/en-us/windows/forum/apps_windows_10-winapps-appscat_tools/comctl32ocx-file-missinginvalid-for-windows-10/0d515059-0397-4b72-a39b-120a7be96043"><b>COMCTL32.Windows 10 的 OCX 文件丢失/无效</b></a></li>
 
-- [qlv格式转换成mp4下载-qlv格式转换成mp4最新版官方免费下载](http://www.onlinedown.net/soft/264076.htm) - 华军软件园
+<hr>
+
+Comctl32.ocx 是一个可视基本 6.0 运行时文件，不包括在 Windows 10 中。高尔夫程序，大概是使用VB 6.0开发的，需要提供所需的运行时库。
+
+Windows Vista、Windows 服务器 2008、Windows 7、Windows 8 和 Windows 8.1、Windows 服务器 2012 和 Windows 10 上的视觉基本 6.0 支持声明
+
+下载 VB 6.0 通用控件
+
+但是，您可以尝试以下 Microsoft 下载中心链接中的可视基本 6.0 通用控件（包括 comctl32.ocx）：https://www.microsoft.com/en-us/download/details.aspx?id=10019
+
+不要运行设置。相反，使用 7-Zip 或任何其他存档实用程序打开 exe 文件，然后将文件 Comctl32.OCX 文件提取到以下
+
+文件夹：复制 OCX 文件：
+
+对于 Windows 64 位系统，将 OCX 文件提取至： C:\Windows\SysWOW64\
+对于 Windows 32 位系统，将 OCX 文件提取到： C:\Windows\SysWOW32\
+
+注册 OCX 文件：
+
+右键单击"开始"，单击命令提示符（管理员）
+
+如果使用 Windows 32 位，请键入以下命令，然后按 Enter：
+
+regsvr32 comdlg32. ocx
+
+如果您使用的是 Windows 64 位，请键入以下命令并按 Enter：
+
+C:\Windows\SysWOW64\regsvr32 C:\Windows\SysWOW64\comdlg32.ocx
+
+</details>
 
 - [qlv转mp4工具下载 qlv2mp4(qlv转mp4软件) v3.0.0 免费绿色版](https://www.jb51.net/softs/681772.html) | [下载]() - 脚本之家
 
