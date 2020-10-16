@@ -86,6 +86,10 @@ C:\Windows\SysWOW64\regsvr32 C:\Windows\SysWOW64\comdlg32.ocx
 
 - [腾讯/爱奇艺/优酷 专门视频文件格式转换为MP4](https://www.cwhello.com/14496.html) | [重蔚自留地](https://www.cwhello.com/)
 
+这个是三个文件转换好用播放器打开的截图。
+
+【下载地址】链接：https://pan.baidu.com/s/1OV6udGmR9OQF2g1YlxbweA 提取码：6kr1
+
 ---------------------
 
 - 《[AI 复原 100 年前的京城老视频，靠这三个开源工具](https://news.51cto.com/art/202005/616963.htm)》 - 51CTO.COM
