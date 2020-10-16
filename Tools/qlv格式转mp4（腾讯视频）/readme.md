@@ -40,10 +40,12 @@
 
 - [qlv格式转换成mp4下载-qlv格式转换成mp4最新版官方免费下载](http://www.onlinedown.net/soft/264076.htm) - 华军软件园
 
+- [qlv转mp4工具下载 qlv2mp4(qlv转mp4软件) v3.0.0 免费绿色版](https://www.jb51.net/softs/681772.html) | [下载]() - 脚本之家
+
 ---------------------
 
 - [迅捷视频转换器](https://www.xunjieshipin.com/download-converter) - 多功能的音视频格式转换器 
-> （ 迅捷视频转换器 - <a href="https://github.com/taoste/Hello-World/blob/master/Tools/qlv%E6%A0%BC%E5%BC%8F%E8%BD%ACmp4%EF%BC%88%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%EF%BC%89/xunjieshipin.exe?raw=true" title="【本地下载】迅捷视频转换器">本地下载</a> ）
+> （ 迅捷视频转换器 - <a href="https://github.com/taoste/Hello-World/blob/master/Tools/qlv%E6%A0%BC%E5%BC%8F%E8%BD%ACmp4%EF%BC%88%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%EF%BC%89/xunjieshipin.exe?raw=true" title="【本地下载】迅捷视频转换器">本地下载</a>【会自动升级，已失效】 ）
 
 ---------------------
 
