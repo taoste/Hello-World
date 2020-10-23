@@ -37,6 +37,7 @@
 
 - 《[君子性非异也，善假于物也](https://www.zreading.cn/archives/7407.html)》 – [**左岸读书**](https://www.zreading.cn/)  ( 2019-12-13 )
 >>  本文多讨论的**工具**多为**软件层面**的概念
+> <img src="https://github.com/taoste/Hello-World/blob/master/images/%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E6%88%AA%E5%9B%BE.PNG?raw=true"/>
 
 ---------------------------------------
 
