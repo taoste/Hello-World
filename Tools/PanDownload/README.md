@@ -45,6 +45,65 @@
 #万能命令-快捷寻找和直达你想要的各类工具 https://wn.run/cn/ 
 -----------------------------------------------------------
 
+<details>
+    <summary>
+     卢本伟修改版《<a href="https://hoxis.github.io/PanDownload.html">2020-PanDownload最新复活版！速度可达60MB/s</a>》
+        @<a href="https://github.com/PanDownloadServer/Server/">Github</a>
+     </summary> 
+       <p>自从 PanDownload 被处理之后</p>
+<p>一直没有超越它的可替代的应用出来</p>
+<p>但是最近，竟然有人接盘了！</p>
+<a id="more"></a>
+<p>重新制作上线</p>
+<p>推出了<strong>更加强劲的复活版</strong>！</p>
+<p><img src="https://qiniu.ibetalife.com/picgo/20200904130444.png" alt></p>
+<p>放张图，大家先感受下</p>
+<p><strong>60MB/s！！！</strong></p>
+<p><img src="https://qiniu.ibetalife.com/picgo/20200904125217.png" alt></p>
+<p>我 TM 当场就惊呆了！</p>
+<p>这也太猛了吧！</p>
+<p><img src="https://qiniu.ibetalife.com/picgo/20200904125435.gif" alt="手中的菜都掉了"></p>
+<p>该版本是<strong>卢本伟修改版</strong></p>
+<p>哈哥表示不清楚是不是那个卢本伟</p>
+<p><img src="https://qiniu.ibetalife.com/picgo/20200904125813.png" alt></p>
+<p>反正这个版本很牛逼就是了！</p>
+<h1><span id="软件特点">软件特点</span></h1><p>1、允许最高使用 <strong>1024 线程下载</strong></p>
+<p>2、允许最高 <strong>32 任务同时下载</strong></p>
+<p>3、修复 PanDownload <strong>全部</strong>功能</p>
+<p>4、内置<strong>三大下载通道</strong></p>
+<p>5、使用第三方提取码查询通道，<strong>自动填写提取码</strong></p>
+<p>6、默认取消 PanDownload 的链接分享</p>
+<p>7、较好的<strong>容灾</strong>处理（眼神暗示）</p>
+<h1><span id="软件使用">软件使用</span></h1><p>1、下载相应压缩包</p>
+<p>2、确认杀软没有删除解压出来的内容</p>
+<p>3、双击运行 PanDownload.exe 即可，如果出什么错误，多开几次，试试管理员运行</p>
+<p>4、若出现解决不了的错误，可去 Github 详谈</p>
+<p>GitHub地址： <a href="https://github.com/PanDownloadServer/Server/" target="_blank" rel="noopener">https://github.com/PanDownloadServer/Server/</a></p>
+<p>软件打开后</p>
+<p>和之前的 PanDownload 几乎没有区别</p>
+<p>仅仅是左上角的 title 做了修改</p>
+<p><img src="https://qiniu.ibetalife.com/picgo/20200904130105.png" alt></p>
+<p>另外下载时<strong>支持多个下载通道</strong></p>
+<p><img src="https://qiniu.ibetalife.com/picgo/20200904130145.png" alt></p>
+<p>1、伞兵一号通道：被限速账号使用，会有加速效果</p>
+<p>2、伞兵二号通道：未被限速账号使用，不支持远程下载</p>
+<p>3、伞兵三号通道：未被限速账号使用，支持远程下载</p>
+<p>4、伞兵四号通道：被限速账号使用，可满速</p>
+<p>下载资源时</p>
+<p>基本都是维持在 10M 每秒的下载速度</p>
+<p>如果你的宽带够大，下载速度会更快</p>
+<h1><span id="说在后面">说在后面</span></h1><p>PanDownload 功能几乎都能使用</p>
+<p>除了你们心心念的度盘搜</p>
+<p>想了解 PanDownload 功能的</p>
+<p>可以参考之前的文章：<a href="https://mp.weixin.qq.com/s/UdPf5CIfsrzILcnry-7vPA" target="_blank" rel="noopener">我TM用了假的PanDownload吧！</a></p>
+<p>不知道这次能撑到什么时候</p>
+<p>希望卢本伟安康</p>
+<p>毕竟除了维护 PanDownload</p>
+<p>还要打比赛呢</p>
+</details>
+
+-----------------------------------------------------------
+
 百度网盘不限速下载器 | [PanDownload官网](https://pandownload.com/) | [PanDownload网页版](https://www.baiduwp.com/) 
 
 PanDownload 一款第三方百度网盘下载工具，采用了Aria 2技术，
