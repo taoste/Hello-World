@@ -47,8 +47,9 @@
 
 <details>
     <summary>
-     卢本伟修改版《<a href="https://hoxis.github.io/PanDownload.html">2020-PanDownload最新复活版！速度可达60MB/s</a>》
-        @<a href="https://github.com/PanDownloadServer/Server/">Github</a>
+     <b>《<a href="https://hoxis.github.io/PanDownload.html">2020-PanDownload最新复活版！速度可达60MB/s</a>》
+        <a href="https://github.com/PanDownloadServer/Server/releases/tag/v3.5.3">PanDownload 卢本伟修改版 v3.5.3</a>
+        @<a href="https://github.com/PanDownloadServer/Server/">Github</a></b>
      </summary> 
        <p>自从 PanDownload 被处理之后</p>
 <p>一直没有超越它的可替代的应用出来</p>
