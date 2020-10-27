@@ -17,6 +17,20 @@
 -----------------------------------------------
 
 <details>
+	<summary>  <b><a href= https://github.com/opendigg/awesome-github-wechat-weapp#Demo" title="opendigg/awesome-github-wechat-weapp: 微信小程序开源项目库汇总: </b>
+<table> 
+   <tr>
+       <td><b><a href="https://github.com/Gavin-YYC/wxApp">一步步开发微信小程序</a> @<a href="https://github.com/Gavin-YYC/wxApp">Gavin-YYC/wxApp</a></b>	  
+      </td>
+   </tr> 
+</table>
+</summary> 
+		
+</details>	
+
+-----------------------------------------------
+
+<details>
 	<summary>  <b><a href="https://mkblog.cn/" title="孟坤博客 | 每年更新一点点">孟坤博客</a> | 每年更新一点点 ( https://mkblog.cn/ ) </b>
 <table> 
    <tr>
