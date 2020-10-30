@@ -75,7 +75,7 @@
 
 Tor Browser 更新日志：view-source:**about:tbupdate**
 
-> Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周三 , 2020年7月29日 （最新版 Tor Browser v 9.5.3 :[32bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-9.5.3_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/9.5.3/torbrowser-install-win64-9.5.3_zh-CN.exe.asc))  --  (Tor Browser v9.5.3 [说明](https://www.torproject.org/releases/tor-browser-95/index.html))
+> Tor最新版 - [官网下载](https://www.torproject.org/zh-CN/download/languages/)（[**Github**下载](https://github.com/TheTorProject/gettorbrowser)） 周三 , 2020年10月28日 （最新版 Tor Browser v 10.0.2 :[32bit](https://www.torproject.org/dist/torbrowser/10.0.2/torbrowser-install-10.0.2_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/10.0.2/torbrowser-install-10.0.2_zh-CN.exe.asc))  / [64bit](https://www.torproject.org/dist/torbrowser/10.0.2/torbrowser-install-win64-10.0.2_zh-CN.exe)  ([sig](https://www.torproject.org/dist/torbrowser/10.0.2/torbrowser-install-win64-10.0.2_zh-CN.exe.asc))  --  (Tor Browser v10.0.2 [说明](https://www.torproject.org/zh-CN/releases/tor-browser-10-0/))
 
 >> 你是 iOS 用户吗？我们推荐你尝试 [**Onion Browser**](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8)。 
 
