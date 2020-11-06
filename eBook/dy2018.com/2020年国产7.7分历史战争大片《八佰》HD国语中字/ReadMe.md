@@ -149,7 +149,7 @@
  <p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;"><font color="#ff0000"><strong><font size="4">【下载地址】本站专属下载器：点击下方链接 即可享受高速下载和在线播放 专治迅雷无法下载 </font></strong></font></p>
 
 
-> <p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;"><font color="#ff0000"><strong><font size="4">【下载地址】magnet推荐使用utorrent、BitComet等bt客户端下载 </font></strong></font></p>
+ <p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;"><font color="#ff0000"><strong><font size="4">【下载地址】magnet推荐使用utorrent、BitComet等bt客户端下载 </font></strong></font></p>
     <p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;" id="downlist_info" >为了防止迅雷扫版权风险，本片迅雷链接，在2个小时后自动放出！请及时清理浏览器缓存参考设置办法<a href="https://www.dy2018.com/i/20070319/12.html">https://www.dy2018.com/i/20070319/12.html</a></p>
 
 >> [magnet:?xt=urn:btih:0532c7cae108380436f109634c603683d86fc55c&dn=[电影天堂www.dytt89.com]八佰HD国语中字.mp4](https://github.com/taoste/Hello-World/raw/master/eBook/dy2018.com/2020%E5%B9%B4%E5%9B%BD%E4%BA%A77.7%E5%88%86%E5%8E%86%E5%8F%B2%E6%88%98%E4%BA%89%E5%A4%A7%E7%89%87%E3%80%8A%E5%85%AB%E4%BD%B0%E3%80%8BHD%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97/2020%E5%B9%B4%E5%9B%BD%E4%BA%A77.7%E5%88%86%E5%8E%86%E5%8F%B2%E6%88%98%E4%BA%89%E5%A4%A7%E7%89%87%E3%80%8A%E5%85%AB%E4%BD%B0%E3%80%8BHD%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.torrent)
