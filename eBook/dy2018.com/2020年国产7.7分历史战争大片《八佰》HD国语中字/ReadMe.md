@@ -144,9 +144,12 @@
 
 ◎影片截图
 
-【下载地址】本站专属下载器：点击下方链接 即可享受高速下载和在线播放 专治迅雷无法下载
+<img alt="" src="https://www.dy2018.com/d/file/html/gndy/dyzz/2020-10-31/a15a4b4d629686ea83ce34b223fa32a2.jpg" style="width: 926px; height: 850px;" />
+
+ <p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;"><font color="#ff0000"><strong><font size="4">【下载地址】本站专属下载器：点击下方链接 即可享受高速下载和在线播放 专治迅雷无法下载 </font></strong></font></p>
 
 
-【下载地址】magnet推荐使用utorrent、BitComet等bt客户端下载
+<p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;"><font color="#ff0000"><strong><font size="4">【下载地址】magnet推荐使用utorrent、BitComet等bt客户端下载 </font></strong></font></p>
+    <p style="margin: 0px; padding: 0px; color: rgb(24, 55, 120); font-family: Verdana, Arial, Helvetica, sans-serif;" id="downlist_info" >为了防止迅雷扫版权风险，本片迅雷链接，在2个小时后自动放出！请及时清理浏览器缓存参考设置办法<a href="https://www.dy2018.com/i/20070319/12.html">https://www.dy2018.com/i/20070319/12.html</a></p>
 
 >> magnet:?xt=urn:btih:0532c7cae108380436f109634c603683d86fc55c&dn=[电影天堂www.dytt89.com]八佰HD国语中字.mp4
