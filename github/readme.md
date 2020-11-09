@@ -119,6 +119,8 @@
      <li><a href="https://so.gushiwen.org/mingju/">经典名句_古诗文名句_古诗文网</a></li>
 </details>
 
+<li><a href="https://blog.csdn.net/xudailong_blog/article/details/78762262">Github搭建个人博客（2019最新版,亲测）_徐代龙的技术专栏-CSDN博客</a></li>
+
 <hr>
 	
 <details>
