@@ -80,8 +80,11 @@
       </td>
    </tr> 
 </table>
-</summary> 
-		
+</summary> 	
+<li><b><a href="https://github.com/geekxh/hello-algorithm">geekxh/hello-algorithm</a>: 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！</li>		
+<a href="https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd">资源下载 | 小浩算法</a>
+<a href="https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python">hello-algorithm/大厂面经汇总100篇/Python</a>
+<a href="https://github.com/elunez/eladmin">GitHub - elunez/eladmin</a>: 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 </details>	
 
 -----------------------------------------------
