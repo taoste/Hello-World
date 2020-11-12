@@ -177,6 +177,13 @@
 
 - [**罗磊的独立博客**](https://luolei.org/) - 前端工程师，<b><a href="https://zuoluo.tv">ZUOLUOTV™</a></b> 制作人，左左文化创始人。 - 科技、旅行、生活方式。 ( https://luolei.org/ )
 
+> [【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录](https://luolei.org/new-apartment-log-book/) - 罗磊的独立博客
+
+> [装修脑壳痛：家庭万兆光纤网络、智能家居](https://luolei.org/apartment-log-book-network/) - @[罗磊的独立博客](https://luolei.org/) - @[V2EX](https://v2ex.com/t/708146) -
+<a href="https://twitter.com/luoleiorg/status/1306751532675657728" target="_blank" rel="noopener noreferrer">Twitter:@luoleiorg</a>
+
+> [拔牙记: 深圳人民医院使用医保拔智齿经验](https://luolei.org/shenzhen-wisdom-teeth-extraction/) - 罗磊的独立博客
+
 
 🎦  [CN 开放数据计划](http://cn.github.io/) [CN Open Data](https://github.com/cn) ( https://github.com/cn )
 
