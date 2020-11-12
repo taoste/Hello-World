@@ -9,7 +9,7 @@
 [🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)**
 
 
-[Note] 🛡️ [科学上网 系列 · Issue #1](https://github.com/taoste/taoste.github.io/issues/1) 
+[Note] 🛡️ [科学上网 系列 · Issue #1](https://github.com/taoste/taoste.github.io/issues/1) | [Hello-World/Tools/hosts](https://github.com/taoste/Hello-World/tree/master/Tools/hosts)
 
  >> 《[问：何以取得真经？答：翻墙。](https://github.com/bingoohuang/blog/issues/13)》 · [Issue #13](https://github.com/bingoohuang/blog/issues/13) · [bingoohuang](https://github.com/bingoohuang/) / [blog](https://github.com/bingoohuang/blog/)  
  
