@@ -175,7 +175,7 @@
 </blockquote>
 -----------------------------------------------
 
-- [**罗磊的独立博客**](https://luolei.org/) - 前端工程师，ZUOLUOTV制作人，左左文化创始人。 - 科技、旅行、生活方式。 ( https://luolei.org/ )
+- [**罗磊的独立博客**](https://luolei.org/) - 前端工程师，<b><a href="https://zuoluo.tv">ZUOLUOTV™</a></b> 制作人，左左文化创始人。 - 科技、旅行、生活方式。 ( https://luolei.org/ )
 
 
 🎦  [CN 开放数据计划](http://cn.github.io/) [CN Open Data](https://github.com/cn) ( https://github.com/cn )
