@@ -1,5 +1,8 @@
 # [🔍](https://www.google.com/search?hl=zh_CN&ei=lL5eX5rvHc78wAP1ppeAAw&q=%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%AE%8C%E7%BE%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) 开源软件替代方案：<br> Photoshop : [🔍](https://www.google.com/search?hl=zh_CN&ei=Gb5eX9DdNsnAoASalqSYCw&q=Photoshop+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+krita) <a href="https://docs.krita.org/zh_CN/" title="Krita 4.3 文档中心 — Krita Manual 4.3.0 文档"><img src="https://docs.krita.org/zh_CN/_static/favicon.ico" height="20" width="20" /></a> [krita](https://krita.org/zh/) 和 CorelDRAW : [🔍](https://www.google.com/search?hl=zh_CN&ei=KShYX_H5JMKbmAX-vr_oAQ&q=CorelDRAW+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+Inkscape) [inkscape](https://inkscape.org/zh-hans/)
 
+<details>
+    <summary>        
+ 🔗<a href="https://www.coreldrawchina.com/X7jiaocheng/cdr-x7-pdf-wenjian.html" title=" CorelDRAW文档如何转PDF文件|CorelDRAW中文网站"> CorelDRAW文档如何转PDF文件</a> | CorelDRAW中文网站   </summary>    
 <h1 class="fs24 tac m10a m_fs44r m_lh60r m_m0ar">CorelDRAW文档如何转PDF文件</h1><p class="tac pb10 m_fs22r m_pb20r">发布时间：2019/12/19</p><div class="news_detail"><p>cdr是CorelDRAW的文件格式，PDF是acrobat的文件格式，在做一些设计的时候，很多情况下都要把cdr文件转换为PDF，用cdr、AI导出印刷的时候，通常会出现一些问题，大多是因为没有转曲导致的。如果你使用的的版本太高，而印刷厂使用的还只是低版本的，那就很麻烦了，如果我们将设计好的海报、画册、杂志等转换成<strong>PDF</strong>格式直接发送给印刷厂就大大减少了麻烦的出现。如何使用cdr输出PDF呢，下面就用cdrX7来给大家讲解，不同的版本输出设置有可能稍有不同，请注意区分。以下步骤将详解CorelDRAW文档如何转PDF文件。</p>
 <p>步骤一 完成你的设计后，先调一下兼容性，执行&ldquo;文件&rdquo;&rarr;&ldquo;发布为PDF&rdquo;命令，在文件名框中输入文件名，单击&ldquo;设置&rdquo;按钮，在弹出的PDF设置对话框中的&ldquo;兼容性&rdquo;复选框中选择Acrobat 6.0。我这里使用的是Acrobat 6.0，如果发布的PDF有问题，则可以尝试Acrobat 5.0或其他。</p>
 <p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-1.jpg" alt="PDF设置" /></p>
@@ -13,7 +16,9 @@
 <p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-7.jpg" alt="PDF设置" /></p>
 <p>步骤六 最后，在文件名框中输入PDF名称，点击保存即可。</p>
 <p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-8.jpg" alt="PDF设置" /></p>
-<p>关于CorelDRAW的更多内容可参考<a href="http://www.coreldrawchina.com/" target="_blank" rel="noopener">CorelDRAW中文官网</a>。</p>
+<p>关于CorelDRAW的更多内容可参考<a href="http://www.coreldrawchina.com/" target="_blank" rel="noopener">CorelDRAW中文官网</a>。</p>	
+</details>
+
 
 - 错误提示：**载入增效工具时出错。 DxfDwg.aip** - @[国内版 Bing](https://cn.bing.com/search?q=%E8%BD%BD%E5%85%A5%E5%A2%9E%E6%95%88%E5%B7%A5%E5%85%B7%E6%97%B6%E5%87%BA%E9%94%99%E3%80%82+DxfDwg.aip)
 >> Adobe 官网 : [Adobe Illustrator 学习和支持](https://helpx.adobe.com/cn/support/illustrator.html) / [Illustrator 用户指南](https://helpx.adobe.com/cn/illustrator/user-guide.html) / [如何在 Illustrator 中设置首选项](https://helpx.adobe.com/cn/illustrator/using/setting-preferences.html) / [Illustrator 增效工具](https://helpx.adobe.com/cn/illustrator/plug-ins.html)  | 《官网：[优化 Photoshop 的性能](https://helpx.adobe.com/cn/photoshop/kb/optimize-photoshop-cc-performance.html)》
