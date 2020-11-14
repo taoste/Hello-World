@@ -212,16 +212,8 @@ clean</code></pre>
       <div class=" article-box index-content " style="width: 840px;">
                     <div class="article-content">                        
                          <div class="rich_media_content" id="js_content" style="visibility: visible;">
-<p style="text-align: left;">
-<span style="font-size: 16px;">
-<br/>
-</span>
-</p>
 <p style="text-align: center;">
 <img class="rich_pages js_insertlocalimg" data-ratio="0.6675" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticTu8pK0rsKDN4PXH44luNoSLV0n8iaLx5ppkQibtO2lHN67prJT9nLQKA/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
-</p>
-<p style="text-align: left;">
-<br/>
 </p>
 <section data-mpa-template="t" mpa-from-tpl="t">
 <section data-mpa-template="t" mpa-from-tpl="t">
