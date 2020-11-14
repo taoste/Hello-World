@@ -151,7 +151,7 @@ GitHub 地址：https://github.com/ventoy/Ventoy</p>
 
 <details>
     <summary>
-    CSDN博客 : <a href="https://blog.csdn.net/jing_zhong/article/details/109353456">重装正版Windows 10和Microsoft office home and student 2019教程（2020.10.29</a>
+    CSDN博客 : <a href="https://blog.csdn.net/jing_zhong/article/details/109353456">重装正版Windows 10和Microsoft office home and student 2019教程（2020.10.29）</a>
      </summary> 
   <h1>目录</h1> 
 <h2>环境准备&#xff1a;一个U盘&#xff08;至少8G&#xff09;</h2> 
