@@ -203,3 +203,394 @@ clean</code></pre>
 <p>下载完成后&#xff0c;双击HomeStudent2019Retail.img文件&#xff0c;可以根据自身需要选择32位或64位的Setup.exe进行Office家庭和学生版2019的安装&#xff08;如果提示无法安装&#xff0c;则需要将Office 365卸载掉并重启电脑&#xff09;&#xff0c;安装完成后登录个人微软账号&#xff0c;打开word-&gt;帐户&#xff0c;右侧会显示本产品属于自己的微软账号&#xff0c;并且Office已经激活。</p> 
 <p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029202526508.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
 </details>
+
+<details>
+    <summary>
+    <b>二十次幂 : <a href="https://www.ershicimi.com/p/05b446a790fe3813278b7de17791a19c">Win10 20H2 正式版发布、教你如何下载 "原汁原味" 的镜像</a></b><br/>
+        最近微软发布了 Win10 20H2 正式版，也叫10月更新版本，这个版本主要修正了一些 BUG 、开始菜单变化、性能上的提升（虽然每次更新都说提升性能，但是我没有感觉到有多大的提升）……<br/>
+     </summary> 
+      <div class=" article-box index-content " style="width: 840px;">
+
+                    <h1 class="article-title">Win10 20H2 正式版发布、教你如何下载 &#34;原汁原味&#34; 的镜像</h1>
+                    <div class="article-sub">
+                        <span>
+<a href="/a/l3wykRjb">下1个好软件</a>
+</span>
+                        <span>2020-10-26 09:55</span>
+                    </div>
+                    <div class="article-content">
+
+                        
+                             <div class="rich_media_content" id="js_content" style="visibility: visible;">
+<p style="text-align: left;" data-mpa-powered-by="yiban.io">
+<span style="font-size: 16px;">最近微软发布了 Win10 20H2 正式版，也叫10月更新版本，这个版本主要修正了一些 BUG 、开始菜单变化、性能上的提升（虽然每次更新都说提升性能，但是我没有感觉到有多大的提升）……</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.6675" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticTu8pK0rsKDN4PXH44luNoSLV0n8iaLx5ppkQibtO2lHN67prJT9nLQKA/640?wx_fmt=png" data-type="png" data-w="800" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section powered-by="xiumi.us" mpa-from-tpl="t">
+<section mpa-from-tpl="t" style="margin-top: 10px;margin-bottom: 10px;text-align: left;">
+<section mpa-from-tpl="t" style="display: inline-block;vertical-align: top;">
+<section mpa-from-tpl="t" style="margin-bottom: -6px;padding-right: 2px;padding-left: 2px;line-height: 1em;font-size: 18px;color: rgb(72, 64, 64);">
+<p>
+<span style="color: rgb(0, 0, 0);">
+<strong mpa-from-tpl="t" mpa-is-content="t">Win10 20H2主要更新</strong>
+</span>
+</p>
+</section>
+<section mpa-from-tpl="t" style="width: 188.012px;height: 10px;background-color: rgb(221, 223, 223);">
+<br mpa-from-tpl="t"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+<ul class="list-paddingleft-2" style="width: 577.412px;list-style-type: circle;">
+<li style="font-size: 16px;">
+<p style="text-align: left;">支持修改显示器高刷新率（120Hz、144Hz）</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">开始菜单可自动根据系统主题调整颜色，以及多彩效果</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">系统设置模块被迁移至设置面板</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">新版 Edge 浏览器</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">网页支持 Alt+TAB 快捷键切换</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">全新文件关联设置</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">存储感知功能更智能</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">专注助手优化，减少通知</p>
+</li>
+<li style="font-size: 16px;">
+<p style="text-align: left;">提高了更新速度<br/>
+</p>
+</li>
+</ul>
+<p>
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">按照微软更新 Win10 的惯例，除了新增功能的同时，也带来了一些 BUG ，例如有网友已经出现了黑屏，资源管理器频繁崩溃、打印问题以及 "重置此电脑" 功能失效……不过也有的网友表示安装更新后一切正常。</span>
+</p>
+<p>
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">目前微软已经开始推送 Win10 20H2 正式版更新，但是也有一些电脑还没收到更新，如果你想提前体验 <span style="text-align: left;">Win10 20H2 </span>(BUG)，可以手动更新 / 全新安装。</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">微软官方也已经提供了 Win10 20H2 镜像下载，可以自己下载后更新或者制作 U 盘启动全新安装。</span>
+</p>
+<p>
+<br/>
+</p>
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section style="box-sizing: border-box;" powered-by="xiumi.us" mpa-from-tpl="t">
+<section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="display: inline-block;vertical-align: top;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="margin-bottom: -6px;line-height: 1em;padding-left: 2px;padding-right: 2px;font-size: 18px;color: rgb(72, 64, 64);box-sizing: border-box;" mpa-from-tpl="t">
+<p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+<span style="color: rgb(0, 0, 0);">
+<strong style="box-sizing: border-box;" mpa-from-tpl="t" mpa-is-content="t">制作Win10的U盘安装盘</strong>
+</span>
+</p>
+</section>
+<section style="width: 100%;height: 10px;background-color: rgb(221, 223, 223);box-sizing: border-box;" mpa-from-tpl="t">
+<br mpa-from-tpl="t"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+<p style="text-align: left;">
+<span style="font-size: 16px;">从 Win10 20H2 发布后，有小伙伴问雷锋哥去哪里下载 "原汁原味" 的微软官方镜像，担心网上下载的镜像都被加过料，植入广告啥的。</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">其实微软官方有提供了一款「MediaCreationTool」工具，可以从官方下载最新Win10 镜像，支持升级当前系统或制作成 U盘 / DVD安装盘。</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.8877805486284289" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticSZ0iaGaYlv4R8XiaA5pwIKbu9omhDXHsIesjkvO4wOBCqFtu2XsANjbw/640?wx_fmt=png" data-type="png" data-w="802" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">这里雷锋哥以制作 Win10 启动盘为例，电脑插上 U 盘，记得先备份好你 U 盘里面的资料哦。然后<span style="text-align: left;">「MediaCreationTool」</span>选择语言、系统版本、32位/64位。</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.8877805486284289" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticaiaEcsibyGIBy0gBh35wvuOZhCWIY4lyy2ibBfIGeQbHButgiavibPa9iaFg/640?wx_fmt=png" data-type="png" data-w="802" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">这里可以选择制作 U 盘启动，或者生成 ISO 镜像。我们选择 U盘 。</span>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.8877805486284289" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticSX4GlcK0obkQvnOoKms3leX4pvyKIHOX6eAaa6s8AmicGWuRRaeljCw/640?wx_fmt=png" data-type="png" data-w="802" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">接下来就耐心等待下载 Win10 的镜像，通常都可以满速下载，但有时候也会抽风，可以尝试更换 DNS。</span>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages" data-ratio="0.8877805486284289" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticlyQETphADcA99NoH8m3OucuIr9IIZW06H61gicrtaXG73CNwznWd79Q/640?wx_fmt=png" data-type="png" data-w="802" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">下载完毕后<span style="text-align: left;">「MediaCreationTool」</span>就会自动开始创建 U 盘启动盘，如果提示找不到 U 盘，请重新拔插下，或者换个 USB 接口试试。<br/>
+</span>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.8877805486284289" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticuaXsbHvofoBHVekhQolj97FJk2hMhoxKWrkREoVgcoianr0BkGIMClA/640?wx_fmt=png" data-type="png" data-w="802" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">U盘启动安装系统，这里就不多说了哈，一般都是进入 BIOS 或者按快捷键设置启动项，选择 U 盘，进入 Win10 安装界面后，选择要安装的盘符就完事了。</span>
+<br/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section style="box-sizing: border-box;" powered-by="xiumi.us" mpa-from-tpl="t">
+<section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="display: inline-block;vertical-align: top;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="margin-bottom: -6px;line-height: 1em;padding-left: 2px;padding-right: 2px;font-size: 18px;color: rgb(72, 64, 64);box-sizing: border-box;" mpa-from-tpl="t">
+<p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+<span style="color: rgb(0, 0, 0);">
+<strong style="box-sizing: border-box;" mpa-from-tpl="t" mpa-is-content="t">下载企业版镜像</strong>
+</span>
+</p>
+</section>
+<section style="width: 100%;height: 10px;background-color: rgb(221, 223, 223);box-sizing: border-box;" mpa-from-tpl="t">
+<br mpa-from-tpl="t"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+<p style="text-align: left;">
+<span style="font-size: 16px;">微软的「MediaCreationTool」默认是没有提供企业版 Win10 下载，只有专业版和家庭版，不过利用小技巧也是可以下载到企业版镜像。</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">在<span style="text-align: left;">「MediaCreationTool」</span>所在的目录，按住 Shift + 右键，选择 <strong>"<span style="text-align: justify;">PowerShell 命令窗口运行</span>" </strong>。</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.6549707602339181" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticIyibuqpK3AKCSDc0k6Vm1Eq0JXdcM8VnmhLMFTY9Wria3SAmrYhUUHiaA/640?wx_fmt=png" data-type="png" data-w="684" style=""/>
+</p>
+<p style="text-align: left;">
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">然后在 PowerShell 里面输入下面的命令：<br/>
+</span>
+</p>
+<p>
+<br/>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 14px;text-decoration: underline;color: rgb(136, 136, 136);">.\MediaCreationTool20H2.exe /Eula Accept /Retail /MediaArch x64 /MediaLangCode zh-CN /MediaEdition Enterprise</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 14px;text-decoration: underline;color: rgb(136, 136, 136);">
+<br/>
+</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">如果需要安装序列号，微软官方有提供：</span>
+</p>
+<p style="text-align: left;">
+<span style="font-size: 16px;">
+<br/>
+</span>
+</p>
+<ul class="list-paddingleft-2" style="margin-bottom: 1em;width: 513.781px;white-space: normal;letter-spacing: 0.544px;color: rgb(0, 0, 0);font-size: 16px;font-family: &quot;PingFang SC&quot;, &quot;Lantinghei SC&quot;, &quot;Microsoft YaHei&quot;, &quot;HanHei SC&quot;, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, &quot;Hiragino Sans GB&quot;, &#x5FAE;&#x8F6F;&#x96C5;&#x9ED1;, STHeiti, &quot;WenQuanYi Micro Hei&quot;;text-align: start;background-color: rgba(253, 253, 253, 0.85);">
+<li style="padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid rgb(235, 235, 235);font-size: 14px;">
+<p>
+<strong>序列号：</strong>https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys</p>
+</li>
+</ul>
+<p>
+<br/>
+</p>
+<p style="text-align: center;">
+<img class="rich_pages js_insertlocalimg" data-ratio="0.8877805486284289" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5Giac2OQ41dgwYsHxR8LfjticDtwE7wvo5WQkDW3ibKIkSHVQIydLwflz64MkMecORjuHH2gCSouGbQw/640?wx_fmt=png" data-type="png" data-w="802" style=""/>
+</p>
+<p style="text-align: center;">
+<br/>
+</p>
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section style="box-sizing: border-box;" powered-by="xiumi.us" mpa-from-tpl="t">
+<section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="display: inline-block;vertical-align: top;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="margin-bottom: -6px;line-height: 1em;padding-left: 2px;padding-right: 2px;font-size: 18px;color: rgb(72, 64, 64);box-sizing: border-box;" mpa-from-tpl="t">
+<p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+<span style="color: rgb(0, 0, 0);">
+<strong style="box-sizing: border-box;" mpa-from-tpl="t" mpa-is-content="t">总结</strong>
+</span>
+</p>
+</section>
+<section style="width: 100%;height: 10px;background-color: rgb(221, 223, 223);box-sizing: border-box;" mpa-from-tpl="t">
+<br mpa-from-tpl="t"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+<p style="text-align: left;">
+<span style="font-size: 16px;">这可以是说超级简单制作 Win10 启动安装盘的方法了，由于是利用微软官方工具，所以不用担心镜像被修改啥的。现在你还敢说你不会安装系统么？</span>
+</p>
+<p>
+<br/>
+</p>
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section style="box-sizing: border-box;" powered-by="xiumi.us" mpa-from-tpl="t">
+<section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="display: inline-block;vertical-align: top;box-sizing: border-box;" mpa-from-tpl="t">
+<section style="margin-bottom: -6px;line-height: 1em;padding-left: 2px;padding-right: 2px;font-size: 18px;color: rgb(72, 64, 64);box-sizing: border-box;" mpa-from-tpl="t">
+<p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+<span style="color: rgb(0, 0, 0);">
+<strong style="box-sizing: border-box;" mpa-from-tpl="t" mpa-is-content="t">下载</strong>
+</span>
+</p>
+</section>
+<section style="width: 100%;height: 10px;background-color: rgb(221, 223, 223);box-sizing: border-box;" mpa-from-tpl="t">
+<br mpa-from-tpl="t"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+<ul class="list-paddingleft-2" style="margin-bottom: 1em;letter-spacing: 0.544px;white-space: normal;width: 513.781px;color: rgb(0, 0, 0);font-size: 16px;font-family: &quot;PingFang SC&quot;, &quot;Lantinghei SC&quot;, &quot;Microsoft YaHei&quot;, &quot;HanHei SC&quot;, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, &quot;Hiragino Sans GB&quot;, &#x5FAE;&#x8F6F;&#x96C5;&#x9ED1;, STHeiti, &quot;WenQuanYi Micro Hei&quot;;text-align: start;background-color: rgba(253, 253, 253, 0.85);">
+<li style="padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid rgb(235, 235, 235);font-size: 14px;">
+<p>
+<strong>网盘下载：</strong>https://lanzoux.com/iwgZfhnco6h</p>
+</li>
+<li style="padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid rgb(235, 235, 235);font-size: 14px;">
+<p>
+<strong>微软官方：</strong>https://www.microsoft.com/zh-cn/software-download/windows10</p>
+</li>
+</ul>
+<p>
+<br/>
+</p>
+<section data-mpa-template="t" mpa-from-tpl="t" style="font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);">
+<section data-mpa-template="t" mpa-from-tpl="t">
+<section powered-by="xiumi.us" mpa-from-tpl="t">
+<section mpa-from-tpl="t" style="margin-top: 10px;margin-bottom: 10px;text-align: left;">
+<section mpa-from-tpl="t" style="display: inline-block;vertical-align: top;">
+<section mpa-from-tpl="t" style="margin-bottom: -6px;padding-right: 2px;padding-left: 2px;line-height: 1em;font-size: 18px;color: rgb(72, 64, 64);">
+<p>
+<span style="color: rgb(0, 0, 0);">
+<strong mpa-from-tpl="t" mpa-is-content="t">相关文章</strong>
+</span>
+</p>
+</section>
+<section mpa-from-tpl="t" style="width: 78.1875px;height: 10px;background-color: rgb(180, 217, 250);">
+<br mpa-from-tpl="t"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+<ul class="list-paddingleft-2" style="margin-bottom: 1em;letter-spacing: 0.544px;white-space: normal;width: 513.781px;color: rgb(0, 0, 0);font-size: 16px;font-family: &quot;PingFang SC&quot;, &quot;Lantinghei SC&quot;, &quot;Microsoft YaHei&quot;, &quot;HanHei SC&quot;, &quot;Helvetica Neue&quot;, &quot;Open Sans&quot;, Arial, &quot;Hiragino Sans GB&quot;, &#x5FAE;&#x8F6F;&#x96C5;&#x9ED1;, STHeiti, &quot;WenQuanYi Micro Hei&quot;;text-align: start;background-color: rgba(253, 253, 253, 0.85);">
+<li style="padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid rgb(235, 235, 235);font-size: 14px;">
+<p>
+<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MzIxOTE5MDY5Mw==&amp;mid=2650893061&amp;idx=2&amp;sn=df2720260c7f90b95aba1fb1377e64b3&amp;chksm=8c2acfcfbb5d46d9781a68c891820219ede641fb2cb636e083a37e43f604b2d3486f51cb5499&amp;scene=21#wechat_redirect" data-itemshowtype="0" tab="innerlink" data-linktype="2">把 Windows 10 系统安装进U盘，即插即用！</a>
+<br/>
+</p>
+</li>
+<li style="padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid rgb(235, 235, 235);font-size: 14px;">
+<p>
+<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MzIxOTE5MDY5Mw==&amp;mid=2650892602&amp;idx=4&amp;sn=599adf0e967ca7181c0ca3c5d2fc6ffc&amp;chksm=8c2acdf0bb5d44e66a722619ead6dd45b0ee0205930ea48c3689ec79f82fbdb03706abb42abf&amp;scene=21#wechat_redirect" data-itemshowtype="0" tab="innerlink" data-linktype="2">奇淫巧技 | Windows 10 启动不够快？你需要这样安装系统</a>
+<br/>
+</p>
+</li>
+</ul>
+<p>
+<br/>
+</p>
+<p style="font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);">
+<img class="rich_pages" data-ratio="0.7789351851851852" data-s="300,640" data-type="jpeg" data-w="864" data-src="https://mmbiz.qpic.cn/sz_mmbiz_png/SP35P9ibAg5HyIAfrzicHTU9Fg8iaSNrzUssuHrp2G8JedQt41LV9O31RWtnVNB56HCJKjwlQhpgcicicbfTZVydOicQ/640?wx_fmt=jpeg" style="font-size: 16px;letter-spacing: 0.544px;color: rgb(0, 0, 0);text-align: center;box-sizing: border-box !important;visibility: visible !important;width: 677px !important;"/>
+</p>
+<p>
+<br/>
+</p>
+</div>
+  </table> 
+</details>
