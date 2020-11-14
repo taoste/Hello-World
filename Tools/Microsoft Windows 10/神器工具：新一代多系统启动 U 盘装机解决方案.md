@@ -27,25 +27,15 @@
 </div>
 <div class="com-markdown-collpase">
 <div class="com-markdown-collpase-main">
-<div class="rno-markdown J-articleContent">
-<figure>
-<div class="image-block">
-    <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/hjlflz0al5.jpeg?imageView2/2/w/1620"/>
-<span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/hjlflz0al5.jpeg">
-</span>
-</div>
-</figure>
+<div class="rno-markdown J-articleContent"><br/>
+<img src="https://ask.qcloudimg.com/http-save/yehe-6849268/hjlflz0al5.jpeg"/><br/>
 <p>大家好，我是 JackTian。</p>
 <p>在平时的工作中，比如我们需要重新安装一个 windows 操作系统，得通过第三方软件刻录镜像，随后将刻录好的镜像文件放置到 U 盘里面，通过启动设备并结合一些相关的配置进行以 USB 的方式启动。</p>
 <p>一个 U 盘里面往往只能制作成一个新系统的启动盘，当你要想增加其他系统时，只能通过重新刻录，每次都需要反复这样的操作，是非常花费时间的。</p>
 <p>那么，今天给大家推荐一种新的可启动 USB 的解决方案：<strong>多合一启动盘制作工具</strong> —— Ventoy。</p>
-<figure>
-<div class="image-block">
-    <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/1ym74qaon6.png?imageView2/2/w/1620"/>
-<span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/1ym74qaon6.png">
-</span>
-</div>
-</figure>
+<br/>
+<img src="https://ask.qcloudimg.com/http-save/yehe-6849268/1ym74qaon6.png"/>
+<br/>
 <h4 id="%E4%BB%80%E4%B9%88%E6%98%AF-Ventoy%EF%BC%9F" name="%E4%BB%80%E4%B9%88%E6%98%AF-Ventoy%EF%BC%9F">
 <strong>什么是 Ventoy？</strong>
 </h4>
@@ -81,13 +71,9 @@
 </h4>
 <p>下载  ventoy-1.0.12-windows.zip 安装包，解压。</p>
 <p>执行 <code>Ventoy2Disk.exe</code>，选择 U 盘设备，点击<code>安装</code>按钮即可。</p>
-<figure>
-<div class="image-block">
-        <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/vg3odmyq7s.png?imageView2/2/w/1620"/>
-<span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/vg3odmyq7s.png">
-</span>
-</div>
-</figure>
+<br/>
+<img src="https://ask.qcloudimg.com/http-save/yehe-6849268/vg3odmyq7s.png"/>
+<br/>
 <ul class="ul-level-0">
 <li>Ventoy In Package：当前安装包里面的 Ventoy 版本号；</li>
 <li>Ventoy In Device：U 盘中已安装的 Ventoy 版本号，如果为空则表示未安装过 Ventoy；</li>
@@ -104,7 +90,8 @@
 <p>而对于一些操作系统（ubuntu / deepin）来说， 执行时需在前面加 sudo</p>
 <pre class="prism-token token language-javascript">$ sudo sh Ventoy2Disk.sh -i /dev/XXX
 </pre>
-<p>其中<code>/dev/XXX</code>是 U 盘对应的设备名，比如：<code>/dev/sdb</code>，必须输入正确的设备名，如果输入错误可能会把你的系统盘格式化，因为 Ventoy 不会检查你摄入的设备名是本地磁盘还是 U 盘。</p>
+<p>其中<code>/dev/XXX</code>是 U 盘对应的设备名，比如：<code>/dev/sdb</code>，必须输入正确的设备名，如果输入错误可能会把你的系统盘格式化，
+    因为 Ventoy 不会检查你摄入的设备名是本地磁盘还是 U 盘。</p>
 <p>
 <strong>选项含义：</strong>
 </p>
@@ -148,12 +135,9 @@
 <p>当你将 U 盘插在电脑上时，按 <code>del</code>、<code>F1</code>、<code>F8</code> 键进入主板选项启动 U 盘，这里考虑到不同设备的按键启动 U 盘的方式不同，可多次尝试不同的键即可显示出菜单。</p>
 <p>进入菜单选项中选择你要安装的系统后，将会显示安装流程了。</p>
 <p>如果你担心在物理机上操作会出现问题的话，可以提前先在自己的 VMware 虚拟机中验证一下你的 U 盘启动盘所有系统是否都能够顺利进入到正常的安装流程中。</p>
-<figure>
-<div class="image-block">
-<span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/9i7sylxpmq.png">
-</span>
-</div>
-</figure>
+<br/>
+<img src="https://ask.qcloudimg.com/http-save/yehe-6849268/9i7sylxpmq.png"/>
+<br/>
 <h4 id="%E4%BC%A0%E9%80%81%E9%97%A8%EF%BC%9A" name="%E4%BC%A0%E9%80%81%E9%97%A8%EF%BC%9A">
 <strong>传送门：</strong>
 </h4>
