@@ -2,6 +2,9 @@
     <summary>
     <b>
 <a href="https://cloud.tencent.com/developer/article/1653118">神器工具：新一代多系统启动 U 盘装机解决方案</a>
+        ( 传送门：
+@<a href="https://www.ventoy.net/cn/">官网</a>
+@<a href=https://github.com/ventoy/Ventoy">GitHub</a> )
 </b> <br/>    
 <blockquote> <p>大家好，我是 JackTian。</p>
 <p>在平时的工作中，比如我们需要重新安装一个 windows 操作系统，得通过第三方软件刻录镜像，随后将刻录好的镜像文件放置到 U 盘里面，通过启动设备并结合一些相关的配置进行以 USB 的方式启动。</p>
