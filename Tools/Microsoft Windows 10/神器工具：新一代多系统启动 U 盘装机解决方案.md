@@ -30,6 +30,7 @@
 <div class="rno-markdown J-articleContent">
 <figure>
 <div class="image-block">
+    <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/hjlflz0al5.jpeg?imageView2/2/w/1620"/>
 <span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/hjlflz0al5.jpeg">
 </span>
 </div>
@@ -40,6 +41,7 @@
 <p>那么，今天给大家推荐一种新的可启动 USB 的解决方案：<strong>多合一启动盘制作工具</strong> —— Ventoy。</p>
 <figure>
 <div class="image-block">
+    <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/1ym74qaon6.png?imageView2/2/w/1620"/>
 <span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/1ym74qaon6.png">
 </span>
 </div>
@@ -81,6 +83,7 @@
 <p>执行 <code>Ventoy2Disk.exe</code>，选择 U 盘设备，点击<code>安装</code>按钮即可。</p>
 <figure>
 <div class="image-block">
+        <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/vg3odmyq7s.png?imageView2/2/w/1620"/>
 <span class="lazy-image-holder" dataurl="https://ask.qcloudimg.com/http-save/yehe-6849268/vg3odmyq7s.png">
 </span>
 </div>
