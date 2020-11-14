@@ -3,13 +3,11 @@
     <b>
 <a href="https://cloud.tencent.com/developer/article/1653118">神器工具：新一代多系统启动 U 盘装机解决方案</a>
 </b> <br/>    
-<blockquote>     大家好，我是 JackTian。
-<br/>
-在平时的工作中，比如我们需要重新安装一个 windows 操作系统，得通过第三方软件刻录镜像，随后将刻录好的镜像文件放置到 U 盘里面，通过启动设备并结合一些相关的配置进行以 USB 的方式启动。
-<br/>
-一个 U 盘里面往往只能制作成一个新系统的启动盘，当你要想增加其他系统时，只能通过重新刻录，每次都需要反复这样的操作，是非常花费时间的。
-<br/>
-那么，今天给大家推荐一种新的可启动 USB 的解决方案：多合一启动盘制作工具 —— Ventoy。<br/></blockquote>
+<blockquote> <p>大家好，我是 JackTian。</p>
+<p>在平时的工作中，比如我们需要重新安装一个 windows 操作系统，得通过第三方软件刻录镜像，随后将刻录好的镜像文件放置到 U 盘里面，通过启动设备并结合一些相关的配置进行以 USB 的方式启动。</p>
+<p>一个 U 盘里面往往只能制作成一个新系统的启动盘，当你要想增加其他系统时，只能通过重新刻录，每次都需要反复这样的操作，是非常花费时间的。</p>
+<p>那么，今天给大家推荐一种新的可启动 USB 的解决方案：<strong>多合一启动盘制作工具</strong> —— Ventoy。</p>
+<br/></blockquote>
 </summary> 
 <h1>
 <span>神器工具：新一代多系统启动 U 盘装机解决方案</span>
@@ -29,11 +27,7 @@
 <div class="com-markdown-collpase-main">
 <div class="rno-markdown J-articleContent"><br/>
 <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/hjlflz0al5.jpeg"/><br/>
-<p>大家好，我是 JackTian。</p>
-<p>在平时的工作中，比如我们需要重新安装一个 windows 操作系统，得通过第三方软件刻录镜像，随后将刻录好的镜像文件放置到 U 盘里面，通过启动设备并结合一些相关的配置进行以 USB 的方式启动。</p>
-<p>一个 U 盘里面往往只能制作成一个新系统的启动盘，当你要想增加其他系统时，只能通过重新刻录，每次都需要反复这样的操作，是非常花费时间的。</p>
-<p>那么，今天给大家推荐一种新的可启动 USB 的解决方案：<strong>多合一启动盘制作工具</strong> —— Ventoy。</p>
-<br/>
+
 <img src="https://ask.qcloudimg.com/http-save/yehe-6849268/1ym74qaon6.png"/>
 <br/>
 <h4 id="%E4%BB%80%E4%B9%88%E6%98%AF-Ventoy%EF%BC%9F" name="%E4%BB%80%E4%B9%88%E6%98%AF-Ventoy%EF%BC%9F">
