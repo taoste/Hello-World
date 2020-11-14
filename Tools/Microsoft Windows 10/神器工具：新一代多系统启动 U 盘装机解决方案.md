@@ -206,22 +206,12 @@ clean</code></pre>
 
 <details>
     <summary>
-    <b>二十次幂 : <a href="https://www.ershicimi.com/p/05b446a790fe3813278b7de17791a19c">Win10 20H2 正式版发布、教你如何下载 "原汁原味" 的镜像</a></b><br/><br/> 
+    <b>二十次幂 : <a href="https://www.ershicimi.com/p/05b446a790fe3813278b7de17791a19c">Win10 20H2 正式版发布、教你如何下载 "原汁原味" 的镜像</a>(<span>2020-10-26 09:55</span>)</b><br/><br/> 
         最近微软发布了 Win10 20H2 正式版，也叫10月更新版本，这个版本主要修正了一些 BUG 、开始菜单变化、性能上的提升（虽然每次更新都说提升性能，但是我没有感觉到有多大的提升）……<br/><br/> 
      </summary> 
       <div class=" article-box index-content " style="width: 840px;">
-h1 class="article-title">Win10 20H2 正式版发布、教你如何下载 &#34;原汁原味&#34; 的镜像</h1>
-          <div class="article-sub">
-                        <span>
-<a href="/a/l3wykRjb">下1个好软件</a>
-</span>
-                        <span>2020-10-26 09:55</span>
-                    </div>
                     <div class="article-content">                        
-                             <div class="rich_media_content" id="js_content" style="visibility: visible;">
-<p style="text-align: left;" data-mpa-powered-by="yiban.io">
-<span style="font-size: 16px;">最近微软发布了 Win10 20H2 正式版，也叫10月更新版本，这个版本主要修正了一些 BUG 、开始菜单变化、性能上的提升（虽然每次更新都说提升性能，但是我没有感觉到有多大的提升）……</span>
-</p>
+                         <div class="rich_media_content" id="js_content" style="visibility: visible;">
 <p style="text-align: left;">
 <span style="font-size: 16px;">
 <br/>
