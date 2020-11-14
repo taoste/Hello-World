@@ -144,5 +144,59 @@ GitHub 地址：https://github.com/ventoy/Ventoy</p>
 <p>你可随意删除或添加操作系统 ISO 镜像文件，不必每安装一个操作系统需先将它进行格式化，而针对大容量的 U 盘来说，同时也有了更多空余空间的使用存放其他文件。</p>
 <p>当某一个系统更新换代了，你如果想更新系统，无需每次将新版本的系统镜像刻录至 U 盘中做启动盘，大大节省了你装机时的工作效率。</p>
 </div>
+</details>
 
+<details>
+    <summary>
+    CSDN博客 : <a href="https://blog.csdn.net/jing_zhong/article/details/109353456">重装正版Windows 10和Microsoft office home and student 2019教程（2020.10.29</a>
+     </summary> 
+  <h1>目录</h1> 
+<h2>环境准备&#xff1a;一个U盘&#xff08;至少8G&#xff09;</h2> 
+<h2>步骤</h2> 
+<h3>        第一步  利用微软下载工具制作U盘启动盘</h3> 
+<p>           到微软官网下载Windows 10 界面&#xff0c;“点击立即下载工具”后会弹出一个下载界面&#xff0c;</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/2020102910534752.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p>          下载此文件MediaCreationTool20H2.exe完成后&#xff0c;双击运行&#xff08;此时记得将U盘插到电脑上&#xff09;</p> 
+<p style="text-align:center;"><img alt="" height="148" src="https://img-blog.csdnimg.cn/20201029105449660.jpg" width="978" /></p> 
+<p>         运行后&#xff0c;如下图所示&#xff0c;选择自己所需的配置&#xff0c;接受许可&#xff0c;选择为另一台电脑创建安装介质&#xff0c;选择Windows10系统的语言、体系结构和版本&#xff0c;安装介质选择U盘&#xff0c;一直点击下一步&#xff0c;</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029105717441.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/2020102910573649.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029105753255.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029105813483.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p>         然后选择自己插在电脑上的U盘即可&#xff0c;程序会自动下载Windows10系统到U盘中&#xff0c;同时会将U盘格式化。最后&#xff0c;U盘启动盘制作完成后拔掉即可。</p> 
+<h3>        第二步  为另一台电脑安装Windows 10系统</h3> 
+<p>           首先在要安装Windows10系统的电脑上插好刚才制作好的U盘&#xff0c;点击开机键启动电脑&#xff0c;当出现电脑的品牌图标后&#xff0c;多次点击bios启动键&#xff08;如F12&#xff09;&#xff0c;不同品牌的电脑bios键有所不同&#xff0c;进入后选择UEFI U盘来引导&#xff08;boot&#xff09;并按Enter键确认</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029111257650.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p>           此时就会进入用户界面来正常安装Windows10系统&#xff0c;界面会让用户选择系统安装的分区&#xff0c;一般来说都选固态的128G硬盘。</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/2020102919595048.png?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029200036887.png?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p> </p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/2020102919571296.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p> </p> 
+<p>          如果遇到Bitlocker加锁的情况提示选定分区上启用了BitLocker驱动器加密&#xff0c;则无法正常安装&#xff08;如上图所示&#xff09;&#xff0c;<a href="https://www.baidu.com/link?url&#61;TqWlfaXjGlRlxkQwIxL8jYfYWA7VKTpFaFMEHJolosr6W4cfBlpAd17jPqIqj8krGKjEWmiGuZ25Eiwf0gwxWIlu-8DDD51UcpyQfdaFsoRs78BUwT1ouPaagiAQG5Od&amp;wd&#61;&amp;eqid&#61;8f79090a0004421d000000065f9a3325">需要登录微软账号查找我的BitLocker恢复密钥</a>&#xff0c;在自己的微软账号界面中可以看到自己的恢复密钥&#xff1a;</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029195845938.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p>          然后在Windows安装界面选择修复计算机&#xff0c;选择疑难解答-&gt;高级选项-&gt;命令提示符</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029200131847.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029200224223.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029200252591.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p>         在命令提示符界面&#xff08;相当于cmd窗口&#xff09;&#xff0c;依次输入以下四步命令&#xff1a;</p> 
+<p>&#xff08;1&#xff09;diskpart命令是为了执行diskpart工具</p> 
+<p>&#xff08;2&#xff09;list disk &#xff08;列出磁盘列表&#xff09;</p> 
+<p>&#xff08;3&#xff09;select disk X(X这里应替换为0或1或2),具体要看自己需要把Windows10系统安装到那块硬盘上&#xff0c;请务必看清楚&#xff0c;因为这时候U盘也会出现在列表里&#xff0c;下一步的命令会清空硬盘里所有的分区</p> 
+<p>&#xff08;4&#xff09;clean &#xff08;对硬盘分区进行清理&#xff0c;恢复初始化&#xff0c;彻底清理掉&#xff09;</p> 
+<pre><code class="language-bash">diskpart
+list disk
+select disk 0
+clean</code></pre> 
+<p>           然后重新启动电脑进行U盘安装Windows10正版系统&#xff0c;选择好Windows10要安装的分区为电脑的固态硬盘&#xff0c;之后一直点击下一步即可&#xff0c;最后建议连接以太网在系统中登录自己微软账号&#xff0c;安装完后的系统如下图所示&#xff1a;</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029201024841.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<h3>     </h3> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029202454411.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<h3>        第三步 安装Microsoft home and student 2019</h3> 
+<p>           由于刚才安装好的Windows10正版系统自带的时Office 365&#xff0c;并且这个Office 365只能免费试用过期后还需购买&#xff0c;所以为了安装Microsoft home and student 2019,需要安装包文件&#xff0c;首先登录自己的微软账号&#xff0c;进入服务与订阅一栏&#xff0c;界面中可查看到自己订阅的产品&#xff0c;其中就有Microsoft home and student 2019,点击右侧的<strong>安装</strong></p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029201445104.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
+<p>下载的文件就是Office 家庭和学生版2019的离线版安装包&#xff0c;大小为3.6GB&#xff0c;文件名为 HomeStudent2019Retail .img</p> 
+<p style="text-align:center;"><img alt="" height="52" src="https://img-blog.csdnimg.cn/20201029201708744.jpg" width="213" /></p> 
+<p>下载完成后&#xff0c;双击HomeStudent2019Retail.img文件&#xff0c;可以根据自身需要选择32位或64位的Setup.exe进行Office家庭和学生版2019的安装&#xff08;如果提示无法安装&#xff0c;则需要将Office 365卸载掉并重启电脑&#xff09;&#xff0c;安装完成后登录个人微软账号&#xff0c;打开word-&gt;帐户&#xff0c;右侧会显示本产品属于自己的微软账号&#xff0c;并且Office已经激活。</p> 
+<p style="text-align:center;"><img alt="" src="https://img-blog.csdnimg.cn/20201029202526508.jpg?x-oss-process&#61;image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmdfemhvbmc&#61;,size_16,color_FFFFFF,t_70" /></p> 
 </details>
