@@ -159,12 +159,20 @@ C:\Windows\System32\drivers\etc\hosts
 
 127.0.0.1	lmlicenses.wip4.adobe.com
 
+#屏蔽Corel CDR 及 会声会影:
+
 127.0.0.1  ipm.corel.com
+
 127.0.0.1  mc.corel.com
+
 127.0.0.1  content.corel.com
+
 127.0.0.1  65.200.22.154
+
 127.0.0.1  65.200.22.99
+
 127.0.0.1  ipp.corel.com
+
 127.0.0.1  secure.ipp.corel.com
 
 HOST处理后，一般情况下无需断网安装。如果要激活的产品处于试用状态则必须断网才能输入序列号再离线激活。
