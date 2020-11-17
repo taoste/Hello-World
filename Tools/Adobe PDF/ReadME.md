@@ -159,6 +159,14 @@ C:\Windows\System32\drivers\etc\hosts
 
 127.0.0.1	lmlicenses.wip4.adobe.com
 
+127.0.0.1  ipm.corel.com
+127.0.0.1  mc.corel.com
+127.0.0.1  content.corel.com
+127.0.0.1  65.200.22.154
+127.0.0.1  65.200.22.99
+127.0.0.1  ipp.corel.com
+127.0.0.1  secure.ipp.corel.com
+
 HOST处理后，一般情况下无需断网安装。如果要激活的产品处于试用状态则必须断网才能输入序列号再离线激活。
 
 注意：全局代理环境（如VPN）下HOST不起作用，必须在防火墙中屏蔽adobe_licutil.exe的网络访问
