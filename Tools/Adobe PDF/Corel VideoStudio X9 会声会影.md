@@ -1,7 +1,7 @@
 <details>
     <summary>
-    <b>技巧：<a href=" https://www.cnblogs.com/lhuser/p/10101891.html">绘声绘影 设置不联网</a></b>
-     </summary> 
+    <b>技巧：《<a href=" https://www.cnblogs.com/lhuser/p/10101891.html">绘声绘影 设置不联网</a>》</b>
+     </summary> </br>
       <p><span style="font-size: x-large"><span style="color: rgba(255, 0, 0, 1)">前言</span>：很多朋友安装完会声会影X10正式版，发现启动速度比之前版本都慢得多，甚至比X9.5还要慢，这是什么原因呢？</span><br><br><span style="font-size: x-large"><span style="color: rgba(255, 0, 0, 1)">分析</span>：使用了会声会影X10之后，大家不难发现会声会影X10比之前版本都增加了一个“欢迎”界面，官方称之为“欢迎书(英文版里写的是welcome book)”，里面都是一些需要付费使用的模板、素材之类的；另外从会声会影X9.3版本开始增加的2个付费音乐库，在X10中依然存在。因此，楼主大胆推测<span style="color: rgba(153, 50, 204, 1)">会声会影X10启动缓慢的主要原因是联网加载在线收费项目</span>，而这些在线项目的加载需要连接到国外服务器，所以势必会影响会声会影启动速度。实际测试的结果，证明楼主的推测完全正确，屏蔽联网后，“欢迎”界面不会再显示，2个收费音乐库也会消失，启动速度快很多，此外，屏蔽联网还可以解决会声会影X9.7及会声会影X10卡顿问题。请继续往下看。</span><br><br><span style="font-size: x-large"><span style="color: rgba(255, 0, 0, 1)">解决思路</span>：利用系统自带的防火墙来屏蔽会声会影联网，或者使用hosts屏蔽联网加载收费项目。</span><span style="font-size: x-large"><br></span><br><span style="font-size: x-large"><span style="color: rgba(255, 0, 0, 1)">具体方法</span>：</span><br><br><span style="font-size: x-large">提醒：请确保至少打开过会声会影一次，并已经在邮箱注册界面填写了邮箱，才能使用下面的方法。</span><br><br></p>
 <div align="center"><span style="font-size: xx-large"><span style="color: rgba(255, 0, 0, 1)"><span>方法一：通过设置防火墙出站规则禁止会声会影联网</span></span></span></div>
 <p>
