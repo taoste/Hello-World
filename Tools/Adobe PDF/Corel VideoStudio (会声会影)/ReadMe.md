@@ -1,3 +1,5 @@
+<li>【<a href="http://help.corel.com/videostudio/cs/user-guide/videostudio-2020.pdf">会声会影-官网</a>】<a href="https://github.com/taoste/Hello-World/raw/master/Tools/Adobe%20PDF/Corel%20VideoStudio%20(%E4%BC%9A%E5%A3%B0%E4%BC%9A%E5%BD%B1)/videostudio-2020.pdf">Corel® VideoStudio® 2020 用户指南</a></li>
+
 <details>
     <summary>
     <b>技巧：<a href="https://www.yutu.cn/softhtml/showsoft_1948.html">会声会影9激活码【会声会影9注册机】序列号生成器64/32位下载</a>|羽兔网</b>
