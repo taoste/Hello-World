@@ -1,4 +1,4 @@
-<li><a href="https://go.choong.net/Corel/">🔗</a><b>【<a href="http://help.corel.com/videostudio/cs/user-guide/videostudio-2020.pdf">会声会影-官网|在线阅读</a>】《<a href="https://github.com/taoste/Hello-World/raw/master/Tools/Adobe%20PDF/Corel%20VideoStudio%20(%E4%BC%9A%E5%A3%B0%E4%BC%9A%E5%BD%B1)/videostudio-2020.pdf">Corel® VideoStudio® 2020 用户指南</a>》</b></li>
+<li><a href="https://go.choong.net/Corel/">🔗</a><b>【<a href="http://help.corel.com/videostudio/cs/user-guide/videostudio-2020.pdf">会声会影|官网</a>】《<a href="https://github.com/taoste/Hello-World/raw/master/Tools/Adobe%20PDF/Corel%20VideoStudio%20(%E4%BC%9A%E5%A3%B0%E4%BC%9A%E5%BD%B1)/videostudio-2020.pdf">Corel® VideoStudio® 2020 用户指南</a>|<a href="http://help.corel.com/videostudio/cs/user-guide/videostudio-2020.pdf">在线阅读</a>》</b></li>
 <br/>
 <details>
     <summary>
