@@ -205,10 +205,10 @@
 </table> </details>
 
 <details>
-   <summary>  <b>HTML图文分享简易代码：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a></b>》
+   <summary>  <b>HTML图文分享简易代码：《<a href="https://www.jb51.net/web/720878.html" title="HTML页面插入SVG的多种方式">HTML页面插入SVG的多种方式</a>》<br/>
+	   <a href="https://www.jb51.net/web/740948.html" title="HTML中图片不存在显示默认图片的方法示例_HTML/Xhtml_网页制作_脚本之家">HTML中图片不存在显示默认图片的方法示例</a></b>
 </summary>
-<table> 
-	
+<table> 	
 <code><pre>
 <!DOCTYPE html>
 <html lang="en-US">
