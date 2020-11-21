@@ -209,7 +209,7 @@
 	   <a href="https://www.jb51.net/web/740948.html" title="HTML中图片不存在显示默认图片的方法示例_HTML/Xhtml_网页制作_脚本之家">HTML中图片不存在显示默认图片的方法示例</a></b>
 </summary>
 <table> 	
-<code><pre>
+<code>
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -227,7 +227,7 @@
   </p>
 </body>
 </html>
-</code></pre>
+</code>
 
 </table> </details>
 
