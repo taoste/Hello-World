@@ -209,26 +209,26 @@
 	   <a href="https://www.jb51.net/web/740948.html" title="HTML中图片不存在显示默认图片的方法示例_HTML/Xhtml_网页制作_脚本之家">HTML中图片不存在显示默认图片的方法示例</a></b>
 </summary>
 <table> 	
-<code>
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>《都要脱钩了，怎么每次还大惊小怪？》</title>
-  <link rel="icon" href="/images/share.jpg" > 
-</head>
-<body bgcolor="#1B1B1B" text="#000000">
-  <p style="text-align:center">
-   <a href="https://github.com/inchoong/go/raw/master/s/wx/20200723/0.PNG" title="《都要脱钩了，怎么每次还大惊小怪？》">
-   <img src="https://github.com/inchoong/go/blob/master/s/wx/20200723/0.PNG?raw=true" />
-   </a>
-  </p>
-</body>
-</html>
-</code>
-
+<p>全部的代码</p>
+<div class="jb51code">
+<pre class="brush:xhtml;">
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;《都要脱钩了，怎么每次还大惊小怪？》&lt;/title&gt;
+  &lt;link rel="icon" href="/images/share.jpg" > 
+&lt;/head&gt;
+&lt;body bgcolor="#1B1B1B" text="#000000"&gt;
+  &lt;p style="text-align:center"&gt;
+   &lt;a href="https://github.com/inchoong/go/raw/master/s/wx/20200723/0.PNG" title="《都要脱钩了，怎么每次还大惊小怪？》"&gt;
+   &lt;img src="https://github.com/inchoong/go/blob/master/s/wx/20200723/0.PNG?raw=true" /&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
 </table> </details>
 
 收缩折叠显示代码：
