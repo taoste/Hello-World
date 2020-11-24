@@ -1,8 +1,6 @@
-- [**DNS 服务器列表**](https://github.com/taoste/Hello-World/blob/master/Tools/hosts/dns-server-list.md)
-
 <details>
     <summary>
-      <a href="https://www.zhihu.com/question/32229915">推荐</a>：<a href="https://github.com/taoste/Hello-World/blob/master/Tools/hosts/dns-server-list.md">DNS 服务器列表</a>
+      <a href="https://www.zhihu.com/question/32229915">推荐</a>：<b><a href="https://github.com/taoste/Hello-World/blob/master/Tools/hosts/dns-server-list.md">DNS 服务器列表</a></b>
      </summary> 
      作者：橱柜扫地僧<br>链接：https://www.zhihu.com/question/32229915/answer/574532020<br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
