@@ -1,12 +1,21 @@
 <details>
     <summary>
       <a href="https://www.zhihu.com/question/32229915">推荐</a>：<b><a href="https://github.com/taoste/Hello-World/blob/master/Tools/hosts/dns-server-list.md">DNS 服务器列表</a></b>
- <p>
+    <h2><a href="https://help.aliyun.com/document_detail/171664.html" title="DNS over HTTPs(DoH)_API文档_阿里云公共DNS | 阿里云">DNS over HTTPs(DoH)_API文档_阿里云公共DNS</a></h2>
+<blockquote>阿里公共DNS通过RFC 8484指定的经过TLS加密的HTTP连接提供DNS解析<br>
+DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
+<li>https://dns.alidns.com/dns-query?</li>
+<li>https://alidns_ip/dns-query?</li>
+<li>https://user_id.alidns.com/dns-query?</li>
+</blockquote>       
+        <h2>
+            <a href="https://www.iplaysoft.com/dnsjumper.html" title="DNS Jumper - 方便一键快速切换网卡DNS地址设置的免费实用工具 (批量测速/清空缓存等) - 异次元软件下载">DNS 快速切换工具</a> : <a href="https://www.sordum.org/7952/dns-jumper-v2-2/" title="Dns Jumper v2.2 - A Free DNS Changer | Dns Jumper(DNS设置工具) V2.2 绿色免费版">Dns Jumper(DNS设置工具) V2.2 绿色免费版</a></h2>
+     </summary> 
+     <p>
      <a href="https://alidns.com/" title="阿里DNS"><img src="https://github.com/taoste/Hello-World/blob/master/Tools/hosts/alidns.png?raw=true" /> </a>
      <blockquote>IPv4 地址<br>&nbsp;&nbsp;&nbsp;首选：223.5.5.5<br>&nbsp;&nbsp;&nbsp;备用：223.6.6.6<br>
         IPv6 地址<br>&nbsp;&nbsp;&nbsp;首选：2400:3200::1<br>&nbsp;&nbsp;&nbsp;备用：2400:3200:baba::1</blockquote>
 </p>
-     </summary> 
      作者：橱柜扫地僧<br>链接：https://www.zhihu.com/question/32229915/answer/574532020<br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
 <div>
@@ -60,7 +69,7 @@
 <p>OneDNS 是一个安全、快速、免费的小众 DNS 服务。它能屏蔽恶意网站、摆脱无良 ISP 的 DNS 污染与劫持。同时横跨南北的高速线路加速您的网络连接。</p>
 <blockquote>IPv4 地址<br>首选：117.50.11.11<br>备用：117.50.22.22</blockquote>
 <figure data-size="normal">
-<br>
+<hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
 </figure>
 <p>
 <b>国外</b>
