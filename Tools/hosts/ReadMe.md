@@ -4,70 +4,197 @@
     <summary>
       <a href="https://www.zhihu.com/question/32229915">推荐</a>：<a href="https://github.com/taoste/Hello-World/blob/master/Tools/hosts/dns-server-list.md">DNS 服务器列表</a>
      </summary> 
-       DNS （Domain Name System 的缩写）的作用非常简单，就是根据域名查出IP地址，你可以把它想象成一本巨大的电话本。
-原理可见下图： src=\"https:\u002F\u002Fpic3.zhimg.com\u002F50\u002Fv2-5b4da6a8d1ca345b2eb124738844addc_hd.jpg?source=1940ef5c\" 
-"https:\u002F\u002Fpic4.zhimg.com\u002F50\u002Fv2-ad7b4a44c50d6edea7723abb2e4e1a38_hd.jpg?
-https:\u002F\u002Fpic1.zhimg.com\u002Fv2-5b4da6a8d1ca345b2eb124738844addc_r.jpg?source=1940ef5c"
-给大家推荐一些优秀的 DNS 解析服务，方便在不同的场景中使用，\u003Cb\u003E解决无法上网的问题和起到加速 \u002F 防劫持的作用\u003C\u002Fb\u003E 。
- \u003C\u002Fp\u003E\u003Cp\u003E\u003Cu\u003E以下列表中包含符号 「\u003Cb\u003E★\u003C\u002Fb\u003E」 的 DNS 服务较为优质。
- \u003C\u002Fu\u003E\u003C\u002Fp\u003E\u003Ch2\u003E\u003Cb\u003E国内\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E
- 同一个 DNS 服务器在不同国家不同地区的表现并不完全相同，解析速度、响应时间等都有所区别，所以建议大家多多对比。
- \u003C\u002Fp\u003E\u003Ch2\u003E\u003Cb\u003E★ DNSPod Public DNS+\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E
- Public DNS+ 是属于 腾讯云旗下的公共 DNS 服务。拥有 80 多条国内线路和 4 条海外线路，
- 有 BGP Anycast 技术，也是国内首家支持谷歌 ECS (edns-client-subnet) 协议的公共 DNS 解析服务。
- 它只使用一个 IP，但有三地集群容灾和秒级自动故障切换，在国内大多数地方的测速数据都非常好，值得推荐。
- \u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：
- 119.29.29.29\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E
- ★ AliDNS 阿里公共 DNS 解析服务\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E
- 阿里公共 DNS 是 阿里云 推出的免费 DNS 递归解析系统，宣称全球数百台服务器组成的集群，
- 拥有充足的带宽资源，目标是成为国内互联网基础设施的组成部分，支持 BGP Anycast 以及 ECS 技术。
- \u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E
- 首选：223.5.5.5\u003Cbr\u002F\u003E备用：223.6.6.6\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E
- ★ 114 DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E\u003Cb\u003E114 DNS\u003C\u002Fb\u003E 
- 在国内的用户量相当巨大，其 DNS 解析成功率高，与 ISP 的 DNS 相比，能访问更多的国内外网站；
- 号称纯净、无劫持、无需再忍受被强插广告或粗俗网站之痛苦；114DNS 做得比较早，有一定的技术积累，
- 稳定性不错，尽管速度比前两者差一点点，但也都能让人满意。它还有一个特色，
- 就是根据不同用途可以选择不同的 DNS 组。推荐，笔者正在是使用。
- \u003C\u002Fp\u003E\u003Cblockquote\u003E常规公共 DNS (干净无劫持)\u003Cbr\u002F\u003E
- 首选：114.114.114.114 \u003Cbr\u002F\u003E备选：114.114.115.115\u003Cbr\u002F\u003E
- 拦截钓鱼病毒木马网站 (保护上网安全)\u003Cbr\u002F\u003E首选：114.114.114.119\u003Cbr\u002F\u003E
- 备用：114.114.115.119\u003Cbr\u002F\u003E拦截色情网站 (保护儿童)\u003Cbr\u002F\u003E
- 首选：114.114.114.110\u003Cbr\u002F\u003E备用：114.114.115.110\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E
- ★ 百度 BaiduDNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E百度 DNS 公共解析服务，支持 ipv4 和 ipv6。
- 作为中国最大的搜索引擎，百度拥有一流的基础设施和强大技术实力，国内速度相当快！该服务快速稳定无劫持，
- 智能拦截恶意网站，支持 BGP Anycast 和 ECS 技术。\u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 
- 地址：180.76.76.76\u003Cbr\u002F\u003EIPv6 地址：2400:da00::6666\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E
- 360 DNS 派 （DNSpai Public DNS）\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E
- DNS 派是由 360 出品的免费公众 DNS 解析服务。它可以让网上冲浪更加稳定、快速、安全；为家庭拦截钓鱼网站，过滤非法网站，
- 建立一个绿色健康的网上环境；为域名拼写自动纠错等。\u003C\u002Fp\u003E\u003Cblockquote\u003E
- 首选（电信 \u002F 移动 \u002F 铁通）：101.226.4.6\u003Cbr\u002F\u003E
- 备选（电信 \u002F 移动 \u002F 铁通）：218.30.118.6\u003Cbr\u002F\u003E首选（联通）：123.125.81.6\u003Cbr\u002F\u003E
- 备选（联通）：140.207.198.6\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003ECNNIC s
- DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003EsDNS (SecureDNS，简称 sDNS) 是由中国互联网络信息中心 CNNIC 
- 与国内外电信运营商合作推出的免费公共云解析服务，旨在为用户提供高速、安全、智能的上网接入解析服务。
- sDNS 递归云解析服务采用 IP Anycast+BGP 技术跨区域、跨运营商的分布式异构部署，比运营商提供的 DNS 更快更稳定。
- \u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：1.2.4.8\u003Cbr\u002F\u003E
- 备用：210.2.4.8\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003EOneDNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E
- OneDNS 是一个安全、快速、免费的小众 DNS 服务。它能屏蔽恶意网站、摆脱无良 ISP 的 DNS 污染与劫持。
- 同时横跨南北的高速线路加速您的网络连接。\u003C\u002Fp\u003E\u003Cblockquote\u003E
- IPv4 地址\u003Cbr\u002F\u003E首选：117.50.11.11\u003Cbr\u002F\u003E
- 备用：117.50.22.22
-
-国外
-顾名思义，国外的 DNS 当然是适合海外用户使用咯。而对于国内用户来说，尽管这些 DNS 服务器在国内访问速度不算快，但作用也不少，
-比如买了国外的 VPS 来搭建番 · 羽 · 土 · 啬相关的应用时，可以配置它使用国外的 DNS 等等。
-来自 Google 提供的免费全球公共 DNS 服务，主要为了改进网络浏览速度、改善网络用户的浏览体验。
-这个基本上不用多做什么介绍了，可能它也是目前全球范围内使用量最大的公共 DNS 了，老牌、稳定、技术强劲。
-IPv4 地址\u003Cbr\u002F\u003E首选：8.8.8.8\u003Cbr\u002F\u003E备用：8.8.4.4\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E
-首选：2001:4860:4860::8888\u003Cbr\u002F\u003E备用：2001:4860:4860::8844\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E
-★ CloudFlare DNS (1.1.1.1)\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003ECloudFlare DNS 是号称全球最快的 DNS 服务
- (当然天朝不算在全球范围内&gt;_&lt;)， CloudFlare 是全球最大的 CDN \u002F DDOS 防护服务提供商之一 (在国内与百度云加速合作)，
- 其遍布全球的基础设施资源极其丰富，资金和技术实力相当雄厚。在国外实测速度相当强劲，目前我已将海外的 VPS 全部换到此 DNS，
- 解析速度非常快，相当值得推荐！\u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E
- 首选：1.1.1.1\u003Cbr\u002F\u003E备用：1.0.0.1\u003Cbr\u002F\u003EIPv6 地址：\u003Cbr\u002F\u003E首选：2606:4700:4700::1111\u003Cbr\u002F\u003E
- 备用：2606:4700:4700::1001\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E
- IBM Quad9 (9.9.9.9)\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003EIBM 、Global Cyber Alliance 和 Packet Clearing House 合作推出的免费 Quad9 公共 DNS 服务 (9.9.9.9)，主打安全，它会智能屏蔽恶意网址、僵尸网络、钓鱼攻击和其它恶意主机相关联的域名，而且更注重隐私保护。对安全有需求的朋友可以使用这组 DNS。\u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：9.9.9.9\u003Cbr\u002F\u003E备用：149.112.112.112\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2620:fe::fe\u003Cbr\u002F\u003E备用：2620:fe::9\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003ECisco OpenDNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003EOpenDNS 是一个老牌的免费公共 DNS 提供商，后来被 Cisco (思科) 全资收购。\u003C\u002Fp\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：208.67.222.222\u003Cbr\u002F\u003E备用：208.67.220.220\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2620:0:ccc::2\u003Cbr\u002F\u003E备用：2620:0:ccd::2\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003EHurricane Electric Public DNS （HE）\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：74.82.42.42\u003Cbr\u002F\u003E备用：66.220.18.42\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2001:470:20::2\u003Cbr\u002F\u003E备用：2001:470:0:9d::2\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E科摩多 Comodo SecureDNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：8.26.56.26\u003Cbr\u002F\u003E备用：8.20.247.20\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003EVerisign Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：64.6.64.6\u003Cbr\u002F\u003E备用：64.6.65.6\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2620:74:1b::1:1\u003Cbr\u002F\u003E备用：2620:74:1c::2:2\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003ENeustar Recursive DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：156.154.70.1\u003Cbr\u002F\u003E备用：156.154.71.1\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2610:a1:1018::1\u003Cbr\u002F\u003E备用：2610:a1:1019::1\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003EORACLE Dyn Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：216.146.36.36\u003Cbr\u002F\u003E备用：216.146.35.35\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003ELevel3 Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：209.244.0.3\u003Cbr\u002F\u003E备用：209.244.0.4\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003EAlternate DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：23.253.163.53\u003Cbr\u002F\u003E备用：198.101.242.72\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E香港\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Ch2\u003E\u003Cb\u003E香港宽频 \u002F HKBN\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：203.80.96.10\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E和记环球电讯 DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：202.45.84.58\u003Cbr\u002F\u003E备用：202.45.84.59\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003EPacific SuperNet DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：202.14.67.4\u003Cbr\u002F\u003E备用：202.14.67.14\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E台湾\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Ch2\u003E\u003Cb\u003E中华电信 \u002F HiNet\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：168.95.1.1\u003Cbr\u002F\u003E备用：168.95.192.1\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2001:b000:168::1\u003Cbr\u002F\u003E备用：2001:b000:168::2\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E数位联合电信 \u002F Seednet\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：139.175.252.16\u003Cbr\u002F\u003E备用：139.175.55.244\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E台湾网路资讯 \u002F TWNIC Quad101 Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：101.101.101.101\u003Cbr\u002F\u003E备用：101.102.103.104\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2001:de4::101\u003Cbr\u002F\u003E备用：2001:de4::102\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E韩国\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Ch2\u003E\u003Cb\u003EKT olleh\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址：\u003Cbr\u002F\u003E首选：168.126.63.1\u003Cbr\u002F\u003E备用：168.126.63.2\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003ESK Broadband\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003E首选：210.220.163.82\u003Cbr\u002F\u003E备用：219.250.36.130\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003ELG U+\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003E首选：164.124.101.2\u003Cbr\u002F\u003E备用：203.248.252.2\u003Cbr\u002F\u003E首选：164.124.107.9\u003Cbr\u002F\u003E备用：203.248.242.2\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E其他国家\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Ch2\u003E\u003Cb\u003E俄罗斯 Yandex Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：77.88.8.8\u003Cbr\u002F\u003E备用：77.88.8.1\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2a02:6b8::feed:0ff\u003Cbr\u002F\u003E备用：2a02:6b8:0:1::feed:0ff\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E俄罗斯 SafeDNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：195.46.39.39\u003Cbr\u002F\u003E备用：195.46.39.40\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E德国 DNS.WATCH Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：84.200.69.80\u003Cbr\u002F\u003E备用：84.200.70.40\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2001:1608:10:25::1c04:b12f\u003Cbr\u002F\u003E备用：2001:1608:10:25::9249:d69b\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E瑞士 \u003Ca href=\"https:\u002F\u002Flink.zhihu.com\u002F?target=http%3A\u002F\u002Fxiala.net\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003E\u003Cspan class=\"invisible\"\u003Ehttp:\u002F\u002F\u003C\u002Fspan\u003E\u003Cspan class=\"visible\"\u003Exiala.net\u003C\u002Fspan\u003E\u003Cspan class=\"invisible\"\u003E\u003C\u002Fspan\u003E\u003C\u002Fa\u003E Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：77.109.148.136\u003Cbr\u002F\u003E备用：77.109.148.137\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2001:1620:2078:136::\u003Cbr\u002F\u003E备用：2001:1620:2078:137::\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E丹麦 UncensoredDNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：91.239.100.100\u003Cbr\u002F\u003E备用：89.233.43.71\u003Cbr\u002F\u003EIPv6 地址\u003Cbr\u002F\u003E首选：2001:67c:28a4::\u003Cbr\u002F\u003E备用：2a01:3a0:53:53::\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E荷兰 Freenom World Public DNS\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cblockquote\u003EIPv4 地址\u003Cbr\u002F\u003E首选：80.80.80.80\u003Cbr\u002F\u003E备用：80.80.81.81\u003C\u002Fblockquote\u003E\u003Ch2\u003E\u003Cb\u003E写在后面\u003C\u002Fb\u003E\u003C\u002Fh2\u003E\u003Cp\u003E你可以在路由器上设置公共 DNS，这将应用到你全部的设备。也可以根据需要只在某台电脑、手机上独立进行设置。Win、macOS、Linux 等系统的配置方法可以很容易搜索得到。\u003C\u002Fp\u003E\u003Cp\u003E而且不仅仅是电脑和手机，像 XBox、PS4 等游戏机或者任何网络设备，基本都可以设置 DNS 的。如果你玩游戏、下载游戏速度太慢太卡，也不妨试试更换一个 DNS 看看效果。\u003C\u002Fp\u003E\u003Cp\u003E如有使用和配置的问题，请留言询问。\u003C\u002Fp\u003E","editableContent":"","excerpt":"DNS （Domain Name System 的缩写）的作用非常简单，就是根据域名查出IP地址，你可以把它想象成一本巨大的电话本。原理可见下图： [图片] 给大家推荐一些优秀的 DNS 解析服务，方便在不同的场景中使用， 解决无法上网的问题和起到加速 \u002F 防劫持的作用 。 以下列表中包含符号 「★」 的 DNS 服务较为优质。
-国内同一个 DNS 服务器在不同国家不同地区的表现并不完全相同，解析速度、响应时间等都有所区别，所以建议大家多多对比。
+     作者：橱柜扫地僧<br>链接：https://www.zhihu.com/question/32229915/answer/574532020<br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>
+<hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
+<div>
+<p>DNS （Domain Name System 的缩写）的作用非常简单，就是根据域名查出IP地址，你可以把它想象成一本巨大的电话本。原理可见下图：</p>
+<p>
+<br>
+</p>
+<p>给大家推荐一些优秀的 DNS 解析服务，方便在不同的场景中使用，<b>解决无法上网的问题和起到加速 / 防劫持的作用</b> 。 </p>
+<p>
+<u>以下列表中包含符号 「<b>★</b>」 的 DNS 服务较为优质。</u>
+</p>
+<h2>
+<b>国内</b>
+</h2>
+<p>同一个 DNS 服务器在不同国家不同地区的表现并不完全相同，解析速度、响应时间等都有所区别，所以建议大家多多对比。</p>
+<h2>
+<b>★ DNSPod Public DNS+</b>
+</h2>
+<p>Public DNS+ 是属于 腾讯云旗下的公共 DNS 服务。拥有 80 多条国内线路和 4 条海外线路，有 BGP Anycast 技术，也是国内首家支持谷歌 ECS (edns-client-subnet) 协议的公共 DNS 解析服务。它只使用一个 IP，但有三地集群容灾和秒级自动故障切换，在国内大多数地方的测速数据都非常好，值得推荐。</p>
+<blockquote>IPv4 地址<br>首选：119.29.29.29</blockquote>
+<h2>
+<b>★ AliDNS 阿里公共 DNS 解析服务</b>
+</h2>
+<p>阿里公共 DNS 是 阿里云 推出的免费 DNS 递归解析系统，宣称全球数百台服务器组成的集群，拥有充足的带宽资源，目标是成为国内互联网基础设施的组成部分，支持 BGP Anycast 以及 ECS 技术。</p>
+<blockquote>IPv4 地址<br>首选：223.5.5.5<br>备用：223.6.6.6</blockquote>
+<h2>
+<b>★ 114 DNS</b>
+</h2>
+<p>
+<b>114 DNS</b> 在国内的用户量相当巨大，其 DNS 解析成功率高，与 ISP 的 DNS 相比，能访问更多的国内外网站；号称纯净、无劫持、无需再忍受被强插广告或粗俗网站之痛苦；114DNS 做得比较早，有一定的技术积累，稳定性不错，尽管速度比前两者差一点点，但也都能让人满意。它还有一个特色，就是根据不同用途可以选择不同的 DNS 组。推荐，笔者正在是使用。</p>
+<blockquote>常规公共 DNS (干净无劫持)<br>首选：114.114.114.114 <br>备选：114.114.115.115<br>拦截钓鱼病毒木马网站 (保护上网安全)<br>首选：114.114.114.119<br>备用：114.114.115.119<br>拦截色情网站 (保护儿童)<br>首选：114.114.114.110<br>备用：114.114.115.110</blockquote>
+<h2>
+<b>★ 百度 BaiduDNS</b>
+</h2>
+<p>百度 DNS 公共解析服务，支持 ipv4 和 ipv6。作为中国最大的搜索引擎，百度拥有一流的基础设施和强大技术实力，国内速度相当快！该服务快速稳定无劫持，智能拦截恶意网站，支持 BGP Anycast 和 ECS 技术。</p>
+<blockquote>IPv4 地址：180.76.76.76<br>IPv6 地址：2400:da00::6666</blockquote>
+<h2>
+<b>360 DNS 派 （DNSpai Public DNS）</b>
+</h2>
+<p>DNS 派是由 360 出品的免费公众 DNS 解析服务。它可以让网上冲浪更加稳定、快速、安全；为家庭拦截钓鱼网站，过滤非法网站，建立一个绿色健康的网上环境；为域名拼写自动纠错等。</p>
+<blockquote>首选（电信 / 移动 / 铁通）：101.226.4.6<br>备选（电信 / 移动 / 铁通）：218.30.118.6<br>首选（联通）：123.125.81.6<br>备选（联通）：140.207.198.6</blockquote>
+<h2>
+<b>CNNIC sDNS</b>
+</h2>
+<p>sDNS (SecureDNS，简称 sDNS) 是由中国互联网络信息中心 CNNIC 与国内外电信运营商合作推出的免费公共云解析服务，旨在为用户提供高速、安全、智能的上网接入解析服务。sDNS 递归云解析服务采用 IP Anycast+BGP 技术跨区域、跨运营商的分布式异构部署，比运营商提供的 DNS 更快更稳定。</p>
+<blockquote>IPv4 地址<br>首选：1.2.4.8<br>备用：210.2.4.8</blockquote>
+<h2>
+<b>OneDNS</b>
+</h2>
+<p>OneDNS 是一个安全、快速、免费的小众 DNS 服务。它能屏蔽恶意网站、摆脱无良 ISP 的 DNS 污染与劫持。同时横跨南北的高速线路加速您的网络连接。</p>
+<blockquote>IPv4 地址<br>首选：117.50.11.11<br>备用：117.50.22.22</blockquote>
+<figure data-size="normal">
+<br>
+</figure>
+<p>
+<b>国外</b>
+<br>
+</p>
+<p>顾名思义，国外的 DNS 当然是适合海外用户使用咯。而对于国内用户来说，尽管这些 DNS 服务器在国内访问速度不算快，但作用也不少，比如买了国外的 VPS 来搭建番 · 羽 · 土 · 啬相关的应用时，可以配置它使用国外的 DNS 等等。</p>
+<h2>
+<b>★ Google Public DNS (8.8.8.8)</b>
+</h2>
+<p>来自 Google 提供的免费全球公共 DNS 服务，主要为了改进网络浏览速度、改善网络用户的浏览体验。这个基本上不用多做什么介绍了，可能它也是目前全球范围内使用量最大的公共 DNS 了，老牌、稳定、技术强劲。</p>
+<blockquote>IPv4 地址<br>首选：8.8.8.8<br>备用：8.8.4.4<br>IPv6 地址<br>首选：2001:4860:4860::8888<br>备用：2001:4860:4860::8844</blockquote>
+<h2>
+<b>★ CloudFlare DNS (1.1.1.1)</b>
+</h2>
+<p>CloudFlare DNS 是号称全球最快的 DNS 服务 (当然天朝不算在全球范围内&gt;_&lt;)， CloudFlare 是全球最大的 CDN / DDOS 防护服务提供商之一 (在国内与百度云加速合作)，其遍布全球的基础设施资源极其丰富，资金和技术实力相当雄厚。在国外实测速度相当强劲，目前我已将海外的 VPS 全部换到此 DNS，解析速度非常快，相当值得推荐！</p>
+<blockquote>IPv4 地址<br>首选：1.1.1.1<br>备用：1.0.0.1<br>IPv6 地址：<br>首选：2606:4700:4700::1111<br>备用：2606:4700:4700::1001</blockquote>
+<h2>
+<b>IBM Quad9 (9.9.9.9)</b>
+</h2>
+<p>IBM 、Global Cyber Alliance 和 Packet Clearing House 合作推出的免费 Quad9 公共 DNS 服务 (9.9.9.9)，主打安全，它会智能屏蔽恶意网址、僵尸网络、钓鱼攻击和其它恶意主机相关联的域名，而且更注重隐私保护。对安全有需求的朋友可以使用这组 DNS。</p>
+<blockquote>IPv4 地址<br>首选：9.9.9.9<br>备用：149.112.112.112<br>IPv6 地址<br>首选：2620:fe::fe<br>备用：2620:fe::9</blockquote>
+<h2>
+<b>Cisco OpenDNS</b>
+</h2>
+<p>OpenDNS 是一个老牌的免费公共 DNS 提供商，后来被 Cisco (思科) 全资收购。</p>
+<blockquote>IPv4 地址<br>首选：208.67.222.222<br>备用：208.67.220.220<br>IPv6 地址<br>首选：2620:0:ccc::2<br>备用：2620:0:ccd::2</blockquote>
+<h2>
+<b>Hurricane Electric Public DNS （HE）</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：74.82.42.42<br>备用：66.220.18.42<br>IPv6 地址<br>首选：2001:470:20::2<br>备用：2001:470:0:9d::2</blockquote>
+<h2>
+<b>科摩多 Comodo SecureDNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：8.26.56.26<br>备用：8.20.247.20</blockquote>
+<h2>
+<b>Verisign Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：64.6.64.6<br>备用：64.6.65.6<br>IPv6 地址<br>首选：2620:74:1b::1:1<br>备用：2620:74:1c::2:2</blockquote>
+<h2>
+<b>Neustar Recursive DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：156.154.70.1<br>备用：156.154.71.1<br>IPv6 地址<br>首选：2610:a1:1018::1<br>备用：2610:a1:1019::1</blockquote>
+<h2>
+<b>ORACLE Dyn Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：216.146.36.36<br>备用：216.146.35.35</blockquote>
+<h2>
+<b>Level3 Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：209.244.0.3<br>备用：209.244.0.4</blockquote>
+<h2>
+<b>Alternate DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：23.253.163.53<br>备用：198.101.242.72</blockquote>
+<h2>
+<b>香港</b>
+</h2>
+<h2>
+<b>香港宽频 / HKBN</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：203.80.96.10</blockquote>
+<h2>
+<b>和记环球电讯 DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：202.45.84.58<br>备用：202.45.84.59</blockquote>
+<h2>
+<b>Pacific SuperNet DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：202.14.67.4<br>备用：202.14.67.14</blockquote>
+<h2>
+<b>台湾</b>
+</h2>
+<h2>
+<b>中华电信 / HiNet</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：168.95.1.1<br>备用：168.95.192.1<br>IPv6 地址<br>首选：2001:b000:168::1<br>备用：2001:b000:168::2</blockquote>
+<h2>
+<b>数位联合电信 / Seednet</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：139.175.252.16<br>备用：139.175.55.244</blockquote>
+<h2>
+<b>台湾网路资讯 / TWNIC Quad101 Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：101.101.101.101<br>备用：101.102.103.104<br>IPv6 地址<br>首选：2001:de4::101<br>备用：2001:de4::102</blockquote>
+<h2>
+<b>韩国</b>
+</h2>
+<h2>
+<b>KT olleh</b>
+</h2>
+<blockquote>IPv4 地址：<br>首选：168.126.63.1<br>备用：168.126.63.2</blockquote>
+<h2>
+<b>SK Broadband</b>
+</h2>
+<blockquote>首选：210.220.163.82<br>备用：219.250.36.130</blockquote>
+<h2>
+<b>LG U+</b>
+</h2>
+<blockquote>首选：164.124.101.2<br>备用：203.248.252.2<br>首选：164.124.107.9<br>备用：203.248.242.2</blockquote>
+<h2>
+<b>其他国家</b>
+</h2>
+<h2>
+<b>俄罗斯 Yandex Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：77.88.8.8<br>备用：77.88.8.1<br>IPv6 地址<br>首选：2a02:6b8::feed:0ff<br>备用：2a02:6b8:0:1::feed:0ff</blockquote>
+<h2>
+<b>俄罗斯 SafeDNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：195.46.39.39<br>备用：195.46.39.40</blockquote>
+<h2>
+<b>德国 DNS.WATCH Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：84.200.69.80<br>备用：84.200.70.40<br>IPv6 地址<br>首选：2001:1608:10:25::1c04:b12f<br>备用：2001:1608:10:25::9249:d69b</blockquote>
+<h2>
+<b>瑞士 <a href="https://link.zhihu.com/?target=http%3A//xiala.net" class=" external" target="_blank" rel="nofollow noreferrer" data-za-detail-view-id="1043">
+<span class="invisible">http://</span>
+<span class="visible">xiala.net</span>
+<span class="invisible">
+</span>
+</a> Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：77.109.148.136<br>备用：77.109.148.137<br>IPv6 地址<br>首选：2001:1620:2078:136::<br>备用：2001:1620:2078:137::</blockquote>
+<h2>
+<b>丹麦 UncensoredDNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：91.239.100.100<br>备用：89.233.43.71<br>IPv6 地址<br>首选：2001:67c:28a4::<br>备用：2a01:3a0:53:53::</blockquote>
+<h2>
+<b>荷兰 Freenom World Public DNS</b>
+</h2>
+<blockquote>IPv4 地址<br>首选：80.80.80.80<br>备用：80.80.81.81</blockquote>
+<h2>
+<b>写在后面</b>
+</h2>
+<p>你可以在路由器上设置公共 DNS，这将应用到你全部的设备。也可以根据需要只在某台电脑、手机上独立进行设置。Win、macOS、Linux 等系统的配置方法可以很容易搜索得到。</p>
+<p>而且不仅仅是电脑和手机，像 XBox、PS4 等游戏机或者任何网络设备，基本都可以设置 DNS 的。如果你玩游戏、下载游戏速度太慢太卡，也不妨试试更换一个 DNS 看看效果。</p>
+<p>如有使用和配置的问题，请留言询问。</p>
+</div>
 </details>
 
 -----------------------------
