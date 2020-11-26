@@ -1,3 +1,17 @@
+- 【实测笔记】2020-11-26 10:00（周四） 龙运营-激活有效
+<blockquote>
+::解除原先金钥<br/>
+slmgr.vbs -upk<br/>
+::选择金钥，请依照底下的金钥列表作选择<br/>
+slmgr.vbs -ipk BXW2K-N7JJT-TK3PJ-QYY3Y-FGDGY<br/>
+::设定KMS伺服器<br/>
+slmgr.vbs -skms 172.17.0.29<br/>
+::启动<br/>
+slmgr.vbs -ato<br/>
+::显示KMS相关资讯<br/>
+slmgr.vbs -dlv<br/>
+</blockquote>
+
 - 最新windows xp sp3序列号(通过正版验证) MRX3F-47B9T-2487J-KWKMF-RPWBY(工行版)
 
 [Win10专业版激活密钥分享](http://www.xitongzhijia.net/xtjc/20180117/117935.html)-系统之家
