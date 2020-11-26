@@ -251,6 +251,8 @@ https://taoste.github.io/Hello-World/eBook/《这些道理没有人告诉过你�
 
 https://taoste.github.io/Hello-World/eBook/《图解服务的细节029：餐馆店长如何带队伍》.pdf
 
+https://taoste.github.io/Hello-World/eBook/[广告摄影技巧].熊谷晃.影印版.(ED2000.COM).pdf
+
 https://taoste.github.io/Hello-World/eBook/约翰·格雷：男人来自火星，女人来自金星%20(扫描版).pdf	
 
 https://taoste.github.io/Hello-World/eBook/t66y.com/技術討論區/养育小孩，我不想交【智商税】.pdf
