@@ -12,6 +12,72 @@
 - **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
 （ 对于家庭组，每个人都可以更轻松地在线浏览。 edge://settings/familySafety ）
 
+<details><a href="edge://surf" title="edge://surf | chrome://dino 微软Edge 是一款 HTML5 冲浪游戏，当断开网络或使用 edge://surf 可直接开始游戏，
+要求版本是 82+，可更新版；游戏类似于一款经典的滑雪游戏 SkiFree，这是微软于 1991 年作为 Windows Entertainment Pack 3 的一部分发布。
+">edge://surf </a>离线版冲浪游戏<br>
+ <summary>
+ <a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1860277" title="edge://surf | chrome://dino 在线版-远景论坛-微软极客社区">
+ edge://surf | chrome://dino 在线版-远景论坛-微软极客社区</a>
+<br>
+</summary> 
+<li>1.右键点击开始按钮>运行,运行下面命令: notepad d:\开启热点.ps1</li><br>
+<img src="https://img-blog.csdnimg.cn/20200510151748481.png" height="200" width="350" /><br>
+<blockquote>
+<a href="https://github.com/inchoong/go/raw/master/s/wx/20200723/0.PNG" title="《都要脱钩了，怎么每次还大惊小怪？》">
+<img src="https://github.com/inchoong/go/blob/master/s/wx/20200723/0.PNG?raw=true" />
+</a>
+与 Chromium 的离线小恐龙类似，微软的 Edge 是一款冲浪游戏，<br>
+当断开网络或使用 edge://surf 可直接开始游戏，<br>
+要求版本是 82+，可更新版；<br>
+游戏类似于一款经典的滑雪游戏 SkiFree，<br>
+这是微软于 1991 年作为 Windows Entertainment Pack 3 的一部分发布。<br>
+<br>
+作为 HTML5 游戏，自然有高手将其提取出来，以便随时游戏；<br>
+以下便是各种在线版，提供源码，快去试试吧！<br>
+<br>
+SkiFree 在线版：<br>
+http://skifreeonline.com/<br>
+<br>
+Edge 的离线冲浪：edge://surf<br>
+https://surf.jackbuehner.com/<br>
+https://rupansh.github.io/S.U.R.F./<br>
+<br>
+提取edge://surf/离线游戏<br>
+https://github.com/rupansh/S.U.R.F./<br>
+源码，基于 edge 80.0.320.5：<br>
+<br>
+Chrome 的离线小恐龙：chrome://dino<br>
+请用 chrome 打开，测试 cent 和 edge 好像不能动<br>
+<br>
+在线：https://wayou.github.io/t-rex-runner/<br>
+源码：https://github.com/wayou/t-rex-runner<br>
+<br>
+在线：https://chirag64.github.io/t-rex-runner-bot/<br>
+源码：https://github.com/chirag64/t-rex-runner-bot<br>
+<br>
+其他变种：<br>
+Kumamon runner<br>
+在线：http://vianroyal.github.io/t-rex-runner/<br>
+源码：https://github.com/vianroyal/t-rex-runner<br>
+<br>
+Hello KuGou<br>
+在线：http://hellokugou.com/<br>
+源码：https://github.com/xkuga/t-rex-runner<br>
+<br>
+Novas coisas<br>
+在线：http://d-nery.github.io/t-rex-runner/<br>
+源码：https://github.com/d-nery/t-rex-runner<br>
+<br>
+t-rex runner<br>
+在线：https://19janil.github.io/t-rex-runner/<br>
+源码：https://github.com/19janil/t-rex-runner<br>
+<br>
+Chrome Trip by code0<br>
+在线：https://code0.itch.io/chrome-trip<br>
+源码：[url]https://github.com/enthus1ast/chromeTrip<br>
+<br></blockquote>
+</details>
+
 -------------------------------------------------
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
