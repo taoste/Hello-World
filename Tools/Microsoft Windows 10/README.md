@@ -12,7 +12,7 @@
 - **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
 （ 对于家庭组，每个人都可以更轻松地在线浏览。 edge://settings/familySafety ）
 
-<details><summary><a href="edge://surf" title="surf是微软Edge的一款 HTML5 冲浪游戏，当断开网络或使用 edge://surf 可直接开始游戏，要求版本是 82+，可更新版；游戏类似于一款经典的滑雪游戏 SkiFree，这是微软于 1991 年作为 Windows Entertainment Pack 3 的一部分发布。">edge://surf</a> | <a href="chrome://dino" title="Chromium 的离线HTML5 冲浪游戏：小恐龙">chrome://dino</a> 离线版冲浪游戏<br><br>
+<details><summary><a href="edge://surf" title="surf是微软Edge的一款 HTML5 冲浪游戏，当断开网络或使用 edge://surf 可直接开始游戏，要求版本是 82+，可更新版；游戏类似于一款经典的滑雪游戏 SkiFree，这是微软于 1991 年作为 Windows Entertainment Pack 3 的一部分发布。">edge://surf</a> | <a href="chrome://dino" title="Chromium 的离线HTML5 冲浪游戏：小恐龙">chrome://dino</a> 离线版冲浪游戏<br>
   </summary> <br>
 <a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1860277" title="edge://surf | chrome://dino 在线版-远景论坛-微软极客社区">edge://surf | chrome://dino 在线版-远景论坛-微软极客社区</a>
 <br>
