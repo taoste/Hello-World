@@ -3,7 +3,7 @@
 <blockquote>
 <li><a href="https://mp.weixin.qq.com/s/fIWFSuYat6uKyr3j0mEUOg">这4款小众却实用的Windows神器，让你的电脑好看一倍！</a>(秋叶PPT 2020-11-29)</li>
 </summary>
-<img src="https://mmbiz.qpic.cn/mmbiz_png/23uuOH1JvDicDTol5gCjEica4n82cibCObVaIXWZGQz0mqWJc9ic433ovQkmnX9eb0dMZuWViaIdnO7fj5Mo9AW3usg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" />
+<img src="https://mmbiz.qpic.cn/mmbiz_png/23uuOH1JvDicDTol5gCjEica4n82cibCObVaIXWZGQz0mqWJc9ic433ovQkmnX9eb0dMZuWViaIdnO7fj5Mo9AW3usg/640" />
 </blockquote>
 </details>
 <h2 class="post-title">软件介绍</h2>
