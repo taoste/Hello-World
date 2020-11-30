@@ -629,3 +629,8 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 (@[Github](https://github.com/lindexi)\@[Twitter](https://twitter.com/lindexi_gd) \ @[Facebook](https://www.facebook.com/lindexi) \ @[Blog](https://lindexi.github.io/lindexi/) \ @[CSDN博客](https://blog.csdn.net/lindexi_gd) )
 
 (@[Github](https://github.com/walterlv)\@[Twitter]() \ @[Facebook]() \ @[Blog]() \ @[CSDN博客]() )
+
+----------------------------------------------------
+
+品牌电脑BIOS重启快捷键表:
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E5%93%81%E7%89%8C%E7%94%B5%E8%84%91BIOS%E9%87%8D%E5%90%AF%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%A1%A8.jpg?raw=true" />
