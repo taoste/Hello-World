@@ -171,6 +171,22 @@
 ------------------------------------------------------------------------------
 
 <details>
+    <summary> <b>秋叶PPT(微信号：ppt100)：</b>  </summary> 
+2020年秋叶同学会嘉宾分享PPT源文件（典藏版）
+<blockquote>
+链接：https://pan.baidu.com/s/1FNrvOQK_aBPjFmwiL28Avg <br />
+提取码：j74r 
+</blockquote>	
+2019年秋叶同学会PPT源文件分享
+<blockquote>
+链接: https://pan.baidu.com/s/1rRJ6k1y5NhxeP-K--RmqSQ  <br />
+提取码: ytq6
+</blockquote>	
+ </details>
+ 
+------------------------------------------------------------------------------
+
+<details>
     <summary> <b>快速提取文件名称</b>  
 	<li> DIR *.*/B>LIST.TXT </li>
 	</summary> 
