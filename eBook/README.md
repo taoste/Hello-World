@@ -257,6 +257,8 @@ https://taoste.github.io/Hello-World/eBook/约翰·格雷：男人来自火星�
 
 https://taoste.github.io/Hello-World/eBook/t66y.com/技術討論區/养育小孩，我不想交【智商税】.pdf
 
+https://share.choong.net/eBooks/阿里云《玩转ECS云服务器从入门到精通》.pdf
+
 -------------------------------------------------------------------------------
 
 <p>
