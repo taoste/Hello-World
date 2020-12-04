@@ -9,7 +9,7 @@
 <details>
     <summary>
     <a href="https://github.com/taoste/Hello-World/blob/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/">Tips</a> : <b><a href="https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html">新版WPS建立右键新建菜单</a></b> - 百度经验
-     </summary>   
+     </summary> <br/>  
 ☞ </b>解决方法（一）</b><br/> <br/> 
 >> 1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。<br/> <br/> 
 >> 2.【操作方法】WPS添加“建立右键新建菜单”：<br/> <br/> 
@@ -20,7 +20,7 @@
 >>>> 如果没有出现，可以尝试重启电脑。)<br/> <br/> 
 >>> 2.2 <b>WPS表格</b>和<b>WPS演示</b>的<b>默认文件类型</b>分别<b>为*.et和*.dps</b><br/> 
 >>>> <b>HKEY_CLASSES_ROOT\.et</b> ，在<b>KET.Workbook.9</b>下新建 <b>ShellNew</b>，并在右侧窗格新建<b>NullFile</b>;<br/> 
->>>> <b>HKEY_CLASSES_ROOT\.dps</b> ，在<b>KWPP.Presentation.9</b>下新建 <b>ShellNew</b> ，并在右侧窗格新建 <b>NullFile</b> 。
+>>>> <b>HKEY_CLASSES_ROOT\.dps</b> ，在<b>KWPP.Presentation.9</b>下新建 <b>ShellNew</b> ，并在右侧窗格新建 <b>NullFile</b> 。<br/><br/>
 ☞ <b>解决方法（二）</b><br/> 
 > <img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E9%87%91%E5%B1%B1&%E7%8C%8E%E8%B1%B9/Win10-WPS-SoS.png?raw=true" title="新版WPS建立右键新建菜单的解决方案"  />
 </details>
