@@ -10,7 +10,7 @@
     <summary>
     <a href="https://github.com/taoste/Hello-World/blob/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/">Tips</a> : <b><a href="https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html">新版WPS建立右键新建菜单</a></b> - 百度经验
      </summary> <br/>  
-☞ </b>解决方法（一）</b><br/> <br/> 
+☞ <b>解决方法（一）</b><br/><br/> 
 >> 1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。<br/> <br/> 
 >> 2.【操作方法】WPS添加“建立右键新建菜单”：<br/> <br/> 
 >>> 2.1 <b>WPS文字</b>的<b>默认文件类型</b>为*.wps<br/> <br/> 
