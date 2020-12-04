@@ -190,7 +190,7 @@
 </div>
 </div>
 <div class="bendi-down" style="margin: 25px 20px 0px 0px; padding: 0px; float: right;">
-<a href="https://www.jyrd.com/d/h90032.html#xzdz" class="bendi orientation nodownloadurl" rel="nofollow" style="margin: 0px 20px 0px 0px; padding: 0px; text-decoration-line: none; cursor: pointer; color: rgb(255, 255, 255); display: inline-block; width: 105px; height: 36px; background: rgb(30, 197, 86); font-size: 16px; text-align: center; line-height: 36px; border-radius: 6px;">本地下载</a>&nbsp;<a class="gaosuxz" rel="nofollow" style="margin: 0px 20px 0px 0px; padding: 0px; cursor: pointer; color: rgb(255, 255, 255); display: inline-block; width: 105px; height: 36px; background: rgb(245, 153, 18); font-size: 16px; text-align: center; line-height: 36px; border-radius: 6px;">高速下载</a>
+<a href="https://www.jyrd.com/d/h90032.html#xzdz" class="bendi orientation nodownloadurl" rel="nofollow" style="margin: 0px 20px 0px 0px; padding: 0px; text-decoration-line: none; cursor: pointer; color: rgb(255, 255, 255); display: inline-block; width: 105px; height: 36px; background: rgb(30, 197, 86); font-size: 16px; text-align: center; line-height: 36px; border-radius: 6px;">本地下载</a>&nbsp;<a href="http://43190.xc.05cg.com/xiaz/wps2019%E4%B8%93%E4%B8%9A%E7%89%88%E5%BA%8F%E5%88%97%E5%8F%B7%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB@1725_h90032.exe" class="gaosuxz" rel="nofollow" style="margin: 0px 20px 0px 0px; padding: 0px; cursor: pointer; color: rgb(255, 255, 255); display: inline-block; width: 105px; height: 36px; background: rgb(245, 153, 18); font-size: 16px; text-align: center; line-height: 36px; border-radius: 6px;">高速下载</a>
 </div>
 </div>
 <div class="content" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: &quot;Microsoft YaHei&quot;;">
@@ -202,7 +202,7 @@
 <p style="margin: 0px; padding: 5px 0px 14px; text-indent: 2em;">
 <strong style="margin: 0px; padding: 0px;">WPS Office 2019专业版</strong>(内附终身授权序列号)是一款电脑办公应用软件，wps2019专业版功能非常强大，支持最常用的文字、表格、演示功能，还有流程图、思维导图、便签、PDF功能可以使用，免费体验体验一站式办公。</p>
 <div style="margin: 0px; padding: 0px; text-align: center;">
-<img alt="wps2019专业版序列号*激活" src="https://img.jyrd.com:50010/uploadfile/2020/0717/20200717024417556.jpg" style="margin: 0px auto; padding: 0px; border: none; display: block; max-width: 100%; height: 375px; width: 600px;">
+<img alt="wps2019专业版序列号*激活" src="https://img.jyrd.com:50010/uploadfile/2020/0717/20200717024417556.jpg" />
 </div>
 <p style="margin: 0px; padding: 5px 0px 14px; text-indent: 2em;">
 <span style="margin: 0px; padding: 0px; color: rgb(0, 0, 255);">
