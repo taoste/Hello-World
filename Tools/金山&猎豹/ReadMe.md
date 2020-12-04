@@ -29,7 +29,7 @@
 
 <details>
     <summary>
-    <a href="https://github.com/taoste/Hello-World/blob/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/">Tips</a> : <b>
+    <a href="https://github.com/xiaoandx/blog/blob/master/article/wps-enterprise-edition.html">Tips</a> : <b>
 <a href="https://xiaoandx.github.io/blog/article/wps-enterprise-edition.html">WPS 2019专业版永久授权，支持手机和PC（远离广告）</a>
 </b>  |  一个拥有像素眼的后端工程师
      </summary> <br/>  
