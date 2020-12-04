@@ -31,7 +31,7 @@
     <summary>
     <a href="https://github.com/xiaoandx/blog/blob/master/article/wps-enterprise-edition.html">Tips</a> : <b>
 <a href="https://xiaoandx.github.io/blog/article/wps-enterprise-edition.html">WPS 2019专业版永久授权，支持手机和PC（远离广告）</a>
-</b>  |  一个拥有像素眼的后端工程师
+</b>  |  一个拥有像素眼的后端工程师 - <a href="https://blog.xiaoandx.club/">大眼睛工程师</a>
      </summary> <br/>  
   <article class="post-content">
     <h1>WPS2019专业版永久授权，支持手机和PC（远离广告）</h1>
