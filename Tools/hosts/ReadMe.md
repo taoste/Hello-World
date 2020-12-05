@@ -240,16 +240,22 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 > 
 > [#csdn.net](https://bgp.he.net/dns/csdn.net)
-> 47.95.164.112 csdn.net
+> 
+>> 47.95.164.112 csdn.net
 >
 > [#feedly.com](https://bgp.he.net/dns/feedly.com)
-> #104.20.60.241 feedly.com 
-> #104.20.59.241 feedly.co
+> 
+>> #104.20.60.241 feedly.com 
+> 
+>> #104.20.59.241 feedly.co
 >
 > [#mozilla.org](https://bgp.he.net/dns/mozilla.org)
-> 44.236.48.31 mozilla.org
-> 44.235.246.155 mozilla.org
-> 44.236.72.93 mozilla.org
+>
+>> 44.236.48.31 mozilla.org
+> 
+>> 44.235.246.155 mozilla.org
+> 
+>> 44.236.72.93 mozilla.org
 >
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
