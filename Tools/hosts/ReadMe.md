@@ -237,6 +237,18 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 > 
 > [t66y](https://bgp.he.net/dns/sex.com) dns: 104.25.32.112 , 104.25.31.112
 > 
+>> 172.67.74.241 t66y.com
+> 
+>> 104.26.10.160 t66y.com
+> 
+>> 104.26.11.160 t66y.com
+> 
+>> 2606:4700:20::681A:AA0 t66y.com
+> 
+>> 2606:4700:20::AC43:4AF1 t66y.com
+> 
+>> 2606:4700:20::681A:BA0 t66y.com
+> 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 > 
 > [#CSDN.net](https://bgp.he.net/dns/csdn.net)
