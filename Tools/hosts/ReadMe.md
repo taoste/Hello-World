@@ -239,10 +239,14 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 > 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 > 
-> [#csdn.net](https://bgp.he.net/dns/csdn.net)
+> [#CSDN.net](https://bgp.he.net/dns/csdn.net)
 > 
 >> 47.95.164.112 csdn.net
+> 
+> [#GitHub.com](https://bgp.he.net/dns/github.com)
 >
+>> 140.82.114.3 github.com
+> 
 > [#feedly.com](https://bgp.he.net/dns/feedly.com)
 > 
 >> #104.20.60.241 feedly.com 
