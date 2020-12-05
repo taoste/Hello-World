@@ -247,6 +247,16 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 >
 >> 140.82.114.3 github.com
 > 
+> [#GitHub.io](https://bgp.he.net/dns/github.io)
+>
+>> 185.199.110.153 github.io
+>
+>> 185.199.111.153 github.io
+>
+>> 185.199.109.153 github.io
+>
+>> 185.199.108.153 github.io
+> 
 > [#feedly.com](https://bgp.he.net/dns/feedly.com)
 > 
 >> #104.20.60.241 feedly.com 
