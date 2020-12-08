@@ -61,3 +61,11 @@ VLan:
 - [x] [**虚拟机02：三种网络模式**](https://higoge.github.io/2015/06/24/vm02/) | [Learnit](https://higoge.github.io/)
 
 - [**route命令使用**](https://89ao.github.io/linux-route-usage/) | [89Ao.info](https://89ao.github.io/)
+
+<p style="text-align:center">
+   <a href="http://melogin.cn/" title="《 扫一扫下载APP,轻松管理路由器 192.168.1.1 》">水星MW310R路由器<br/>
+   <img src="https://github.com/taoste/Hello-World/blob/master/github/melogin.cn/QRcode_me.png?raw=true" /> <br/>
+     扫一扫下载APP <br/>
+轻松管理路由器
+   </a>
+  </p>
