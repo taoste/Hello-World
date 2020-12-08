@@ -133,7 +133,7 @@ Tor Browser 更新日志：view-source:**about:tbupdate**
 
 如果 Tor 无法正常运行，请发邮件至 help@rt.torproject.org。 请尽量详细地描述你的情况，包括所用的网桥及其类型，Tor 浏览器版本以及任何 Tor 显示的信息等等。
 
-- 网桥中继帮助
+- 网桥中继帮助 ( [**您需要什么帮助？** | Tor Project | 支持](https://support.torproject.org/zh-CN/) : [**规避审查** | Tor 项目 | Tor 浏览器用户手册](https://tb-manual.torproject.org/zh-CN/circumvention/) )
 > 如果 Tor 网络无法连接，可能是因为互联网服务提供商 (ISP) 或其他机构对 Tor 进行了封锁。通常，使用 Tor 网桥可以解决这种问题。网桥指未公开的网络中继，更难于封锁。您可以使用集成的网桥，也可以以下列方式获取一些网桥并手动输入：
 >
 >  **1.网页方式**
