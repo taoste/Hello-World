@@ -255,6 +255,16 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 > 
 >> 47.95.164.112 csdn.net
 > 
+> [#昵图网](https://bgp.he.net/dns/nipic.com)
+> 
+>> 122.226.73.53 nipic.com
+> 
+> [#千图网](https://bgp.he.net/dns/58pic.com)
+> 
+>> 47.105.124.157 58pic.com
+> 
+>> 114.215.127.78 58pic.com
+> 
 > [#GitHub.com](https://bgp.he.net/dns/github.com)
 >
 >> 140.82.114.3 github.com
