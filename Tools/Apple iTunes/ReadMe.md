@@ -30,6 +30,12 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 - 2018年09月27日：《[再过3个月 苹果低价更换iPhone电池的福利就要取消](https://www.cnbeta.com/articles/tech/772393.htm)》  - Apple iPhone - cnBeta.COM  
 
+- 《[快捷指令使用手册](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)》 - Apple 支持
+
+> 2020年12月18日：《[通过 Siri、“快捷指令”App 或“Siri 建议”运行快捷指令](https://support.apple.com/zh-cn/HT209055)》 - Apple 支持
+
+> 《[iPhone 功能太少？100 个必用快捷指令推荐！](https://zhuanlan.zhihu.com/p/69494410)》 - 知乎
+
 - 2020年04月28日：《[重新启动 iPhone](https://support.apple.com/zh-cn/HT201559)》 - Apple 支持
 
 - 2020年04月28日：《[强制重新启动 iPhone](https://support.apple.com/zh-cn/guide/iphone/iph8903c3ee6/ios)》 - Apple 支持
