@@ -34,7 +34,7 @@ Mac上录制屏幕和声音 · Issue #86 · bingoohuang/blog https://github.com/
 
 > 2020年12月18日：《[通过 Siri、“快捷指令”App 或“Siri 建议”运行快捷指令](https://support.apple.com/zh-cn/HT209055)》 - Apple 支持
 
-> 《[iPhone 功能太少？100 个必用快捷指令推荐！](https://zhuanlan.zhihu.com/p/69494410)》 - 知乎
+> 2019-06-17：《[iPhone 功能太少？100 个必用快捷指令推荐！](https://zhuanlan.zhihu.com/p/69494410)》 - 知乎
 
 - 2020年04月28日：《[重新启动 iPhone](https://support.apple.com/zh-cn/HT201559)》 - Apple 支持
 
