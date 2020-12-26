@@ -230,7 +230,7 @@ Alt+F4 关机快捷键。
 
 ---------------------------------------
 
-- 《[使用快速助手通过远程连接来解决电脑问题](https://support.microsoft.com/zh-cn/help/4027243/windows-10-solve-pc-problems-with-quick-assist)》(适用于： Windows 10) - [Windows 支持](https://support.microsoft.com/zh-cn/help/)
+- 《 远程桌面（ mstsc ）| [使用快速助手](https://support.microsoft.com/zh-cn/help/4027243/windows-10-solve-pc-problems-with-quick-assist)[通过远程连接来解决电脑问题](https://support.microsoft.com/zh-cn/windows/%E9%80%9A%E8%BF%87%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E6%9D%A5%E8%A7%A3%E5%86%B3%E7%94%B5%E8%84%91%E9%97%AE%E9%A2%98-b077e31a-16f4-2529-1a47-21f6a9040bf3)》(适用于： Windows 10) - [Windows 支持](https://support.microsoft.com/zh-cn/help/)
 
 > “快速助手 ( **QuickAssist.exe** ) ”是一个 Windows 10 应用。它允许你信任的人控制你的计算机并帮助你解决问题。若要开始使用，你的帮助人员需要启动快速助手应用，获取 6 位代码并与你共享。 
 ```
@@ -247,6 +247,8 @@ Alt+F4 关机快捷键。
         3.等待你的帮助人员，然后在显示的窗口中选择“允许”。
 ```
 上次更新时间：2019年4月30日
+
+
 
 ---------------------------------------
 
