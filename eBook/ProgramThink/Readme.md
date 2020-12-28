@@ -30,6 +30,10 @@
 >>
 >> 现在学英语是为了更好地了解中国
 
+- 中国人民是伟大的 —— 用全球7%的耕地养活了全球50%的公务员，并承受全球70%的官员腐败 ☹
+
+----------------------------------------------------
+
 [其它](http://www.zaoanyulu.com/):《[早安语录生成器](http://www.xhmbz.com/ZaoAn/index-PC-XH.htm)》@[传播企业正能量 DIY个性祝福语](https://club.dingding.xin/topic/2369/%E7%BE%A4%E6%97%A9%E5%AE%89%E8%AF%AD%E5%BD%95%E7%94%9F%E6%88%90%E5%99%A8-diy%E4%B8%AA%E6%80%A7%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 
 - 维基百科：[**史翠珊效应**](https://zh.wikipedia.org/wiki/史翠珊效应)
