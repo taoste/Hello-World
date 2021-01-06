@@ -11,14 +11,13 @@
 
 1.<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/Windows/BTSync-1.4.111.exe?raw=true" title="下载Windows软件 : BTSync-1.4.111.exe">下载软件</a>（绿色免安装，无需管理员权限即可使用） 【 [**64Bit**](https://www.filehorse.com/download-resilio-sync-64/20030/) 下载有巨大风险，[**非官方网站/安全性未经核实**](https://www.virustotal.com/gui/file/955a6c4a74f9f259cf78558357887a52aa80d95b6bf32c86aa492e8cce092b49/detection)】
 
-> <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/></a><a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt" style="color:#990066;text-decoration:none;">路径</a>： ./1.4.111/Windows/BTSync-1.4.111.exe  【<a href="https://program-think.blogspot.com/" title="🔗 编程随想的博客 | 主站点 (BlogSpot)  -- 需要“科学上网”方式访问GFW " style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>编程随想</a>	
-		<a href="https://github.com/programthink/books" title="【编程随想电子图书馆】【所有电子书】的清单。
-     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>电子图书馆</a>】 
+> 路径： ./1.4.111/Windows/BTSync-1.4.111.exe
   
 2.添加BT Sync 同步密钥KEY ( [BTSync 中继服务器 - @Google 搜索](https://www.google.com/search?q=BTSync+%E4%B8%AD%E7%BB%A7%E6%9C%8D%E5%8A%A1%E5%99%A8) )
 
-> 路径： ./<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt">BT Sync - eblog List.txt</a>
-
+> <a href="https://go.choong.net/BTSync/" title="❤ eBooks 目录 BT Sync 密钥 | Program-think" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/BTSync.png" height="15" width="15"/></a><a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt" style="color:#990066;text-decoration:none;">路径</a>： ./<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/BT%20Sync%20-%20eblog%20List.txt">BT Sync - eblog List.txt</a>  【<a href="https://program-think.blogspot.com/" title="🔗 编程随想的博客 | 主站点 (BlogSpot)  -- 需要“科学上网”方式访问GFW " style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/BlogSpot.jpg" height="15" width="15"/>编程随想</a>	
+		<a href="https://github.com/programthink/books" title="【编程随想电子图书馆】【所有电子书】的清单。
+     清单中包含每本书的“中文名、英文名、作者、添加日期、简介”。[wiki主页]" style="color:#990066;text-decoration:none;"><img class="bottom" src="https://go.choong.net/images/GitHub.jpg" height="15" width="15"/>电子图书馆</a>】 
 3.更多：[BT sync 使用说明截图](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/BT%20sync%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%88%AA%E5%9B%BE)  ( Tor/使用代理服务器：SOCKS v5 -- 127.0.0.1:9150/ localhost:9050 )
 
 >> 如果你的 Tor 客户端用的是 Tor Browser，“端口号”必须是 9150 <br>
