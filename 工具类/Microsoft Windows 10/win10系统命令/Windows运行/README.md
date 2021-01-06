@@ -29,7 +29,7 @@ Win10系统：一键打开 Windows 设置中心( Win + i ) 快捷键
 一键锁屏(Win+L) 快捷键或可设为F2
 > %windir%\System32\rundll32.exe user32.dll,LockWorkStation
 
-%SystemRoot%\System32\SHELL32.dll
+>> 更改为系统图标： %SystemRoot%\System32\SHELL32.dll
 
 ----------------------------------------------------------------------
 
