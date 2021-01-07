@@ -2,7 +2,8 @@
 
 <details>
     <summary>
-    💗<b>【<a href="https://cn.bing.com/?FORM=Z9FD1">微软 Bing 搜索 - 国内版</a>】<a href="https://github.com/taoste/Hello-World/blob/master/images/Wallpaper/提取Win10内置的锁屏壁纸的方法.txt">提取Win10内置的锁屏壁纸的方法.txt</a></b><br>
+    💗<b>【<a href="https://cn.bing.com/?FORM=Z9FD1">微软 Bing 搜索 - 国内版</a>】<a href="https://github.com/taoste/Hello-World/blob/master/images/Wallpaper/提取Win10内置的锁屏壁纸的方法.txt">提取Win10内置的锁屏壁纸的方法.txt</a></b><br>       
+<a href="https://www.microsoft.com/zh-cn/bing/bing-wallpaper?pc=W035&rtc=1">一次浏览一张照片来探索世界 | “必应壁纸”</a><br>
         >> 点开查看：预览图 ...
      </summary> 
 <table>
