@@ -35,7 +35,8 @@ OCLC 编号： 01755507
 - Twitter ：章献忠（@[0792z](https://twitter.com/0792z/)) · [上午6:57 · 2019年11月21日](https://twitter.com/0792z/status/1197408653868982278)
 > 做这个“莆系网”的人，真是功德无量，只要在该网站输入某家民营医院的名称，就能很快查出该医院的法人与其他资料，迅速排查这些高大上的医院是否是莆田系的血统。值得推一下并加入自己的手机网址收藏夹，让所有病人远离被骗上当吧。http://m.putianxi.cn
 
-<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E3%80%8A%E4%B8%81%E9%A6%99%E5%9B%AD%26%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F%E3%80%8B/weibo-qcode.jpg" width="298" height="298"  alt="【新浪微博】张文宏医生 https://m.weibo.cn/u/7454177482" title="【新浪微博】张文宏医生 https://m.weibo.cn/u/7454177482">
+<a href="https://m.weibo.cn/u/7454177482" title="【新浪微博】张文宏医生">
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E3%80%8A%E4%B8%81%E9%A6%99%E5%9B%AD%26%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F%E3%80%8B/weibo-qcode.jpg" width="298" height="298"  alt="【新浪微博】张文宏医生 https://m.weibo.cn/u/7454177482" title="【新浪微博】张文宏医生 https://m.weibo.cn/u/7454177482"></a>
 
 ----------------------------------------------------------------------------------
 
