@@ -19,3 +19,13 @@
 《[Python 入门指南](http://www.pythondoc.com/pythontutorial3/)》 — Python tutorial 3.6.3 documentation
 
 《[TJ O'Connor：Python 绝技——运用 Python 成为顶级黑客 (第1版)](https://github.com/taoste/Hello-World/raw/master/Technical%20File(PDF)/TJ%20O'Connor%EF%BC%9APython%20%E7%BB%9D%E6%8A%80%E2%80%94%E2%80%94%E8%BF%90%E7%94%A8%20Python%20%E6%88%90%E4%B8%BA%E9%A1%B6%E7%BA%A7%E9%BB%91%E5%AE%A2%20(%E7%AC%AC1%E7%89%88).pdf)》
+
+
+- <<python爬虫开发与项目实战>>书籍[配套源码和说明](https://github.com/qiyeboy/SpiderBook) 。
+```
+链接: https://pan.baidu.com/s/11jdht0DN8JNEoB8cSVLbTQ 
+
+提取码: b6wg
+
+来源：Python绿色通道 （ 微信公众号 ID：Python_channel ）回复口令获取PDF：爬虫实战
+```
