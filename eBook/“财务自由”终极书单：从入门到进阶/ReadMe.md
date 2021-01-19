@@ -5,7 +5,7 @@
 - 《[每月几千块，流行这样赚外快了...]( https://mp.weixin.qq.com/s/iDlCmo1couvIdgCGLnJASw)》( 原创： Lisa\夏夏 @越女事务所 2019-11-07 ) 
 
 ------------------------
-- [金融&理财](https://github.com/taoste/Hello-World/blob/master/eBook/“财务自由”终极书单：从入门到进阶/)专题 :
+- [金融&理财](https://github.com/inchoong/share/blob/share-2020/eBooks/金融&理财/)专题 :
 <details>	 
     <summary>
     《<b><a href="https://github.com/taoste/Hello-World/tree/master/github">那些明明有钱却就是不还钱的人是什么心态？</a> - 知乎</b>》</br>
