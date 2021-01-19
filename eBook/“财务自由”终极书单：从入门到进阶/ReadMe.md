@@ -5,8 +5,17 @@
 - 《[每月几千块，流行这样赚外快了...]( https://mp.weixin.qq.com/s/iDlCmo1couvIdgCGLnJASw)》( 原创： Lisa\夏夏 @越女事务所 2019-11-07 ) 
 
 ------------------------
-
+- [金融&理财](https://github.com/taoste/Hello-World/blob/master/eBook/“财务自由”终极书单：从入门到进阶/)专题 :
 <details>
+	 <table cellpadding="0" cellspacing="0">
+       <tr> 
+             <td><a href="https://share.choong.net/eBooks/金融&理财/个人还款计划书(范本)..pdf" title="个人还款计划书(范本)">个人还款计划书(范本)</a> </td> 
+			 <td><img src="https://go.choong.net/images/cnBeta.png" height="15" width="15" />
+            <a href="https://share.choong.net/eBooks/金融&理财/个人还款计划书(范本)..pdf" title="个人还款计划书(范本).pdf">PDF预览</a>
+            </td>
+             <td><a href="https://share.choong.net/eBooks/金融&理财/个人还款计划书(范本).doc" title="个人还款计划书(范本).doc">文档下载</a> &nbsp; </td>
+      </tr> 
+    </table>  
     <summary>
     《<b><a href="https://github.com/taoste/Hello-World/tree/master/github">那些明明有钱却就是不还钱的人是什么心态？</a> - 知乎</b>》
      </summary> 
@@ -19,16 +28,7 @@
      3、几千、上万甚至更高的金额，建议起诉，诉讼费用如下：</br></br>
     1）不超过1万元的，每件交纳50元；</br>
     2）超过1万元至10万元的部分，按2.5%交纳；</br>
-    3）超过10万元至20万元的部分，按2%交纳；</br> </br>    
-   <table cellpadding="0" cellspacing="0">
-       <tr> 
-             <td><a href="https://share.choong.net/eBooks/金融&理财/个人还款计划书(范本)..pdf" title="个人还款计划书(范本)">个人还款计划书(范本)</a> </td> 
-			 <td><img src="https://go.choong.net/images/cnBeta.png" height="15" width="15" />
-            <a href="https://share.choong.net/eBooks/金融&理财/个人还款计划书(范本)..pdf" title="个人还款计划书(范本).pdf">PDF预览</a>
-            </td>
-             <td><a href="https://share.choong.net/eBooks/金融&理财/个人还款计划书(范本).doc" title="个人还款计划书(范本).doc">文档下载</a> &nbsp; </td>
-      </tr> 
-    </table>  
+    3）超过10万元至20万元的部分，按2%交纳；</br> </br>      
     </blockquote>
 </details>
 
