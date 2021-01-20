@@ -20,6 +20,28 @@
 
 - [30 个Python代码实现的常用功能，精心整理版](https://mp.weixin.qq.com/s/YgkLBDxK8dJEawwDWYAvmQ) ( @恋习Python 2020-09-30  ) 
 
+- [**接私活必备的 6 个开源项目**](https://mp.weixin.qq.com/s/FQBOo1m4suYRGmua5Z3QTQ) ( 2021-01-20 )
+> 优秀库:
+
+>> 1.@[**vue-Element-Admi**](https://github.com/PanJiaChen/vue-element-admin) 
+>>>  GitHub Star 数 63.4K+，一个基于 vue2.0 和 Eelement 的控制面板 UI 框架。
+
+>> 2.@[**AdminLTE**](https://github.com/almasaeed2010/AdminLTE) 
+>>>  GitHub Star 数 37.2K+ ，非常流行的基于 Bootstrap 3.x 的免费的后台 UI 框架。
+
+>> 3.@[**ant-design-pro**](https://github.com/ant-design/ant-design-pro) 
+>>> GitHub Star 数 27.6K+，开箱即用的中台前端/设计解决方案。
+
+>> 4.@[**tabler**](https://github.com/tabler/tabler) 
+>>>  GitHub Star 数 22.5K+，构建在 BootStrap 4 之上的免费的 HTML 控制面板框架。
+
+>> 5.@[**Gentelella**](https://github.com/puikinsh/gentelella) 
+>>>  GitHub Star 数 19.8K+，一个基于 Bootstarp 的免费的后台控制面板。
+
+>> 6.@[**material-dashboard**](https://github.com/creativetimofficial/material-dashboard) 
+>>>  GitHub Star 数 9.5K+，基于 Bootstrap 4 和 Material 风格的控制面板。
+
+
 <details>
     <summary>
         ☞ <b><a href="https://blog.csdn.net/zhongzunfa/article/details/80344585">github fork 别人的项目源作者更新后如何同步更新</a></b> - CSDN博客
