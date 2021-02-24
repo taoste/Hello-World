@@ -107,7 +107,8 @@
 </blockquote>
 </details>
 
-
+ ☞ <b><a href="https://www.w3schools.com/html/default.asp">default.html</a></b> - @<a href="https://cn.bing.com/search?q=default.html">国内版 Bing</a><br/>
+ 
 -----------------------------------------------
 
 <details>
