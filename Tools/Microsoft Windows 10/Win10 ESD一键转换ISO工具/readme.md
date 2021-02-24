@@ -16,7 +16,7 @@ slmgr.vbs -dlv<br/>
 
 [Win10专业版激活密钥分享](http://www.xitongzhijia.net/xtjc/20180117/117935.html)-系统之家
 
-Win10专业版激活密钥：　　W269N-WFGWX-YVC9B-4J6C9-T83GX 
+Win10专业版激活密钥：　　W269N-WFGWX-YVC9B-4J6C9-T83GX (slmgr /skms kms.03k.org 2021-2-24 正月十三 09:45（周三） 音控笔记本-续期激活180天有效至☞2021/8/23 周一 9:45:07 过期)
 
 Win10专业版激活密钥(win10专业版N)：　　MH37W-N47XK-V7XM9-C7227-GCQG9
 
