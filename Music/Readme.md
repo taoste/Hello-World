@@ -1,3 +1,6 @@
+推荐一个音效网站，提供超过100万种音效，分门别类，可目录查找，可搜索。使用没有障碍，直接下载不用注册。
+地址：https://findsounds.com/typesChinese.html
+
 - [**网易云音乐PC端，正版音乐缓存下载**](https://www.zhihu.com/question/40678992) - 知乎
 
 > 【[**攻略**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=790220)】网易云音乐-电脑客户端缓存文件地址：
