@@ -21,6 +21,9 @@
 
 - 💗[酷狗歌词krc文件转lrc工具(krc2lrc)绿色版](https://github.com/taoste/Hello-World/tree/master/Tools/%E9%85%B7%E7%8B%97%E6%AD%8C%E8%AF%8Dkrc%E6%96%87%E4%BB%B6%E8%BD%AClrc(krc2lrc))
 
+- 💗推荐一个音效网站，提供超过100万种音效，分门别类，可目录查找，可搜索。使用没有障碍，直接下载不用注册。
+地址：https://findsounds.com/typesChinese.html
+
 - [万彩办公大师 - 办公必备绿色小工具百宝箱，只有12M，值得安装](https://github.com/taoste/Hello-World/tree/master/Tools/OfficeBox)
 
 - [**USBWebServer 中文版 - 绿色便携一键安装搭建 PHP/MySQL 网站服务器环境工具**](https://github.com/taoste/Hello-World/tree/master/Tools/WebServer%20Tools/)
