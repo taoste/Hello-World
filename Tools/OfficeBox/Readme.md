@@ -2,6 +2,8 @@
 
 - [taoste.github.io](https://github.com/taoste/taoste.github.io)/[intl](https://github.com/taoste/taoste.github.io/tree/taoste-pages/intl)/[study](https://github.com/taoste/taoste.github.io/tree/taoste-pages/intl/study)/[【关键词：BAT】秋叶PPT-BAT资源](https://github.com/taoste/taoste.github.io/blob/taoste-pages/intl/study/【关键词：BAT】秋叶PPT-BAT资源/ReadMe.md)  · taoste/taoste.github.io
 
+- [office 2019 软件下载及安装教程](https://mp.weixin.qq.com/s/NkQmQFLaUuK8h0AHUVLXnA)
+
 -----------------------------------------------------------------------------------
 
 **万彩办公大师小工具箱**
