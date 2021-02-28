@@ -32,7 +32,8 @@
 -----------------------------------------------------------
 
 
-🎦 网站：【[**磁力库**](https://www.mbagarden.com/)】 _ 磁力链接 _ [迅雷磁力下载](https://github.com/taoste/Hello-World/tree/master/Tools) _ 最快最全的磁力搜索下载引擎 ( https://www.mbagarden.com/ )
+🎦 网站：【[**磁力库**](https://www.mbagarden.com/)】 _ 磁力链接 _ [迅雷磁力下载](https://github.com/taoste/Hello-World/tree/master/Tools) _ 最快最全的磁力搜索下载引擎 ( https://www.mbagarden.com/ ) | [BT部落天堂](https://www.btbuluo.com/) - 注重体验与质量的影视资源下载网站 ( https://www.btbuluo.com/ )
+
 
 > 关于“ **[磁力链接](https://zh.wikipedia.org/zh-cn/磁力链接)** ”：
 > 磁力链接(Magnet URI Scheme)是一种新型的分享形式，每个链接对应一个[**BT种子文件**](https://zh.wikipedia.org/wiki/种子文件)。
