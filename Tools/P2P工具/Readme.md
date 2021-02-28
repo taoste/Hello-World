@@ -27,7 +27,7 @@
 
 - [为 aria2 下载加速，添加这些 trackers 之后， BT、磁力链接下载加速大增](https://www.appinn.com/ara2-add-trackers-list-for-speed-up/) - [小众软件](https://www.appinn.com/tag/aria2/)( @[trackerslist](https://github.com/ngosang/trackerslist) )
 > 
-> [**aria2**](https://github.com/aria2/aria2) 是一款非常流行的开源下载工具，可以用来下载各种协议文件，包括 BT 种子与磁力链接，但很多人在初次使用 aria2 时会发现始终无速度的问题，这里有一份 trackers 列表，只需要添加进 aria2 就能明显的提高下载速度。@[**维基百科**](https://zh.wikipedia.org/zh-cn/Aria2)
+> [**aria2**](https://github.com/aria2/aria2) 是一款非常流行的开源下载工具，可以用来下载各种协议文件，包括 BT 种子与磁力链接，但很多人在初次使用 aria2 时会发现始终无速度的问题，这里有一份 [trackers 列表](https://github.com/ngosang/trackerslist)，只需要添加进 aria2 就能明显的提高下载速度。@[**维基百科**](https://zh.wikipedia.org/zh-cn/Aria2)
 
 -----------------------------------------------------------
 
