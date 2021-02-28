@@ -1,4 +1,4 @@
-💗 P2P工具 ：“棱镜杀手”比特信（Bitmessage）火起来了 / 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md)  
+💗  <a style="color:#ffffff;" href="https://go.choong.net/nav/#downloads" title="工具导航">P2P工具</a> ：“棱镜杀手”比特信（Bitmessage）火起来了 / 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md)  
 
 -----------------------------------------------------------
 
