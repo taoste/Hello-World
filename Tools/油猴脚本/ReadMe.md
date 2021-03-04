@@ -112,6 +112,27 @@
 - [**PrintFriendly and PDF**](https://microsoftedge.microsoft.com/addons/detail/printfriendly-and-pdf/nhiebejbpolmpkikgbijamagibifhjib?hl=zh-CN)  - 特别适合需要在Web上打印文章的朋友
 
 >  这个插件会自动清理相关的广告，导航按钮和其他垃圾信息，让你可以非常清晰地打印你所需的页面内容。另外，你还可以选择删除其中不想打印的部分图文内容。
+>  
+
+- [**音视频通用下载器**](https://greasyfork.org/zh-CN/scripts/382057-%E9%9F%B3%E8%A7%86%E9%A2%91%E9%80%9A%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8) 
+> 下载所有网站上的音乐、视频。单击页面最右边的《 来打开捕获列表，双击捕获列表来关闭它。
+```
+这个脚本能下载所有网站上的音乐、视频，包括F12开发者工具中找不到的。
+
+脚本将页面最右边中央显示一个《 按钮。
+
+单击《 来打开捕获列表，双击捕获列表来关闭它。点击播放，然后就可以在捕获列表中看到音乐或视频的链接。
+
+如未出现链接或链接不正确，可以先暂停播放，然后继续播放，捕获列表中将出现正确的链接。点击链接，就可以下载到电脑中。
+
+如果捕获列表中没有你要下载的音乐或视频，请先暂停，再继续播放，列表中将会出现链接。
+
+通杀国内外所有音视频网站，包括 bilibili、YouTube、土豆、优酷、爱奇艺、腾讯、芒果、乐视、网易云音乐、QQ音乐、酷狗、酷我、虾米、蜻蜓FM、荔枝FM、喜马拉雅和其他所有网站。
+
+如果捕获列表内出现的链接以Blob开头，则需要等待音乐或视频加载完闭，再点击下载，才能下载到完整的音乐或视频。
+
+Firefox中指向Blob URL的链接元素不允许download属性，所以脚本在Firefox下对MediaSource流式播放器的支持不完整，会出现无法下载之类的问题。
+```
 
 - [**Twitter 下载视频**](https://greasyfork.org/zh-CN/scripts/404515-twitter-download-video) 
 
