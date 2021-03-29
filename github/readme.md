@@ -314,6 +314,12 @@
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip) / [Download](
 https://github.com/taoste/Hello-World/blob/master/github/QPlayer/QPlayer-master.zip?raw=true) ）
 
+一个完整的 Material Design 音乐播放器
+https://mp.weixin.qq.com/s/t8Cze6lHhNaAfd3sOxyGow
+
+音乐播放器：
+https://github.com/naman14/Timber
+
 - [**详解**](https://www.jb51.net/web/617432.html)：[HTML常用<**meta**>大全(推荐)](https://www.jb51.net/web/708299.html)_HTML/Xhtml_网页制作_脚本之家
 >> @[在线技术支持](https://support.dmeng.net/) [tips](https://death-to-ie11.com/):强制Webkit内核和提示低版本IE访问用户升级完整代码如下所示，把这段代码添加到头部模板文件<head>标签下即可：
 ```
