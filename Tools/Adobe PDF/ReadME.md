@@ -46,7 +46,7 @@
 
 <details>
     <summary>        
- 🔗<a href="https://www.sohu.com/a/118865158_541274" title="经常遇到PS“暂存盘已满”怎么办？"> <b>经常遇到PS“暂存盘已满”怎么办？</b></summary>    
+ 🔗<a href="https://www.sohu.com/a/118865158_541274" title="经常遇到PS“暂存盘已满”怎么办？"> <b>经常遇到PS“暂存盘已满”怎么办？</b></a></summary>    
 <p>解决的方法如下：</p>
 <p><b>一、不能打开PS软件的情况下:</b></p>
  <p>点击PS软件，在出现开始画面的时候，先按Alt + 再按Ctrl , 修改暂存盘位置。</p>
