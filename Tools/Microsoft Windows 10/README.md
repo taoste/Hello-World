@@ -265,6 +265,7 @@ Alt+F4 关机快捷键。
 - [**Win 10 32位 升级为 64 位 激活**](https://answers.microsoft.com/zh-hans/windows/forum/all/win-10-32%E4%BD%8D-%E5%8D%87%E7%BA%A7%E4%B8%BA-64/6400fc8d-41a1-43c4-85b3-f2a04e5b20c3) - Microsoft Community
 >> 《[**如何从32位升级到64位版本的Windows 10**](https://www.cwhello.com/12069.html) | [重蔚自留地](https://www.cwhello.com/) 》2019年5月30日
 
+- [**没有产品密钥，也可以将Windows10家庭版升级为专业版**](https://cloud.tencent.com/developer/news/622858) - 云+社区 - 腾讯云
 
 - [**Windows 10终于也迎来了一款软件包管理器**](https://os.51cto.com/art/202005/617021.htm) （2020-05-20）- 51CTO.COM  
 
