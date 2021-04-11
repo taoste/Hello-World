@@ -37,6 +37,8 @@
 
 - 中国人最悲哀的就是——刚被历史的车轮碾过，还没来得及爬起来，发现历史在倒车 ☹
 
+- [投机份子的生存法则：顺境时依附，逆境时背叛](https://www.youtube.com/watch?v=RL3D2w0dz1Y)
+
 ----------------------------------------------------
 
 [其它](http://www.zaoanyulu.com/):《[早安语录生成器](http://www.xhmbz.com/ZaoAn/index-PC-XH.htm)》@[传播企业正能量 DIY个性祝福语](https://club.dingding.xin/topic/2369/%E7%BE%A4%E6%97%A9%E5%AE%89%E8%AF%AD%E5%BD%95%E7%94%9F%E6%88%90%E5%99%A8-diy%E4%B8%AA%E6%80%A7%E7%A5%9D%E7%A6%8F%E8%AF%AD)
