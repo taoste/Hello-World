@@ -45,6 +45,9 @@
 >> 6.@[**material-dashboard**](https://github.com/creativetimofficial/material-dashboard) 
 >>>  GitHub Star 数 9.5K+，基于 Bootstrap 4 和 Material 风格的控制面板。
 
+>> 仿人人影视客户端:
+>>>  https://github.com/Vove7/yyets_flutter <br>
+>>>  https://gitee.com/Vove/yyets_flutter
 
 <details>
     <summary>
