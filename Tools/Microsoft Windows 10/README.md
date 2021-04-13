@@ -558,6 +558,9 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 > [关于访问共享时出现80004005错误-Storm_Center](http://www.stormcn.cn/post/1908.html)
 
+《<a href="https://zhuanlan.zhihu.com/p/46536212">局域网中连接共享打印机提示0x80070035错误的解决办法</a> - 知乎》	
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E7%BD%91%E7%BB%9C.jpg?raw=true" width="100%" height="100%" />
+ 
 ---------------------------------------------------------------------------------------------------------
 
 - [修复 Windows 更新错误](https://support.microsoft.com/zh-cn/help/10164):**运行 Windows 更新疑难解答程序**
