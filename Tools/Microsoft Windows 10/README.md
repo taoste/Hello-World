@@ -7,6 +7,8 @@
 
 - [**系列下载**](https://www.microsoft.com/zh-cn/software-download/windows10) : [**Windows 10**](https://go.microsoft.com/fwlink/?LinkID=799445) - [Windows10Upgrade9252.exe](https://download.microsoft.com/download/7/a/a/7aa0472b-49a0-46d1-b651-e8a2c53f1fe4/Windows10Upgrade9252.exe) ( **[20H2](https://download.microsoft.com/download/4/c/c/4cc6c15c-75a5-4d1b-a3fe-140a5e09c9ff/MediaCreationTool20H2.exe) - [MediaCreationTool.exe](https://go.microsoft.com/fwlink/?LinkId=691209)  | [2020年10月更新正式版媒体创建工具](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/MediaCreationTool20H2.exe)**)
 
+- [**V2RayN局域网共享**](https://koonchung.github.io/posts/2020-02-06/) – 烂杯的博客
+
 -------------------------------------------------
 
 - **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
