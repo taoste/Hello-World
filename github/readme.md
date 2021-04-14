@@ -179,7 +179,7 @@
 <iframe src="https://share.choong.net/tools/shizhong/" width="310" height="310"></iframe>
 ```
 
-- [404页面的自动重定向](https://meta.appinn.net/t/topic/19954) - 灌水聊天 - 小众软件官方论坛
+- [404页面的自动重定向](https://meta.appinn.net/t/topic/19954) - 灌水聊天 - [小众软件官方论坛](https://meta.appinn.net/top)
 <blockquote>
 今天把Github Pages的某个原名是aaaa的目录修改成了bbbb，
 相当于原来的example.github.io/aaaa/example.html 都要变成 example.github.io/bbbb/example.html 了
