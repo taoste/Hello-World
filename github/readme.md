@@ -135,6 +135,11 @@
 
 -----------------------------------------------
 
+- [科技](https://feeshy.github.io/tech/) - [**浮鲜**](https://feeshy.github.io/)
+
+- [旧笔记本折腾记](https://heshangbuxitou.github.io/2017/11/13/Old-notebook-toss/) | [**SiYuYong's Blog**](https://heshangbuxitou.github.io/)
+
+
 <details>
 	<summary>  <b><a href="https://mkblog.cn/" title="孟坤博客 | 每年更新一点点">孟坤博客</a> | 每年更新一点点 ( https://mkblog.cn/ ) </b>
 <table> 
