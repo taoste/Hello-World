@@ -9,6 +9,9 @@
 
 - [**V2RayN局域网共享**](https://koonchung.github.io/posts/2020-02-06/) – 烂杯的博客
 
+- [**把macOS“套娃”到Windows系统后 我发现了新大陆……**](https://www.cnbeta.com/articles/tech/1111381.htm)  - Windows 个性化 - cnBeta.COM
+>> 官网链接: [MyDockFinder](https://www.mydockfinder.com/) ( https://www.mydockfinder.com/ )
+
 -------------------------------------------------
 
 - **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
