@@ -83,7 +83,7 @@ Chrome Trip by code0<br>
  
 > 《[在如何将 Windows®10安装到 GUID 分区表（GPT）分区](https://www.intel.cn/content/www/cn/zh/support/articles/000025535/memory-and-storage.html)》 - 英特尔技术支持
 
-> [**主引导记录 U盘启动 site:github.io**](https://cn.bing.com/search?q=%E4%B8%BB%E5%BC%95%E5%AF%BC%E8%AE%B0%E5%BD%95+U%E7%9B%98%E5%90%AF%E5%8A%A8+site%3Agithub.io)  - [**国内版 Bing**](https://cn.bing.com/) 
+- [**主引导记录 U盘启动 site:github.io**](https://cn.bing.com/search?q=%E4%B8%BB%E5%BC%95%E5%AF%BC%E8%AE%B0%E5%BD%95+U%E7%9B%98%E5%90%AF%E5%8A%A8+site%3Agithub.io)  - [**国内版 Bing**](https://cn.bing.com/) 
 
 >> 《[如何修复硬盘的主引导记录MBR](https://jingyan.baidu.com/article/9113f81b0405fa2b3214c792.html)》-百度经验
 
