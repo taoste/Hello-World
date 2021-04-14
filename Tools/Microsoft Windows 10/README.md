@@ -78,8 +78,10 @@ Chrome Trip by code0<br>
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
 
-> 《[在更换硬件后重新激活 Windows 10](https://support.microsoft.com/zh-cn/windows/%E5%9C%A8%E6%9B%B4%E6%8D%A2%E7%A1%AC%E4%BB%B6%E5%90%8E%E9%87%8D%E6%96%B0%E6%BF%80%E6%B4%BB-windows-10-2c0e962a-f04c-145b-6ead-fb3fc72b6665)
->>在安装 Windows 10 时，数字许可证本身与设备的硬件相关联。 如果你对设备进行重大的硬件更改（例如更换母板/主板），Windows 将无法找到与设备匹配的许可证，因此你需要重新激活 Windows 才能使其正常运行。  
+> 《[在更换硬件后重新激活 Windows 10](https://support.microsoft.com/zh-cn/windows/%E5%9C%A8%E6%9B%B4%E6%8D%A2%E7%A1%AC%E4%BB%B6%E5%90%8E%E9%87%8D%E6%96%B0%E6%BF%80%E6%B4%BB-windows-10-2c0e962a-f04c-145b-6ead-fb3fc72b6665)》
+>>在安装 Windows 10 时，数字许可证本身与设备的硬件相关联。 如果你对设备进行重大的硬件更改（例如更换母板/主板），Windows 将无法找到与设备匹配的许可证，因此你需要重新激活 Windows 才能使其正常运行。 
+ 
+> 《[在如何将 Windows®10安装到 GUID 分区表（GPT）分区](https://www.intel.cn/content/www/cn/zh/support/articles/000025535/memory-and-storage.html)》 - 英特尔技术支持
 
 >> 《[如何修复硬盘的主引导记录MBR](https://jingyan.baidu.com/article/9113f81b0405fa2b3214c792.html)》-百度经验
 
