@@ -36,3 +36,5 @@ VK7JG-NPHTM-C97JM-9MPGT-3V66T<br>
 > [**激活 Windows 10**](https://support.microsoft.com/zh-cn/help/12440/windows-10-activate#what%20method) 参阅：《[升级到Windows 10 后无法激活](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-windows_install/%E5%8D%87%E7%BA%A7%E5%88%B0windows-10/6ab28858-b810-4733-989a-ff4a5f35761a)》 - Microsoft Community
 
 > 《[insider会员在获得了正式版win10激活后，重装系统为什么不给激活？](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-windows_install/insider%E4%BC%9A%E5%91%98%E5%9C%A8%E8%8E%B7/e9644429-dd8a-40f4-b7b3-554f0af0ecfd)》 - Microsoft Community
+
+> 《[**Win10错误代码0x80070057的解决方法 四种方法快速解决**](https://www.jb51.net/os/win10/729087.html)》_windows10_Windows系列_操作系统_脚本之家
