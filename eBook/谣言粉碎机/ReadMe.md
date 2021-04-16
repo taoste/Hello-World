@@ -1,3 +1,8 @@
+-  2019-04-23:《[真实的轮回转世——揭露前世今生的秘密](https://www.163.com/dy/article/EDC8S1ME0515E67B.html)》_网易订阅
+
+-  [转世](https://zh.wikipedia.org/wiki/%E8%BD%89%E4%B8%96) - 维基百科，自由的百科全书
+
+
 - 《[当年十亿年薪的中国打工皇帝，如今给自己开50万](https://mp.weixin.qq.com/s/NKwoRihK4cz1mUoUOhBLSw)》（  原创： 吕蓓卡 8字路口 2019-11-21  ） 
 > <p><a href="http://www.wibibi.com"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/0blrkspUXG7oezJ1l9IafcVmP5y5DLoytNibPR14HagNk7xibBZ1Cwic5VibAg6YnyTPCQQIC2HNSZsEics9xiahpAag/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" border="0" alt="《我的成功可以复制 --演讲人：唐骏》" title="《当年十亿年薪的中国打工皇帝，如今给自己开50万》（  原创： 吕蓓卡 8字路口 2019-11-21  ） "></a></p>
 
