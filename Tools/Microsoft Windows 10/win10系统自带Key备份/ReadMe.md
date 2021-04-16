@@ -1,7 +1,9 @@
 Ⓜ️ Microsoft Win10 系统自带Key备份工具/微软官方数字许可激活工具「gatherosstate.exe」（ Win10 [**x64 bit**](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/win10%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%B8%A6Key%E5%A4%87%E4%BB%BD/gatherosstate%EF%BC%88win10x64bit%EF%BC%89.exe) / [**x32 bit**](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/win10%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%B8%A6Key%E5%A4%87%E4%BB%BD/gatherosstate%EF%BC%88win10x32bit%EF%BC%89.exe) ） 
 
 ---------------------------------------------------------------------------------------------------------------
-
+- <a href="https://www.himmy.cn/2019/07/20/win10-digital-license%E6%95%B0%E5%AD%97%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/"><b>Win10 Digital License数字许可证永久激活</b></a> | 野猿新一<br>
+VK7JG-NPHTM-C97JM-9MPGT-3V66T<br>
+【验证】cmd打开命令提示符，输入“slmgr.vbs -xpr”然后回车<br>
 >> 将「gatherosstate.exe 」解压至桌面运行 ，会生成一个「GenuineTicket.xml」的文件 （文档很小） 将这个文件 压缩..并注明版本！( ❤ [**Win 10 各版本永久激活**](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md) )
 ```
 由于微软激活机制是这样，激活系统后与硬件信息绑定，
