@@ -8,6 +8,10 @@
 
 下载内容
 >  chrome://downloads/
+  
+
+- 虚拟机-Linux系统学习笔记 - 知乎
+> https://zhuanlan.zhihu.com/p/73187200
 
 <hr>
 
