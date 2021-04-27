@@ -134,6 +134,9 @@
 Firefox中指向Blob URL的链接元素不允许download属性，所以脚本在Firefox下对MediaSource流式播放器的支持不完整，会出现无法下载之类的问题。
 ```
 
+- [**Github 镜像访问，加速下载**](https://greasyfork.org/zh-CN/scripts/398278-github-%E9%95%9C%E5%83%8F%E8%AE%BF%E9%97%AE-%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD) 
+>> 镜像地址请不要登陆自己的账户，造成损失本人概不负责
+
 - [**Twitter 下载视频**](https://greasyfork.org/zh-CN/scripts/404515-twitter-download-video) 
 
 > 一键导向下载视频的网页。
