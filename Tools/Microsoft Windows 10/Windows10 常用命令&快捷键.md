@@ -15,6 +15,7 @@
 <div class="index-module_header_3qjZG">
 <div class="index-module_title_1s0gC">
 <h1 id="article-title" class="index-module_articleTitle_2xHPX" style="padding: 7px 0px; margin: 0px; font-weight: 700; font-size: 36px; line-height: 1.389; color: rgb(38, 38, 38);">
+<a href="https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Windows10%20常用命令&快捷键.md" title="Windows10 常用命令/快捷键 · 语雀">备份</a>：
 <a href="https://www.yuque.com/gpzy/share/windows-cmd" title="Windows10 常用命令/快捷键 · 语雀">Windows10 常用命令/快捷键</a>
 </h1>
 </div>
