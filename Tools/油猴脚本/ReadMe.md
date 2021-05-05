@@ -39,7 +39,15 @@
         <td style="text-align:left;">
 		OpenUserJS  - 免费和开源软件( 自由格式) 用户脚本源 @<a href="https://github.com/OpenUserJs" title="OpenUserJS">Github</a>
 	</td>
-    </tr>        
+    </tr>  
+    <tr>
+        <td> </td>
+        <td> <a href="https://meta.appinn.net/tag/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="油猴脚本的最新主题 - 小众软件官方论坛">小众软件官方论坛</a> </td>
+        <td></td>
+        <td style="text-align:left;">
+		<a href="https://meta.appinn.net/tag/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC" title="油猴脚本的最新主题 - 小众软件官方论坛">油猴脚本的最新主题</a>  @<a href="https://appinn.net/" title="小众软件">小众软件</a>&<a href="https://meta.appinn.net/" title="小众软件官方论坛">官方论坛</a> 
+	</td>
+    </tr>         
   </table>
 
 》》[GreasyFork 站点帮助](https://greasyfork.org/zh-CN/help) : 你可以[**在 Github 和 Gist 中 搜索脚本资源**](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated)。你可以用关键词 [**.user.js**](https://gist.github.com/search?l=javascript&q=%22user.js%22) 搜索。　（　＠[**Chrome**](https://www.appinn.com/category/chrome/) - [**小众软件**](https://www.appinn.com/)　） 
@@ -211,4 +219,5 @@ https://greasyfork.org/zh-CN/scripts/384538-%E7%8E%A9%E7%9A%84%E5%97%A8-vip%E5%B
 >> 在线看图工具，支持图片翻转、旋转、缩放、弹出大图、批量保存
 
 >> 图片翻转、旋转、缩放，显示原始大图，批量保存，聚合所有分页大图，图片在线编辑
+
 
