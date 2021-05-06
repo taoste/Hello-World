@@ -64,5 +64,5 @@ https://www.amazon.cn/gp/help/customer/display.html?nodeId=202048000
 
 >>   2021.03.08: [5.12.2.1.1 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.1.1.bin)
 >>      
->>   2020.10.05: [5.12.2 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.bin)
+>>   2019.10.05: [5.12.2 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.bin)
 
