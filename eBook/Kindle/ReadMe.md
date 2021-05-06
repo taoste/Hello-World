@@ -62,7 +62,7 @@ https://www.amazon.cn/gp/help/customer/display.html?nodeId=202048000
 - [亚马逊 帮助](https://www.amazon.cn/gp/help/customer/display.html?nodeId=202048000) : [Kindle电子阅读器软件更新](https://www.amazon.cn/gp/help/customer/display.html?nodeId=G54HPVAW86CHYHKS) 
 > Kindle（第7代）  
 
->>   [5.12.2.1.1 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.1.1.bin)
+>>   2021.03.08: [5.12.2.1.1 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.1.1.bin)
 >>      
->>   [5.12.2 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.bin)
+>>   2020.10.05: [5.12.2 下载软件更新](https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.bin)
 
