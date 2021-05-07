@@ -1,7 +1,7 @@
 # <b><a href="https://github.com/" title="GitHub">GitHub</a> for <a href="https://github.com/mobile" title="GitHub">Mobile</a> </b>
 
 <details>
-   <summary>  <b><a href="https://help.github.com/cn/" title="GitHub 帮助">GitHub 帮助</a></b> | <a href="https://github.com/taoste/taoste.github.io/issues/2">关于GitHub 及 编程 #2</a>
+   <summary>  <b><a href="https://help.github.com/cn/" title="GitHub 帮助">GitHub 帮助</a></b> | <a href="https://github.com/taoste/taoste.github.io/issues/2">关于GitHub 及 编程 #2</a><a href="https://github.com/taoste/Hello-World/blob/master/github/Git-README_zh-CN.md" title="Git飞行规则(Flight Rules)">Git飞行规则(Flight Rules)</a>
 </summary>
 	<a href="https://github.com/" title="GitHub">GitHub</a>
 	| <a href="https://help.github.com/cn/github/authenticating-to-github/configuring-two-factor-authentication" title="配置GitHub双重身份验证">配置双重身份验证</a>
