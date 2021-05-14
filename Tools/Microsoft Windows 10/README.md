@@ -96,7 +96,7 @@ Chrome Trip by code0<br>
 >> 《[系统盘用户目录下的AppData\Local\Microsoft\Windows\Fonts下面的字体文件是否可删除？](https://answers.microsoft.com/zh-hans/windows/forum/all/%E7%B3%BB%E7%BB%9F%E7%9B%98%E7%94%A8%E6%88%B7/3b83de2d-ca0d-4d9b-a8c2-8359eb1235fd)》 - Microsoft Community
 
 - 电脑运行缓慢，临时文件太多？试试这样操作。
-> 点击【开始】-【设置】-【系统】-【存储】，开启存储感知。智能运行，清除多余的临时文件，运行就恢复往日顺畅了。Windows 10 时刻守护你的电脑。
+> 点击【开始】-【设置】-【系统】-【存储】，开启存储感知。<br>智能运行，清除多余的临时文件，运行就恢复往日顺畅了。<br>Windows 10 时刻守护你的电脑。
    
 -------------------------------------------------
 
