@@ -38,6 +38,11 @@ OCLC 编号： 01755507
 <a href="https://m.weibo.cn/u/7454177482" title="【新浪微博】张文宏医生">
 <img src="https://raw.githubusercontent.com/taoste/Hello-World/master/eBook/%E3%80%8A%E4%B8%81%E9%A6%99%E5%9B%AD%26%E4%B8%81%E9%A6%99%E5%8C%BB%E7%94%9F%E3%80%8B/weibo-qcode.jpg" width="298" height="298"  alt="【新浪微博】张文宏医生 https://m.weibo.cn/u/7454177482" title="【新浪微博】张文宏医生 https://m.weibo.cn/u/7454177482"></a>
 
+- Twitter ：章工（@[435Hz](https://twitter.com/435Hz/)) · [上午9:13 · 2021年5月25日](https://twitter.com/435Hz/status/1396997943912112130)
+> 朋友们，查查你是否幽门螺旋杆菌感染，尤其爱吃生食的。
+> 据说这个病菌在中国感染率在60%以上，对它的治疗也是对胃癌最有效的预防。
+> 医生说只要连续15天四联用药就可以治好，然后就基本免疫了。
+
 ----------------------------------------------------------------------------------
 
 -  **[丁香园](http://www.dxy.cn/)  - 中国医疗领域的连接者 ( http://www.dxy.cn/ )** 
