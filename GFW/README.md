@@ -22,6 +22,12 @@
 
 - [robots.txt](https://zh.wikipedia.org/wiki/Robots.txt) - 维基百科，自由的百科全书
 
+- 玹狸@[xuanli23333](https://twitter.com/xuanli23333/) · [上午9:22 · 2021年5月25日](https://twitter.com/xuanli23333/status/1397000145045135361)
+
+> 鹅厂出品的vpn，目前完全免费. 仅能加速学术站点~
+> 目前来看，应该是开了白名单（edu，ac的可能另说？
+>> https://m.qq.com/edu/index.html
+
 -------------------------------------------------------------------
 
 - [**CMLink** | China Mobile International - 中国移动国际有限公司](https://www.cmlink.com/) ( https://www.cmlink.com/ )
