@@ -19,6 +19,8 @@
 > 
 > 其实，这个方法非常适合下载较老版本的Chrome浏览器，稳定版Chrome也可以使用这样的方法下载之前版本。
 
+--------------------------------------------------------------------
+
 - [Google Chrome v91.0.4472.77 正式版发布](https://www.cnbeta.com/articles/soft/1132649.htm) - Google Chrome 谷歌浏览器 - cnBeta.COM
 
 > 下载地址
