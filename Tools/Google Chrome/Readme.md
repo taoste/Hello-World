@@ -81,6 +81,15 @@ https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=zh
 
 (要想下载历史版本 Chrome，必须先确定要下载的版本号，然后取版本号第二个小数点后的数字。比如Google Chrome（谷歌浏览器 XP版）V49.0.2623.112的下载地址就是：https://dl.google.com/chrome/install/2623.112/chrome_installer.exe)
 
+- [**离线安装包“无更新组件”版提取原生绿色版方法**](https://github.com/taoste/Hello-World/blob/master/Tools/Google%20Chrome/Chrome小技巧：如何下载离线版安装文件.md)： 
+
+👍鼠标右键解压离线安装包，此时会解压出来一个chrome.7z 
+
+👍再对chrome.7z解压就是原生绿色版啦！ 
+
+👍离线安装包“无更新组件”版不含在线更新升级功能，所以不会添加更新计划任务，也没有后台更新进程，更干净。
+
+
  -------------------------------------------
  
  - [**解决导致 Chrome 无法成功更新的问题**](https://support.google.com/chrome/answer/111996?visit_id=637008252529475702-4063015524&p=update_error&rd=1) - Google Chrome帮助
