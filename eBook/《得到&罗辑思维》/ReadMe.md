@@ -2,7 +2,7 @@
 
 -  **【[得到App](https://www.igetget.com/)】 ( https://www.igetget.com/ ) | [Web版-得到App](https://www.biji.com/) - 知识就是力量，知识就在得到 （ https://www.biji.com/ ）** 
 
->  [登录](https://sso.luojilab.com/) | 内部账号登录 - 统一登录平台 ( https://sso.luojilab.com/ ) 
+>  [登录](https://sso.luojilab.com/) | 内部账号登录 - 统一登录平台 ( https://sso.luojilab.com/ )  《[得到品控手册](https://www.dedao.cn/ebook/rJRdy1qe4xAVBgZrvdGmz8ykaop6QWXPKEWEJnD7LR51qb2KY9NPMXOljVa28m5K)》
 
 >>  [北京思维造物信息科技股份有限公司](https://www.tianyancha.com/search?key=%E5%8C%97%E4%BA%AC%E6%80%9D%E7%BB%B4%E9%80%A0%E7%89%A9%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8) 
 
