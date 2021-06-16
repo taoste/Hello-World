@@ -187,7 +187,7 @@ ID： ndjpnladcallmjemlbaebfadecfhkepb
 > - ID： nnnkddnnlpamobajfibfdgfnbcnkgngh
 > - 提供方：https://cn.infinitynewtab.com
 
-- [ ] 12. [**Volume Contro - 音量控制器**](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN)[实测可用]   - Chrome 网上应用店
+- [ ] 12. [**Volume Contro - 音量控制器**](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN)[实测可用]   - Chrome 网上应用店 （ [Chrome](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/volume-control/)）
 
 > - [详细信息](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)[原信息已失效]
 
