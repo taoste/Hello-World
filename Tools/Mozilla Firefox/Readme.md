@@ -316,7 +316,7 @@ c管理页面 moz-extension://2809ef11-1c3e-4f3b-b327-1b89ba68ff61/options/optio
 - [ ] 👍[**关灯看视频**](https://addons.mozilla.org/zh-CN/firefox/addon/turn-off-the-lights/) – 下载 🦊 Firefox 扩展（zh-CN）
 > 观看视频时调暗页面，仿佛置身电影院
 
-- [ ] [**Volume Contro - 音量控制器**](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN)[实测可用]   - Chrome 网上应用店 （ [Chrome](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/volume-control/)）
+- [ ] 12. [**Volume Contro - 音量控制器**](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN)[实测可用]   - Chrome 网上应用店 （ [Chrome](https://chrome.google.com/webstore/detail/volume-control/lhhgpflelfbhnihnbjigpgdbahgkbghp?hl=zh-CN) / [🦊Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/volume-control/) / [Edge](https://microsoftedge.microsoft.com/addons/detail/volume-knob-pro-%E9%9F%B3%E9%87%8F%E6%8E%A7%E5%88%B6%E5%99%A8/kdknjpajijbjnkjlkfiaaknabnpibbkj?hl=zh-CN)）
 
 > - [详细信息](https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp/related?hl=zh-CN)[原信息已失效]
 
