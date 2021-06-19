@@ -3,6 +3,8 @@
  
 >> 2021/6/16: 荣誉非国民｜对编程随想处境的一点推测 - [中国数字时代](https://chinadigitaltimes.net/chinese/667209.html)
 >>> 开博已12年的知名反共技术博主编程随想失联多日（ 2021年5月9日之后再未更新博文，其GitHub、Twitter等账号亦全部静默），网上出现其被捕传言，几位品葱网友发帖猜测了编程随想可能的处境。
+>> <<[独家：中国阿桑奇——翻墙教父“编程随想”怎样被中共抓捕的？香港警察搜苹果日报，学中共阿爷未判先定罪；大数据时代如何保护言论自由并巧妙抗争？【江峰漫谈20210617第337期】](https://www.youtube.com/watch?v=eXuF78ywpVk&list=TLPQMTkwNjIwMjEh-lH435mNdA)>> - YouTube
+
  
 > ( @[Github](https://github.com/programthink) : [编程随想](https://github.com/programthink/sites)-[收藏的各色网站](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/sites.wiki) || 
 >  [编程随想](https://github.com/programthink/books)-[收藏的电子书清单（多个学科，含下载链接）](https://github.com/taoste/Hello-World/blob/master/GFW/Program-think/books.wiki) )
