@@ -74,6 +74,39 @@ Chrome Trip by code0<br>
 <br></blockquote>
 </details>
 
+<details><summary><h5><a href="https://mp.weixin.qq.com/s/Jd-oTRE4dOCyQMU1O7Iicg" title="如何解决 6 大「微软服务」连接速度缓慢的问题？">如何解决 6 大「微软服务」连接速度缓慢的问题？</a> | <a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">小众软件</a><h5><br>
+  </summary> <br>
+MicrosoftHostsPicker 是一个简单的 Python 脚本，可以帮你挑选最快的微软网络服务 IP地址，以解决 6 大微软网络服务连接缓慢，或者干脆无法连接的问题。@<a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">Appinn</a>
+<br>
+<blockquote>
+MicrosoftHostsPicker<br><br>
+MicrosoftHostsPicker 的原理很简单，通过测试所有的微软 IP 地址 ping 值，来挑选出速度最快的 IP 地址，并放置在 hosts 文件中，让 Windows 系统在连接这些服务时，跳过 DNS，直接连接这些 IP 地址。
+<br>
+项目地址：https://github.com/ZeroSimple/MicrosoftHostsPicker
+<br>
+原文地址：https://www.appinn.com/microsofthostspicker-python/
+<br>
+<br>
+操作方式：<br>
+<br>
+需要系统中安装有 Python，然后在下载的 MicrosoftHostsPicker 目录中运行：
+<br>
+pip install ping3
+<br>
+python MicrosoftHostsPicker.py
+<br>
+第一步是通过 pip 安装 ping3 工具包，第二步是运行脚本，需要等待一段时间。
+<br>
+然后就能在 MicrosoftHostsPicker 目录中生成一个 hosts 文件，里面包含了 ping 值最低的 IP 地址：
+<br>
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/4icbjwFqP3McXMJQky8AFchIP6auXvfvaI6ItNneubxd26NMADB8EOVObpLUibKs9YtMyb0pN72ZxyYFibBpTRDPg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="">
+	<br>
+将这些内容添加进系统的 hosts 文件即可。
+<br>
+注意：ping 值并不能完全代表网速，仅作参考。如果修改 hosts 文件后出现故障，删除即可恢复。
+	<br>
+</details>
+
 -------------------------------------------------
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
