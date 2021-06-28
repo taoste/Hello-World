@@ -76,35 +76,55 @@ Chrome Trip by code0<br>
 
 <details><summary><a href="https://mp.weixin.qq.com/s/Jd-oTRE4dOCyQMU1O7Iicg" title="如何解决 6 大「微软服务」连接速度缓慢的问题？">如何解决 6 大「微软服务」连接速度缓慢的问题？</a> | <a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">小众软件</a><br>
   </summary> <br>
-MicrosoftHostsPicker 是一个简单的 Python 脚本，可以帮你挑选最快的微软网络服务 IP地址，以解决 6 大微软网络服务连接缓慢，或者干脆无法连接的问题。@<a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">Appinn</a>
-<br>
-<blockquote>
-MicrosoftHostsPicker<br><br>
-MicrosoftHostsPicker 的原理很简单，通过测试所有的微软 IP 地址 ping 值，来挑选出速度最快的 IP 地址，并放置在 hosts 文件中，让 Windows 系统在连接这些服务时，跳过 DNS，直接连接这些 IP 地址。
-<br><br>
-项目地址：https://github.com/ZeroSimple/MicrosoftHostsPicker
-<br><br>
-原文地址：https://www.appinn.com/microsofthostspicker-python/
-<br>
-<br>
-操作方式：<br>
-<br>
-需要系统中安装有 Python，然后在下载的 MicrosoftHostsPicker 目录中运行：
-<br><br>
-pip install ping3<br>
-<br>
-python MicrosoftHostsPicker.py<br>
-<br>
-第一步是通过 pip 安装 ping3 工具包，第二步是运行脚本，需要等待一段时间。
-<br>
-然后就能在 MicrosoftHostsPicker 目录中生成一个 hosts 文件，里面包含了 ping 值最低的 IP 地址：
-<br>
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/4icbjwFqP3McXMJQky8AFchIP6auXvfvaI6ItNneubxd26NMADB8EOVObpLUibKs9YtMyb0pN72ZxyYFibBpTRDPg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="">
-	<br>
-将这些内容添加进系统的 hosts 文件即可。
-<br>
-注意：ping 值并不能完全代表网速，仅作参考。如果修改 hosts 文件后出现故障，删除即可恢复。
-	<br>
+<p>
+<strong>MicrosoftHostsPicker</strong> 是一个简单的 Python 脚本，可以帮你挑选最快的微软网络服务 IP地址，以解决 6 大微软网络服务连接缓慢，或者干脆无法连接的问题。@<a href="https://www.appinn.com/microsofthostspicker-python/">Appinn</a>
+</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接缓慢问题" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 1" data-lazy-src="https://img3.appinn.net/images/202106/microsofthostspicker1.jpg!o">
+<noscript>
+<img src="https://img3.appinn.net/images/202106/microsofthostspicker1.jpg!o" alt="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接缓慢问题" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 1">
+</noscript>
+</figure>
+</div>
+<p>来自 @<a href="https://twitter.com/ryauou/status/1408811014611619845?s=11" target="_blank" rel="noopener">蒟蒻的新脚本</a>：</p>
+ <p>Microsoft Hosts Picker 微软服务 IP 优选脚本正式发布！ 自动扫描延迟最小的微软服务器IP，一条指令生成Hosts，解决的 MS 服务网络时常抽风的问题。 目前支持的服务有： </p>
+<ul>
+<li>Microsoft 账户登录</li>
+<li>Microsoft Store </li>
+<li>Xbox</li>
+<li>OneNote 同步</li>
+<li>Windows 下载&amp;更新</li>
+<li>Office 下载&amp;更新</li>
+</ul>
+<hr class="wp-block-separator"/>
+<h2>MicrosoftHostsPicker</h2>
+<p>MicrosoftHostsPicker 的原理很简单，通过测试所有的微软 IP 地址 ping 值，来挑选出速度最快的 IP 地址，并放置在 hosts 文件中，让 Windows 系统在连接这些服务时，跳过 DNS，直接连接这些 IP 地址。</p>
+<ul>
+<li>项目地址：<a href="https://github.com/ZeroSimple/MicrosoftHostsPicker" target="_blank" rel="noopener">https://github.com/ZeroSimple/MicrosoftHostsPicker</a>
+</li>
+<li>原文地址：https://www.appinn.com/microsofthostspicker-python/</li>
+</ul>
+<h3>操作方式：</h3>
+<p>需要系统中安装有 Python，然后在下载的 MicrosoftHostsPicker 目录中运行：</p>
+<div class="wp-block-syntaxhighlighter-code ">
+<pre class="brush: bash; title: ; notranslate" title="">pip install ping3
+python MicrosoftHostsPicker.py
+</pre>
+</div>
+<p>第一步是通过 pip 安装 ping3 工具包，第二步是运行脚本，需要等待一段时间。</p>
+<p>然后就能在 MicrosoftHostsPicker 目录中生成一个 hosts 文件，里面包含了 ping 值最低的 IP 地址：</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接缓慢问题" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 2" data-lazy-src="https://img3.appinn.net/images/202106/screen-appinn2021-06-27-12-38-33.jpg!o">
+<noscript>
+<img src="https://img3.appinn.net/images/202106/screen-appinn2021-06-27-12-38-33.jpg!o" alt="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接缓慢问题" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 2">
+</noscript>
+</figure>
+</div>
+<p>将这些内容添加进系统的 hosts 文件即可。</p>
+<p>Windows 的 hosts 文件在：<strong>%WinDir%\System32\Drivers\Etc</strong> （将该内容放到运行里回车，即可打开文件夹，用管理员权限编辑 hosts 文件即可）</p>
+<p>注意：ping 值并不能完全代表网速，仅作参考。如果修改 hosts 文件后出现故障，删除即可恢复。</p>
 </details>
 
 -------------------------------------------------
