@@ -74,26 +74,26 @@ Chrome Trip by code0<br>
 <br></blockquote>
 </details>
 
-<details><summary><h5><a href="https://mp.weixin.qq.com/s/Jd-oTRE4dOCyQMU1O7Iicg" title="如何解决 6 大「微软服务」连接速度缓慢的问题？">如何解决 6 大「微软服务」连接速度缓慢的问题？</a> | <a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">小众软件</a><h5><br>
+<details><summary><a href="https://mp.weixin.qq.com/s/Jd-oTRE4dOCyQMU1O7Iicg" title="如何解决 6 大「微软服务」连接速度缓慢的问题？">如何解决 6 大「微软服务」连接速度缓慢的问题？</a> | <a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">小众软件</a><br>
   </summary> <br>
 MicrosoftHostsPicker 是一个简单的 Python 脚本，可以帮你挑选最快的微软网络服务 IP地址，以解决 6 大微软网络服务连接缓慢，或者干脆无法连接的问题。@<a href="https://www.appinn.com/microsofthostspicker-python/" title="MicrosoftHostsPicker - 优选 IP 地址，解决 6 大「微软服务」连接速度缓慢的问题 - 小众软件">Appinn</a>
 <br>
 <blockquote>
 MicrosoftHostsPicker<br><br>
 MicrosoftHostsPicker 的原理很简单，通过测试所有的微软 IP 地址 ping 值，来挑选出速度最快的 IP 地址，并放置在 hosts 文件中，让 Windows 系统在连接这些服务时，跳过 DNS，直接连接这些 IP 地址。
-<br>
+<br><br>
 项目地址：https://github.com/ZeroSimple/MicrosoftHostsPicker
-<br>
+<br><br>
 原文地址：https://www.appinn.com/microsofthostspicker-python/
 <br>
 <br>
 操作方式：<br>
 <br>
 需要系统中安装有 Python，然后在下载的 MicrosoftHostsPicker 目录中运行：
+<br><br>
+pip install ping3<br>
 <br>
-pip install ping3
-<br>
-python MicrosoftHostsPicker.py
+python MicrosoftHostsPicker.py<br>
 <br>
 第一步是通过 pip 安装 ping3 工具包，第二步是运行脚本，需要等待一段时间。
 <br>
