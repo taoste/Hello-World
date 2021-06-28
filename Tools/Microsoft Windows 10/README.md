@@ -127,6 +127,8 @@ python MicrosoftHostsPicker.py
 <p>注意：ping 值并不能完全代表网速，仅作参考。如果修改 hosts 文件后出现故障，删除即可恢复。</p>
 </details>
 
+<h4><a href="https://meta.appinn.net/t/topic/24349" title="4.2.2.2：一个 DNS 传奇背后的故事 - 大家的板块 / Scavin Apps - 小众软件官方论坛">4.2.2.2：一个 DNS 传奇背后的故事 - 大家的板块 / Scavin Apps - 小众软件官方论坛</a></h4>
+
 -------------------------------------------------
 
 - **微软官网**：[**Windows 10中制作系统修复U盘以及利用U盘修复系统的具体步骤**](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows/9944e6c3-8589-40fe-8252-4a21a6b08d07) - Microsoft Community
