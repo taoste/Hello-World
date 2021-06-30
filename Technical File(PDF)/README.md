@@ -1,3 +1,6 @@
+在编程界，有一句话非常出名，叫“Talk is cheap, show me the code.” —— 空谈无意，秀代码。
+#############################################################################
+
 强烈推荐👍：《[GitHub入门与实践](https://book.douban.com/subject/26462816/)》( [[日]大塚弘记](https://book.douban.com/subject_search?search_text=%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0) ) ISBN: 9787115394095  🔗[中文PDF版](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《GitHub入门与实践》(%20%5B日%5D%20大塚弘记%20)%20中文PDF版.pdf)
 
 >> 参考链接：[《Github上 10 个开源免费且优秀的后台控制面板](https://news.51cto.com/art/202005/616539.htm)》 ( 2020-05-14 ) - 51CTO.COM 
