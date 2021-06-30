@@ -1,4 +1,5 @@
 在编程界，有一句话非常出名，叫“Talk is cheap, show me the code.” —— 空谈无意，秀代码。
+>> 因为我们始终相信，能让一个人学会一项技能的核心动力，一定是：喜欢，兴趣，爱……这些正面情绪。而不是焦虑、害怕、恐惧……这一类情绪，可以诱导人点击、收藏、付费，但不帮助人学习。---  @[风变编程](https://www.pypypy.cn/#/apps/3/lecture/5c3d84e98939b4000100e787)
 #############################################################################
 
 强烈推荐👍：《[GitHub入门与实践](https://book.douban.com/subject/26462816/)》( [[日]大塚弘记](https://book.douban.com/subject_search?search_text=%E5%A4%A7%E5%A1%9A%E5%BC%98%E8%AE%B0) ) ISBN: 9787115394095  🔗[中文PDF版](https://taoste.github.io/Hello-World/Technical%20File(PDF)/《GitHub入门与实践》(%20%5B日%5D%20大塚弘记%20)%20中文PDF版.pdf)
