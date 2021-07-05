@@ -24,6 +24,12 @@
 
 - [30 个Python代码实现的常用功能，精心整理版](https://mp.weixin.qq.com/s/YgkLBDxK8dJEawwDWYAvmQ) ( @恋习Python 2020-09-30  ) 
 
+- [频上热搜！GitHub 这款开源神器让父亲重返18岁！](https://mp.weixin.qq.com/s/jDaHjjzuoGZWMlkBy_jA_Q) (@GitHubDaily 2021-06-19)
+> 传送门：
+>> https://github.com/PaddlePaddle/PaddleGAN/blob/develop/README_cn.md 
+
+>> https://github.com/PaddlePaddle/PaddleGAN/stargazers  
+
 - [**接私活必备的 6 个开源项目**](https://mp.weixin.qq.com/s/FQBOo1m4suYRGmua5Z3QTQ) ( 2021-01-20 )
 > 优秀库:
 
