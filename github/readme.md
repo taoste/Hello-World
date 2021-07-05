@@ -30,6 +30,13 @@
 
 >> https://github.com/PaddlePaddle/PaddleGAN/stargazers  
 
+> 飞桨官网地址：
+>> https://www.paddlepaddle.org.cn
+> 飞桨开源框架项目地址：
+>> GitHub: https://github.com/PaddlePaddle/Paddle 
+>> 
+>> Gitee: https://gitee.com/paddlepaddle/Paddle
+
 - [**接私活必备的 6 个开源项目**](https://mp.weixin.qq.com/s/FQBOo1m4suYRGmua5Z3QTQ) ( 2021-01-20 )
 > 优秀库:
 
