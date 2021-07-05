@@ -4,22 +4,6 @@
 
 >  <p>‎ <a href="https://github.com/taoste/Hello-World/tree/master/Tools/apk/%E4%BF%9D%E5%8D%95%E7%9B%92%E5%AD%90" title="保单盒子-@Github/Tools/apk">》》》</a>: <a href="https://apps.apple.com/cn/app/保单盒子-保单管理工具/id1409558062" title="App Store 上的“保单盒子-保单管理工具”">保单盒子-保单管理工具</a> | <a href="https://apps.apple.com/cn/app/保单整理-keeper/id1253280891" title="App Store 上的“保单整理(Keeper)”">保单整理(Keeper)</a>（参阅：<a href="https://zhuanlan.zhihu.com/p/52894089" title="【参考资料】保单盒子 : 第一次买重疾险如何买对不买错？ - 知乎">①</a> | <a href="http://www.sohu.com/a/273721301_793156" title="【参考资料】保单盒子：别让你的保险，白买了_管理">②</a> | <a href="http://m.china-insurance.com/cpinsur/20190510/5101.html" title="【参考资料】保单盒子|保单整理4+2法，让你的保单666_中国保险网--中国最早成立、国内最权威的、全方位为百姓提供服务的保险门户网站">③</a>）</p>
 
-- [**955.WLB 不加班公司名单！**](https://github.com/formulahendry/955.WLB)[再新增 5 家公司！](https://mp.weixin.qq.com/s/6F09VQ0qdyU_OTIFUmK0oQ)
-
-> 与 [**996.ICU**](https://github.com/996icu/996.ICU) 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。
-
->> 996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
-
->> 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
-
->> 944 工作制：即每天上午 9 点到岗，一直工作到下午 4 点。每周工作 4 天。
-
-> [996.ICU](https://github.com/996icu/996.ICU): 工作 996，生病 ICU。
-
-> [955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
-
-> [944.Life](https://github.com/formulahendry/944.Life): 工作 944，生活为先。
-
 - [同步神器**BTSync**(BitTorrent Sync / 现名：Resilio Sync) —— "不仅是文件同步利器，而且是【分布式】网盘"](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)   |  [[BitTorrent & P2P工具专辑](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7) >>
 
 - [**RustDesk** | 最好的开源远程桌面软件](https://rustdesk.com/zh/) ( https://rustdesk.com/zh/ ) 
@@ -81,6 +65,24 @@
 >>  本文多讨论的**工具**多为**软件层面**的概念
 > <img src="https://github.com/taoste/Hello-World/blob/master/images/%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E6%88%AA%E5%9B%BE.PNG?raw=true"/>
 
+---------------------------------------
+
+- [**955.WLB 不加班公司名单！**](https://github.com/formulahendry/955.WLB)[再新增 5 家公司！](https://mp.weixin.qq.com/s/6F09VQ0qdyU_OTIFUmK0oQ)
+
+> 与 [**996.ICU**](https://github.com/996icu/996.ICU) 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。
+
+>> 996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
+
+>> 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
+
+>> 944 工作制：即每天上午 9 点到岗，一直工作到下午 4 点。每周工作 4 天。
+
+> [996.ICU](https://github.com/996icu/996.ICU): 工作 996，生病 ICU。
+
+> [955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
+
+> [944.Life](https://github.com/formulahendry/944.Life): 工作 944，生活为先。
+> 
 ---------------------------------------
 
 - 《[**代餐饮料「若饭」评测记**](https://imtx.me/archives/2715.html)》 | ( [I'm TualatriX](https://imtx.me/)   Oct 11, 2018 )
