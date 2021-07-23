@@ -17,8 +17,10 @@
 - Markdown 语法 : 代码区块和语法高亮<br>
 < p >这是一个普通段落：< / p > <br>
 < pre >< code >这是一个代码区块。 < / code >< / pre ><br>
-<!-- //Html首行缩进两个字符(写博客用的比较多). 
- 代码： <p style="text-indent:2em"> <font color='ff0000'>这是一个测试</font></p> -->
+
+- Html首行缩进两个字符(写博客用的比较多): 
+
+>> 代码： < p style="text-indent:2em" > < font color='ff0000'>这是一个测试< / font >< / p >
 					   
 - [**SpyColor.com - 颜色转换工具RGB，CMYK ， HSV**](https://zh.spycolor.com/)  ( https://zh.spycolor.com/ ) 
 
