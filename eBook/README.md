@@ -11,7 +11,19 @@
 
 《[三体](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93_(%E5%B0%8F%E8%AF%B4))》哲学下的社会生存和发展法则：[我消灭你，与你无关](https://book.douban.com/subject/2567698/) 《[豆瓣搜索: 重生八零：媳妇有点辣](https://www.douban.com/search?source=suggest&q=重生八零：媳妇有点辣)》
 
-
+```
+力微休负重，言轻莫劝人。
+人一旦悟透了，
+就会变得沉默，
+不是没有与人相处的能力，
+而是没有了，
+与人逢场作戏的兴趣。
+天灾也被称为“不可抗拒之力”，
+每一次天灾，必然会夹杂着人祸。
+熟悉历史的人都知道，
+作为渺小的个体，要的不是歌功颂德和跪舔，
+而是在反省和总结中，增长生存自救的智慧和幸存者技能。
+```
 - 【搜索】思维导图 site:github.io ( @[Google](https://www.google.com/search?hl=zh_CN&source=hp&ei=NIVkXYCiMc_ZhwP9zobwBw&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Bing](https://cn.bing.com/search?q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Baidu](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%20site%3Agithub.io) )  ☞ 未知全貌，不予置评
 
 >  [思维导图 理财 site:github.io](https://www.google.com/search?hl=zh_CN&ei=R4VkXeX_EoqEoASmlp3QDA&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+%E7%90%86%E8%B4%A2+site%3Agithub.io) 
