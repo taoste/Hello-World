@@ -2,6 +2,8 @@
 微信公众号“秋叶PPT”、“秋叶Excel”创始人。 旗下秋叶PPT、秋叶Word、秋叶Excel、秋叶大叔等系列短视频账号粉丝3000w+。
 <img scr="https://images-cn.ssl-images-amazon.cn/images/I/510xg-laf3L.jpg">
 
+秋叶 | @[豆瓣](https://www.douban.com/people/qiuyemantan/) 
+
 <img scr="https://mmbiz.qpic.cn/mmbiz_png/alGSYfaf9EXKne1t0nibERvvCMgEtDKpqllE0NicRoYApvNX6ic1q3cvocqUhTzC1dRYLVc0SD8xb11rdVpdnRribw/640">
 
 💗 [Title](https://github.com/taoste/Hello-World/tree/master/github/qiuyeppt.com/dasai.qiuyeppt.com) : [**PPT投影演示辅助工具**](https://github.com/taoste/Hello-World/tree/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7) /  [💗](https://github.com/taoste/Hello-World/tree/master/github/qiuyeppt.com/dasai.qiuyeppt.com) [**秋叶PPT专题**](https://github.com/taoste/Hello-World/tree/master/eBook/QiuYePPT) | [PS安装包下载地址.md](https://github.com/taoste/Hello-World/tree/master/eBook/QiuYePPT/PS安装包下载地址.md)
