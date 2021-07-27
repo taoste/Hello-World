@@ -14,6 +14,9 @@
 而是在反省和总结中，多关注应急预案，
 增长生存自救的智慧和幸存者技能。
 ```
+
+[而另一方面，一些看似原始的技术却有可能派上大用场。](https://t66y.com/htm_data/2107/7/4610426.html)在水灾前方媒体群里，流传着一份应急指南，当中提示了一项技术：如需微博求助，在没有4G信号的情况下，可以直接发送内容到1069009009。微博系统通过2G网络留下了一线生机。
+
 <p><b><img src="http://www.emerinfo.cn/images/favicon.png" /><a href="https://www.mem.gov.cn/" title="中华人民共和国应急管理部/主办( 官网 mem.gov.cn )">应急管理部</a> 
 - <a href="http://www.emerinfo.cn/" title="中国应急信息网 - 中华人民共和国应急管理部/主办( 官网 mem.gov.cn )">中国应急信息网</a>:</b></p>
 
