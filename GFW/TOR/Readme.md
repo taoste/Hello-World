@@ -60,6 +60,17 @@
 
 - 《[Tor Browser洋葱浏览器中文版-以Firefox为界面的隐藏IP科学上网软件](https://www.xiaoyuanjiu.com/641.html)》(2018年2月28日) _ [小媛啾](https://www.xiaoyuanjiu.com/) 
 
+
+- 拯救生命, 消除恐怖主义 @[RFJ_Mandarin](https://twitter.com/RFJ_Mandarin) [下午9:00 · 2021年7月28日](https://twitter.com/RFJ_Mandarin/status/1420368636359942145)· Hootsuite Inc.
+
+> 海外针对美国关键信息基础设施的恶意 #网络 战的有关信息，最高可获得1000万美元奖金！
+
+> 正义奖赏(Rewards For Justice)收到了比较多关于其网络奖金优惠的兴趣和问题，所以在此提供一个澄清。
+
+>> 请通过 Tor 提示线( http://he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion ) 向 RFJ 发送信息。
+
+>>> (需要 Tor 浏览器) rewardsforjustice.net/chinese/
+
 --------------------------------------------------------------------------------
 
 <img src="https://www.torproject.org/images/tor-logo.jpg"/>
