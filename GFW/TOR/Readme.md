@@ -69,7 +69,9 @@
 
 >> 请通过 Tor 提示线( http://he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion ) 向 RFJ 发送信息。
 
->>> (需要 Tor 浏览器) rewardsforjustice.net/chinese/
+>>> (需要 Tor 浏览器) 
+
+> 正义的奖赏 https://rewardsforjustice.net/chinese
 
 --------------------------------------------------------------------------------
 
