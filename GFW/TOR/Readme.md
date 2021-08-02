@@ -73,6 +73,15 @@
 
 > 正义的奖赏 https://rewardsforjustice.net/chinese
 
+- 七舅姥爷@[yeahwu404](https://twitter.com/yeahwu404/) [上午6:40 · 2021年8月2日](https://twitter.com/yeahwu404/status/1422084776438075393) · Twitter for iPhone
+> 姥爷为什么一直要保留暗网访问地址？<br>
+> 这代表了俺的一种态度，安全无小事。<br>
+> 另，姥爷毕竟普及匿名这么多年了，希望能坚持下去。<br>
+>> http://https://111111.online/ <br>
+>> http://bcmv6rm4o3qlbxm525hmiygoerrtn37ya2h4gsjubp6o5zpgkkg6ouid.onion/ <br>
+> 搭建暗网网站 https://111111.online/tags/tor/
+>> http://bcmv6rm4o3qlbxm525hmiygoerrtn37ya2h4gsjubp6o5zpgkkg6ouid.onion/posts/tor_onion.html
+
 --------------------------------------------------------------------------------
 
 <img src="https://www.torproject.org/images/tor-logo.jpg"/>
