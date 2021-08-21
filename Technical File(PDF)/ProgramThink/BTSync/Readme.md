@@ -12,6 +12,7 @@
 1.<a href="https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.4.111/Windows/BTSync-1.4.111.exe?raw=true" title="下载Windows软件 : BTSync-1.4.111.exe">下载软件</a>（绿色免安装，无需管理员权限即可使用） 【 [**64Bit**](https://www.filehorse.com/download-resilio-sync-64/20030/) 下载有巨大风险，[**非官方网站/安全性未经核实**](https://www.virustotal.com/gui/file/955a6c4a74f9f259cf78558357887a52aa80d95b6bf32c86aa492e8cce092b49/detection)】
 
 > 路径： ./1.4.111/Windows/BTSync-1.4.111.exe
+>> ( 可配合效率工具：[**1.一键批量新建G-eBooks文件夹脚本**](https://github.com/taoste/Hello-World/blob/master/Technical%20File(PDF)/ProgramThink/BTSync/1.%E4%B8%80%E9%94%AE%E6%89%B9%E9%87%8F%E6%96%B0%E5%BB%BAG-eBooks%E6%96%87%E4%BB%B6%E5%A4%B9%E8%84%9A%E6%9C%AC.bat) )
   
 2.添加BT Sync 同步密钥KEY ( [BTSync 中继服务器 - @Google 搜索](https://www.google.com/search?q=BTSync+%E4%B8%AD%E7%BB%A7%E6%9C%8D%E5%8A%A1%E5%99%A8) )
 
