@@ -1,4 +1,4 @@
-- 【实测笔记】2020-11-26 10:00（周四） 龙运营-激活有效
+- 【实测笔记】2020-11-26 10:00（周四） 龙运营-永久激活有效 | LEGe-WEGE 2021年8月26日 17点14分 实测永久激活有效
 <blockquote>
 ::解除原先金钥<br/>
 slmgr.vbs -upk<br/>
@@ -10,6 +10,16 @@ slmgr.vbs -skms 172.17.0.29<br/>
 slmgr.vbs -ato<br/>
 ::显示KMS相关资讯<br/>
 slmgr.vbs -dlv<br/>
+</blockquote>
+
+- 看看win10查看激活信息的详细方法: 
+- <blockquote>
+1、使用 Windows + R组合快捷键打开运行命令框运行： slmgr.vbs -dlv 命令。<br/>
+. 可以查询到Win10的激活信息，包括：激活ID、安装ID、激活截止日期等信息。<br/>
+. 看不懂的继续往下。<br/>
+. 2、运行： slmgr.vbs -dli 命令可以查询到操作系统版本、部分产品密钥、许可证状态等。<br/>
+. 3、运行：slmgr.vbs -xpr 命令可以查询Win10是否永久激活。（√）<br/>
+. 4、运行：winver 命令可以查询系统内核版本，以及注册用户信息。<br/>
 </blockquote>
 
 - 最新windows xp sp3序列号(通过正版验证) MRX3F-47B9T-2487J-KWKMF-RPWBY(工行版)
