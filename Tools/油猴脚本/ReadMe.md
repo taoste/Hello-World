@@ -1,12 +1,12 @@
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;">
-<li>【BAT脚本效率工具】</li></ br>
-（需要保存为编码格式：ANSI）</ br>
+<li>【BAT脚本效率工具】</li>
+（需要保存为编码格式：ANSI，不能为默认的UTF-8）<br />
 <blockquote>
-	<a href="https://go.choong.net/PC/Win10-bat.txt" title="【脚本效率工具】一键批量新建Win用户文件夹脚本.bat">一键批量新建Win用户文件夹脚本.bat</a></ br>
-        <a href="https://go.choong.net/BTSync/G-eBooks.txt" title="【脚本效率工具】1.一键批量新建G-eBooks文件夹脚本.bat">一键批量新建Win用户文件夹脚本.bat</a></ br>
+	<a href="https://go.choong.net/PC/Win10-bat.txt" title="【脚本效率工具】一键批量新建Win用户文件夹脚本.bat">一键批量新建Win用户文件夹脚本.bat</a><br />
+        <a href="https://go.choong.net/BTSync/G-eBooks.txt" title="【脚本效率工具】1.一键批量新建G-eBooks文件夹脚本.bat">一键批量新建G-eBooks文件夹脚本.bat</a><br />
 </blockquote>
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;">
-<li></li>
+<li>【油猴脚本工具】</li>
 <table>
     <tr>
         <td><b>项目名称</b></td>
