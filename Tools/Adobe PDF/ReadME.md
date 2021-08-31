@@ -1,5 +1,15 @@
 # [🔍](https://www.google.com/search?hl=zh_CN&ei=lL5eX5rvHc78wAP1ppeAAw&q=%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%AE%8C%E7%BE%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) 开源软件替代方案：<br> Photoshop : [🔍](https://www.google.com/search?hl=zh_CN&ei=Gb5eX9DdNsnAoASalqSYCw&q=Photoshop+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+krita) <a href="https://docs.krita.org/zh_CN/" title="Krita 4.3 文档中心 — Krita Manual 4.3.0 文档"><img src="https://docs.krita.org/zh_CN/_static/favicon.ico" height="20" width="20" /></a> [krita](https://krita.org/zh/) 和 CorelDRAW : [🔍](https://www.google.com/search?hl=zh_CN&ei=KShYX_H5JMKbmAX-vr_oAQ&q=CorelDRAW+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+Inkscape) [inkscape](https://inkscape.org/zh-hans/)
 
+
+- 【[**潮点视频**](https://shipin520.com/)】插件问题解决方案：
+> 1.为了给您提供方便，我们整理了一小部分常用插件（百度上都有），您可以下载安装使用，具体的安装方法可以百度搜索下。
+>> 常用插件：https://pan.baidu.com/s/1x26MU7buTUzknmLYOC_zqw
+>>> 提取码：o6JE
+> 2.某宝购买一键安装版AE插件，十几块钱可以买到几百个常用插件，安装之后即可正常显示，此方法比第一个方法解决时间快。
+>
+> **其它**：
+>> 《[新人小白必看~《AE模板使用教程》来袭!消息中心](https://shipin520.com/message/134-70.html)》 - [**潮点网**](https://shipin520.com/) 
+
 - 《PS:[**载入UXP主屏幕扩展失败**](https://www.cnblogs.com/xfbx/p/14774410.html)》 - @[国内版 Bing](https://cn.bing.com/search?q=%E8%BD%BD%E5%85%A5UXP%E4%B8%BB%E5%B1%8F%E5%B9%95%E6%89%A9%E5%B1%95%E5%A4%B1%E8%B4%A5)<br>
 >><p>把你绿色版 Photoshop\Data\CommonProgramFiles\Adobe 下 UXP文件夹拷贝到</p>
 >><p>C:\*******\Photoshop\Data\CommonProgramFiles\Adobe 下</p>
