@@ -3,6 +3,14 @@
    
 -------------------------------------------------
 
+- [HUAWEI MateBook X Pro 2021 (翡冷翠) 规格参数 - 华为官网](https://consumer.huawei.com/cn/laptops/matebook-x-pro-2021/specs/)
+<blockquote>
+Windows 10 家庭版 （推出后可免费升级至 Windows 11*，见下文）
+*升级推送计划目前仍在完善当中，计划于 2021 年底开始并持续到 2022 年，具体时间将因设备而异。某些功能需要特定硬件支持，详情请参阅:《Windows 11 规格 ：[了解 Windows 11 规格、功能和电脑要求
+](https://www.microsoft.com/zh-cn/windows/windows-11-specifications/)  - Microsoft 》
+</blockquote>
+-------------------------------------------------
+
 - [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
 
 - [**系列下载**](https://www.microsoft.com/zh-cn/software-download/windows10) : [**Windows 10**](https://go.microsoft.com/fwlink/?LinkID=799445) - [Windows10Upgrade9252.exe](https://download.microsoft.com/download/7/a/a/7aa0472b-49a0-46d1-b651-e8a2c53f1fe4/Windows10Upgrade9252.exe) ( **[20H2](https://download.microsoft.com/download/4/c/c/4cc6c15c-75a5-4d1b-a3fe-140a5e09c9ff/MediaCreationTool20H2.exe) - [MediaCreationTool.exe](https://go.microsoft.com/fwlink/?LinkId=691209)  | [2020年10月更新正式版媒体创建工具](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/MediaCreationTool20H2.exe)**)
