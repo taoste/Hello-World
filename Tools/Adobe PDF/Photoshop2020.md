@@ -1,4 +1,4 @@
-- [Adobe Photoshop 2020 便携版（v21.0.2）+Plugins](https://www.52pojie.cn/thread-1087960-1-1.html) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
+- [**Adobe Photoshop 2020 便携版（v21.0.2）+Plugins**](https://www.52pojie.cn/thread-1087960-1-1.html) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 
 > 便携式功能：
 
@@ -72,7 +72,7 @@ Adobe Photoshop 2020 便携版插件路径： Sandbox folder: "\Sandbox\Adobe Ph
 
 ------------------------------------------------------------------------------------------------------------------------
 
-- [Adobe Photoshop 2020 v21.0.1.47 离线完美特别版 【支持 Win7】](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1058206&ctid=1668) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
+- [**Adobe Photoshop 2020 v21.0.1.47 离线完美特别版 【支持 Win7】**](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1058206&ctid=1668) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn 
 
 （可自定义安装目录  可自定义程序语言）
 
