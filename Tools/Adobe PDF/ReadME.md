@@ -77,6 +77,19 @@
 <p>4.更改暂存盘首选项，按住ctrl alt shift键，右击打开PS，弹窗会显示有暂存盘的选择，最多选择4个暂存盘，依次选择空闲较大的盘，前面的盘满了会自动存储到下面的盘，确定即可。</p>
 </details>
 
+<details>
+    <summary>2018-09-13 《<a href="https://blog.csdn.net/chenrui310/article/details/82687237">下载完ae之后过了试用期，教你怎么再安装成功</a>》</summary> 	 
+<h1>下载完ae之后过了试用期，怎么再安装成功啊</h1> 
+<p><img class="has" src="http://imgsrc.baidu.com/forum/w%3D580/sign=3c105984283fb80e0cd161df06d02ffb/a997a4c27d1ed21b330d7b50a46eddc450da3f45.jpg"></p> 
+<p>我遇到也是这种情况下，折腾了半天才弄出来，总结一下给大家，</p> 
+<p> </p> 
+<h3><strong>先要清理掉注册表中的内容</strong></h3> 
+<p>1、点击开始，选中运行<br> 　　2、输入regedit，选中HKEY_CURRENT_USER--HKEY_CURRENT_USER\，选中Software，找到<a href="https://www.baidu.com/s?wd=ae&amp;tn=SE_PcZhidaonwhc_ngpagmjz&amp;rsv_dl=gh_pc_zhidao">ae</a>目录，删除。</p> 
+<h3><strong>卸载软件，手动删除残留文件</strong></h3> 
+<p><span style="color:#f33b45;"><strong>（直接删除文件）</strong></span><br> 如果已经卸载AE，重新安装AE时提示无法安装，出现这种情况的原因大多数是因为旧版本的有些注册表文件没有被卸载掉，这时需要手动删除以下这些文件才能继续安装。方法如下：<br> 【32位系统】<br> C:\Program Files\Common Files\Adobe\caps<br> C:\Program Files\Common Files\Adobe\backup<br> 【64位系统】<br> C:\Program Files (x86)\Common Files\Adobe\caps<br> C:\Program Files(x86) \Common Files\Adobe\backup <br> 把里面的两个叫 "caps.dll" 的文件都删除<br> 也可以直接删除 C:\Program Files\Common Files\Adobe 整个文件夹<br><strong>删除前 记得备份文件夹！</strong></p> 
+<h3><strong>重新启动电脑，安装成功后，还会出现这种情况，就关闭，关闭杀毒软件，在运行那个 amtemu.v0.9.2-painter的程序，让他从新替换。</strong></h3>
+</details>
+    
 -------------------------------------------------------------------
  
 - [**中国哲学书电子化计划**](https://zh.wikipedia.org/wiki/中國哲學書電子化計劃) - [维基百科，自由的百科全书](https://zh.wikipedia.org/)
