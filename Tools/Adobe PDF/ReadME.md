@@ -1,6 +1,30 @@
 # [🔍](https://www.google.com/search?hl=zh_CN&ei=lL5eX5rvHc78wAP1ppeAAw&q=%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%AE%8C%E7%BE%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) 开源软件替代方案：<br> Photoshop : [🔍](https://www.google.com/search?hl=zh_CN&ei=Gb5eX9DdNsnAoASalqSYCw&q=Photoshop+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+krita) <a href="https://docs.krita.org/zh_CN/" title="Krita 4.3 文档中心 — Krita Manual 4.3.0 文档"><img src="https://docs.krita.org/zh_CN/_static/favicon.ico" height="20" width="20" /></a> [krita](https://krita.org/zh/) 和 CorelDRAW : [🔍](https://www.google.com/search?hl=zh_CN&ei=KShYX_H5JMKbmAX-vr_oAQ&q=CorelDRAW+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+Inkscape) [inkscape](https://inkscape.org/zh-hans/)
 
+```
+   图像处理软件Adobe Photoshop 2021
 
+　　矢量图形编辑软件Adobe Illustrator 2021
+
+　　音频编辑软件Adobe Audition 2021
+
+　　文档创作软件Adobe Acrobat 2021
+
+　　网页编辑软件Adobe Dreamweaver 2021
+
+　　二维矢量动画创作软件Adobe Animate 2021
+
+　　视频特效编辑软件Adobe After Effects 2021
+
+　　视频剪辑软件Adobe Premiere Pro 2021
+
+　　Web环境Adobe AIR 2021
+
+　　摄影图片处理 Adobe LightRoom 2021
+
+　　3D人物 Adobe fuse 2021
+
+　　界面设计Adobe XD 2021
+```
 - 【[**潮点视频**](https://shipin520.com/)】插件问题解决方案：
 > 1.为了给您提供方便，我们整理了一小部分常用插件（百度上都有），您可以下载安装使用，具体的安装方法可以百度搜索下。
 >> 常用插件：https://pan.baidu.com/s/1x26MU7buTUzknmLYOC_zqw
