@@ -1,5 +1,17 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 >> [Note]Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
+
+
+<H2><a href="https://www.catalog.update.microsoft.com/Home.aspx">Microsoft Update Catalog</a>:</H2>
+<blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
+<span style="color: rgb(34, 34, 34); font-family: Arial, sans-serif; font-size: 13px;">登录微软的更新库（网址是：</span>
+<span style="color: rgb(247, 49, 49); font-family: Arial, sans-serif; font-size: 13px;">
+<a href="https://www.catalog.update.microsoft.com/Home.aspx">https://www.catalog.update.microsoft.com/home.aspx</a>
+</span>
+<span style="color: rgb(34, 34, 34); font-family: Arial, sans-serif; font-size: 13px;">）<br>
+</span>
+<span style="color: rgb(34, 34, 34); font-family: Arial, sans-serif; font-size: 13px;">在这里搜索你想要找到的更新（搜索这个更新的以“KB”开头的代码）</span>
+</blockquote>
    
 -------------------------------------------------
 
