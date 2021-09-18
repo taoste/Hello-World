@@ -22,7 +22,22 @@
 
 >> 代码： < p style="text-indent:2em" > < font color='ff0000'>这是一个测试< / font >< / p >
 
-<div>《<a href="https://www.jb51.net/html5/723812.html">HTML5 body设置自适应全屏</a>》_html5_网页制作_脚本之家 (jb51.net)</div>
+
+<li><a href="https://www.w3school.com.cn/css/css_margin.asp">CSS 外边距 (w3school.com.cn)</a></li>
+<code>
+<style> 
+	div {
+  border: 0px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  <!--background-color: lightblue; -->
+}
+</style> 
+</code>
+
+<li>《<a href="https://www.jb51.net/html5/723812.html">HTML5 body设置自适应全屏</a>》_html5_网页制作_脚本之家 (jb51.net)</li>
 					   
 - [**SpyColor.com - 颜色转换工具RGB，CMYK ， HSV**](https://zh.spycolor.com/)  ( https://zh.spycolor.com/ ) 
 
