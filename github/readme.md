@@ -21,6 +21,8 @@
 - Html首行缩进两个字符(写博客用的比较多): 
 
 >> 代码： < p style="text-indent:2em" > < font color='ff0000'>这是一个测试< / font >< / p >
+
+<div>《<a href="https://www.jb51.net/html5/723812.html">HTML5 body设置自适应全屏</a>》_html5_网页制作_脚本之家 (jb51.net)</div>
 					   
 - [**SpyColor.com - 颜色转换工具RGB，CMYK ， HSV**](https://zh.spycolor.com/)  ( https://zh.spycolor.com/ ) 
 
