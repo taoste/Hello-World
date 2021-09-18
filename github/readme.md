@@ -21,21 +21,27 @@
 - Html首行缩进两个字符(写博客用的比较多): 
 
 >> 代码： < p style="text-indent:2em" > < font color='ff0000'>这是一个测试< / font >< / p >
-
+<code><pre>
+    <style>
+         p {
+	 text-indent:2em;
+           }
+</style> 
+  </code></pre>
 
 <li><a href="https://www.w3school.com.cn/css/css_margin.asp">CSS 外边距 (w3school.com.cn)</a></li>
-<code>
+  <code><pre>
 <style> 
 	div {
-  border: 0px solid black;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  	border: 0px solid black;
+  	margin-top: 100px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 80px;
   <!--background-color: lightblue; -->
-}
+        }
 </style> 
-</code>
+</code></pre>
 
 <li>《<a href="https://www.jb51.net/html5/723812.html">HTML5 body设置自适应全屏</a>》_html5_网页制作_脚本之家 (jb51.net)</li>
 					   
