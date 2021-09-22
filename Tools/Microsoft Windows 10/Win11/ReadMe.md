@@ -1,24 +1,26 @@
-
-
-# [Windows 11](https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Win11)
-
-- [HUAWEI MateBook X Pro 2021 (翡冷翠) 规格参数 - 华为官网](https://consumer.huawei.com/cn/laptops/matebook-x-pro-2021/specs/)
-<blockquote>
+<li>
+<a href="https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Win11" style="font-weight: bold;">Windows 11</a> -&nbsp; <a href="https://consumer.huawei.com/cn/laptops/matebook-x-pro-2021/specs/">
+<span style="font-weight: bold; color: rgb(255, 0, 0);">HUAWEI MateBook X Pro 2021 (翡冷翠)</span> 规格参数 - 华为官网</a>
+</li>
+<blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
 Windows 10 家庭版 （推出后可免费升级至 Windows 11*，见下文）
 *升级推送计划目前仍在完善当中，计划于 2021 年底开始并持续到 2022 年，具体时间将因设备而异。某些功能需要特定硬件支持，详情请参阅:</blockquote>
-<blockquote>
-Windows 11 规格 - Microsoft ： 
-
-[了解 Windows 11 规格、功能和电脑要求](https://www.microsoft.com/zh-cn/windows/windows-11-specifications/)
+<blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
+Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="(https://www.microsoft.com/zh-cn/windows/windows-11-specifications/">了解 Windows 11 规格、功能和电脑要求</a>&nbsp;)
 </blockquote>
 
-<details open="">
+<details>
     <summary>
-<a href="https://www.cnbeta.com/articles/soft/1181597.htm"><b>微软正式推出Windows 11 PC健康检查工具 看你的设备是否兼容</b></a> - Windows 11 - cnBeta.COM
+<a href="https://www.cnbeta.com/articles/soft/1181597.htm">
+<b>微软正式推出Windows 11 PC健康检查工具 看你的设备是否兼容</b>
+</a> - Windows 11 - cnBeta.COM
 <blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
 <span style="font-family: &quot;Classic Grotesque W01&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Arial, SimSun, sans-serif; font-size: 16px; text-indent: 32px; background-color: rgba(255, 255, 255, 0.65);">下载：《<a href="https://download.microsoft.com/download/1/5/e/15eb8516-6a35-4c70-8897-6cb4b5b4efd6/3.0/x64/WindowsPCHealthCheckSetup.MSI">
 <b>PC 健康检查工具</b>
-</a>》 |&nbsp; <a href="https://www.microsoft.com/zh-cn/windows/windows-11"><span style="font-weight: bold;">升级到全新 Windows 11 操作系统 | Microsoft</span></a></span>
+</a>》 |&nbsp; <a href="https://www.microsoft.com/zh-cn/windows/windows-11">
+<span style="font-weight: bold;">升级到全新 Windows 11 操作系统 | Microsoft</span>
+</a>
+</span>
 </blockquote> </summary> 
 <blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
 <span style="font-family: &quot;Classic Grotesque W01&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Arial, SimSun, sans-serif; font-size: 16px; text-indent: 32px; background-color: rgba(255, 255, 255, 0.65);">
@@ -42,5 +44,3 @@ Windows 11 规格 - Microsoft ：
 <p style="box-sizing: border-box; transition: all 0.2s ease 0s; margin: 8px auto 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: &quot;Classic Grotesque W01&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Arial, SimSun, sans-serif; vertical-align: baseline; overflow-wrap: break-word; word-break: break-all; text-indent: 2em; background-color: rgba(255, 255, 255, 0.65);">当然，如果只是手痒想尝个鲜的话，还是可以试着通过 ISO 镜像（或媒体创建工具），在不受支持的硬件上安装一下 Windows 11 的，但别指望得到官方的定期更新与相关支持。</p>
 </blockquote>
 </details>
-
--------------------------------------------------
