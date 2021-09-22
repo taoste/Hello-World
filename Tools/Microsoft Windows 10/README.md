@@ -30,12 +30,11 @@ Windows 11 规格 - Microsoft ：
 <details open="">
     <summary>
 <a href="https://www.cnbeta.com/articles/soft/1181597.htm"><b>微软正式推出Windows 11 PC健康检查工具 看你的设备是否兼容</b></a> - Windows 11 - cnBeta.COM
- </summary> 
 <blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
 <span style="font-family: &quot;Classic Grotesque W01&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Arial, SimSun, sans-serif; font-size: 16px; text-indent: 32px; background-color: rgba(255, 255, 255, 0.65);">下载：《<a href="https://download.microsoft.com/download/1/5/e/15eb8516-6a35-4c70-8897-6cb4b5b4efd6/3.0/x64/WindowsPCHealthCheckSetup.MSI">
 <b>PC 健康检查工具</b>
 </a>》</span>
-</blockquote>
+</blockquote> </summary> 
 <blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
 <span style="font-family: &quot;Classic Grotesque W01&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, STHeiti, &quot;WenQuanYi Micro Hei&quot;, Arial, SimSun, sans-serif; font-size: 16px; text-indent: 32px; background-color: rgba(255, 255, 255, 0.65);">
 <br>
