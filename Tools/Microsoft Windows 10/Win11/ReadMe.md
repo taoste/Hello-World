@@ -1,7 +1,8 @@
 <h2>
 <a href="https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Win11" style="font-weight: bold;">Windows 11</a>
+    <a href="https://www.cnbeta.com/topics/41.htm" style="font-weight: bold;" title="Windows 11 - cnBeta.COM">系列</a>
 </h2>
-<a href="https://www.cnbeta.com/topics/41.htm" style="font-weight: bold;" title="Windows 11 - cnBeta.COM">系列</a>
+
 <li>
 <a href="https://consumer.huawei.com/cn/laptops/matebook-x-pro-2021/specs/">
 <span style="font-weight: bold; color: rgb(255, 0, 0);">HUAWEI MateBook X Pro 2021 (翡冷翠)</span> 规格参数 - 华为官网</a>
