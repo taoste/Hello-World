@@ -18,7 +18,7 @@
 >>
 >>将所有内容存储在一个位置
 
->利用 Microsoft Edge，您能做到的远非网络浏览那么简单
+>利用 Microsoft Edge，您能做到的远非网络浏览那么简单 ( <a href="https://microsoftedgewelcome.microsoft.com/zh-cn/update/">Microsoft Edge 新增功能介绍</a> )
 
 - ☞ [**立即试用 Microsoft Edge**](https://www.microsoft.com/zh-cn/MicrosoftEdgeWelcome) |  [**Microsoft Edge 加载项**](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)  | ( 安装 [**Microsoft Authenticator**](https://go.microsoft.com/fwlink/?LinkId=869155) 双因素验证/两步验证， 并在应用中登录帐户。  )
    
