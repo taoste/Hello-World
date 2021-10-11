@@ -180,6 +180,42 @@
     <summary> <b>秋叶PPT(微信号：ppt100)：</b>  </summary> 
 2020年秋叶同学会嘉宾分享PPT源文件（典藏版）
 <blockquote>
+插件的使用小教程看这里：
+《<a href="https://mp.weixin.qq.com/s/7xXtEqTaKQYc8RGgb2ZRoA" title="被Excel折磨哭的我，真后悔没早点安装这3个插件……（内附安装包）">被Excel折磨哭的我，真后悔没早点安装这3个插件……（内附安装包）</a>
+<hr>
+方方格子安装包↓↓↓<br>
+<br>
+链接：https://pan.baidu.com/s/1Oa9K_1IpM15MGwtd1_I56A <br>
+提取码：yw4m <br>
+<hr>
+Excel2013、2010版本Power Query安装包↓↓↓（安装前请先确认是32位还是64位）<br>
+<br>
+32位的Office：<br>
+链接：https://pan.baidu.com/s/15baUSPZHX9at8NEkQwUayg 提取码：25w8 <br>
+<br>
+64位的Office：<br>
+链接：https://pan.baidu.com/s/10Gnzb2r9ToeSDBLBRGSqEQ 提取码：4t10 <br>
+<br>
+加油练习啦<br>
+Hi~小伙伴你来啦！Excel练习文件，小兰都给你准备好啦↓↓↓<br>
+<br>
+https://shimo.im/docs/aBAYVXrMd8Uz453j/ <br>《Excel练习材料【秋叶Excel】》，可复制链接后用石墨文档 App 或小程序打开<br>
+<br>
+如果你觉得不错，欢迎把我们公众号和文章分享给更多小伙伴哦~<br>
+<hr>
+【易用宝】<br>
+32位及64位的Excel2007/2010/2013/2016/365、WPS<br>
+<br>
+链接：https://pan.baidu.com/s/1MGZJX-r2ArQqEASQJqLsiQ<br>
+提取码：k70u<br>
+<br>
+【E灵】<br>
+Excel 2007、2010、2013、2016和2019；WPS 2016/2019<br>
+<br>
+链接：https://pan.baidu.com/s/17xRhdXKF2XIaInUXqSWA3A<br>
+提取码：mix5<br>
+</blockquote>	
+<blockquote>
 链接：https://pan.baidu.com/s/1FNrvOQK_aBPjFmwiL28Avg <br />
 提取码：j74r 
 </blockquote>	
