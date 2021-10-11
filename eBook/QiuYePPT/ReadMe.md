@@ -180,6 +180,19 @@
     <summary> <b>秋叶PPT(微信号：ppt100)：</b>  </summary> 
 2020年秋叶同学会嘉宾分享PPT源文件（典藏版）
 <blockquote>
+链接：https://pan.baidu.com/s/1FNrvOQK_aBPjFmwiL28Avg <br />
+提取码：j74r 
+</blockquote>	
+2019年秋叶同学会PPT源文件分享
+<blockquote>
+链接: https://pan.baidu.com/s/1rRJ6k1y5NhxeP-K--RmqSQ  <br />
+提取码: ytq6
+</blockquote>	
+ </details>
+ 
+ <details>
+    <summary> <b>秋叶excel100( 微信号：excel100 )：</b>  </summary> 
+<blockquote>
 插件的使用小教程看这里：
 《<a href="https://mp.weixin.qq.com/s/7xXtEqTaKQYc8RGgb2ZRoA" title="被Excel折磨哭的我，真后悔没早点安装这3个插件……（内附安装包）">被Excel折磨哭的我，真后悔没早点安装这3个插件……（内附安装包）</a>
 <hr>
@@ -214,15 +227,6 @@ Excel 2007、2010、2013、2016和2019；WPS 2016/2019<br>
 <br>
 链接：https://pan.baidu.com/s/17xRhdXKF2XIaInUXqSWA3A<br>
 提取码：mix5<br>
-</blockquote>	
-<blockquote>
-链接：https://pan.baidu.com/s/1FNrvOQK_aBPjFmwiL28Avg <br />
-提取码：j74r 
-</blockquote>	
-2019年秋叶同学会PPT源文件分享
-<blockquote>
-链接: https://pan.baidu.com/s/1rRJ6k1y5NhxeP-K--RmqSQ  <br />
-提取码: ytq6
 </blockquote>	
  </details>
  
