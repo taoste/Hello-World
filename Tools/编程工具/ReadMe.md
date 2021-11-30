@@ -7,6 +7,7 @@
 >>>  选择需要的中文语言插件进行安装， ( 比如：ms-ceintl.vscode-language-pack-zh-hans )
 >>>  安装完成右下角会弹出一个重启按钮，点击重启即可。
 
+> [**史上最全vscode配置使用教程** - 知乎](https://zhuanlan.zhihu.com/p/113222681)
 
 - [Sublime Text 官网](https://www.sublimetext.com/) ( https://www.sublimetext.com/ ) / [本地下载](https://github.com/taoste/Hello-World/blob/master/Tools/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/Sublime%20Text%20Build%203200%20x64%20Setup.exe?raw=true)
 
