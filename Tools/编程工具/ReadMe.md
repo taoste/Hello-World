@@ -1,5 +1,10 @@
-- [**Visual Studio Code 微软官方网站**](https://code.visualstudio.com/) ( https://code.visualstudio.com/ )
-> [VSCode-PHP中文网](https://www.php.cn/) ( https://www.php.cn/ )
+- [**Visual Studio Code 微软官方网站**](https://code.visualstudio.com/) (【官网】 https://code.visualstudio.com/ )
+> 软件简介
+>> Visual Studio Code重新定义和优化了代码编辑，以便生成和调试新式 Web 应用程序和云应用程序。专注于代码的编辑，使用多个光标进行快速的以键盘为中心的高级编辑。代码导航，RegEx 查找、大纲显示和窥视定义。使用适用于 Node.js、TypeScript 和 JavaScript 的集成调试工具诊断应用程序存在的问题。 设置代码中的断点、中断异常、监视变量、单步执行代码或向上导航至调用堆栈，以及附加到本地运行进程。
+>
+> 官网：https://www.visualstudio.com/
+
+> 引用： [VSCode-PHP中文网](https://www.php.cn/) ( https://www.php.cn/ )
 >> [visual studio code怎么改成中文？](https://www.php.cn/tool/vscode/464167.html)
 >>  方法：
 >>>  首先打开visual studio code，使用快捷键“Ctrl+Shift+X”；
