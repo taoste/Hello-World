@@ -1,3 +1,13 @@
+- [**Visual Studio Code 微软官方网站**](https://code.visualstudio.com/) ( https://code.visualstudio.com/ )
+> [VSCode-PHP中文网](https://www.php.cn/) ( https://www.php.cn/ )
+>> [visual studio code怎么改成中文？](https://www.php.cn/tool/vscode/464167.html)
+>>  方法：
+>>>  首先打开visual studio code，使用快捷键“Ctrl+Shift+X”；
+>>>  然后在左侧“扩展”视图文本框中输入“Language Packs”，
+>>>  选择需要的中文语言插件进行安装， ( 比如：ms-ceintl.vscode-language-pack-zh-hans )
+>>>  安装完成右下角会弹出一个重启按钮，点击重启即可。
+
+
 - [Sublime Text 官网](https://www.sublimetext.com/) ( https://www.sublimetext.com/ ) / [本地下载](https://github.com/taoste/Hello-World/blob/master/Tools/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/Sublime%20Text%20Build%203200%20x64%20Setup.exe?raw=true)
 
 >  @[维基百科](https://zh.wikipedia.org/wiki/Sublime_Text):
