@@ -55,7 +55,6 @@
 <div>
 <span class="pstatus" style=" overflow-wrap: break-word; display: block; margin-bottom: -30px; font-size: 12px; text-align: center; line-height: 32px; color: rgb(153, 153, 153); ; ; ; ; ; ; ; ; ">本帖最后由 aa826 于 2021-11-29 16:45 编辑</span>
 <br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
-<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
 <font style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
 <blockquote>
 <font style="overflow-wrap: break-word; font-size: 16px;">车来了 无广告 内存小 地图实时显示公交车位置</font>
@@ -89,6 +88,30 @@
 </font>
 </font>
 <br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
+<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
+<blockquote>
+<span style="font-size: x-large;">
+<span style=" color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">官方网址：<a href="https://www.chelaile.net.cn/">www.chelaile.net.cn</a>
+</span>
+<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
+<span style=" color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">下载地址：</span>
+<font style=" overflow-wrap: break-word; ; ; ; ; ; ; ; ; ; ">
+<font face="Arial, 微软雅黑, 宋体, 新宋体, sans-serif" style="overflow-wrap: break-word;">
+<font style="overflow-wrap: break-word;">
+<a href="https://mark.lanzoux.com/iSEumx0ntqb">mark.lanzoux.com/iSEumx0ntqb</a>
+</font>
+</font>
+</font>
+<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
+</span>
+<font style=" overflow-wrap: break-word; ; ; ; ; ; ; ; ; ; ">
+<font face="Arial, 微软雅黑, 宋体, 新宋体, sans-serif" style="overflow-wrap: break-word;">
+<font style="overflow-wrap: break-word;">
+<span style="font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (&nbsp; &nbsp;密码:dsjp &nbsp;)</span>
+</font>
+</font>
+</font>
+</blockquote>
 <font style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
 <font style="overflow-wrap: break-word; font-size: 16px;">
 <br style="overflow-wrap: break-word;">补充一点：该版本可下载离线地图，这样可以省流量了。<br style="overflow-wrap: break-word;">
@@ -122,32 +145,6 @@
 </span>
 </ignore_js_op>
 </blockquote>
-<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
-<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
-<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
-<blockquote>
-<span style="font-size: x-large;">
-<span style=" color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">官方网址：<a href="https://www.chelaile.net.cn/">www.chelaile.net.cn</a>
-</span>
-<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
-<span style=" color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">下载地址：</span>
-<font style=" overflow-wrap: break-word; ; ; ; ; ; ; ; ; ; ">
-<font face="Arial, 微软雅黑, 宋体, 新宋体, sans-serif" style="overflow-wrap: break-word;">
-<font style="overflow-wrap: break-word;">
-<a href="https://mark.lanzoux.com/iSEumx0ntqb">mark.lanzoux.com/iSEumx0ntqb</a>
-</font>
-</font>
-</font>
-<br style=" overflow-wrap: break-word; color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ">
-</span>
-<font style=" overflow-wrap: break-word; ; ; ; ; ; ; ; ; ; ">
-<font face="Arial, 微软雅黑, 宋体, 新宋体, sans-serif" style="overflow-wrap: break-word;">
-<font style="overflow-wrap: break-word;">
-<span style="font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;密码:dsjp</span>
-</font>
-</blockquote>
-</font>
-</font>
 </div>
 <font style=" overflow-wrap: break-word; ; ; ; ; ; ; ; ; ; ">
 <font face="Arial, 微软雅黑, 宋体, 新宋体, sans-serif" style="overflow-wrap: break-word;">
