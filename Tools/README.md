@@ -6,7 +6,7 @@
 
 - [同步神器**BTSync**(BitTorrent Sync / 现名：Resilio Sync) —— "不仅是文件同步利器，而且是【分布式】网盘"](https://github.com/taoste/Hello-World/tree/master/Technical%20File(PDF)/ProgramThink/BTSync)   |  [[BitTorrent & P2P工具专辑](https://github.com/taoste/Hello-World/tree/master/Tools/P2P%E5%B7%A5%E5%85%B7) >>
 
-- [**RustDesk** | 最好的开源远程桌面软件](https://rustdesk.com/zh/) ( https://rustdesk.com/zh/ ) 
+- [强烈推荐👍](https://github.com/taoste/rustdesk)：[**RustDesk** | 最好的开源远程桌面软件](https://rustdesk.com/zh/) ( https://rustdesk.com/zh/ ) @[Github](https://github.com/rustdesk/rustdesk) 
 >> [再见了，Teamviewer！](https://mp.weixin.qq.com/s/JI77KM5RSwZ3KgyIEUqrUQ) ( @GitHub宝典 2021-06-18)
 >>
 > 想要了解更多详情，可戳下方链接～
