@@ -24,6 +24,16 @@
 作为渺小的个体，要的不是歌功颂德和跪舔，
 而是在反省和总结中，增长生存自救的智慧和幸存者技能。
 ```
+- **古籍资源库 | 中国国家图书馆•中国国家数字图书馆** 
+>> 　“中华古籍资源库”是“中华古籍保护计划”的重要成果。2016年9月28日，“中华古籍资源库”正式开通运行，陆续发布国家图书馆藏善本和普通古籍、法国国家图书馆藏敦煌遗书、天津图书馆藏普通古籍、日本永青文库捐赠汉籍、云南省图书馆善本古籍、芷兰斋藏稿抄校本等古籍影像资源，总量超过3.3万部。
+>> 　2020年4月，随着国家图书馆新版“读者门户”正式上线，国家图书馆（国家古籍保护中心）将自建、征集的古籍资源统一整合在“中华古籍资源库”下，按照资源类别细化分类，实现了单库检索和多库检索，基本检索和高级检索，支持模糊检索，检索和浏览方式全面升级。
+> http://www.nlc.cn/dsb_zyyfw/gj/gjzyk/
+> 
+> http://read.nlc.cn/thematDataSearch/toGujiIndex
+
+- **中国古籍保护网 | 中国国家图书馆•中国国家数字图书馆** 
+> http://www.nlc.cn/pcab/zy/zhgj_zyk/
+
 - 【搜索】思维导图 site:github.io ( @[Google](https://www.google.com/search?hl=zh_CN&source=hp&ei=NIVkXYCiMc_ZhwP9zobwBw&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Bing](https://cn.bing.com/search?q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+site%3Agithub.io) | @[Baidu](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%20site%3Agithub.io) )  ☞ 未知全貌，不予置评
 
 >  [思维导图 理财 site:github.io](https://www.google.com/search?hl=zh_CN&ei=R4VkXeX_EoqEoASmlp3QDA&q=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE+%E7%90%86%E8%B4%A2+site%3Agithub.io) 
