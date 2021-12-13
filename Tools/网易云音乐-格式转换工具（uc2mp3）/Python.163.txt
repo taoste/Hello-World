@@ -3,19 +3,30 @@
 https://www.52pojie.cn/forum.php?mod=viewthread&tid=1560121&highlight=python
 
 ucToFlac.py提取链接：
-
 链接：https://pan.baidu.com/s/1lsQBuMN1xmiK-DFB4Z4C9w
 提取码：52pj
 
 ----------------------------------------------------------------------------
 
+搜索python - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+https://www.52pojie.cn/search.php?mod=forum&searchid=35546&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw=python
+
+----------------------------------------------------------------------------
+把要转换的.uc文件和ucToFlac.py放在一个目录下，运行就可以了，网易云的缓存文件（.uc文件）在C:\Users\***（你的用户名）\AppData\Local\Netease\CloudMusic\Cache\Cache下
+
+mzhsohu 发表于 2021-12-12 21:11
+感谢分享~！
+没看太明白，你这个无损的源文件是怎么来的，缓存？？？
+
+网易云的在线听歌是先把源文件缓存到cache文件夹里并加密成.uc文件再网易云音乐里面解码后播放的，如果你在线听的就是无损的.flac格式通过ucToFlac.py的解密就可以了，而且如果在线听的是.mp3的格式，也就是非无损的其他音质，解密后的.flac依然可以播放的
+
+----------------------------------------------------------------------------
 网易云在线缓存歌曲（.uc文件）解码转换成无损格式（.flac）
 用python实现批量转换
 感谢Nattevak提供思路：https://www.52pojie.cn/forum.php?mod=viewthread&tid=1556228&highlight=%CD%F8%D2%D7%D4%C6
 
 ucToFlac.py代码如下：
 
-----------------------------------------------------------------------------
 import os
 
 def getAllFiles():
@@ -47,4 +58,3 @@ for file in files:
     if isUcExtension(file):
         ucToFlac(file)
         print(file[:-3] + '.flac' + '转换成功')
-----------------------------------------------------------------------------
