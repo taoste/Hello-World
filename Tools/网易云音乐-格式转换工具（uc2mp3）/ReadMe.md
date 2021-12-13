@@ -1,4 +1,6 @@
-【实测有效/乐哥备注】
+# 【说明】[[Python] 网易云在线缓存歌曲（.uc文件）解码转换成无损格式python代码实现](https://github.com/taoste/Hello-World/blob/master/Tools/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7%EF%BC%88uc2mp3%EF%BC%89/Python.163.txt)
+
+# 以下【实测有效/乐哥备注】
 
 > ☞ [音乐（♫ Music）](https://github.com/taoste/Hello-World/tree/master/Music)
 
