@@ -48,6 +48,8 @@ https://taoste.github.io/Hello-World/Technical%20File(PDF)/Python基础教程(cr
 
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/一张图让你30分钟学会Python-20170512.png
 
+https://taoste.github.io/Hello-World/Technical%20File(PDF)/TL-SF1024D百兆非网管交换机-安装手册.pdf
+
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/携程旅行网文档-携程外部漏洞报告处理流程.pdf
 
 https://taoste.github.io/Hello-World/Technical%20File(PDF)/在Hexo中自动为Yilia主题增加版权声明%20_%20(￣.pdf
