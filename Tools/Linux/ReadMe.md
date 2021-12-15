@@ -25,6 +25,6 @@
 >> 没有安装过模拟器的， 需要自己注册2个dll：<br>
 >> 1，下载 VBoxRT.dll  和   VBoxDDU.dll  ，放到系统 sysytem32目录下 （64位系统放到 sysWOW64 下 ）<br>
 >> 2，注册：regsvr32 %windir%\system32\VBoxDDU.dll /s <br>
->> 3，注册：regsvr32 %windir%\system32\VBoxRT.dll /s  <br><br>
+>> 3，注册：regsvr32 %windir%\system32\VBoxRT.dll /s  <br><hr>
 >> <a href="https://www.ldmnq.com/faq/5955.html">模拟器出现g_bGuestPowerOff fastpipeapi.cpp:1161怎么解决？ - 雷电安卓模拟器 (ldmnq.com)</a><br>
 >> <a href="https://www.ldmnq.com/support/qita/717.html">安卓模拟器微信登录闪退，转圈，停止运行解决方法 (ldmnq.com)</a><br>
