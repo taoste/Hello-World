@@ -20,10 +20,11 @@
 - **雷电模拟器64位_v4.0.70绿色版**(搭载Android 7.1内核，启动速度快，稳定流畅兼容性好)
 > 此版本无广告，安装时打开选择解压目录即可！
 > 下载地址：https://www.aliyundrive.com/s/d9PEvQnaB3s
- [quote]
- 没有安装过模拟器的， 需要自己注册2个dll：
- 1，下载 VBoxRT.dll  和   VBoxDDU.dll  ，放到系统 sysytem32目录下 （64位系统放到 sysWOW64 下 ）
- 2，注册：regsvr32 %windir%\system32\VBoxDDU.dll /s
- 3，注册：regsvr32 %windir%\system32\VBoxRT.dll /s 
- [/quote]
+<br><br>
+[quote]
+没有安装过模拟器的， 需要自己注册2个dll：<br>
+1，下载 VBoxRT.dll  和   VBoxDDU.dll  ，放到系统 sysytem32目录下 （64位系统放到 sysWOW64 下 ）<br>
+2，注册：regsvr32 %windir%\system32\VBoxDDU.dll /s <br>
+3，注册：regsvr32 %windir%\system32\VBoxRT.dll /s  <br>
+[/quote]
 
