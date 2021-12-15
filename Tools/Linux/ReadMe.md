@@ -15,7 +15,8 @@
 - **专为儿童设计的Linux 系统** 🔄 [内链切换](https://github.com/taoste/Hello-World/tree/master/Tools/Linux) : [**🍬儿童网站（Kids）#21**](https://github.com/taoste/taoste.github.io/issues/21) / [**🍬育儿百科**](https://github.com/taoste/Hello-World/tree/master/eBook/%E8%82%B2%E5%84%BF%E7%99%BE%E7%A7%91/)
 
 >> 《[💽 极客: 最适合儿童的Linux发行版 - 五大免费操作系统](https://cn.computerspywarescanner.com/s4765-best-linux-distributions-kids-free-operating-system)》
-
+<br>
+<br>
 
 - **雷电模拟器64位_v4.0.70绿色版**(搭载Android 7.1内核，启动速度快，稳定流畅兼容性好)
 > 此版本无广告，安装时打开选择解压目录即可！
@@ -25,4 +26,5 @@
 >> 1，下载 VBoxRT.dll  和   VBoxDDU.dll  ，放到系统 sysytem32目录下 （64位系统放到 sysWOW64 下 ）<br>
 >> 2，注册：regsvr32 %windir%\system32\VBoxDDU.dll /s <br>
 >> 3，注册：regsvr32 %windir%\system32\VBoxRT.dll /s  <br>
->> <a href="https://www.ldmnq.com/faq/5955.html">模拟器出现g_bGuestPowerOff fastpipeapi.cpp:1161怎么解决？ - 雷电安卓模拟器 (ldmnq.com)</a>
+>> <a href="https://www.ldmnq.com/faq/5955.html">模拟器出现g_bGuestPowerOff fastpipeapi.cpp:1161怎么解决？ - 雷电安卓模拟器 (ldmnq.com)</a><br>
+>> <a href="https://www.ldmnq.com/support/qita/717.html">安卓模拟器微信登录闪退，转圈，停止运行解决方法 (ldmnq.com)</a><br>
