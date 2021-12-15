@@ -25,3 +25,4 @@
 >> 1，下载 VBoxRT.dll  和   VBoxDDU.dll  ，放到系统 sysytem32目录下 （64位系统放到 sysWOW64 下 ）<br>
 >> 2，注册：regsvr32 %windir%\system32\VBoxDDU.dll /s <br>
 >> 3，注册：regsvr32 %windir%\system32\VBoxRT.dll /s  <br>
+>> <a href="https://www.ldmnq.com/faq/5955.html">模拟器出现g_bGuestPowerOff fastpipeapi.cpp:1161怎么解决？ - 雷电安卓模拟器 (ldmnq.com)</a>
