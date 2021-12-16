@@ -26,6 +26,8 @@
 　　界面设计Adobe XD 2021
 ```
 
+- [【探火视材】探火孵化%7C喜脉视频号](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/【探火视材】探火孵化%7C喜脉视频号.md)
+
 <h3><a href="https://github.com/taoste/Hello-World/tree/master/Tools/Adobe%20PDF" title="🛡 Adobe Flash Player 插件">Adobe Flash Player 插件</a> ：</h3>
 <blockquote>
 <a href="https://github.com/taoste/Hello-World/raw/master/Tools/Adobe%20PDF/QQ%E6%8F%92%E4%BB%B6%E4%B8%8B%E8%BD%BD(Adobe%20Flash%20Player%20%E6%8F%92%E4%BB%B6).7z" title="🛡打包下载： Adobe Flash Player 插件">
