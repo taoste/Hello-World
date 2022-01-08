@@ -879,13 +879,13 @@ x,y是坐标，opacity是透明度。
 > 《[**html网页添加音乐视频的实现示例**](https://www.jb51.net/web/721081.html)》_HTML/Xhtml_网页制作_脚本之家
 
 <div>
-        <a href="https://www.runoob.com/html/html-videos.html"><font size="4">HTML 视频（Video）播放 | 菜鸟教程 (runoob.com)</font></a></div>
+        <li><a href="https://www.runoob.com/html/html-videos.html"><font size="4">HTML 视频（Video）播放 | 菜鸟教程 (runoob.com)</font></a></li></div>
         <div>
         <h2 style=" border: 0px; margin: 2px 0px; padding: 0px; line-height: 1.8em; color: rgb(51, 51, 51) ; ; ; ; ; ; ; ; ; ; ; ; ; ">
         <span style="font-size: large;">&nbsp; &nbsp; 最好的 HTML 解决方法：</span></h2>
         <blockquote style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);" formatblock="1">以下实例中使用了 4 种不同的视频格式。HTML 5 &lt;video&gt; 元素会尝试播放以 mp4、ogg 或 webm 格式中的一种来播放视频。</blockquote><blockquote style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);" formatblock="1">如果均失败，则回退到 &lt;embed&gt; 元素。&nbsp;</blockquote><blockquote style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);" formatblock="1"><div class="example" style=" border: 1px solid rgb(212, 212, 212); margin: 0px 0px 5px; padding: 5px; width: 818.094px; background-color: rgb(229, 238, 204); background-image: linear-gradient(rgb(255, 255, 255), rgb(229, 238, 204) 100px) ; ; ; ; ; ; ; ; ; ; ; ; ; ; "><h2 class="example" style="border: 0px; margin: 0px 0px 2px; padding: 0px; font-size: 14.4px; line-height: 1.8em; color: rgb(97, 127, 16); background-color: transparent;">HTML 5 + &lt;object&gt; + &lt;embed&gt;</h2>
         <div class="example_code notranslate" style=" border: 1px solid rgb(212, 212, 212); margin: 0px; padding: 5px; line-height: 1.4em; width: 801.719px; background-color: rgb(255, 255, 255); font-size: 13.2px; ; ; ; ; ; ; ; ; ">&lt;video width="320" height="240" controls&gt;<br>&nbsp; &lt;source src="movie.mp4" type="video/mp4"&gt;<br>&nbsp; &lt;source src="movie.ogg" type="video/ogg"&gt;<br>&nbsp; &lt;source src="movie.webm" type="video/webm"&gt;<br>&nbsp; &lt;object data="movie.mp4" width="320" height="240"&gt;<br>&nbsp;&nbsp;&nbsp; &lt;embed src="movie.swf" width="320" height="240"&gt;<br>&nbsp; &lt;/object&gt;<br>&lt;/video&gt;</div></div>
-        <br>备注：您必须把视频转换为很多不同的格式&nbsp;(&nbsp;推荐转换工具：格式工厂&nbsp;)。 </blockquote></div> 
+        <br>备注：您必须把视频转换为很多不同的格式&nbsp;(&nbsp;推荐转换工具：格式工厂&nbsp;)。 </blockquote></div>  
 
 ---------------------------------
 
