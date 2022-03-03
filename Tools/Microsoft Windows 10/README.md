@@ -12,6 +12,11 @@
 </span>
 <span style="color: rgb(34, 34, 34); font-family: Arial, sans-serif; font-size: 13px;">在这里搜索你想要找到的更新（搜索这个更新的以“KB”开头的代码）</span>
 </blockquote>
+
+<li><a href="https://www.microsoft.com/zh-cn/p/kms%E6%BF%80%E6%B4%BB-windows-office/9pl5g8nrz3fz?activetab=pivot%3Aregionofsystemrequirementstab">购买 KMS激活： Windows & Office</a> - Microsoft Store zh-CN</li>
+<blockquote><a href="https://mp.weixin.qq.com/s/deJSx1K5avXmVL7qHXs4hQ">微软疯了？KMS激活工具上架微软商店（文末送书）</a>@程序员软件库(2022-03-03 17:21)<br>
+地址：https://www.microsoft.com/store/productId/9PL5G8NRZ3FZ
+</blockquote>
    
 -------------------------------------------------
 
