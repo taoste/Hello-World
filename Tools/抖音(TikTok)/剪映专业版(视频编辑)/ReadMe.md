@@ -1,6 +1,8 @@
 【技能】公众号“后期老蒋”回复210524：剪映一键导出SRT字幕，资本家看了都流泪！_[哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18B4y1F7w3)
 <blockquote>
-<b>剪映生成字幕文件在哪里？</b><br>
+<b>
+  <a href="https://jy.mzh.ren/issues.html" target="_blank" title="常见问题 - 剪映字幕导出工具 - 码中人"/>剪映生成字幕文件在哪里？</a>
+  </b><br>
 <blockquote>一般情况下，剪映生成的字幕文件在以下目录：(<b> draft_content.json </b>)</blockquote>
 <b>Windows 目录</b>：C:\Users\<b>YourName</b>\AppData\Local\JianyingPro\User Data\Projects\com.lveditor.draft\<br>
 <b>MacOS 目录</b>：/Users/<b>YourName</b>/Movies/JianyinPro/User Data/Projects/com.lveditor.draft/<br>
