@@ -1,5 +1,45 @@
 - [**Ideapocket 秘密女捜査官 系列介绍**](https://t66y.com/htm_data/7/1311/978164.html)
 
+<div class="article-title" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; font-size: 28px; color: rgb(63, 63, 63); font-family: Helvetica, Arial, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, &quot;WenQuanYi Micro Hei&quot;, &quot;tohoma,sans-serif&quot;; white-space: normal;">
+<a href="https://www.simcf.cc/113819.html" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; background-color: transparent; text-decoration-line: none; color: rgb(0, 0, 0); font-weight: 800;">IPZ-198-石原莉奈作品番号资料及封面简介</a>
+</div>
+<div class="article-meta" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-bottom: 12px; position: relative; color: rgb(170, 170, 170); font-family: Helvetica, Arial, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, &quot;WenQuanYi Micro Hei&quot;, &quot;tohoma,sans-serif&quot;; white-space: normal;">
+<span class="article-meta-time" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-right: 12px;">2022.03.09&nbsp;</span>
+<span class="czs-bookmark" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; speak: none; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 1; -webkit-font-smoothing: antialiased; font-family: strawberryicon !important;">
+</span>&nbsp;<a href="https://www.simcf.cc/category/strange" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; background-color: transparent; text-decoration-line: none; color: rgb(170, 170, 170); margin-right: 12px;">大杂烩</a>&nbsp;&nbsp;<span class="czs-heart-l" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; speak: none; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 1; -webkit-font-smoothing: antialiased; font-family: strawberryicon !important;">
+</span>&nbsp;<span class="count" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">0&nbsp;</span>&nbsp;&nbsp;<span class="czs-comment-l" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; speak: none; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 1; -webkit-font-smoothing: antialiased; font-family: strawberryicon !important;">
+</span>&nbsp;<span class="article-meta-comment" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; position: relative; margin-right: 6px;">评论已关闭</span>&nbsp;<span class="czs-eye-l" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; speak: none; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 1; -webkit-font-smoothing: antialiased; font-family: strawberryicon !important;">
+</span>&nbsp;19&nbsp;<div class="article-meta-tags" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-top: 6px; overflow: hidden;">
+</div>
+</div>
+<div class="article-body" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-bottom: 28px; overflow: hidden; color: rgb(63, 63, 63); font-family: Helvetica, Arial, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, &quot;WenQuanYi Micro Hei&quot;, &quot;tohoma,sans-serif&quot;; white-space: normal;">
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">剧情简介：</b>日本AV女优石原莉奈最新出演了作品《<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">秘密女捜査官 石原莉奈</b>》，该作品的番号是IPZ-198，将于2013-09-19发行上架。这部作品的播放时间是127分钟，片商给该作品的分类标签是检察官，喜欢的朋友可以关注一下！</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">番号封面：</b>
+<br>
+<img src="https://www.simcf.cc/wp-content/uploads/2022/03/20220309232751-622937f7402df.jpg" alt="IPZ-198" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; display: block; max-width: 100%; margin: 12px auto; height: auto;">
+</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">作品番号：</b>IPZ-198</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">主演女优：</b>石原莉奈</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">发片时间：</b>2013-09-19</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">作品时长：</b>127分钟</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">发行地区：</b>日本</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">分类标签：</b>检察官</p>
+<p class="japname" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+<b style="-webkit-tap-highlight-color: transparent; box-sizing: border-box;">日文片名：</b>秘密女捜査官 石原莉奈</p>
+<p style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; overflow-wrap: break-word; word-break: break-all; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">温馨提示：本文章只提供作品番号封面资料介绍 ，并不提供ed2k、磁力链接、bt种子、torrent、迅雷下载，感谢支持！</p>
+</div>
+<p>
+<br>
+</p>
+
 > <a href="https://t66y.com/htm_data/7/1905/3524721.html">
 <img src="https://camo.githubusercontent.com/8961005c324234949628dab56260df2b6c2d7e7a/68747470733a2f2f7777772e707269766163797069632e636f6d2f696d616765732f323031392f30352f31332f69707a313034706c363135633336656161636134386130332e6d642e6a7067" border="0" alt="Ideapocket 秘密女捜査官" title="[东京老杨]带你走进AV女优的拍摄现场 ——AV拍摄细节一文全解密 - 技術討論區 | 草榴社區 - t66y.com"></a>
 
