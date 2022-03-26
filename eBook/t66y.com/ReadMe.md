@@ -1,6 +1,9 @@
 - 00BT资源站
 >> https://00btweb.github.io/
 
+- 群晖折腾手记四：搭建离线下载服务 | gafish's Blog
+>> https://gafish.github.io/posts/2021/11/22/synology-download/
+
 [Hosts](https://github.com/taoste/Hello-World/tree/master/GFW/hosts)[:.](https://taoste.github.io/Hello-World/eBook/t66y.com/index.html)  [**草榴社區**](https://www.microsofttranslator.com/bv.aspx?from=&to=zh-CHS&a=https://t66y.com/index.php) »  [技術討論區](https://t66y.com/thread0806.php?fid=7).[md](https://github.com/taoste/Hello-World/blob/master/eBook/t66y.com/%E6%8A%80%E8%A1%93%E8%A8%8E%E8%AB%96%E5%8D%80.md) ( [RSS](https://t66y.com/rss.php?fid=7)) ( [**https://t66y.com/**](https://t66y.com/index.php) | <a href="https://t66y.com/read.php?tid=1648542" alt="草榴社區APP 小草APP 官方客戶端 iOS & Android & UWP" title="草榴社區APP 小草APP 官方客戶端 iOS & Android & UWP - 草榴資訊 | 草榴社區 - t66y.com ">官方客戶端</a>)  【[求](https://github.com/taoste/Hello-World/blob/master/eBook/t66y.com/%40%E5%B0%91%E5%A6%87%E7%99%BD%E6%B4%81/P-Photo.md) : [**邀请注册码**](https://t66y.com/hack.php?H_name=invite) / 】
   
 <p><img src="https://camo.githubusercontent.com/af797cec507dc27db9d9c56c6d86511a3d2d354c/68747470733a2f2f743636792e636f6d2f696e6465782e6769663f7261773d74727565?raw=true" width="300px" height="100%" />
