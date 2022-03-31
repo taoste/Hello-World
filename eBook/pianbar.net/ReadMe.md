@@ -16,7 +16,8 @@
 <blockquote>   
         <a href="1992.聊斋之欲焰三娘子.mp4.torrent">BT种子下载</a> | <a href="http://file.pianbar.net/Torrent/201703/1992.%E8%81%8A%E6%96%8B%E4%B9%8B%E6%AC%B2%E7%84%B0%E4%B8%89%E5%A8%98%E5%AD%90.mp4.torrent">torrent种子下载</a> (<a href="http://d.pianbar.net/btshow/2641113" target="_blank">520.33MB</a>)<br/>
         磁力链接 <a href="magnet:?xt=urn:btih:5F803B1B1EF57658AFF98D8371DE6B783F77176F">magnet:?xt=urn:btih:5F803B1B1EF57658AFF98D8371DE6B783F77176F</a> <br/>
-        迅雷下载 <a href="magnet:?xt=urn:btih:5F803B1B1EF57658AFF98D8371DE6B783F77176F">magnet:?xt=urn:btih:5F803B1B1EF57658AFF98D8371DE6B783F77176F</a><br/>
+        迅雷下载 <a href="magnet:?xt=urn:btih:5F803B1B1EF57658AFF98D8371DE6B783F77176F">magnet:?xt=urn:btih:5F803B1B1EF57658AFF98D8371DE6B783F77176F</a><br/>	
+   其它：<a href="https://www.ytcm.cc/voddetail/364206.html">《聊斋荷花三娘子》电影高清免费在线观看-电影天堂</a>
 </blockquote>
   <hr/>
 </details>    
