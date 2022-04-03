@@ -212,6 +212,9 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 
 -----------------------------
 
+免费公共 IPv4/IPv6/DoT/DoH DNS 服务器大全 Public DNS Server - DNS.iCoA.CN
+> https://dns.icoa.cn/
+
 https://bgp.he.net/dns/googlevideo.com
 
 GoogleHosts
