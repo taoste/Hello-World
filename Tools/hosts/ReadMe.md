@@ -212,6 +212,19 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 
 -----------------------------
 
+https://bgp.he.net/dns/googlevideo.com
+
+GoogleHosts
+> https://github.com/googlehosts
+
+TikTok视频在线下载-下载TikTok音乐和视频
+> https://zh.savefrom.net/83/
+
+Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下载
+> http://www.insland.net/
+‎App Store 上的“INSland”
+> https://apps.apple.com/cn/app/insland/id1566693075
+
 - [DNS优选(挑选最合适的DNS服务器,拒绝DNS劫持)](https://www.52pojie.cn/forum.php?mod=viewthread&tid=976081&ctid=1767) - 『原创发布区』 - [**吾爱破解**](https://www.52pojie.cn/) - LCG - LSG |安卓破解|病毒分析|破解软件|www.52pojie.cn  
 >> 百度云下载 https://pan.baidu.com/s/1piIJ7kJH0ido88EfDw28og (提取码: qwsm)
 
