@@ -7,7 +7,11 @@ DNS over HTTPS（DoH）的URI接口 ：（仅提供TLS API）<br>
 <li>https://dns.alidns.com/dns-query?</li>
 <li>https://alidns_ip/dns-query?</li>
 <li>https://user_id.alidns.com/dns-query?</li>
-</blockquote>       
+</blockquote>    
+<blockquote>
+<li>免费公共 IPv4/IPv6/DoT/DoH DNS 服务器大全 Public DNS Server - DNS.iCoA.CN</li>
+<blockquote>https://dns.icoa.cn/</blockquote>
+</blockquote>
         <h2>
             <a href="https://www.iplaysoft.com/dnsjumper.html" title="DNS Jumper - 方便一键快速切换网卡DNS地址设置的免费实用工具 (批量测速/清空缓存等) - 异次元软件下载">DNS 快速切换工具</a> : <a href="https://www.sordum.org/7952/dns-jumper-v2-2/" title="Dns Jumper v2.2 - A Free DNS Changer | Dns Jumper(DNS设置工具) V2.2 绿色免费版">Dns Jumper(DNS设置工具) V2.2 绿色免费版</a></h2>
      </summary> 
