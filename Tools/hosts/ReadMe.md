@@ -270,7 +270,29 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 >> 2606:4700:20::681A:BA0 t66y.com
 > 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
+>
+> [#duckduckgo.comm](https://bgp.he.net/dns/duckduckgo.com)
 > 
+> # DuckDuckGo — 隐私保护，化繁为简。
+> 
+> # https://duckduckgo.com/?kad=zh_CN
+> 
+> 40.89.244.232 duckduckgo.com
+> 
+> [#v2ex.com](https://bgp.he.net/dns/v2ex.com)
+> 
+> 104.20.9.218 v2ex.com 
+>
+> 172.67.3.188 v2ex.com 
+>
+> 104.20.10.218 v2ex.com
+>
+> 2606:4700:10::6814:ADA v2ex.com
+>
+> 2606:4700:10::6814:9DA v2ex.com
+>
+> 2606:4700:10::AC43:3BC v2ex.com
+>
 > [#CSDN.net](https://bgp.he.net/dns/csdn.net)
 > 
 >> 47.95.164.112 csdn.net
