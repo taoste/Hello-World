@@ -22,6 +22,8 @@
 
 -------------------------------------------------------------------
 
+view-source:about:welcome
+
 [**Firefox** （又名：火狐）官网:](https://www.mozilla.org/zh-CN/firefox/) ( https://www.mozilla.org/zh-CN/firefox/ )
 适用于 Mac、PC 以及 Linux 的全新、快速浏览器 ( @[YouTube](https://www.youtube.com/channel/UC-CBSBRP82j2t5PQ3M33CVw?lang=zh-CN) )
 
