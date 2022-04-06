@@ -87,6 +87,9 @@ Firefox 的很大一部分由世界各地的志愿者制作。这也是为什么
 
 - 《[Firefox 隐私声明（ 2019 年 9 月 10 日生效 ）](https://www.mozilla.org/zh-CN/privacy/firefox/)》 — Mozilla  
 
+- 《[**应该如何使用Github Pages?**](https://developer.mozilla.org/zh-CN/docs/Learn/Common_questions/Using_Github_pages )》 - [**学习 Web 开发**](https://developer.mozilla.org/zh-CN/docs/Learn) | [MDN](https://developer.mozilla.org/zh-CN/)
+
+
 -------------------------------------------------------------------
 
 - Mozilla 正式发布私密文件分享服务 [**Firefox Send**](https://send.firefox.com)，最高支持 2.5GB 文件：https://send.firefox.com
