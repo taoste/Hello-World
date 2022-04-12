@@ -14,16 +14,18 @@
 如果不是默认安装，最通用的方法是在打开剪映工程，在媒体库下选中视频，右侧就会出现该工程的目录。(字幕文件就在该目录下。)
 </blockquote>
 <blockquote>
-<li><a href="https://jy.mzh.ren/" target="_blank" title="剪映 - 字幕导出 by 码中人"/>剪映 - 字幕导出 by 码中人</a> </li>
+<li><a href="https://jy.mzh.ren/" target="_blank" title="剪映 - 字幕导出 by 码中人"/>剪映 - 字幕导出 by 码中人</a> </li><br>
 <li><a href="https://github.com/taoste/Hello-World/tree/master/Tools/%E6%8A%96%E9%9F%B3(TikTok)/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88(%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91)/%E3%80%90%E5%85%A8%E5%BC%80%E6%BA%90%E3%80%91%E5%89%AA%E6%98%A0%E5%AD%97%E5%B9%95%E5%B0%8F%E5%8A%A9%E6%89%8Bv2.9%E6%88%90%E5%93%81" target="_blank" title="【全开源】剪映字幕小助手（成品）"/>推荐❤使用</a>：<a href="https://www.52pojie.cn/thread-1564771-1-1.html" target="_blank" title="【全开源】剪映字幕小助手v2.9.1 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn"/>【全开源】剪映字幕小助手 - 吾爱破解</a></li>
 <blockquote>
 <li><a href="http://www.xitongcheng.com/jiaocheng/win10_article_44447.htmltitle="" target="_blank" title="Win10系统添加信任软件的详细步骤－系统城"/>Win10系统添加信任软件的详细步骤</a>:</li>
 <b>具体方法如下</b>：<br>
+   <blockquote>
 1、首先打开win10的系统设置，找到【更新和安全】按钮点击打开；<br>
 2、点击WindowsDefender选项，再点击打开WindowsDefender安全中心，打开安全中心；<br>
 3、接着点击病毒威胁防护的设置选项；<br>
 4、添加和删除排除项，点击进去；<br>
 5、看到了添加排除项，下面就可以找到自己下载的软件，然后添加进去即可。<br>
+	</blockquote>
 </blockquote>
 </blockquote>
 
