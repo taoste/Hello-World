@@ -80,6 +80,18 @@ Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="(https://www.microsoft.c
 - [**把macOS“套娃”到Windows系统后 我发现了新大陆……**](https://www.cnbeta.com/articles/tech/1111381.htm)  - Windows 个性化 - cnBeta.COM
 >> 官网链接: [MyDockFinder](https://www.mydockfinder.com/) ( https://www.mydockfinder.com/ )
 
+<blockquote>
+<li><a href="http://www.xitongcheng.com/jiaocheng/win10_article_44447.htmltitle="" target="_blank" title="Win10系统添加信任软件的详细步骤－系统城"/>Win10系统添加信任软件的详细步骤</a>:</li>
+<b>❤具体方法如下</b>：<br>
+   <blockquote>
+1、首先打开win10的系统设置，找到【更新和安全】按钮点击打开；<br>
+2、点击WindowsDefender选项，再点击打开WindowsDefender安全中心，打开安全中心；<br>
+3、接着点击病毒威胁防护的设置选项；<br>
+4、添加和删除排除项，点击进去；<br>
+5、看到了添加排除项，下面就可以找到自己下载的软件，然后添加进去即可。<br>
+	</blockquote>
+</blockquote>
+
 -------------------------------------------------
 
 - **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
