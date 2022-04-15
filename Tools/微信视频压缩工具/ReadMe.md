@@ -1,3 +1,14 @@
+- 主流的**视频格式**：
+```
+**常见在线流媒体**格式：mp4、flv、f4v、webm<br>
+**移动设备**格式：m4v、mov、3gp、3g2<br>
+**RealPlayer**：rm、rmvb<br>
+**微软**格式：wmv、avi、asf<br>
+**MPEG** 视频：mpg、mpeg、mpe、ts<br>
+**DV**格式：div、dv、divx<br>
+**其他**格式：vob、dat、mkv、lavf、cpk、dirac、ram、qt、fli、flc、mod
+```
+
 - 《[**微信读书网页版悄然上线：体验优秀**](https://www.cnbeta.com/articles/tech/914049.htm)》 - Tencent WeChat 腾讯微信 - cnBeta.COM  
 ( 日期：2019年11月23日 18:33 )
 >微信读书网页版：地址 https://weread.qq.com/ 。
