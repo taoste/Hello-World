@@ -429,6 +429,16 @@ Alt+F4 关机快捷键。
 >> 系统变量 %USERPROFILE%
 
 >> 系统变量 %SystemRoot%\System32\S
+	
+-环境变量文件夹：
+	
+>> %MYDOCUMENTS%     - 我的文档
+	
+>> %MYDESKTOP%       - 桌面
+	
+>> %COMPUTERNAME%   - 计算机名
+	
+>> %USERNAME%       - 用户名
 
 ---------------------------------------
 
