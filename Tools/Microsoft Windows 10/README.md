@@ -71,6 +71,13 @@ Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="(https://www.microsoft.c
 
 # Windows 10
 
+- [**Windows10 家庭版开启超级管理员账户，即Administrator账户的步骤如下：**](https://zhidao.baidu.com/question/755989035627423564.html)
+<blockquote>
+1、用Cortana搜索“cmd”，并找到“命令提示符”。 
+2、找到“命令提示符”后，右击，选择“以管理员身份运行”。 
+3、打开cmd之后，输入“net user administrator /active:yes”，按回车。
+</blockquote>
+
 - [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
 
 - [**系列下载**](https://www.microsoft.com/zh-cn/software-download/windows10) : [**Windows 10**](https://go.microsoft.com/fwlink/?LinkID=799445) - [Windows10Upgrade9252.exe](https://download.microsoft.com/download/7/a/a/7aa0472b-49a0-46d1-b651-e8a2c53f1fe4/Windows10Upgrade9252.exe) ( **[20H2](https://download.microsoft.com/download/4/c/c/4cc6c15c-75a5-4d1b-a3fe-140a5e09c9ff/MediaCreationTool20H2.exe) - [MediaCreationTool.exe](https://go.microsoft.com/fwlink/?LinkId=691209)  | [2020年10月更新正式版媒体创建工具](https://github.com/taoste/Hello-World/raw/master/Tools/Microsoft%20Windows%2010/MediaCreationTool20H2.exe)**)
