@@ -73,9 +73,9 @@ Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="(https://www.microsoft.c
 
 - [**Windows10 家庭版开启超级管理员账户，即Administrator账户的步骤如下：**](https://zhidao.baidu.com/question/755989035627423564.html)
 <blockquote>
-1、用Cortana搜索“cmd”，并找到“命令提示符”。 
-2、找到“命令提示符”后，右击，选择“以管理员身份运行”。 
-3、打开cmd之后，输入“net user administrator /active:yes”，按回车。
+1、用Cortana搜索“cmd”，并找到“命令提示符”。 <br>
+2、找到“命令提示符”后，右击，选择“以管理员身份运行”。 <br>
+3、打开cmd之后，输入“ net user administrator /active:yes ”，按回车。<br>
 </blockquote>
 
 - [MSDN](https://msdn.itellyou.cn/):**Windows 10 LTSC 2019 企业长期支持版**
