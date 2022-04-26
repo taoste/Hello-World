@@ -398,7 +398,7 @@ hosts文件的其它用途
 
 -----
 
-<pre><code>
+
 
 # notepad %SystemRoot%\System32\drivers\etc\hosts
 
@@ -478,7 +478,8 @@ hosts文件的其它用途
 127.0.0.1 asc.iobit.com
 127.0.0.1 pf.iobit.com
 127.0.0.1 iunins.iobit.com
-
+<pre><code>
+-----
 </code></pre>
 
 -----
