@@ -408,76 +408,78 @@ hosts文件的其它用途
 
 # ipconfig /flushdns 清除系统DNS缓存
 
-# 程序员小辉 https://bgp.he.net/dns/xiaohui.com
-45.33.40.58 xiaohui.com
+# 程序员小辉 https://bgp.he.net/dns/xiaohui.com<br>
+>45.33.40.58 xiaohui.com
 
-# APKPure 应用市场  https://apkpure.com/cn/
-172.67.1.139 apkpure.com
-#104.20.83.194 apkpure.com
-#104.20.82.194 apkpure.com
+# APKPure 应用市场  https://apkpure.com/cn/<br>
+> 172.67.1.139 apkpure.com
+>
+> #104.20.83.194 apkpure.com
+>
+> #104.20.82.194 apkpure.com
 
-#草榴社區 https://bgp.he.net/dns/t66y.com
-104.25.32.112 t66y.com
-104.25.31.112 t66y.com
-104.27.68.93 t66y.com
-104.27.69.93 t66y.com
-104.26.11.160 t66y.com
-104.26.10.160 t66y.com
-172.67.74.241 t66y.com
-2606:4700:20::681A:BA0 t66y.com
-2606:4700:20::681A:AA0 t66y.com
-2606:4700:20::AC43:4AF1 t66y.com
-2400:CB00:2048:1::6819:1F70 t66y.com
-2400:CB00:2048:1::6819:2070 t66y.com
+#草榴社區 https://bgp.he.net/dns/t66y.com<br>
+104.25.32.112 t66y.com<br>
+104.25.31.112 t66y.com<br>
+104.27.68.93 t66y.com<br>
+104.27.69.93 t66y.com<br>
+104.26.11.160 t66y.com<br>
+104.26.10.160 t66y.com<br>
+172.67.74.241 t66y.com<br>
+2606:4700:20::681A:BA0 t66y.com<br>
+2606:4700:20::681A:AA0 t66y.com<br>
+2606:4700:20::AC43:4AF1 t66y.com<br>
+2400:CB00:2048:1::6819:1F70 t66y.com<br>
+2400:CB00:2048:1::6819:2070 t66y.com<br>
  
- #sex.com https://bgp.he.net/dns/sex.com
-206.125.164.82 sex.com
-15.222.131.21 sex.com
-2600:1F11:F61:1000:5374:C426:AA04:A354 sex.com
-2600:1F11:F61:1000:D6:B66B:6DC3:970B sex.com
-2607:FC10:1:400::82 sex.com
-66.254.114.41 pornhub.com
+ #sex.com https://bgp.he.net/dns/sex.com<br>
+206.125.164.82 sex.com<br>
+15.222.131.21 sex.com<br>
+2600:1F11:F61:1000:5374:C426:AA04:A354 sex.com<br>
+2600:1F11:F61:1000:D6:B66B:6DC3:970B sex.com<br>
+2607:FC10:1:400::82 sex.com<br>
+66.254.114.41 pornhub.com<br>
  
- #佐拉 - 周曙光的个人网站
- #104.28.27.52 zuola.com
- #104.28.26.52 zuola.com
- #2400:CB00:2048:1::681C:1B34 zuola.com
- #2400:CB00:2048:1::681C:1A34 zuola.com
+ #佐拉 - 周曙光的个人网站<br>
+ #104.28.27.52 zuola.com<br>
+ #104.28.26.52 zuola.com<br>
+ #2400:CB00:2048:1::681C:1B34 zuola.com<br>
+ #2400:CB00:2048:1::681C:1A34 zuola.com<br>
  
-#feedly.com https://bgp.he.net/dns/feedly.com
-104.20.60.241 feedly.com
-104.20.59.241 feedly.com
+#feedly.com https://bgp.he.net/dns/feedly.com<br>
+104.20.60.241 feedly.com<br>
+104.20.59.241 feedly.com<br>
 
-#csdn.net https://bgp.he.net/dns/csdn.net
-47.95.164.112 csdn.net
+#csdn.net https://bgp.he.net/dns/csdn.net<br>
+47.95.164.112 csdn.net<br>
 
-#v2ex.com https://bgp.he.net/dns/v2ex.com
-104.20.10.218 v2ex.com
-104.20.9.218 v2ex.com
-172.67.3.188 v2ex.com
-2606:4700:10::6814:ADA v2ex.com
-2606:4700:10::AC43:3BC v2ex.com
-2606:4700:10::6814:9DA v2ex.com
+#v2ex.com https://bgp.he.net/dns/v2ex.com<br>
+104.20.10.218 v2ex.com<br>
+104.20.9.218 v2ex.com<br>
+172.67.3.188 v2ex.com<br>
+2606:4700:10::6814:ADA v2ex.com<br>
+2606:4700:10::AC43:3BC v2ex.com<br>
+2606:4700:10::6814:9DA v2ex.com<br>
 
-##64.150.183.194 huanghuagang.org
-199.34.228.75 huanghuagang.org
-204.79.197.217 onedrive.live.com
+##64.150.183.194 huanghuagang.org<br>
+199.34.228.75 huanghuagang.org<br>
+204.79.197.217 onedrive.live.com<br>
 
-218.254.1.15 2xiangzi.blogspot.com
-218.254.1.15 program-think.blogspot.com
-218.254.1.15 kids.youtube.com
+218.254.1.15 2xiangzi.blogspot.com<br>
+218.254.1.15 program-think.blogspot.com<br>
+218.254.1.15 kids.youtube.com<br>
 
-127.0.0.1 pc.xunlei.com 
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
-127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 pc.xunlei.com <br>
+127.0.0.1 hub5btmain.sandai.net<br>
+127.0.0.1 hub5emu.sandai.net<br>
+127.0.0.1 upgrade.xl9.xunlei.com<br>
 
-127.0.0.1 idb.iobit.com
-127.0.0.1 asc55.iobit.com
-127.0.0.1 is360.iobit.com
-127.0.0.1 asc.iobit.com
-127.0.0.1 pf.iobit.com
-127.0.0.1 iunins.iobit.com
+127.0.0.1 idb.iobit.com<br>
+127.0.0.1 asc55.iobit.com<br>
+127.0.0.1 is360.iobit.com<br>
+127.0.0.1 asc.iobit.com<br>
+127.0.0.1 pf.iobit.com<br>
+127.0.0.1 iunins.iobit.com<br>
 <pre><code>
 -----
 </code></pre>
