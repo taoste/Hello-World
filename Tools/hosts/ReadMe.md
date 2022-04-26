@@ -400,18 +400,18 @@ hosts文件的其它用途
 
 
 
-# notepad %SystemRoot%\System32\drivers\etc\hosts
+#notepad %SystemRoot%\System32\drivers\etc\hosts
 
-# ipconfig /release 释放ip
+#ipconfig /release 释放ip
 
-# ipconfig /renew 重新获取ip
+#ipconfig /renew 重新获取ip
 
-# ipconfig /flushdns 清除系统DNS缓存
+#ipconfig /flushdns 清除系统DNS缓存
 
-# 程序员小辉 https://bgp.he.net/dns/xiaohui.com<br>
+#程序员小辉 https://bgp.he.net/dns/xiaohui.com<br>
 >45.33.40.58 xiaohui.com
 
-# APKPure 应用市场  https://apkpure.com/cn/<br>
+#APKPure 应用市场  [https://apkpure.com/cn/](https://bgp.he.net/dns/apkpure.com)<br>
 > 172.67.1.139 apkpure.com
 >
 > #104.20.83.194 apkpure.com
