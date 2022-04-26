@@ -440,11 +440,14 @@ hosts文件的其它用途
 2607:FC10:1:400::82 sex.com<br>
 66.254.114.41 pornhub.com<br>
  
- #佐拉 - 周曙光的个人网站<br>
- #104.28.27.52 zuola.com<br>
- #104.28.26.52 zuola.com<br>
+ #佐拉 - 周曙光的个人网站 [https://zuola.com](https://bgp.he.net/dns/zuola.com)<br>
+ #104.21.82.195 zuola.com<br>
+ #172.67.162.212 zuola.com<br>
  #2400:CB00:2048:1::681C:1B34 zuola.com<br>
  #2400:CB00:2048:1::681C:1A34 zuola.com<br>
+ 
+#财经冷眼 [https://caijinglengyan.com](https://bgp.he.net/dns/caijinglengyan.com)<br>
+68.66.224.53 caijinglengyan.com
  
 #feedly.com https://bgp.he.net/dns/feedly.com<br>
 104.20.60.241 feedly.com<br>
@@ -461,7 +464,8 @@ hosts文件的其它用途
 2606:4700:10::AC43:3BC v2ex.com<br>
 2606:4700:10::6814:9DA v2ex.com<br>
 
-##64.150.183.194 huanghuagang.org<br>
+#[https://huanghuagang.org](https://bgp.he.net/dns/huanghuagang.org)<br>
+#64.150.183.194 huanghuagang.org<br>
 199.34.228.75 huanghuagang.org<br>
 204.79.197.217 onedrive.live.com<br>
 
