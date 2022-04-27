@@ -1,0 +1,79 @@
+CorelDRAW X7
+【CorelDRAW X7 入站禁止】【CorelDRAW X7 出站禁止】
+"C:\Program Files\CorelDRAW Graphics Suite X7\Programs64\CorelDRW.exe"
+"C:\Program Files\CorelDRAW Graphics Suite X7\Programs64\DIM.exe"
+"C:\Program Files\CorelDRAW Graphics Suite X7\Programs64\CorelPP.exe"
+"C:\Program Files\CorelDRAW Graphics Suite X7\Programs64\DIM.exe"
+
+-------------------------------------------------------------------------
+
+CorelDRAW 2018 
+【CorelDRAW 2018 入站禁止】【CorelDRAW 2018 出站禁止】
+"c:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\CorelDRW.exe"
+ "c:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\DIM.exe"
+"c:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\CorelPP.exe"
+"c:\Program Files\Corel\CorelDRAW Graphics Suite 2018\Programs64\DIM.exe"
+-------------------------------------------------------------------------
+notepad %SystemRoot%\System32\drivers\etc\hosts
+-------------------------------------------------------------------------
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+# 屏蔽CorelDRAW激活服务器：
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+
+# 屏蔽Adobe激活服务器：
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+
+
+# 屏蔽Adobe激活服务器：
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
