@@ -111,13 +111,13 @@ https://www.google.com/search?hl=zh_CN&biw=958&bih=927&ei=kQuyXrLnH86lmAX6to6AAQ
 
 > 第一种办法：
 > 
-> 第一步 C:\Windows\System32\drivers\etc\hosts 加入127.0.0.1 apps.corel.com
+> 第一步 C:\Windows\System32\drivers\etc\hosts 加入[127.0.0.1 apps.corel.com](https://github.com/taoste/Hello-World/blob/master/Tools/Adobe%20PDF/CorelDRAW/屏蔽【CorelDRAW】hosts.txt)
 > 
-> （管理员运行CMD ：notepad C:\windows\system32\drivers\etc\hosts ）
+> （**管理员运行CMD ：notepad C:\windows\system32\drivers\etc\hosts** ）
 > 
 > 第二步：入站规则 控制面版——Windows防火墙——入站规则——新建规则——看图
 > 
-> 【CorelDRAW 2018 入站禁止】【CorelDRAW 2018 出站禁止】
+> **【CorelDRAW 2018 入站禁止】【CorelDRAW 2018 出站禁止】**
 > 
 > C:\Program Files\Corel\CorelDRAW Graphics Suite X6\Programs64\CorelDRW.exe
 > 
