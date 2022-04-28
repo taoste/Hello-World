@@ -177,6 +177,21 @@
 ------------------------------------------------------------------------------
 
 <details>
+    <summary> <b>秋叶大叔(微信号：qiuyedashu)：</b>  </summary> 
+<blockquote>回复关键词：社群营销2</blockquote>		
+叮！《社群营销实战手册》随书赠送资料包来啦~  <br />
+内含秋叶团队出品的200多页图书配套精美PPT！  <br />
+<blockquote>
+ 链接：https://pan.baidu.com/s/1o6SqLo9gaqLxBLgKszqmwQ?pwd=pm5f  <br />
+提取码：pm5f <br />
+</blockquote>	
+已购书的你，一定不能错过【秋叶书友会】，和百万书友一起：共读好书，优惠购书。欢迎长按下方二维码，加入秋叶书友会
+<blockquote>
+<img src="https://github.com/taoste/Hello-World/blob/master/eBook/QiuYePPT/%E3%80%90%E7%A7%8B%E5%8F%B6%E4%B9%A6%E5%8F%8B%E4%BC%9A%E3%80%91%E4%BA%8C%E7%BB%B4%E7%A0%81.png?raw=true" title="【秋叶书友会】二维码.png">
+</blockquote>	
+ </details>
+
+<details>
     <summary> <b>秋叶PPT(微信号：ppt100)：</b>  </summary> 
 2020年秋叶同学会嘉宾分享PPT源文件（典藏版）
 <blockquote>
