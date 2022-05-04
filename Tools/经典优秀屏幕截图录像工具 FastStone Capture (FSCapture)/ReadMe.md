@@ -1,20 +1,22 @@
-经典优秀屏幕截图录像工具 FastStone Capture (FSCapture)9.7 绿色汉化中文版
+【[搜](https://www.upyunso.com/search.html?page=1&keyword=FastStone%20Capture)】经典优秀屏幕截图录像工具 FastStone Capture (FSCapture) 绿色汉化中文版
 
-自用工具 | FastStone Capture中文汉化版V9.7 含注册码 - 乐云主机笔记
+------------------------------------------------------------------------------------
 
-https://www.letcloud.cn/2409.html
+- 自用工具 | FastStone Capture中文汉化版V9.7 含注册码 - 乐云主机笔记
 
-用户名：www.cr173.com
+> https://www.letcloud.cn/2409.html
 
-注册码：
+>> 用户名：www.cr173.com
 
-AXBQT-RQMAJ-PQMSV-BCRDF
+> 注册码：
 
-AXMQU-RFMSF-XZFOD-SDXKD
+>> AXBQT-RQMAJ-PQMSV-BCRDF
 
-AXBQT-RQMAJ-PQMSV-BCRDF
+>> AXMQU-RFMSF-XZFOD-SDXKD
 
-AXAQL-RYMQL-OCRNM-BETIA
+>> AXBQT-RQMAJ-PQMSV-BCRDF
+
+>> AXAQL-RYMQL-OCRNM-BETIA
 
 FastStone Capture中文汉化版是一款简单灵活的屏幕截图抓取软件，在设计中经常会用到，它既可以做矩形抓取截图，也可以做全屏截图，甚至可以按照手绘的任意形状抓图并且对其编辑，另外还可以作为录制视频软件使用。
 
@@ -54,6 +56,6 @@ FS Capture 还包括快速浏览/ 编辑图像的功能，可以点击主窗口�
 
 自用工具 | FastStone Capture中文汉化版V9.7 含注册码
 
-下载地址
+- 下载地址
 > https://pan.baidu.com/s/1PsLcivKr5ZD98BkWN7CSHA
 >> 立即下载提取码：52pj
