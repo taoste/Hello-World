@@ -95,7 +95,25 @@
 >>> 直接使用快捷键“Alt+V+E”，选择水平和垂直取向和位置，点击确定新建参考线。（居中的话可以设置位置为50%即可）
 
 >>执行 “视图 —— 清除参考线”或者 按下组合键 ALT+V+D 可以清除所有的辅助线。 Photoshop移动参考线，直接使用鼠标拖动就可以了。
+   
+- [微信下载的图片竟无法PS？如何让PS支持WebP - Adobe - cnBeta.COM](https://www.cnbeta.com/articles/tech/1246425.htm)
 
+   WebPShop：https://github.com/webmproject/WebPShop
+
+WebPShop是一款开源的PS插件，它支持Windows和macOS平台的PS，但只能支持64位版本。下载了对应版本的WebPShop后，我们可以得到一个后缀名为“.8bi”的PS插件文件。
+
+要安装这个插件，只需要将该文件放入对应的目录即可，Windows和macOS的目录分别如下：
+
+Windows：
+
+C:\Program Files\Common Files\Adobe\Plug-Ins\CC
+
+macOS：
+
+/Library/Application Support/Adobe/Plug-Ins/CC
+
+注意，最后的“CC”路径对应着你的PS版本，例如你安装的是Photoshop CS6，那么Windows的目录应该是“C:\Program Files\Common Files\Adobe\Plug-Ins\CS6”。
+   
 <details>
     <summary>        
  🔗<a href="https://www.sohu.com/a/118865158_541274" title="经常遇到PS“暂存盘已满”怎么办？"> <b>经常遇到PS“暂存盘已满”怎么办？</b></a></summary>    
