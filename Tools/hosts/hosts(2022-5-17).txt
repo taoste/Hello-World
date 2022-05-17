@@ -1,0 +1,201 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# Win徽标键 + R，打开-->运行：cmd (以管理员身份运行)
+# notepad %SystemRoot%\System32\drivers\etc\hosts
+# ipconfig /release 释放ip
+# ipconfig /renew 重新获取ip
+# ipconfig /flushdns 清除系统DNS缓存
+
+# New！欢迎使用基于DNS的新方案
+# https://gitee.com/ineo6/hosts/raw/master/next-hosts
+# GitHub Host Start
+
+185.199.108.154              github.githubassets.com
+140.82.114.21                central.github.com
+185.199.108.133              desktop.githubusercontent.com
+185.199.108.153              assets-cdn.github.com
+185.199.108.133              camo.githubusercontent.com
+185.199.108.133              github.map.fastly.net
+199.232.69.194               github.global.ssl.fastly.net
+140.82.113.3                 gist.github.com
+185.199.108.153              github.io
+140.82.113.3                 github.com
+140.82.113.6                 api.github.com
+185.199.108.133              raw.githubusercontent.com
+185.199.108.133              user-images.githubusercontent.com
+185.199.108.133              favicons.githubusercontent.com
+185.199.108.133              avatars5.githubusercontent.com
+185.199.108.133              avatars4.githubusercontent.com
+185.199.108.133              avatars3.githubusercontent.com
+185.199.108.133              avatars2.githubusercontent.com
+185.199.108.133              avatars1.githubusercontent.com
+185.199.108.133              avatars0.githubusercontent.com
+185.199.108.133              avatars.githubusercontent.com
+140.82.114.10                codeload.github.com
+52.217.230.113               github-cloud.s3.amazonaws.com
+52.216.100.147               github-com.s3.amazonaws.com
+52.217.105.68                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.0.220                 github-production-user-asset-6210df.s3.amazonaws.com
+52.216.241.132               github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153              githubstatus.com
+64.71.144.211                github.community
+185.199.108.133              media.githubusercontent.com
+185.199.108.133              objects.githubusercontent.com
+185.199.108.133              raw.github.com
+
+# Please Star : https://github.com/ineo6/hosts
+# Mirror Repo : https://gitee.com/ineo6/hosts
+
+# Update at: 2022-05-17 20:26:52
+
+# GitHub Host End
+
+# tinyurl.com https://bgp.he.net/dns/tinyurl.com
+104.20.138.65 tinyurl.com
+104.20.139.65 tinyurl.com
+172.67.1.225 tinyurl.com
+2606:4700:10::6814:8B41 tinyurl.com
+2606:4700:10::6814:8A41 tinyurl.com
+2606:4700:10::AC43:1E1 tinyurl.com
+
+# 蓝灯官网 https://bgp.he.net/dns/getlantern.org
+172.67.72.102 getlantern.org
+104.26.2.52 getlantern.org
+104.26.3.52 getlantern.org
+2606:4700:20::AC43:4866 getlantern.org
+2606:4700:20::681A:234 getlantern.org
+2606:4700:20::681A:334 getlantern.org
+
+# 蓝灯官网  https://bgp.he.net/dns/lantern.io
+104.21.50.100 lantern.io
+172.67.204.182 lantern.io
+2606:4700:3035::AC43:CCB6 lantern.io
+2606:4700:3031::6815:3264  lantern.io
+
+# onedrive.live.com
+13.107.42.13 onedrive.live.com
+40.90.133.97 skyapi.onedrive.live.com
+
+# t66y 
+172.67.74.241 t66y.com
+104.26.10.160 t66y.com
+104.26.11.160 t66y.com
+2606:4700:20::AC43:4AF1 t66y.com
+2606:4700:20::681A:BA0 t66y.com
+2606:4700:20::681A:AA0 t66y.com
+
+#pscp.tv 
+13.56.6.21 pscp.tv
+54.183.154.220 pscp.tv
+
+#duckduckgo.com
+#DuckDuckGo — 隐私保护，化繁为简。
+#https://duckduckgo.com/?kad=zh_CN
+40.89.244.232 duckduckgo.com
+
+#UP云搜 - 最全云盘资源搜索神器 https://bgp.he.net/dns/upyunso.com
+23.224.99.3 upyunso.com
+
+
+#v2ex.com
+104.20.9.218 v2ex.com
+172.67.3.188 v2ex.com
+104.20.10.218 v2ex.com
+2606:4700:10::6814:ADA v2ex.com
+2606:4700:10::6814:9DA v2ex.com
+2606:4700:10::AC43:3BC v2ex.com
+
+#CSDN.net
+39.106.226.142 csdn.net
+
+#昵图网
+122.226.73.53 nipic.com
+
+#千图网
+47.105.124.157 58pic.com
+114.215.127.78 58pic.com
+
+#feedly.com
+104.20.60.241 feedly.com
+104.20.59.241 feedly.co
+
+#mozilla.org
+44.236.48.31 mozilla.org
+44.235.246.155 mozilla.org
+44.236.72.93 mozilla.org
+
+# 程序员小辉 https://bgp.he.net/dns/xiaohui.com
+45.33.40.58 xiaohui.com
+
+# APKPure 应用市场  https://apkpure.com/cn/
+172.67.1.139 apkpure.com
+#104.20.83.194 apkpure.com
+#104.20.82.194 apkpure.com
+
+#佐拉 - 周曙光的个人网站 https://zuola.com
+104.21.82.195 zuola.com
+172.67.162.212 zuola.com
+#2400:CB00:2048:1::681C:1B34 zuola.com
+#2400:CB00:2048:1::681C:1A34 zuola.com
+
+#财经冷眼 https://caijinglengyan.com
+68.66.224.53 caijinglengyan.com
+
+# 屏蔽CorelDRAW激活服务器：
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+
+# 屏蔽Adobe激活服务器：
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+
+
+# 屏蔽Adobe激活服务器：
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
