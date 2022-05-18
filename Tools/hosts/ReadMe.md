@@ -340,6 +340,36 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 >> 44.235.246.155 mozilla.org
 > 
 >> 44.236.72.93 mozilla.org
+
+> # tinyurl.com https://bgp.he.net/dns/tinyurl.com
+>> 104.20.138.65 tinyurl.com
+>> 104.20.139.65 tinyurl.com
+>> 172.67.1.225 tinyurl.com
+>> 2606:4700:10::6814:8B41 tinyurl.com
+>> 2606:4700:10::6814:8A41 tinyurl.com
+>> 2606:4700:10::AC43:1E1 tinyurl.com
+>
+> # 蓝灯官网 https://bgp.he.net/dns/getlantern.org
+>> 172.67.72.102 getlantern.org
+>> 104.26.2.52 getlantern.org
+>> 104.26.3.52 getlantern.org
+>> 2606:4700:20::AC43:4866 getlantern.org
+>> 2606:4700:20::681A:234 getlantern.org
+>> 2606:4700:20::681A:334 getlantern.org
+>
+> # 蓝灯官网   https://bgp.he.net/dns/lantern.io
+>> 104.21.50.100 lantern.io
+>> 172.67.204.182 lantern.io
+>> 2606:4700:3035::AC43:CCB6 lantern.io
+>> 2606:4700:3031::6815:3264  lantern.io
+>
+> # onedrive.live.com
+>> 13.107.42.13 onedrive.live.com
+>> 40.90.133.97 skyapi.onedrive.live.com
+>
+>> # https://bgp.he.net/dns/googlecode.com
+>> 142.251.46.196 googlecode.com
+>> 2607:F8B0:4005:812::2004 googlecode.com
 >
 > 2. Simple **DNSCrypt** - Official Project Home Page ( https://simplednscrypt.org/  )
 > 
