@@ -2,7 +2,7 @@ Readme.md
 
 <a href="https://github.com/taoste/Hello-World/tree/master/Tools/U/"><img src="https://github.com/taoste/Hello-World/blob/master/Tools/U/各种数据线接口图合集.jpg?raw=true" title="各种数据线接口图合集.jpg"/></a>
 
-# [**Tips**](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak) : **"/Tools/打印复印扫描一体机驱动/"** ( 快捷短链接 **https://go.choong.net/print/** )
+[**Tips**](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak) : **"/Tools/打印复印扫描一体机驱动/"** ( 快捷短链接 **https://go.choong.net/print/** )
 
 - [理光ricoh mp c2010彩色打印一体机驱动](https://github.com/taoste/Hello-World/blob/master/Tools/打印复印扫描一体机驱动/理光ricoh%20mp%20c2010彩色打印一体机驱动)
 
