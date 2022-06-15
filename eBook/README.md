@@ -8,6 +8,15 @@
 <blockquote>蝶变：美在翩翩起舞，疼在破茧之难。</blockquote>
 </td></tr> 
 </table> 
+<br><br>
+《前浪》对于中老年人是这样描述的：<br>
+<blockquote><b>“心中有丘壑，眉间有山河。”<br>
+“我们好像接受不了新事物，其实创造了更多的新事物。”</b></blockquote>
+在视频中也能看到他们在T台上雍容华贵，在健身房挥汗如雨，<br>
+这些形象才更应该被大众看到，<br>
+中老年并非是守旧传统的代名词，他们的生活也可以有趣且丰富。<br>
+--<a href="http://china.qianlong.com/2022/0118/6779479.shtml" title="美篇《前浪》展示中老年全新面貌，为“不惑后”正名-千龙网·中国首都网">美篇《前浪》展示中老年全新面貌，为“不惑后”正名</a>
+<br><br>
 
 《[三体](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93_(%E5%B0%8F%E8%AF%B4))》哲学下的社会生存和发展法则：[我消灭你，与你无关](https://book.douban.com/subject/2567698/) 《[豆瓣搜索: 重生八零：媳妇有点辣](https://www.douban.com/search?source=suggest&q=重生八零：媳妇有点辣)》
 
