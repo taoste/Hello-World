@@ -8,7 +8,33 @@
 
 ----------------------------------------------------------------------------------------------
 
-- 《[[固件更新] 极米CC&CC极光 V1.2.38固件UI3.0](http://bbs.xgimi.cn/forum.php?mod=viewthread&tid=146397&extra=page%3D1%26filter%3Dtypeid%26typeid%3D253)》 - [固件更新](http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253) - [极米社区官方论坛](http://bbs.xgimi.cn) - XGIMI
+（记录：2022年6月26日 17点17分）
+
+- 当您的设备出现以下问题时，可以通过**升级固件/刷机方式**尝试处理：
+```
+无法开机
+开机有声无图
+开机显示白屏
+开机有光无图
+无任何提示重启
+无任何提示黑屏（关机）
+死机
+自动重启
+充电图标显示异常
+蓝屏
+```
+升级固件方式：
+
+☞1.  固件下载链接：[https://www.xgimi.com/host_list.html](https://www.xgimi.com/host_list.html) ，请根据您的设备型号选择对应最新固件下载，下载固件时请点击旁边的【下载说明书】查看详细升级步骤
+
+☞2.  找一个U盘，将其在电脑上按FAT32进行格式化，然后将固件拷贝到U盘的根目录，注意检查固件的大小应该在2GB以上，避免下载不全
+
+☞ ps：请使用格式为FAT32的U盘进行升级，将bin文件强刷包放置U盘根目录(不要放在任何文件夹里面) 
+
+☞ 温馨提示：电子产品元器件比较复杂，也存在较多不稳定因素。部分软件问题确实可以通过刷机的方式解决，但如果机器本身已经存在硬件问题，刷机后可能会让非表象的故障现象更明显；但机器返厂涉及一定物流及检修时效，会影响您正常使用机器，所以还是建议您先刷机排查是否软件问题导致的异常；若刷机后真出现不如预想的情况，则需要您将机器返厂，让专业的工程师帮您全方位检测下机器，感谢您的理解与配合。
+
+
+- 【历史记录】《[[固件更新] 极米CC&CC极光 V1.2.38固件UI3.0](http://bbs.xgimi.cn/forum.php?mod=viewthread&tid=146397&extra=page%3D1%26filter%3Dtypeid%26typeid%3D253)》 - [固件更新](http://bbs.xgimi.cn/forum.php?mod=forumdisplay&fid=94&filter=typeid&typeid=253) - [极米社区官方论坛](http://bbs.xgimi.cn) - XGIMI
 
 极米CC&CC极光 V1.2.38固件UI3.0
 
