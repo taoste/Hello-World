@@ -106,12 +106,12 @@ OTA升级固件
 
 >USB强刷包(V1.14.3)
 
->> 百度云链接：https://pan.baidu.com/s/1VM-mrdsRkCr7S5DesfP4MQ 密码：5cd0
+>> 百度云链接：[https://pan.baidu.com/s/1VM-mrdsRkCr7S5DesfP4MQ](https://pan.baidu.com/s/1VM-mrdsRkCr7S5DesfP4MQ?pwd=5cd0) 密码：5cd0
 
 
 > OTA升级包(V1.14.3) 
 
->> 百度云链接：链接：https://pan.baidu.com/s/1mbDyO2hzNvxu9B_sS4ty7w 密码：6faf
+>> 百度云链接：链接：[https://pan.baidu.com/s/1mbDyO2hzNvxu9B_sS4ty7w](https://pan.baidu.com/s/1mbDyO2hzNvxu9B_sS4ty7w?pwd=6faf) 密码：6faf
 
 ```
 
