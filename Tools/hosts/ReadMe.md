@@ -299,7 +299,16 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 >> 13.107.42.13 onedrive.live.com 
 > 
 >> 40.90.133.97 skyapi.onedrive.live.com
+
+# 海外版抖音 [tiktok.com](https://bgp.he.net/dns/tiktok.com)@[sinsam1688](https://www.tiktok.com/@sinsam1688)
+> 13.35.125.57 tiktok.com
 >
+> 13.35.125.118 tiktok.com
+>
+> 13.35.125.4 tiktok.com
+>
+> 13.35.125.47 tiktok.com
+> 
 > # 韩国邮箱daum.net
 > # https://bgp.he.net/dns/attach.mail.daum.net
 > 
