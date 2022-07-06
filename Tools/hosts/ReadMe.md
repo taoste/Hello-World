@@ -402,11 +402,15 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 >
 >> 185.199.108.153 github.io
 > 
-> [#feedly.com](https://bgp.he.net/dns/feedly.com)
+> [#https://feedly.com](https://bgp.he.net/dns/feedly.com)
 > 
 >> #104.20.60.241 feedly.com 
 > 
 >> #104.20.59.241 feedly.co
+>
+> [#https://inoreader.com](https://bgp.he.net/dns/inoreader.com)
+>
+>> 92.247.181.40 inoreader.com
 >
 > [#mozilla.org](https://bgp.he.net/dns/mozilla.org)
 >
