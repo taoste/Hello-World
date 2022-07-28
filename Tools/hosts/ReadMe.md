@@ -284,6 +284,18 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 > 
 >> 2606:4700:20::681A:BA0 t66y.com
 > 
+> 2. [https://bgp.he.net/dns/notepad-plus-plus.org](https://bgp.he.net/dns/notepad-plus-plus.org) [Notepad++ 官网/TW]
+> 
+> [notepad-plus-plus.org](https://notepad-plus-plus.org) dns:104.21.23.210, 172.67.213.166
+> 
+>> 104.21.23.210 notepad-plus-plus.org 
+> 
+>> 172.67.213.166 notepad-plus-plus.org 
+> 
+>> 2606:4700:3030::AC43:D5A6 notepad-plus-plus.org
+> 
+>> 2606:4700:3031::6815:17D2 notepad-plus-plus.org 
+> 
 > [pscp.tv](https://bgp.he.net/dns/pscp.tv) dns:  52.8.57.16, 52.52.85.82 
 >
 > [#duckduckgo.comm](https://bgp.he.net/dns/duckduckgo.com)
