@@ -286,7 +286,7 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 > 
 > 2. [https://bgp.he.net/dns/notepad-plus-plus.org](https://bgp.he.net/dns/notepad-plus-plus.org) [Notepad++ 官网/TW]
 > 
-> [notepad-plus-plus.org](https://notepad-plus-plus.org) dns:104.21.23.210, 172.67.213.166
+># Notepad++ 官网/TW  [https://notepad-plus-plus.org](https://notepad-plus-plus.org) dns:104.21.23.210, 172.67.213.166
 > 
 >> 104.21.23.210 notepad-plus-plus.org 
 > 
