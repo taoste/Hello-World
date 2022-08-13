@@ -20,6 +20,14 @@
    
 -------------------------------------------------
 
+在Windows10系统中，打开颜色校准工具最快捷的办法是通过Windows搜索栏，<br>
+在底部任务栏点击搜索或设置选项，输入“颜色校准”并查找，然后单击“校准显示器颜色”。
+···
+C:\Windows\system32\dccw.exe
+···
+
+-------------------------------------------------
+
 <H2><a href="https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Win11" style="font-weight: bold;">Windows 11</a></H2>
 <li><a href="https://consumer.huawei.com/cn/laptops/matebook-x-pro-2021/specs/">
 <span style="font-weight: bold; color: rgb(255, 0, 0);">HUAWEI MateBook X Pro 2021 (翡冷翠)</span> 规格参数 - 华为官网</a>
