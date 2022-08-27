@@ -432,6 +432,42 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 > 
 >> 44.236.72.93 mozilla.org
 
+> [##wikipedia.org](https://ipaddress.com/website/wikipedia.org)
+> 
+>> 208.80.153.224 wikipedia.org
+> 
+>> 2620:0:860:ed1a::1 wikipedia.org
+> 
+>> 208.80.153.224 zh.wikipedia.org
+> 
+>> 2620:0:860:ed1a::1 zh.wikipedia.org
+
+> [#IP查询 ipaddress.com](https://ipaddress.com/website/ipaddress.com)
+> 
+>> 3.234.104.255 ipaddress.com
+> 
+>> 18.232.245.187 ipaddress.com
+> 
+>> 35.175.60.16 ipaddress.com
+> 
+>> 50.16.49.81 ipaddress.com
+> 
+>> 52.86.133.10 ipaddress.com
+
+> [#IP查询 he.net](https://ipaddress.com/website/he.net)
+> 
+>> 216.218.236.2 he.net
+> 
+>> 2001:470:0:503::2  he.net
+> 
+>> 72.52.94.234 bgp.he.net
+> 
+>> 2001:470:0:1f9::2 bgp.he.net
+> 
+>> #dns.he.net
+> 
+>> #ipv6.he.net
+
 > # tinyurl.com https://bgp.he.net/dns/tinyurl.com
 >> 104.20.138.65 tinyurl.com
 >> 104.20.139.65 tinyurl.com
