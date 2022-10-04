@@ -434,13 +434,13 @@ Insland素材下载 – Youtube,Instagram,Twitter,Facebook等图片或视频下�
 
 > [##wikipedia.org](https://ipaddress.com/website/wikipedia.org)
 > 
->> 208.80.153.224 wikipedia.org
+>> 198.35.26.96 wikipedia.org
 > 
->> 2620:0:860:ed1a::1 wikipedia.org
+>> 2620:0:863:ED1A::1 wikipedia.org
 > 
->> 208.80.153.224 zh.wikipedia.org
+>> 198.35.26.96 zh.wikipedia.org
 > 
->> 2620:0:860:ed1a::1 zh.wikipedia.org
+>> 2620:0:863:ED1A::1 zh.wikipedia.org
 
 > [#IP查询 ipaddress.com](https://ipaddress.com/website/ipaddress.com)
 > 
