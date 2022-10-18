@@ -28,6 +28,26 @@ C:\Windows\system32\dccw.exe
 
 -------------------------------------------------
 
+Win10极限精简版Tiny10发布:仅占C盘4.3GB
+
+```
+  Tiny10 安装完成之后，桌面看起来基本和原版系统一样，只留存有一个回收站图标。
+
+　　为了更好的便于测试 tiny10，首先需要切换系统语言为简体中文，虽然系统镜像自带的【中文包】被精简，好在 Windows 支持在线下载语言包。
+
+　　依次进入 Settings-Time&Language-Language。
+
+
+　　然后点击右侧的「Add a language」，可以将简体中文添加到系统中。
+
+　　不过我测试后发现，在下载语言包过程中系统会出现报错，语言包无法正常下载。
+
+
+　　其实这是因为 Windows Update 相关服务被禁用的原因，解决方法就是进入【"Win+R”，输入命令“services.msc"】服务中找到 Windows update 服务，并将其开启。
+  ```
+
+-------------------------------------------------
+
 <H2><a href="https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Win11" style="font-weight: bold;">Windows 11</a></H2>
 <li><a href="https://consumer.huawei.com/cn/laptops/matebook-x-pro-2021/specs/">
 <span style="font-weight: bold; color: rgb(255, 0, 0);">HUAWEI MateBook X Pro 2021 (翡冷翠)</span> 规格参数 - 华为官网</a>
