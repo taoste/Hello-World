@@ -28,7 +28,8 @@ C:\Windows\system32\dccw.exe
 
 -------------------------------------------------
 
-Win10极限精简版Tiny10发布:仅占C盘4.3GB
+- 旧机福音:[Win10极限精简版Tiny10发布:仅占C盘4.3GB](https://adersaytech.com/tech-event/tiny10-ltsc-review.html) (Windows系统硬盘ISO安装器：【WinNTSetup下载 中文版】WinNTSetup 5.2.6 @[ZOL软件下载](https://xiazai.zol.com.cn/detail/44/433178.shtml）)
+
 
 ```
   Tiny10 安装完成之后，桌面看起来基本和原版系统一样，只留存有一个回收站图标。
