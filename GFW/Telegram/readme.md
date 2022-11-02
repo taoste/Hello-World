@@ -13,7 +13,7 @@ tags:                               #标签
 
 - **Telegram Web** （网页版 -  官方在线版）https://web.telegram.org/ 
 
-Telegram - 匿名聊天软件： 加入电报简体中文版 （ https://telegram.me/Tele_zh_CN ）
+Telegram - 匿名聊天软件： 加入电报[**简体中文版**](https://go.choong.net/GFW/Telegram/) （ https://telegram.me/Tele_zh_CN ）
 
 > **维基百科:[Telegram交流群](https://zh.wikipedia.org/wiki/Wikipedia:Telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)**
 >
