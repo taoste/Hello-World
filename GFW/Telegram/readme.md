@@ -15,6 +15,9 @@ tags:                               #标签
 
 Telegram - 匿名聊天软件： 加入电报[**简体中文版**](https://go.choong.net/GFW/Telegram/) （ https://telegram.me/Tele_zh_CN ）
 
+> [关于 Telegram 中文网及中文汉化 | 科技雷达](https://kejileida.net/4458):
+>> 目前翻墙使用 Telegram 主要有两种方式，一是使用翻墙软件，二是使用 Telegram 官方内置的[MTProxy代理实现直连](https://mtproto.cc/)。
+
 > **维基百科:[Telegram交流群](https://zh.wikipedia.org/wiki/Wikipedia:Telegram%E4%BA%A4%E6%B5%81%E7%BE%A4)**
 >
 > 新中文维基百科Telegram公共群组 https://t.me/wikipedia_zh_n ，
