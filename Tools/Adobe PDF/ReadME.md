@@ -1,3 +1,10 @@
+#【三简】3D视图效果插件
+```
+链接：https://pan.baidu.com/s/1_wwEyMbcljQGVgUks7GyAg?pwd=vxt6
+提取码：vxt6
+```
+更多福利，欢迎加入三简设计速效丸~
+
 # [🔍](https://www.google.com/search?hl=zh_CN&ei=lL5eX5rvHc78wAP1ppeAAw&q=%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%AE%8C%E7%BE%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) 开源软件替代方案：<br> Photoshop : [🔍](https://www.google.com/search?hl=zh_CN&ei=Gb5eX9DdNsnAoASalqSYCw&q=Photoshop+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+krita) <a href="https://docs.krita.org/zh_CN/" title="Krita 4.3 文档中心 — Krita Manual 4.3.0 文档"><img src="https://docs.krita.org/zh_CN/_static/favicon.ico" height="20" width="20" /></a> [krita](https://krita.org/zh/) 和 CorelDRAW : [🔍](https://www.google.com/search?hl=zh_CN&ei=KShYX_H5JMKbmAX-vr_oAQ&q=CorelDRAW+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3+Inkscape) [inkscape](https://inkscape.org/zh-hans/)
 
 ```
