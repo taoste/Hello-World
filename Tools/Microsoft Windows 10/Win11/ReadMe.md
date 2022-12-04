@@ -13,7 +13,7 @@ Windows 10 家庭版 （推出后可免费升级至 Windows 11*，见下文）
 <blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
 Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="https://www.microsoft.com/zh-cn/windows/windows-11-specifications/">了解 Windows 11 规格、功能和电脑要求</a>&nbsp;)
 </blockquote>
-
+<br><br>
 <li>
 <a href="https://v2rayhome.github.io/2022/06/26/fuli-080/">最新可用Win11专业版激活码 | 下载世界</a>
 </li>
@@ -22,7 +22,7 @@ Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="https://www.microsoft.co
 <br>
 tb购买的，win10专业版产品密钥：HHYXH-N4GP4-DHW4D-HGPGB-JK8XM
 </blockquote>
-
+<br><br>
 <details>
     <summary>
 <a href="https://www.cnbeta.com/articles/soft/1181597.htm">
