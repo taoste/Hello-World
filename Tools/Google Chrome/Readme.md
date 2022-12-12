@@ -24,6 +24,17 @@
 
 - [如何使用远程桌面](https://support.microsoft.com/zh-cn/windows/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2-5fe128d5-8fb1-7a23-3b8a-41e636865e8c): mstsc 
 
+
+- [Chrome 省电模式和节能模式怎么开？ 解决耗电和吃内存方法](https://www.leiyouxi.com/y/264182.html) - 雷游戏
+```
+1.chrome://flags/#battery-saver-mode-available 
+改为「Enabled」
+2.chrome://flags/#high-efficiency-mode-available
+改为「Enabled」
+3.设置 - 效果:
+chrome://settings/performance
+```
+
 -------------------------------------------
 
 -  [**Google 翻译**](https://translate.google.com/?hl=zh-CN#view=home&op=translate&sl=en&tl=zh-CN) 
