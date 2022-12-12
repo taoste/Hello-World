@@ -20,6 +20,10 @@
    
 -------------------------------------------------
 
+<a href="https://learn.microsoft.com/zh-cn/windows/python/beginners">在 Windows 上使用 Python（初学者） | Microsoft Learn</a>
+
+-------------------------------------------------
+
 在Windows10系统中，打开颜色校准工具最快捷的办法是通过Windows搜索栏，<br>
 在底部任务栏点击搜索或设置选项，输入“颜色校准”并查找，然后单击“校准显示器颜色”。
 ```
