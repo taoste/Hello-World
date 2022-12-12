@@ -20,7 +20,10 @@
    
 -------------------------------------------------
 
+<li><a href="https://learn.microsoft.com/zh-cn/windows/python/">通过 Windows 开始使用 Python | Microsoft Learn</a></li>
+<blockquote>
 <a href="https://learn.microsoft.com/zh-cn/windows/python/beginners">在 Windows 上使用 Python（初学者） | Microsoft Learn</a>
+</blockquote>
 
 -------------------------------------------------
 
