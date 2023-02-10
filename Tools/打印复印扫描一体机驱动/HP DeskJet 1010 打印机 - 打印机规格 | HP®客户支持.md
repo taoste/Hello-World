@@ -1,0 +1,1 @@
+- [HP DeskJet 1010 打印机](https://support.hp.com/cn-zh/document/c03792001) - 打印机规格 | [HP®客户支持](https://support.hp.com/cn-zh/)
