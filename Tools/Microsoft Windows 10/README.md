@@ -1750,6 +1750,16 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 《<a href="https://zhuanlan.zhihu.com/p/46536212">局域网中连接共享打印机提示0x80070035错误的解决办法</a> - 知乎》	
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E7%BD%91%E7%BB%9C.jpg?raw=true" width="100%" height="100%" />
+
+<li><a href="https://zhuanlan.zhihu.com/p/426899882" title="局域网打印机突然连接不上/不能打印0x0000011b 正式解决方案（无需卸载补丁） - 知乎">局域网打印机突然连接不上/不能打印0x0000011b 正式解决方案（无需卸载补丁） - 知乎</a></li><br>
+<blockquote>
+1.同时按住“win+R”调出运行窗口。<br>
+2.在运行窗口输入“regedit”并点确定调出注册表编辑器。<br>
+3.找到以下路径“计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print ”<br>
+4.空白处单击右键，点击新建值“DWORD (32位）值（D）”<br>
+5.新建值，命名为：“RpcAuthnLevelPrivacyEnabled”，选中，单击右键>修改>键入数值“0”>确定。<br>
+6.重启电脑即可。
+</blockquote>
  
 ---------------------------------------------------------------------------------------------------------
 
