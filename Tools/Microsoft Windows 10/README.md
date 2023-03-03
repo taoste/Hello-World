@@ -24,8 +24,14 @@
 <a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/"><strong>使用 winget 工具安装和管理应用程序</strong> | Microsoft Learn</a>
 <blockquote>
 	<strong>winget 命令行工具</strong>仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<br><strong>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</strong> 。
+</blockquote>
+<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">winget source 命令 | Microsoft Learn</a>
+<blockquote>主要使用到的命令有四个是 winget search 、winget install 、 winget uninstall 、 winget upgrade<br>
+winget search 用于我们需要查找的软件<br>
+winget install 用于我们需要安装的软件<br>
+winget uninstall 用于我们需要卸载的软件<br>
+winget upgrade 用于我们需要更新的软件<br>
 </blockquote><br>
-<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">winget source 命令 | Microsoft Learn</a><br><br>
 <a href="https://learn.microsoft.com/zh-cn/windows/powertoys/install">安装 PowerToys (微软官方开源效率工具) | Microsoft Learn</a>
 <blockquote>
 使用 Windows 包管理器安装(若要使用 PowerToys安装 PowerToys，只需从命令行/PowerShell 运行以下命令即可：)<br>
