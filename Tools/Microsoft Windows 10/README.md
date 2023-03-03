@@ -29,7 +29,7 @@
 <a href="https://learn.microsoft.com/zh-cn/windows/powertoys/install">安装 PowerToys (微软官方开源效率工具) | Microsoft Learn</a>
 <blockquote>
 使用 Windows 包管理器安装(若要使用 PowerToys安装 PowerToys，只需从命令行/PowerShell 运行以下命令即可：)<br>
-<strong>winget install Microsoft.PowerToys --source winget</strong> 
+<strong>winget install Microsoft.PowerToys --source winget --rainbow</strong> 
 </blockquote>
 
 <li><a href="https://learn.microsoft.com/zh-cn/windows/python/">通过 Windows 开始使用 Python | Microsoft Learn</a></li>
