@@ -20,6 +20,10 @@
    
 -------------------------------------------------
 
+<li><a href="https://learn.microsoft.com/zh-cn/windows/wsl/install">安装 WSL | Microsoft Learn</a></li>
+<blockquote>现在，可以使用单个命令安装运行 WSL 所需的一切内容。 在管理员模式下打开 PowerShell 或 Windows 命令提示符，方法是右键单击并选择“以管理员身份运行”，输入<strong>wsl --install 命令</strong>，然后重启计算机。
+</blockquote>
+
 <li><a href="https://learn.microsoft.com/zh-cn/windows/package-manager/">Windows 程序包管理器 | Microsoft Learn</a></li></br>
 <a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/"><strong>使用 winget 工具安装和管理应用程序</strong> | Microsoft Learn</a>
 <blockquote>
