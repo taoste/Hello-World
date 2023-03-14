@@ -75,3 +75,22 @@
 > 快捷键【win+r】呼出"运行"，输入：**C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe**  点击“确定”即可打开edge浏览器缓存文件夹。
 
 >> Microsoft Edge 浏览器缓存文件夹默认地址：**C:\账户名\电脑名\AppData\Local\Microsoft\Windows\INetCache** 。
+
+-------------------------------------------------
+
+ 【参考】其它浏览器 | 搜索引擎：
+ 
+| 搜索引擎 |  快捷方式 | URL |
+| :-----| ----: | :---- |
+| 必应 (推荐，默认) |  bing.com | https://www.google.com/search?q=%s |
+| Google |  google.com | https://www.google.com/search?hl=zh_CN&q=%s |
+| 百度 |  baidu.com | https://www.baidu.com/#ie={inputEncoding}&wd=%s |
+| 搜狗 |  sogou.com | https://www.sogou.com/web?ie={inputEncoding}&query=%s |
+| 360 |  so.com | https://www.so.com/s?ie={inputEncoding}&q=%s |
+| 微博搜索 |  s.weibo.com | https://s.weibo.com/?q=%s |
+| 昵图搜索 |  soso.nipic.com | https://soso.nipic.com/?q=%s&g=0&or=0&y=60 |
+| Official Kodi Wiki (en) |  kodi.wiki | https://kodi.wiki/index.php?title=Special:Search&search=%s |
+| Search Oracle VM VirtualBox |  virtualbox.org | https://www.virtualbox.org/search?q=%s&page={startPage} |
+| 收藏夹 |  @最喜欢 | edge://favorites/?q=%s |
+| 历史记录 | @历史记录 | edge://history/all?q=%s |
+| 制表符 |  @标签页 | edge://history/syncedTabs?q=%s |
