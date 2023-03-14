@@ -50,7 +50,7 @@ chrome://settings/performance
 
 > 3. 以%s代替查询的URL： **https://www.google.com/search?hl=zh_CN&q=%s**
 
-> 【参考】其它浏览器 | 搜索引擎：
+> 【参考】其它浏览器 | 搜索引擎： ( chrome://settings/searchEngines )
 
 | 搜索引擎 |  快捷方式 | URL |
 | :-----| ----: | :---- |
