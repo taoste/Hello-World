@@ -72,6 +72,8 @@
 
 > 远程桌面连接：mstsc
 
+> 我的电脑右键属性(系统属性) ：sysdm.cpl 
+
 > Windows Power Shell 命令行工具：powershell
 
 > 系统变量系统变量（%SystemRoot% ，%windir% ，%temp%，%system%）  |  系统目录或者是根目录 （ %SystemRoot% ）
