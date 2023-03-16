@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00[Hkey_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionGroup Policy
+
+ObjectsLocalUserSoftwarePoliciesMicrosoftMMC][-Hkey_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionGroup Policy
+
+ObjectsLocalUserSoftwarePoliciesMicrosoftMMC{8FC0B734-A0E1-11D1-A7D3-0000F87571E3}]"Restrict_Run"=dword:00000000
+
+[Hkey_CURRENT_USERSoftwarePoliciesMicrosoftMMC][-Hkey_CURRENT_USERSoftwarePoliciesMicrosoftMMC{8FC0B734-A0E1-11D1-A7D3
+
+-0000F87571E3}]"Restrict_Run"=dword:00000000[Hkey_CURRENT_USERSoftwarePoliciesMicrosoftMMC]
+
+"RestrictToPermittedSnapins"=dword:00000000
