@@ -1,4 +1,7 @@
 【技能】公众号“后期老蒋”回复210524：剪映一键导出SRT字幕，资本家看了都流泪！_[哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18B4y1F7w3)
+
+<a href="https://lv.ulikecam.com/magic/eco/runtime/release/62e22708bbff810557825f5a?appType=videocut&magic_page_no=1&start_page=magic-pages%2Fcompiulz96i04yv8%2Findex">剪映专业版-支持跨软件Pr剪辑喽！</a>
+
 <blockquote>
 <b>  【<a target="_blank" href="https://lv.ulikecam.com/" title="剪映专业版-全能易用的桌面端剪辑软件-轻而易剪 上演大幕
 				【软件简介】
