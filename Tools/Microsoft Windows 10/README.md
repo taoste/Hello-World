@@ -1573,6 +1573,7 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 <td style="min-width: 90px; font-size: 14px; white-space: normal; overflow-wrap: break-word; border: 1px solid rgb(217, 217, 217); padding: 4px 8px; cursor: default;">
 <p data-lake-id="97a53d5414b97c38e109a497afeddb0b" style="font-size: 15px; color: rgb(64, 64, 64); line-height: 1.74; letter-spacing: 0.008em; outline-style: none; overflow-wrap: break-word; margin: 0px;">
 <span>重启资源管理器</span>
+（重启资源管理器的方法： 1、在桌面状态下，同时按下【Ctrl+Shift+Esc】，调出Windows资源管理器。 2、找到【WIndows资源管理器】，右击重新启动。 3、也可右击，点击“结束任务”。）
 </p>
 </td>
 <td style="min-width: 90px; font-size: 14px; white-space: normal; overflow-wrap: break-word; border: 1px solid rgb(217, 217, 217); padding: 4px 8px; cursor: default;">
