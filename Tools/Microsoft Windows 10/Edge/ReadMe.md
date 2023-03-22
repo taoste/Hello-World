@@ -89,6 +89,7 @@
 | 360 |  so.com | https://www.so.com/s?ie={inputEncoding}&q=%s |
 | 微博搜索 |  s.weibo.com | https://s.weibo.com/?q=%s |
 | 昵图搜索 |  soso.nipic.com | https://soso.nipic.com/?q=%s&g=0&or=0&y=60 |
+| Gitee 代码搜索 | search.gitee.com | https://search.gitee.com/?skin=rec&type=repository&q=%s |
 | Official Kodi Wiki (en) |  kodi.wiki | https://kodi.wiki/index.php?title=Special:Search&search=%s |
 | Search Oracle VM VirtualBox |  virtualbox.org | https://www.virtualbox.org/search?q=%s&page={startPage} |
 | 收藏夹 |  @最喜欢 | edge://favorites/?q=%s |
