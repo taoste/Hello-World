@@ -12,3 +12,15 @@
 下载地址：<br>
  <code>
   <a target="_blank" href="https://wwz.lanzoum.com/iXjC704n4xrc">https://wwz.lanzoum.com/iXjC704n4xrc</a> 密码:fsf0</code>
+ <hr>
+  
+<li>
+<a href="https://www.freedidi.com/4765.html">修改手机GPS虚拟定位！爱思助手是个不错的选择 - 零度解说</a>
+</li>
+<blockquote>
+<p><a href="https://www.freedidi.com/wp-content/uploads/2022/05/aisi.jpg"><img decoding="async" class="aligncenter size-full wp-image-4766" src="https://www.freedidi.com/wp-content/uploads/2022/05/aisi.jpg" alt="" width="750" height="422" /></a></p>
+<p><span style="color: #ff0000;"><strong>爱思助手：
+【<a style="color: #ff0000;" href="https://www.i4.cn/"><span style="color: #0000ff;">点击下载</span></a>】</strong></span></p>
+<p>&nbsp;</p>
+<p>无需越狱，通过手机数据线连接手机后，就可以更该手机的GPS定位！完全免费</p>
+</blockquote>
