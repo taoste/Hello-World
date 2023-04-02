@@ -164,6 +164,9 @@ Firefox中指向Blob URL的链接元素不允许download属性，所以脚本在
 - [**Github 镜像访问，加速下载**](https://greasyfork.org/zh-CN/scripts/398278-github-%E9%95%9C%E5%83%8F%E8%AE%BF%E9%97%AE-%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD) 
 >> 镜像地址请不要登陆自己的账户，造成损失本人概不负责
 
+<li><a href="https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD">Github 增强 - 高速下载</a></li>
+<blockquote>高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载 (☁)、添加 git clone 命令</blockquote>
+
 - [**GitHub 汉化插件**](https://greasyfork.org/zh-CN/scripts/407485-github-internationalization) @[GitHub](https://github.com/k1995/github-i18n-plugin)
 >> GitHub汉化插件，包含人机翻译
 
