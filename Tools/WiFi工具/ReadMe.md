@@ -15,3 +15,17 @@
 - [Windows 10 通过命令行查看 Wi-Fi 密码](https://www.jianshu.com/p/e7a78685b7e1) - 简书
 
 >> [Windows 10 通过命令行查看 Wi-Fi 密码](https://rollingstarky.github.io/2019/10/27/find-wlan-password-in-windows-10/) | [tarryLand](https://rollingstarky.github.io/)
+
+-------------------------------------------------------------------------
+
+【还在用微信QQ传输文件？试试这三款免费开源的跨平台秒传工具！-哔哩哔哩】 
+[https://b23.tv/MUAxkm3](https://www.bilibili.com/video/BV1qN411P7cu/?buvid=XXF5DA2F62A00B67E5FF508B460D62276A918&vd_source=d7b4ba1ffd9118adea2da33392ae3c96)
+>支持Windows、Mac、Linux、Android以及iOS。
+
+>> LANDrop：https://landrop.app/
+
+>> LocalSend：https://localsend.org/
+
+>> Mfiles：https://mfiles.maokebing.com/
+
+-------------------------------------------------------------------------
