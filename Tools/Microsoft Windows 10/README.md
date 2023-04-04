@@ -637,6 +637,10 @@ Alt+F4 关机快捷键。
 
 - [Windows中ProgramData文件夹是什么鬼](https://www.jianshu.com/p/677846a93056) - 简书
 
+<blockquote>
+<a href="https://blog.csdn.net/hong_taizi/article/details/90690595" title="Windows如何查看系统是ARM64还是X64架构_怎么看是不是arm_蚯蚓哥的博客-CSDN博客 ">CMD:systeminfo</a>>>	    
+<a href="https://www.codenong.com/2000638/" title="关于Windows：桌面路径的环境变量是什么？ | 码农家园">%UserProfile%\Desktop\info.txt</a></blockquote>
+
 >> 如： C:\ProgramData\
 
 >> 系统变量 %USERPROFILE%
