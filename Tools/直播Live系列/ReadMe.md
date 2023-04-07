@@ -4,12 +4,16 @@
 <blockquote><li>vMix 软件：</li>
   <a href="https://www.ittel.cn/archives/15073.html">vMix Pro 26.0.0.37 简体中文破解版</a>
 </blockquote>
+<blockquote>
+  <li><a href="https://www.vmix.com/purchase/virtual-sets.aspx">直播虚拟布景 |vMix</a></li>
+</blockquote>
 <blockquote><li>字幕条·安装说明：</li>
   <blockquote>解压文件复制到VMIX安装目录下<br>
 如：：C:\Program Files (x86)\vMix\titles 目录下</blockquote>
 <li>字幕条·参考：</li>
   <blockquote>
     <a href="https://www.vmix.com.cn/vmix-title-gt05.html">vMix 人名字幕条01 Gtzip|VMIX 导播键盘 正版软件</a><br>
+    <a href="https://www.vmix.com.cn/vmix-title-gt06.html">vMix 警察警徽字幕条 Gtzip|VMIX 导播键盘 正版软件</a><br>
 <a href="https://www.kaibo001.com/archives/261">实用节目字幕条</a>
     </blockquote>
 </blockquote>
