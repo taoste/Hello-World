@@ -5,8 +5,10 @@
   <blockquote>解压文件复制到VMIX安装目录下<br>
 如：：C:\Program Files (x86)\vMix\titles 目录下</blockquote>
 <li>字幕条·参考：</li>
-<a href="https://www.vmix.com.cn/vmix-title-gt05.html">vMix 人名字幕条01 Gtzip|VMIX 导播键盘 正版软件</a><br>
+  <blockquote>
+    <a href="https://www.vmix.com.cn/vmix-title-gt05.html">vMix 人名字幕条01 Gtzip|VMIX 导播键盘 正版软件</a><br>
 <a href="https://www.kaibo001.com/archives/261">实用节目字幕条</a>
+    </blockquote>
 </blockquote>
 <li><a href="https://www.sinsam.com/"><strong>芯象</strong>官网 - 专业免费直播导播软件</a> | <a href="https://www.vzan.com/"><strong>微赞</strong> - 企业直播营销平台，为企业提供专业微信直播方案</a></li>
 
