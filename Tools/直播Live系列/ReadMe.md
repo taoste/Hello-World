@@ -1,5 +1,5 @@
 <li><a href="https://obsproject.com/zh-cn/">Open Broadcaster Software | <strong>OBS Studio</strong> </a> 免费开源的直播和录屏软件</li>
-
+<hr>
 <li><a href="https://www.vmix.com/">Live Video Streaming Software | <strong>vMix</strong></a> · <a href="https://www.vmix.com.cn/category/vmix-virtual-sets">虚拟场景 | VMIX 导播键盘 正版软件</a></li>
 <blockquote><li>字幕条·安装说明：</li>
   <blockquote>解压文件复制到VMIX安装目录下<br>
@@ -10,6 +10,7 @@
 <a href="https://www.kaibo001.com/archives/261">实用节目字幕条</a>
     </blockquote>
 </blockquote>
+<hr>
 <li><a href="https://www.sinsam.com/"><strong>芯象</strong>官网 - 专业免费直播导播软件</a> | <a href="https://www.vzan.com/"><strong>微赞</strong> - 企业直播营销平台，为企业提供专业微信直播方案</a></li>
 <hr>
 <li>时间格式<code>{0:yyyy/MM/dd H:mm:ss}</code></li>
