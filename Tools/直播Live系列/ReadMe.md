@@ -2,7 +2,20 @@
 <hr>
 <li><a href="https://www.vmix.com/">Live Video Streaming Software | <strong>vMix</strong></a> · <a href="https://www.vmix.com.cn/category/vmix-virtual-sets">虚拟场景 | VMIX 导播键盘 正版软件</a></li>
 <blockquote><li>vMix 软件：</li>
-  <a href="https://www.ittel.cn/archives/15073.html">vMix Pro 26.0.0.37 简体中文破解版</a>
+  <a href="https://www.ittel.cn/archives/15073.html">vMix Pro 26.0.0.37 简体中文·Pro 学习版</a>@<a href="https://pan.baidu.com/s/1m2fros1GtLSsCYLJksA2qw?pwd=9thi" title="vMix Pro 26.0.0.37 简体中文Pro 学习版 (低调分享)">百度网盘</a>
+  <blockquote>
+1)安装来自vmix26.37的vMix 26.0.0.37.exe<br>
+2)用原始文件覆盖破解文件夹中的所有文件(如果你愿意，你可以事先备份它们)<br>
+3)将以下行写入hosts文件:<br>
+<br>
+127.0.0.1 2637.vmix.com<br>
+127.0.0.1 vmixcloud.com<br>
+127.0.0.1 vmix.com<br>
+127.0.0.1 vmix.com.au<br>
+127.0.0.1 www.vmix.com<br>
+<br>
+4)运行并使用vMix的固化版本
+  </blockquote>
 </blockquote>
 <blockquote>
   <li><a href="https://www.vmix.com/purchase/virtual-sets.aspx">直播虚拟布景 |vMix</a></li>
