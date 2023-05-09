@@ -7,11 +7,11 @@
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【升级】upgrade 命令 (winget)使用</a>：<br>
 	【示例1】将升级特定版本的应用程序:
 		<code>winget upgrade powertoys --version 0.69.1</code><br>
-	【示例2】将根据应用程序 ID 升级相应的应用程序
+	【示例2】将根据应用程序 ID 升级相应的应用程序:
 	    <code>winget upgrade --id Microsoft.PowerToys</code><br>
-	【示例3】如何升级所有应用
+	【示例3】如何升级所有应用:
 	<code>winget upgrade --all</code><br>		
-	【示例4】更新所有源
+	【示例4】更新所有源:
 	<code>winget source update</code><br><br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【卸载】uninstall 命令 (winget)使用</a>：<br>
 		<code>winget uninstall [[-q] \<query>] [\<options>]</code><br>
