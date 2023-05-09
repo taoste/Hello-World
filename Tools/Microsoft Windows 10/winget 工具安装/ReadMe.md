@@ -1,4 +1,8 @@
-<li><h1><a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a></h1></li>
+<details><li><h1><a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a></h1></li>
+    <summary>
+	<blockquote><p>注意</p>
+<p>winget 命令行工具仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<code>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</code>。</p></blockquote>
+	</summary> 
 <blockquote>
   <div id="ms--content-well-notifications"></div>
 										<nav id="center-doc-outline" class="doc-outline is-hidden-desktop display-none-print margin-bottom-sm" data-bi-name="intopic toc" role="navigation" aria-label="本文内容">
@@ -195,6 +199,6 @@ if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
 <li><a href="https://github.com/microsoft/winget-cli/tree/master/doc/troubleshooting#common-issues" data-linktype="external">常见问题 - 无法识别、无法运行、应用安装程序版本或 PATH 变量需要更新</a></li>
 <li><a href="https://github.com/microsoft/winget-cli/tree/master/doc/troubleshooting#common-errors" data-linktype="external">常见错误 - 错误 0x801901a0、0x80d03002、0x80070490</a></li>
 </ul>
-
-							</div>
+</div>
 </blockquote>
+</details>
