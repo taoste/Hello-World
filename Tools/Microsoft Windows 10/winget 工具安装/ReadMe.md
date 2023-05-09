@@ -11,7 +11,7 @@
 	    <code>winget upgrade --id Microsoft.PowerToys</code><br>
 	【示例3】升级所有应用:
 	<code>winget upgrade --all</code><br>		
-	【示例4】更新所有源:
+	【示例4】<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">winget source 命令</a> | 更新所有源:
 	<code>winget source update</code><br><br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【卸载】uninstall 命令 (winget)使用</a>：<br>
 		<code>winget uninstall [[-q] \<query>] [\<options>]</code><br>
