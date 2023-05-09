@@ -1,6 +1,6 @@
-<details><li><h1><a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a></h1></li>
-    <summary>
-	<blockquote><p>注意</p>
+<details>
+    <summary><h1><a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a></h1>
+	<blockquote><p><B>摘要 | 注意 ：</B></p>
 <p>winget 命令行工具仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<code>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</code>。</p></blockquote>
 	</summary> 
 <blockquote>
