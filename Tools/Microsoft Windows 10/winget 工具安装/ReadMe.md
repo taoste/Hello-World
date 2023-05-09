@@ -9,9 +9,9 @@
 		<code>winget upgrade powertoys --version 0.69.1</code><br>
 	【示例2】将根据应用程序 ID 升级相应的应用程序
 	    <code>winget upgrade --id Microsoft.PowerToys</code><br>
-	【示例3】示例演示如何升级所有应用
-	<code></code>
-		</p>winget upgrade --all</blockquote>
+	【示例3】如何升级所有应用
+	<code>winget upgrade --all</code>
+		</p></blockquote>
 	</summary> 
 <blockquote>
   <div id="ms--content-well-notifications"></div>
