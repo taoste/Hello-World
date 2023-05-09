@@ -9,7 +9,7 @@
 		<code>winget upgrade powertoys --version 0.69.1</code><br>
 	【示例2】将根据应用程序 ID 升级相应的应用程序:
 	    <code>winget upgrade --id Microsoft.PowerToys</code><br>
-	【示例3】如何升级所有应用:
+	【示例3】升级所有应用:
 	<code>winget upgrade --all</code><br>		
 	【示例4】更新所有源:
 	<code>winget source update</code><br><br>
