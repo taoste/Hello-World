@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------
 
-<a href="https://htmlpreview.github.io/">GitHub & BitBucket HTML Preview | 阅览Github仓库下的HTML网页</a>( <a href="https://htmlpreview.github.io/">https://htmlpreview.github.io/</a> )
+<a href="https://htmlpreview.github.io/">GitHub & BitBucket HTML Preview | 阅览Github仓库下的HTML网页</a> ( <a href="https://htmlpreview.github.io/">https://htmlpreview.github.io/</a> )
 
 💗 [Tools-导航]() : [ [精品绿色便携软件](https://www.portablesoft.org/) ]
 
