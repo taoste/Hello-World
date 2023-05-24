@@ -5,6 +5,12 @@
 提取自360官方安装包的360随身Wifi第3代Win764位驱动程序，MTK官方驱动，无附加功能，无全家桶，亲测Win10可用。 
 使用方法：解压文件，设备管理器找到随身Wifi设备，右击选择更新驱动程序，选中解压的文件夹，即可作为USB网卡正常使用。
 ```
+-------------------------------------------------------------------------
+
+<li><a href="https://www.52pojie.cn/thread-1788583-1-1.html">使用PowerShell查看本机连接过并且已保存的WiFi密码（仅1行代码，全网最简） - 『编程语言讨论求助区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn</a></li>
+<blockquote><pre><code>
+foreach ($item in (netsh wlan show profile|where{ $_ -match "文件"})){netsh wlan show profile name=($item -replace "    所有用户配置文件 : ","") key=clear|where{ $_ -match "    名称|关键内容"}}
+</code></pre></blockquote>
 
 -------------------------------------------------------------------------
 
