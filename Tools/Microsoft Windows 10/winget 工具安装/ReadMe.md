@@ -11,11 +11,43 @@
 	【示例2】将根据应用程序 ID 升级相应的应用程序:
 	    <code>winget upgrade --id Microsoft.PowerToys</code><br>
 	【示例3】升级所有应用:
-	<code>winget upgrade --all</code><br>		
+	<code>winget upgrade --all</code><br>	
+		程序包的版本号无法确定。使用 “<code>--include-unknown</code>”查看所有结果。<br>
 	【示例4】<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">winget source 命令</a> | 更新所有源:
 	<code>winget source update</code><br><br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【卸载】uninstall 命令 (winget)使用</a>：<br>
 		<code>winget uninstall [[-q] \<query>] [\<options>]</code><br><br>
+	【示例5】WinGet 命令行实用工具可从命令行安装应用程序和其他程序包。<br>
+<br>
+使用情况: winget [<命令>] [<选项>]<br>
+<br>
+下列命令有效:<br>
+  install    安装给定的程序包<br>
+  show       显示包的相关信息<br>
+  source     管理程序包的来源<br>
+  search     查找并显示程序包的基本信息<br>
+  list       显示已安装的程序包<br>
+  upgrade    显示并执行可用升级<br>
+  uninstall  卸载给定的程序包<br>
+  hash       哈希安装程序的帮助程序<br>
+  validate   验证清单文件<br>
+  settings   打开设置或设置管理员设置<br>
+  features   显示实验性功能的状态<br>
+  export     导出已安装程序包的列表<br>
+  import     安装文件中的所有程序包<br>
+<br>
+如需特定命令的更多详细信息，请向其传递帮助参数。 [-?]<br>
+<br>
+下列选项可用：<br>
+  -v,--version              显示工具的版本<br>
+  --info                    显示工具的常规信息<br>
+  -?,--help                 显示选定命令的帮助信息<br>
+  --wait                    提示用户在退出前按任意键<br>
+  --logs,--open-logs        打开默认日志位置<br>
+  --verbose,--verbose-logs  启用 WinGet 的详细日志记录<br>
+  --disable-interactivity   禁用交互式提示<br>
+<br>
+可在此找到更多帮助: "https://aka.ms/winget-command-help"<br><br>
 	【链接】<br>
 	    ----------------------------------------------------------------------------<br>
 	    隐私声明             https://aka.ms/winget-privacy<br>
