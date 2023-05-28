@@ -15,7 +15,14 @@
 	【示例4】<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">winget source 命令</a> | 更新所有源:
 	<code>winget source update</code><br><br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【卸载】uninstall 命令 (winget)使用</a>：<br>
-		<code>winget uninstall [[-q] \<query>] [\<options>]</code><br>
+		<code>winget uninstall [[-q] \<query>] [\<options>]</code><br><br>
+	【链接】<br>
+	    ----------------------------------------------------------------------------<br>
+	    隐私声明             https://aka.ms/winget-privacy<br>
+	    许可协议             https://aka.ms/winget-license<br>
+	    第三方声明           https://aka.ms/winget-3rdPartyNotice<br>
+	    主页                 https://aka.ms/winget<br>
+	    Windows 应用商店条款 https://www.microsoft.com/en-us/storedocs/terms-of-sale<br>
 		</p></blockquote>
 	</summary> 
 <blockquote>
