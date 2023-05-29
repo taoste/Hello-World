@@ -41,7 +41,28 @@
 -no-remote 可以同时运行多个实例
 -private 以隐私模式启动
 ```
-   
+-------------------------------------------
+
+<li><a href="https://www.llq.info/edge/8912.html" target="_blank" title="Edge 浏览器隐藏功能一览：多线程下载、IE 模式、阻止视频自动播放等-浏览器资讯网:"/>多线程下载(edge://flags/)</a>:</li>
+<blockquote>在地址栏输入 chrome://flags/ 后进入到实验功能界面，找到“Parallel downloading”的选项，打开“Enable”即可。之后，Chrome 的下载速度就会有明显提升了。</blockquote>
+
+- 设置 - Flash ( chrome://settings/content/flash )
+
+- ( chrome://net-internals/#hsts )
+
+<img src="https://raw.githubusercontent.com/taoste/Hello-World/master/Tools/Google%20Chrome/Google%20chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E8%AE%BE%E7%BD%AE.PNG" border="0" alt="Google chrome浏览器设置.PNG" title="Google chrome浏览器设置.PNG">
+
+( <a href="https://support.google.com/chrome/a/answer/9024365?hl=zh-Hans" title="查看设备当前的Chrome 政策- Google Chrome Enterprise帮助">查看设备当前的Chrome 政策</a> chrome://policy/ ) 
+
+> 参阅资料：
+
+>> 《[cnBeta | 个人电脑上的 Chrome 被企业托管了，什么情况？](https://www.cnbeta.com/articles/tech/875243.htm )》
+
+>> 《[Google Developers | Chromium 的弹窗机制](https://developers.google.com/web/updates/2017/03/dialogs-policy?hl=zh-cn)》
+
+>> 《[Google/Chrome 个人经验](http://kisss.cjli.info/auxiliary/Google-Chrome-Experience.html)》 @ckwongloy
+
+  
 -------------------------------------------------
 
 - 资源下载：[微软官方办公资源合集](Office.md)（有效期：2018年9月7日前下载）
