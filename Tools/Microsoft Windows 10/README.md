@@ -656,7 +656,7 @@ Alt+F4 关机快捷键。
 >> %COMPUTERNAME%   - 计算机名
 	
 >> %USERNAME%       - 用户名
->>> 如：C:\Users\%username%\AppData\Local\Temp\
+>>> 如：C:\Users\\%username%\AppData\Local\Temp\
 
 ---------------------------------------
 
