@@ -22,7 +22,7 @@
 		程序包的版本号无法确定。使用 “<code>--include-unknown</code>”查看所有结果。<br><br>	
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【4.卸载】uninstall 命令 (winget)使用</a>：<br>
 		<code>winget uninstall [[-q] \<query>] [\<options>]</code><br><br>
-	【示例5】WinGet 命令行实用工具可从命令行安装应用程序和其他程序包。<br>
+	【Help】WinGet 命令行实用工具可从命令行安装应用程序和其他程序包。<br>
 <br>
 使用情况: winget [<命令>] [<选项>]<br>
 <br>
