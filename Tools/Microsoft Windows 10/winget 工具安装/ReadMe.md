@@ -6,6 +6,7 @@
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【安装】install 命令 (winget)使用</a>：<br>
 	<code>winget install [[-q] \<query>] [\<options>]</code><br>
 	如：安装OpenVPN:<code>winget install openvpn</code><br>
+	如：安装赛风：<code>winget install Psiphon</code><br>
 		<br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【升级】upgrade 命令 (winget)使用</a>：<br>
 	【示例1】将升级特定版本的应用程序:
