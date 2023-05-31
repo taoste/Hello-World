@@ -1793,10 +1793,10 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
  1.首先打开“文件资源管理器”，在地址栏输入下面的路径后回车。
 
 【windows 10 锁屏壁纸 路径】
-> C:\Users\%username%\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\
+> C:\Users\\%username%\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\
 
  2.点击开始菜单，输入cmd，打开“命令提示符”。输入下面的命令，修改锁屏壁纸文件夹中的文件扩展名为png。
-> Ren C:\Users\%username%\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\*.* *.png
+> Ren C:\Users\\%username%\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\*.* *.png
 
 **❤壁纸资源：**
 
