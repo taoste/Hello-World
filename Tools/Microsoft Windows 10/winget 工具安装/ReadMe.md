@@ -3,7 +3,7 @@
 	<blockquote>		
 		<p><B>摘要 | 注意 ：</B> <a href="https://apps.microsoft.com/store/detail/%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/9NBLGGH4NNS1?hl=zh-cn&gl=cn">应用安装程序(winget) - Microsoft Store 应用程序</a> | <a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=zh-cn&gl=cn&rtc=1">窗口终端(Windows Terminal) - 微软应用</a></p>
 <P style="text-indent:2em;">winget 命令行工具仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<code>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</code>。<br><br>
-	【1.更新软件源】<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">winget source 命令</a> | 更新所有源:
+	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">【1.更新软件源】winget source 命令</a> | 更新所有源:
 	<code>winget source update</code><br><br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a>：<br>
 	<code>winget install [[-q] \<query>] [\<options>]</code><br>
