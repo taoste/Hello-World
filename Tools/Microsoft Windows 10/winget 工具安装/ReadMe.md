@@ -11,6 +11,8 @@
 	如：安装Tor浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
 	如：安装赛风：<code>winget install Psiphon</code><br><br>
+	如：查询 | edge浏览器命令：<code>winget search edge</code><br>
+	如：升级 | edge浏览器命令：<code>winget upgrade edge</code><br><br>
 		安装包文件下载存放路径：<code>C:\Users\%username%\AppData\Local\Temp\WinGet</code><br>
 		<br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【3.升级】upgrade 命令 (winget)使用</a>：<br>
