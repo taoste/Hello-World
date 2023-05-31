@@ -10,7 +10,8 @@
 	如：安装企业微信:<code>winget install 企业微信</code><br>
 	如：安装Tor浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
-	如：安装赛风：<code>winget install Psiphon</code><br>
+	如：安装赛风：<code>winget install Psiphon</code><br><br>
+		安装包文件下载存放路径：<code>C:\Users\%username%\AppData\Local\Temp\WinGet</code><br>
 		<br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【3.升级】upgrade 命令 (winget)使用</a>：<br>
 	【示例1】将升级特定版本的应用程序:
