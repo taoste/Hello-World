@@ -5,10 +5,10 @@
 ------------------------------------------------------------------------------------------------------------------
 
 👇微软Edge浏览器用户数据保存位置（包括插件，历史记录，Cookie等）<br>
-C:\Users\%username%\AppData\Local\Microsoft\Edge\User Data\Default\Extensions<br>
+C:\Users\\%username%\AppData\Local\Microsoft\Edge\User Data\Default\Extensions<br>
 <br>
 👇谷歌Chrome浏览器用户数据保存位置（包括插件，历史记录，Cookie等）<br>
-C:\Users\%username%\AppData\Local\Google\Chrome\User Data\Default\Extensions<br>
+C:\Users\\%username%\AppData\Local\Google\Chrome\User Data\Default\Extensions<br>
 <br>
 
 - 欢迎使用 [**Internet Explorer**](https://support.microsoft.com/zh-cn/help/17621/internet-explorer-downloads) /  [**Microsoft Edge**](https://microsoftedgewelcome.microsoft.com/zh-cn/) ([Win7](https://www.microsoftedgeinsider.com/zh-cn/download?platform=win7)特别版)（ [Microsoft Edge 文档
