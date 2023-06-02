@@ -34,7 +34,8 @@
 <br>
 下列命令有效:<br>
   install    安装给定的程序包<br>
-  show       显示包的相关信息<br>
+  show       显示包的相关信息<br> 
+		如：查找阿里云盘：<code>winget show Alibaba.aDrive</code><br>
   source     管理程序包的来源<br>
   search     查找并显示程序包的基本信息<br>
   list       显示已安装的程序包<br>
