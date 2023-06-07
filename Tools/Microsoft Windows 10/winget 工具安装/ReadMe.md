@@ -14,6 +14,7 @@
 	<details>
     <summary>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
+	     安装微软开发工具VSCode: <code>winget install Microsoft.VisualStudioCode </code><br>
 	</summary><br>
 	<code>winget install [[-q] \<query>] [\<options>]</code><br><br>
 	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
