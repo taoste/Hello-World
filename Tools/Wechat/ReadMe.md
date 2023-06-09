@@ -18,6 +18,15 @@
       </tr> 
 </table>    
 
+<li>《<a href="jingyan.baidu.com/article/22a299b563de0bde18376a32.html" title="打开微信总是提示微信更新怎么办 - 百度经验"><strong>打开微信总是提示微信更新怎么办?</strong></a>》 - <strong>百度经验</strong></li>
+👇<strong>经验总结：
+<blockquote>
+1、进入微信界面后，在【我】的界面下找到并点击【设置】按钮。<br> 
+2、进入设置界面后，找到并点击【通用】按钮。 <br>
+3、在通用设置界面下，将【自动下载微信安装包】设置为【从不】。 <br>
+4、这样就不会总是提醒微信更新了。
+</blockquote></strong>
+<hr style="height:1px;width:35%;border:none;border-top:1px dashed #0066CC;" />
 - 《[史上最简单 1分钟教你在电脑上开启多个PC版微信](https://www.cnbeta.com/articles/soft/897111.htm)》 - Tencent WeChat 腾讯微信 - cnBeta.COM  
 > <p><a href="https://static.cnbetacdn.com/article/2019/1009/ba9bb9703e4eab3.jpg"><img src="https://camo.githubusercontent.com/e97934cac225e1410dd4ff792ec8c4ddb7ac8d1e/68747470733a2f2f7374617469632e636e6265746163646e2e636f6d2f61727469636c652f323031392f313030392f6261396262393730336534656162332e6a7067" title="史上最简单 1分钟教你在电脑上开启多个PC版微信" /></a></p>
 > 存盘退出记事本，勾选“此电脑”→“查看”中的“文件扩展名”复选框，将刚建立好的文件扩展名修改为“.bat”；
