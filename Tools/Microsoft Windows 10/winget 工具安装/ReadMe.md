@@ -29,6 +29,7 @@
     <summary>
 	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/search">【2.1查找】search 命令 (winget)使用</a> | 查找360系列: <code>winget search 360 </code> || 查找金山系列: <code>winget search Kingsoft</code><br>
 	</summary><br>
+	如：查询 | <a href="https://consumer.huawei.com/cn/support/pc-manager/" title="华为电脑管家官方下载-笔记本驱动更新 | 华为官网">华为电脑管家</a>命令：<code>winget search Huawei.PCManager</code><br>
 	如：查询 | edge浏览器命令：<code>winget search edge</code><br>
 	如：查询 | chrome浏览器命令：<code>winget search google.chrome</code><br>
 	如：升级 | edge浏览器命令：<code>winget upgrade edge</code><br>
