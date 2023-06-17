@@ -1,71 +1,70 @@
-<细节>
-    <摘要>
+<details>
+    <summary>
 	<h1><a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a></h1>
 	<blockquote>		
 		<p><B>摘要 | 注意 ：</B> <a href="https://apps.microsoft.com/store/detail/%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/9NBLGGH4NNS1?hl=zh-cn&gl=cn">应用安装程序(winget) - Microsoft Store 应用程序</a> | <a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=zh-cn&gl=cn&rtc=1">窗口终端(Windows Terminal) - 微软应用</a></p>
-<P style="text-indent:2em;">winget 命令行工具仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<代码>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</代码>。<br><br>
-	<细节>
-    <摘要>
+<P style="text-indent:2em;">winget 命令行工具仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<code>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</code>。<br><br>
+	<details>
+    <summary>
 	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">【1.更新软件源】winget source 命令</a> | 更新所有源:
-	<代码>winget source update</代码>
-	</摘要>
-	</细节>
-	<br>
-	<细节>
-    <摘要>
-	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <代码>winget install 微信 </代码><br>
-	     安装微软开发工具VSCode: <代码>winget install Microsoft.VisualStudioCode </代码><br>
-	</摘要><br>
-	<代码>winget install [[-q] \<query>] [\<选项>]</代码><br><br>
-	如：安装 PikPak 网盘:<代码>winget install PikPak</代码><br>
-	如：安装企业微信:<代码>winget install 企业微信 </代码>或者：Tencent.WeChat | Tencent.wechat-work<br>
-	如：安装微信开发者工具:<代码>winget install Tencent.WeixinDevTools</代码><br>
-	如：安装 Tor 浏览器:<代码>winget install TorProject.TorBrowser</代码><br>
-	如：安装 OpenVPN:<代码>winget install OpenVPNTechnologies.OpenVPNConnect</代码><br>
-	如：安装开源虚拟机 VirtualBox:<代码>winget search Oracle.VirtualBox</代码><br>
-	如：安装开源编辑器 Notepad++: <代码>winget install Notepad++.Notepad++</代码><br>
-	如：安装开源流程图绘制软件: <代码>winget install Draw.io</代码><br>
-	如：安装开源射手影音 SPlayer :<代码>winget install Shooter.SPlayerX</代码><br>
-	如：安装万能影音播放器 Spotify :<代码>winget install Daum.PotPlayer</代码><br>
-	如：安装开源播放器 VLC media player :<代码>winget install VideoLAN.VLC</代码><br>
-	如：安装音乐播放器 Spotify :<代码>winget install Spotify.Spotify</代码><br>
-	如：安装 BTSync:<代码>winget install BitTorrent Sync --version 1.4.111</代码><br>
-	如：安装赛风：<代码>winget install Psiphon</代码><br>
-	</细节>
-	<blockquote>☞安装包文件下载存放路径：<代码>C:\Users\%username%\AppData\Local\Temp\WinGet</代码></blockquote>
-	<细节>
-    <摘要>
-	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/search">【2.1查找】search 命令 (winget)使用</a> | 查找360系列: <代码>winget search 360 </代码> || 查找金山系列: <代码>winget search Kingsoft</代码><br>
-	</摘要><br>
-	如：查询 | <a href="https://consumer.huawei.com/cn/support/pc-manager/" 标题="华为电脑管家官方下载-笔记本驱动更新 | 华为官网">华为电脑管家</a>命令：<代码>winget search Huawei.PCManager</代码><br>
-	<blockquote>华为电脑管家<a href="ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch" 标题="从 Microsoft Store 获取">S模式版</a>是华为公司自行研发的一款运行在Windows系统 S模式下的管家软件，提供玩机技巧、客户服务、FAQ等功能。仅支持华为电脑设备。<代码>ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch</代码> </blockquote>
-	如：查询 | edge浏览器命令：<代码>winget search edge</代码><br>
-	如：查询 | chrome浏览器命令：<代码>winget search google.chrome</代码><br>
-	如：升级 | edge浏览器命令：<代码>winget upgrade edge</代码><br>
-	如：升级 | chrome浏览器命令：<代码>winget upgrade google.chrome</代码><br>
-	</细节>
+	<code>winget source update</code>
+	</summary>
+	</details>
+	<details>
+    <summary>
+	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
+	     安装微软开发工具VSCode: <code>winget install Microsoft.VisualStudioCode </code><br>
+	</summary><br>
+	<code>winget install [[-q] \<query>] [\<选项>]</code><br><br>
+	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
+	如：安装企业微信:<code>winget install 企业微信 </code>或者：Tencent.WeChat | Tencent.wechat-work<br>
+	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
+	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
+	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
+	如：安装开源虚拟机 VirtualBox:<code>winget search Oracle.VirtualBox</code><br>
+	如：安装开源编辑器 Notepad++: <code>winget install Notepad++.Notepad++</code><br>
+	如：安装开源流程图绘制软件: <code>winget install Draw.io</code><br>
+	如：安装开源射手影音 SPlayer :<code>winget install Shooter.SPlayerX</code><br>
+	如：安装万能影音播放器 Spotify :<code>winget install Daum.PotPlayer</code><br>
+	如：安装开源播放器 VLC media player :<code>winget install VideoLAN.VLC</code><br>
+	如：安装音乐播放器 Spotify :<code>winget install Spotify.Spotify</code><br>
+	如：安装 BTSync:<code>winget install BitTorrent Sync --version 1.4.111</code><br>
+	如：安装赛风：<code>winget install Psiphon</code><br>
+	</details>
+	<blockquote>☞安装包文件下载存放路径：<code>C:\Users\%username%\AppData\Local\Temp\WinGet</code></blockquote>
+	<details>
+    <summary>
+	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/search">【2.1查找】search 命令 (winget)使用</a> | 查找360系列: <code>winget search 360 </code> || 查找金山系列: <code>winget search Kingsoft</code><br>
+	</summary><br>
+	如：查询 | <a href="https://consumer.huawei.com/cn/support/pc-manager/" 标题="华为电脑管家官方下载-笔记本驱动更新 | 华为官网">华为电脑管家</a>命令：<code>winget search Huawei.PCManager</code><br>
+	<blockquote>华为电脑管家<a href="ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch" 标题="从 Microsoft Store 获取">S模式版</a>是华为公司自行研发的一款运行在Windows系统 S模式下的管家软件，提供玩机技巧、客户服务、FAQ等功能。仅支持华为电脑设备。<code>ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch</code> </blockquote>
+	如：查询 | edge浏览器命令：<code>winget search edge</code><br>
+	如：查询 | chrome浏览器命令：<code>winget search google.chrome</code><br>
+	如：升级 | edge浏览器命令：<code>winget upgrade edge</code><br>
+	如：升级 | chrome浏览器命令：<code>winget upgrade google.chrome</code><br>
+	</details>
 			<br>	
-	<细节>
-    <摘要>	
-	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【3.升级】upgrade 命令 (winget)使用</a> | 升级所有应用: <代码>winget upgrade --all</代码>
-	</摘要> <br>
+	<details>
+    <summary>	
+	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【3.升级】upgrade 命令 (winget)使用</a> | 升级所有应用: <code>winget upgrade --all</code>
+	</summary> <br>
 	【示例1】将升级特定版本的应用程序:
-		<代码>winget upgrade powertoys --version 0.69.1</代码><br>
+		<code>winget upgrade powertoys --version 0.69.1</code><br>
 	【示例2】将根据应用程序 ID 升级相应的应用程序:
-	    <代码>winget upgrade --id Microsoft.PowerToys</代码><br>
+	    <code>winget upgrade --id Microsoft.PowerToys</code><br>
 	【示例3】升级所有应用:
-	<代码>winget upgrade --all</代码><br>	
-		程序包的版本号无法确定。使用 “<代码>--include-unknown</代码>”查看所有结果。<br>
-	</细节>	<br>	
-	<细节>
-    <摘要>
-	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【4.卸载】uninstall 命令 (winget)使用</a> | 卸载360安全卫士: <代码>winget uninstall 9NBLGGH419H3 </代码><br>
-		</摘要>
-		<代码>winget uninstall [[-q] \<query>] [\<选项>]</代码> <br>	
-	</细节>
+	<code>winget upgrade --all</code><br>	
+		程序包的版本号无法确定。使用 “<code>--include-unknown</code>”查看所有结果。<br>
+	</details>	<br>	
+	<details>
+    <summary>
+	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/uninstall">【4.卸载】uninstall 命令 (winget)使用</a> | 卸载360安全卫士: <code>winget uninstall 9NBLGGH419H3 </code><br>
+		</summary>
+		<code>winget uninstall [[-q] \<query>] [\<选项>]</code> <br>	
+	</details>
 	<br>
-	<细节>
-    <摘要>
+	<details>
+    <summary>
 	【Help】WinGet 命令行实用工具可从命令行安装应用程序和其他程序包。
 <br>
 <blockquote>使用情况: winget [<命令>] [<选项>]</blockquote>
@@ -281,7 +280,7 @@ Add-AppxPackage $latestWingetMsixBundle
 </ul>
 <h2 id="scripting-winget">编写 winget 脚本</h2>
 <p>可以编写批处理脚本和 PowerShell 脚本来安装多个应用程序。</p>
-<pre><code class="lang-CMD">@echo off  
+<pre><代码 class="lang-CMD">@echo off  
 Echo Install Powertoys and Terminal  
 REM Powertoys  
 winget install Microsoft.Powertoys  
@@ -289,7 +288,7 @@ if %ERRORLEVEL% EQU 0 Echo Powertoys installed successfully.
 REM Terminal  
 winget install Microsoft.WindowsTerminal  
 if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
-</code></pre>
+</代码></pre>
 <div class="NOTE">
 <p>注意</p>
 <p>使用脚本时，<strong>winget</strong> 会按指定顺序启动应用程序。 当安装程序返回成功或失败时，<strong>winget</strong> 会启动下一个安装程序。 如果某个安装程序启动了另一进程，它可能会提前返回到 <strong>winget</strong>。 这会导致 <strong>winget</strong> 在上一个安装程序完成之前安装下一个安装程序。</p>
@@ -312,6 +311,6 @@ if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
 </ul>
 </div>
 </blockquote>
-</details>
-</details>
-<hr style="height:1px;width:35%;border:none;border-top:1px dashed #0066CC;" />
+</细节>
+</细节>
+<hr style="height:1px;width:35%;border:无;border-top:1px dashed #0066CC;" />
