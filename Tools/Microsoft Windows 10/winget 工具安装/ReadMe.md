@@ -36,6 +36,12 @@
 	<details>
     <summary>
 	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/search">【2.1查找】search 命令 (winget)使用</a> | 查找360系列: <code>winget search 360 </code> || 查找金山系列: <code>winget search Kingsoft</code><br>
+	  查找腾讯系列: <code>winget search Tencent</code> || 查找字节跳动/抖音系列: <code>winget search ByteDance</code><br>
+	  查找百度系列: <code>winget search Baidu</code> || 查找阿里巴巴系列: <code>winget search Alibaba</code><br>
+	  查找网易系列: <code>winget search NetEase</code> || 查找搜狐系列: <code>winget search Sohu </code><br>
+	  查找华为系列: <code>winget search Huawei</code> || 查找小米系列: <code>winget search Xiaomi</code><br>
+	  查找微软系列: <code>winget search Microsoft  </code> || 查找谷歌系列: <code>winget search Google </code> 
+	<br>
 	</summary><br>
 	如：查询 | <a href="https://consumer.huawei.com/cn/support/pc-manager/" 标题="华为电脑管家官方下载-笔记本驱动更新 | 华为官网">华为电脑管家</a>命令：<code>winget search Huawei.PCManager</code><br>
 	<blockquote>华为电脑管家<a href="ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch" 标题="从 Microsoft Store 获取">S模式版</a>是华为公司自行研发的一款运行在Windows系统 S模式下的管家软件，提供玩机技巧、客户服务、FAQ等功能。仅支持华为电脑设备。<code>ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch</code> </blockquote>
@@ -281,7 +287,7 @@ Add-AppxPackage $latestWingetMsixBundle
 </ul>
 <h2 id="scripting-winget">编写 winget 脚本</h2>
 <p>可以编写批处理脚本和 PowerShell 脚本来安装多个应用程序。</p>
-<pre><代码 class="lang-CMD">@echo off  
+<pre><code class="lang-CMD">@echo off  
 Echo Install Powertoys and Terminal  
 REM Powertoys  
 winget install Microsoft.Powertoys  
@@ -289,7 +295,7 @@ if %ERRORLEVEL% EQU 0 Echo Powertoys installed successfully.
 REM Terminal  
 winget install Microsoft.WindowsTerminal  
 if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
-</代码></pre>
+</code></pre>
 <div class="NOTE">
 <p>注意</p>
 <p>使用脚本时，<strong>winget</strong> 会按指定顺序启动应用程序。 当安装程序返回成功或失败时，<strong>winget</strong> 会启动下一个安装程序。 如果某个安装程序启动了另一进程，它可能会提前返回到 <strong>winget</strong>。 这会导致 <strong>winget</strong> 在上一个安装程序完成之前安装下一个安装程序。</p>
@@ -312,6 +318,6 @@ if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
 </ul>
 </div>
 </blockquote>
-</细节>
-</细节>
-<hr style="height:1px;width:35%;border:无;border-top:1px dashed #0066CC;" />
+</details>
+</details>
+<hr style="height:1px;width:35%;border:none;border-top:1px dashed #0066CC;" />
