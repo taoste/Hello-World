@@ -21,6 +21,7 @@
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
+	如：安装VMware虚拟机: <code>winget install VMware.WorkstationPro</code><br>
 	如：安装开源虚拟机 VirtualBox:<code>winget search Oracle.VirtualBox</code><br>
 	如：安装开源编辑器 Notepad++: <code>winget install Notepad++.Notepad++</code><br>
 	如：安装开源流程图绘制软件: <code>winget install Draw.io</code><br>
