@@ -41,8 +41,9 @@
 	  查找百度系列: <code>winget search Baidu</code> || 查找阿里巴巴系列: <code>winget search Alibaba</code><br>
 	  查找网易系列: <code>winget search NetEase</code> || 查找搜狐系列: <code>winget search Sohu </code><br>
 	  查找华为系列: <code>winget search Huawei</code> || 查找小米系列: <code>winget search Xiaomi</code><br>
-	  查找微软系列: <code>winget search Microsoft  </code> || 查找谷歌系列: <code>winget search Google </code> 
-	<br>
+	  查找微软系列: <code>winget search Microsoft</code> || 查找谷歌系列: <code>winget search Google </code> <br>
+	  查找特斯拉系列: <code>winget search tesla</code> || 查找维基百科: <code>winget search wikipedia</code> 
+	    <br>
 	</summary><br>
 	如：查询 | <a href="https://consumer.huawei.com/cn/support/pc-manager/" 标题="华为电脑管家官方下载-笔记本驱动更新 | 华为官网">华为电脑管家</a>命令：<code>winget search Huawei.PCManager</code><br>
 	<blockquote>华为电脑管家<a href="ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch" 标题="从 Microsoft Store 获取">S模式版</a>是华为公司自行研发的一款运行在Windows系统 S模式下的管家软件，提供玩机技巧、客户服务、FAQ等功能。仅支持华为电脑设备。<code>ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch</code> </blockquote>
