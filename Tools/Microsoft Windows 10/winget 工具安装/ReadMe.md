@@ -14,6 +14,7 @@
     <summary>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
 	     安装微软开发工具VSCode: <code>winget install Microsoft.VisualStudioCode </code><br>
+	     安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp </code><br>
 	</summary><br>
 	<code>winget install [[-q] \<query>] [\<选项>]</code><br><br>
 	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
