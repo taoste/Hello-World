@@ -9,7 +9,6 @@
 <li><a href="https://jingyan.baidu.com/article/5d368d1ec920c87e61c0574a.html">如何强制卸载edge浏览器-百度经验</a></li>
 命令代码：
 <blockquote>get-appxpackage *edge*</blockquote>
-<br>
 <hr style="height:1px;border:none;border-top:1px dashed #0066CC;" />
 <br>
 <details>
