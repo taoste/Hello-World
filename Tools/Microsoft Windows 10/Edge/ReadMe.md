@@ -2,6 +2,8 @@
 [🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)  / 
 [Microsoft Edge 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Edge)**
 
+<li><a href="https://www.catalog.update.microsoft.com/Search.aspx?q=Microsoft%20Edge-Stable%20Channel%20Version">【官网】微软更新目录</a></li>
+
 ------------------------------------------------------------------------------------------------------------------
 
 <li><a href="https://jingyan.baidu.com/article/5d368d1ec920c87e61c0574a.html">如何强制卸载edge浏览器-百度经验</a></li>
