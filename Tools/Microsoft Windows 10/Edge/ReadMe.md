@@ -10,7 +10,39 @@
 命令代码：
 <blockquote>get-appxpackage *edge*</blockquote>
 <br>
-<li><a href="https://answers.microsoft.com/zh-hans/microsoftedge/forum/all/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E6%96%B0/7172bdf6-9eb6-4f4c-a387-e003cc021aca">为什么最新版Microsoft edge无法卸载？ - Microsoft Community</a></li>
+<details>
+	<summary>
+      <a href="https://answers.microsoft.com/zh-hans/microsoftedge/forum/all/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E6%96%B0/7172bdf6-9eb6-4f4c-a387-e003cc021aca">为什么最新版Microsoft edge无法卸载？ - Microsoft Community</a>
+   </summary>
+   <p data-prewrap="true">您好！</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">非常欢迎您来微软技术支持社区咨询，</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">Microsoft Edge 浏览器是 Windows 操作系统内置的新版浏览器应用，属于内置应用，是无法在设置中直接卸载的。</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">如果您需要移除 Microsoft Edge 浏览器，您可以尝试以下方案进行操作：</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">1、查看你当前 Microsoft Edge 浏览器版本号，地址栏输入：edge://settings/help，查看当前版本，比如：</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">
+<a href="https://filestore.community.support.microsoft.com/api/images/d349d413-6c90-41cf-8908-f2f93e38d24b?upload=true&amp;fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2bfFBh2dqlqMuW7np3F6Utp%2fKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2fU3qhn545IgYUrp80qEKodWHhHWZuscjO0p%2b19ECUU4cI%2bZUSf6Lmadw3KUSfGbjd7dNHju6uAjLgs9oSqbd10559Jpvfs7yYLVU0cS6D3c1MmosSG25iiXXdPbNFFnc%2bgWx7BY0QsOyH5yGxOBCWioOBKdfRfjHtm6dBZ8CZN7QuCDuXBqvU3%2bwy8Q318Uo96OSBcXFc9QZT5B4V6mih%2fRAysv48DtBBeANFAanGCpaFyxGkSSzeqeEjK8kFJk%2bfg9e3Bg93H%2b8sG%2b9TOF4MtXMJysTTYDJEsTfZvrA%2fcqmpoKwDso%3d" class="ans-image-link" target="_blank" rel="noopener noreferrer nofollow" title="filestore.community.support.microsoft.com">
+<img src="https://filestore.community.support.microsoft.com/api/images/d349d413-6c90-41cf-8908-f2f93e38d24b?upload=true&amp;fud_access=wJJIheezUklbAN2ppeDns8cDNpYs3nCYjgitr%2bfFBh2dqlqMuW7np3F6Utp%2fKMltnRRYFtVjOMO5tpbpW9UyRAwvLeec5emAPixgq9ta07Dgnp2aq5eJbnfd%2fU3qhn545IgYUrp80qEKodWHhHWZuscjO0p%2b19ECUU4cI%2bZUSf6Lmadw3KUSfGbjd7dNHju6uAjLgs9oSqbd10559Jpvfs7yYLVU0cS6D3c1MmosSG25iiXXdPbNFFnc%2bgWx7BY0QsOyH5yGxOBCWioOBKdfRfjHtm6dBZ8CZN7QuCDuXBqvU3%2bwy8Q318Uo96OSBcXFc9QZT5B4V6mih%2fRAysv48DtBBeANFAanGCpaFyxGkSSzeqeEjK8kFJk%2bfg9e3Bg93H%2b8sG%2b9TOF4MtXMJysTTYDJEsTfZvrA%2fcqmpoKwDso%3d" alt="图片" />
+</a>
+</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">2、打开 Windows 资源管理器，定位到：C:\Program Files (x86)\Microsoft\Edge\Application，</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">3、再打开对应版本的文件夹，再打开“Installer”文件夹，找到并选中“setup.exe”，</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">4、点击左上角“文件”，选择以管理员身份运行 Windows Power Shell，</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">5、键入命令：<span style="text-align: justify">.\setup.exe -uninstall -system-level -verbose-logging -force-uninstall，执行后即可完成 </span>Microsoft Edge 浏览器的卸载。</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">免责声明：Microsoft Edge 是 Microsoft 推荐的 web 浏览器，并且是 Windows 的默认 web 浏览器。 由于 Windows 支持依赖于 web 平台的应用程序，因此我们的默认 web 浏览器是操作系统的基本组件，卸载Edge可能会影响系统。</p>
+<p data-prewrap="true" />
+<p data-prewrap="true">当您需要再次安装 Microsoft Edge 浏览器时，可以通过应用商店直接获取下载安装即可。</p>
+</details>
+
 <br>
 👇微软Edge浏览器用户数据保存位置（包括插件，历史记录，Cookie等）<br>
 C:\Users\\%username%\AppData\Local\Microsoft\Edge\User Data\Default\Extensions<br>
