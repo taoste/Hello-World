@@ -4,6 +4,10 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
+<li><a href="https://jingyan.baidu.com/article/5d368d1ec920c87e61c0574a.html">如何强制卸载edge浏览器-百度经验</a></li>
+命令代码：
+<blockquote>get-appxpackage *edge*</blockquote>
+
 👇微软Edge浏览器用户数据保存位置（包括插件，历史记录，Cookie等）<br>
 C:\Users\\%username%\AppData\Local\Microsoft\Edge\User Data\Default\Extensions<br>
 <br>
