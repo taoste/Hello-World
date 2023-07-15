@@ -42,8 +42,8 @@
 <p data-prewrap="true">免责声明：Microsoft Edge 是 Microsoft 推荐的 web 浏览器，并且是 Windows 的默认 web 浏览器。 由于 Windows 支持依赖于 web 平台的应用程序，因此我们的默认 web 浏览器是操作系统的基本组件，卸载Edge可能会影响系统。</p>
 <p data-prewrap="true" />
 <p data-prewrap="true">当您需要再次安装 Microsoft Edge 浏览器时，可以通过应用商店直接获取下载安装即可。</p>
-<hr style="height:1px;border:none;border-top:1px dashed #0066CC;" />
 </details>
+<hr style="height:1px;border:none;border-top:1px dashed #0066CC;" />
 
 <br>
 👇微软Edge浏览器用户数据保存位置（包括插件，历史记录，Cookie等）<br>
