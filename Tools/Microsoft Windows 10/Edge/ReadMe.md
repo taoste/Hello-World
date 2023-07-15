@@ -8,6 +8,8 @@
 命令代码：
 <blockquote>get-appxpackage *edge*</blockquote>
 
+<li><a href="https://answers.microsoft.com/zh-hans/microsoftedge/forum/all/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E6%96%B0/7172bdf6-9eb6-4f4c-a387-e003cc021aca">为什么最新版Microsoft edge无法卸载？ - Microsoft Community</a></li>
+
 👇微软Edge浏览器用户数据保存位置（包括插件，历史记录，Cookie等）<br>
 C:\Users\\%username%\AppData\Local\Microsoft\Edge\User Data\Default\Extensions<br>
 <br>
