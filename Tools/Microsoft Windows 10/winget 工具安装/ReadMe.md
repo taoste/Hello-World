@@ -20,6 +20,7 @@
 	</summary><br>
 	<code>winget install [[-q] \<query>] [\<选项>]</code><br><br>
 	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
+	如：安装 Discord 游戏聊天应用与社区通讯工具:<code>winget install Discord.Discord</code><br>
 	如：安装企业微信:<code>winget install 企业微信 </code>或者：Tencent.WeChat | Tencent.wechat-work<br>
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
