@@ -14,16 +14,16 @@
     <summary>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
 	     安装<strong>微软开发工具VSCode</strong>: <code>winget install Microsoft.VisualStudioCode </code><br>
+	     <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
+	    <br>
 	     安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp</code><br> 
 	     <details><summary>安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> </summary>
-	     t.me/warpplus 许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E</details>
-	    <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
-	    <br>
+	     t.me/warpplus 许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E<br></details>	   
 	</summary><br>
 	<code>winget install [[-q] \<query>] [\<选项>]</code><br><br>
 	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
 	如：安装 Discord 游戏聊天应用与社区通讯工具:<code>winget install Discord.Discord</code><br>
-	如：安装企业微信:<code>winget install 企业微信 </code>或者：Tencent.WeChat | Tencent.wechat-work<br>
+	如：安装企业微信:<code>winget install 企业微信 </code>或者：<code>Tencent.WeChat | Tencent.wechat-work</code><br>
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
