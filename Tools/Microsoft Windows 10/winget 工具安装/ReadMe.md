@@ -13,12 +13,13 @@
 	<details>
     <summary>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
-	     安装<strong>微软开发工具VSCode</strong>: <code>winget install Microsoft.VisualStudioCode </code><br>
-	     <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
-	    <br>
-	     安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp</code><br> 
-	     <details><summary>安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> </summary>
-	     t.me/warpplus 许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E<br></details>	   
+	     安装<strong>微软开发工具VSCode</strong>: <code>winget install Microsoft.VisualStudioCode </code><br>	     
+	     <details>
+		     <summary>安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp</code><br> </summary>
+		     <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
+	            <br>
+		      t.me/warpplus 使用许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E<br></details>	   
+	     安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> 	    
 	</summary><br>
 	<code>winget install [[-q] \<query>] [\<选项>]</code><br><br>
 	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
