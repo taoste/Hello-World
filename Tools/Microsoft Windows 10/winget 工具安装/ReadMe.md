@@ -15,6 +15,8 @@
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
 	     安装<strong>微软开发工具VSCode</strong>: <code>winget install Microsoft.VisualStudioCode </code><br>
 	     安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp</code><br> 
+	     <details><summary>安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> </summary>
+	     t.me/warpplus 许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E</details>
 	    <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
 	    <br>
 	</summary><br>
@@ -26,6 +28,7 @@
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
 	如：安装VMware虚拟机: <code>winget install VMware.WorkstationPro</code><br>
+        如：安装微软官方开源效率工具： <code>winget install Microsoft.PowerToys</code><br>
 	如：安装开源虚拟机 VirtualBox:<code>winget search Oracle.VirtualBox</code><br>
 	如：安装开源编辑器 Notepad++: <code>winget install Notepad++.Notepad++</code><br>
 	如：安装开源流程图绘制软件: <code>winget install Draw.io</code><br>
@@ -33,8 +36,18 @@
 	如：安装万能影音播放器 Spotify :<code>winget install Daum.PotPlayer</code><br>
 	如：安装开源播放器 VLC media player :<code>winget install VideoLAN.VLC</code><br>
 	如：安装音乐播放器 Spotify :<code>winget install Spotify.Spotify</code><br>
-	如：安装 BTSync:<code>winget install BitTorrent Sync --version 1.4.111</code><br>
+	如：安装 BTSync:<code>winget install "BitTorrent Sync" --version 1.4.111</code><br>
+	如：安装开源SSH连接工具PuTTY:<code>winget install PuTTY.PuTTY</code><br>
+	如：安装开源SFTP文件传输工具:<code>winget install WinSCP.WinSCP</code><br>
+	如：安装内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网:<code>winget install ZeroTier.ZeroTierOne</code><br>
 	如：安装赛风：<code>winget install Psiphon</code><br>
+	如：安装开源解压工具：<code>winget install 7-Zip</code><br>
+        如：安装开源卸载工具：<code>winget install BCUninstaller</code><br>
+        如：安装开源远程桌面软件：<code>winget install RustDesk</code><br>
+        如：安装开源直播软件OBS：<code>winget install OBSProject.OBSStudio</code><br>
+        如：安装 IDM 下载工具：<code>winget install Tonec.InternetDownloadManager</code><br>
+        如：安装文件搜索工具：<code>winget install voidtools.Everything</code><br>
+        如：安装FastStone Capture 体积小但功能齐全的屏幕截图和屏幕录像软件：<code>winget install FastStone.Capture</code><br>
 	</details>
 	<blockquote>☞安装包文件下载存放路径：<code>C:\Users\%username%\AppData\Local\Temp\WinGet</code></blockquote>
 	<details>
