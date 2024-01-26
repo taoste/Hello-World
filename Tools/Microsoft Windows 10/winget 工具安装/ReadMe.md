@@ -75,6 +75,10 @@
 	<details>
     <summary>	
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/upgrade">【3.升级】upgrade 命令 (winget)使用</a> | 升级所有应用: <code>winget upgrade --all</code>
+     <br>
+     设定不更新指定软件包 | 如WPS国际版 : <code>winget pin add Kingsoft.WPSOffice -v 12.2.0.13431</code> <br>
+     查看包钉·列表 : <code>winget pin list</code><br>
+     --参考资料：<a href="https://www.sujx.net/2023/06/30/powershell-winget/index.html">使用winget实现软件管理 | 靖轩</a>
 	</summary> <br>
 	【示例1】将升级特定版本的应用程序:
 		<code>winget upgrade powertoys --version 0.69.1</code><br>
