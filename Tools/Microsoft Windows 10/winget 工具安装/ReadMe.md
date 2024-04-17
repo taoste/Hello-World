@@ -45,6 +45,7 @@ winget import "D:/winget-app.json"</code><br>
 	如：安装开源射手影音 SPlayer :<code>winget install Shooter.SPlayerX</code><br>
 	如：安装万能影音播放器 Spotify :<code>winget install Daum.PotPlayer</code><br>
 	如：安装开源播放器 VLC media player :<code>winget install VideoLAN.VLC</code><br>
+	如：安装<B>开源影音中心 Kodi</B> （XBMC） :<code>winget install --id XBMCFoundation.Kodi</code><br> 
 	如：安装音乐播放器 Spotify :<code>winget install Spotify.Spotify</code><br>
 	如：安装 BTSync:<code>winget install "BitTorrent Sync" --version 1.4.111</code><br>
 	如：安装开源SSH连接工具PuTTY:<code>winget install PuTTY.PuTTY</code><br>
