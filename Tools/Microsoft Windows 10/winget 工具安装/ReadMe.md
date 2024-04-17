@@ -9,6 +9,14 @@
 	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/source">【1.更新软件源】winget source 命令</a> | 更新所有源:
 	<code>winget source update</code>
 	</summary>
+		更新所有源 && 升级所有应用: <code>winget source update && winget upgrade --all</code>
+		<br><br>
+	【导出与导入】<br><br>
+导出命令为： <code>winget export "D:/winget-app.json"</code><br>
+导入的话与导出类似，也是输入命令行并指定文件路径即可
+： <code>
+winget import "D:/winget-app.json"</code><br>
+<br>
 	</details>
 	<details>
     <summary>
