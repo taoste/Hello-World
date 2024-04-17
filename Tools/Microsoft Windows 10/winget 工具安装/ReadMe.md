@@ -141,7 +141,44 @@
 		</p></blockquote>	
 		</details>
 	</summary> 
-	</details>
+<details>
+<summary>	
+	<a href="https://learn.microsoft.com/zh-cn/windows/package-manager/winget/settings" title="settings 命令 | Microsoft Learn">	
+	【5.设置winget】 settings 命令 (winget)使用</a> | 启动默认的 JSON 编辑工具：: <code>winget settings</code><br><br>
+</summary>
+<blockquote>
+	<li><a href="https://www.lifeee.top/posts/36943.html">包管理器 winget 使用指南</a> | 热夏的博客（发表于 2021-06-13  更新于 2022-11-15）</li><br>
+	<h2>设置winget</h2><br>
+	<blockquote>winget settings 打开 winget 的设置 json 文件进行配置，有需求的话可以在官方 <a href="https://github.com/microsoft/winget-cli/blob/master/doc/Settings.md">winget-cli/doc/Settings.md at master · microsoft/winget-cli</a> 这里看看怎么配置 .
+	</blockquote>
+<br>
+如果想要更改 winget 显示的进度条视觉效果，可以 输入 winget settings 后在setting.json里增加：
+	<blockquote>
+	<code>
+	"visual": {<br>
+       "progressBar": "rainbow"<br>
+        // 三种样式可选：accent(默认值)、 retro(复古)、 rainbow(彩虹条)<br>
+},<br>
+	</code>
+	</blockquote>
+	完整的json为:
+	<blockquote>
+	<code>
+	{<br>
+    // For documentation on these settings, see: https://aka.ms/winget-settings<br>
+    // "source": {<br>
+    //    "autoUpdateIntervalInMinutes": 5<br>
+    // },<br>
+    "visual": {<br>
+          "progressBar": "rainbow"<br>
+         // 三种样式可选：accent(默认值)、 retro、 rainbow<br>
+},<br>
+}<br>
+	</code>
+	</blockquote>
+	</blockquote>
+</details>
+</details>
 <details>
     <summary>了解更多👇</summary>
 	<blockquote>
