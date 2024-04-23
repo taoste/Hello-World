@@ -1,5 +1,9 @@
 💗  <a style="color:#ffffff;" href="https://go.choong.net/nav/#downloads" title="工具导航">P2P工具</a> ：“棱镜杀手”比特信（Bitmessage）火起来了 / 🎦 [**关于BT种子及下载工具**](https://github.com/taoste/Hello-World/blob/master/Tools/P2P%E5%B7%A5%E5%85%B7/BT.md)  
 
+﻿<b>magnet:?xt= - Twitter 搜索</b><br>
+<a href="https://twitter.com/search?q=magnet%3A%3Fxt%3D&src=typd&lang=zh-cn">https://twitter.com/search?q=magnet%3A%3Fxt%3D&src=typd&lang=zh-cn</a>
+<br>
+
 -----------------------------------------------------------
 
 
