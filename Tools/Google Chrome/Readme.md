@@ -37,12 +37,13 @@ chrome://settings/performance
 <li><a href="https://twitter.com/daboluo_net/status/1787882304469340197"> X 上的 Dennis Yang：</a></li>
 ```
 “分享一个chrome浏览器的实时字幕功能，你在浏览器里听到的声音可以自动显示字幕，方便听一些英语直播，应该还能实时翻译成中文，大家可以试下。
- 1.地址栏输入chrome://flags 
- 2.搜索框输入Live caption 
- 3.右边的下拉框选择enabled 
- 4.找到浏览器右上角三个点，点“设置”或者chrome://settings/accessibility 
- 5.找到 “无障碍” 
- 6.打开 “实时字幕” https://t.co/ldFzfm7FDb”
+ 1.地址栏输入chrome://flags <br>
+ 2.搜索框输入Live caption <br>
+ 3.右边的下拉框选择enabled <br>
+ 4.找到浏览器右上角三个点，点“设置”或者chrome://settings/accessibility <br>
+ 5.找到 “无障碍” <br>
+ 6.打开 “实时字幕” https://t.co/ldFzfm7FDb”<br>
+ <img str="https://twitter.com/daboluo_net/status/1787882304469340197/photo/2">
 ```
 -------------------------------------------
 
