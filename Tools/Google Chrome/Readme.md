@@ -42,8 +42,8 @@ chrome://settings/performance
  3.右边的下拉框选择enabled <br>
  4.找到浏览器右上角三个点，点“设置”或者chrome://settings/accessibility <br>
  5.找到 “无障碍” <br>
- 6.打开 “实时字幕” https://t.co/ldFzfm7FDb”<br>
- <img str="https://twitter.com/daboluo_net/status/1787882304469340197/photo/2">
+ 6.打开 “实时字幕” 如图所示 https://t.co/ldFzfm7FDb”<br>
+ <img src="https://camo.githubusercontent.com/57f42343ceecba01f64214089d51cce6cfe6f06c4e1e4adb341d60d9aa466a83/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f474d5f55325055617341414736626e3f666f726d61743d6a7067266e616d653d6d656469756d">
 ```
 -------------------------------------------
 
