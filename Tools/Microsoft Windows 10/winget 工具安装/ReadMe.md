@@ -35,6 +35,9 @@ winget import "D:/winget-app.json"</code><br>
 	如：安装 Discord 游戏聊天应用与社区通讯工具:<code>winget install Discord.Discord</code><br>
 	如：安装企业微信:<code>winget install 企业微信 </code>或者：<code>Tencent.WeChat | Tencent.wechat-work</code><br>
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
+	如：查找【金山WPS】：<code>winget search Kingsoft.WPSOffice</code><br>
+                   安装金山WPS（国际版）：<code>winget install Kingsoft.WPSOffice</code><br>
+                   安装金山WPS（中国版）：<code>winget install Kingsoft.WPSOffice.CN</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
 	如：安装VMware虚拟机: <code>winget install VMware.WorkstationPro</code><br>
