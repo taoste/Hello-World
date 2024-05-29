@@ -23,6 +23,7 @@ winget import "D:/winget-app.json"</code><br>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
 	     安装<strong>微软开发工具VSCode</strong>: <code>winget install Microsoft.VisualStudioCode </code><br>
 	     <a href="https://github.com/FastCopyLab/FastCopyDist2/raw/main/FastCopy5.4.3_installer.exe">安装</a><strong><a href="https://github.com/FastCopyLab/FastCopyDist2">FastCopy</a>(文件快速复制增强工具) Pro</strong>: <code>winget source update && winget install FastCopy.FastCopy</code><br>
+	    # 安装<strong>MSN 天气</strong>: <code>winget install Microsoft.BingWeather_8wekyb3d8bbwe</code><br> 
 	     <details>
 		     <summary>安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp</code><br> </summary>
 		     <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
@@ -35,11 +36,15 @@ winget import "D:/winget-app.json"</code><br>
 	如：安装 Discord 游戏聊天应用与社区通讯工具:<code>winget install Discord.Discord</code><br>
 	如：查找【Skype】：<code>winget search skype</code><br>
                    安装（Skype）：<code>winget install Microsoft.Skype</code><br>
-	如：安装企业微信:<code>winget install 企业微信 </code>或者：<code>Tencent.WeChat | Tencent.wechat-work</code><br>
+	如：安装<strong>腾讯微信</strong>:<code>Tencent.WeChat</code><br>
+	如：安装 <strong>企业微信 </strong>:<code>winget install 企业微信 </code>或者：<code>winget install Tencent.WeCom</code> | <code><s>Tencent.wechat-work</s></code><br>
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
+	如：安装 <strong>腾讯QQ </strong>：<code>winget install Tencent.QQ</code><br>
+	如：#查找和安装【迅雷】下载工具: <code>winget show Thunder.Thunder</code><br><code>winget install Thunder.Thunder</code><br>
 	如：查找【金山WPS】：<code>winget search Kingsoft.WPSOffice</code><br>
                    安装金山WPS（国际版）：<code>winget install Kingsoft.WPSOffice</code><br>
                    安装金山WPS（中国版）：<code>winget install Kingsoft.WPSOffice.CN</code><br>
+	如：安装 <strong>剪映专业版 </strong>:<code>winget install ByteDance.JianyingPro</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
 	如：安装VMware虚拟机: <code>winget install VMware.WorkstationPro</code><br>
@@ -83,7 +88,9 @@ winget import "D:/winget-app.json"</code><br>
 	如：查询 | edge浏览器命令：<code>winget search edge</code><br>
 	如：查询 | chrome浏览器命令：<code>winget search google.chrome</code><br>
 	如：升级 | edge浏览器命令：<code>winget upgrade edge</code><br>
+	如：升级 | Edge最新版本比如：v125.0.2535.51 ：<code>winget upgrade Microsoft.Edge --version 125.0.2535.51 </code><br> 
 	如：升级 | chrome浏览器命令：<code>winget upgrade google.chrome</code><br>
+	如：升级 | 腾讯五笔输入法最新版本：<code>winget upgrade Tencent.QQWubi --version 2.4</code><br>
 	</details>
 			<br>	
 	<details>
