@@ -78,7 +78,7 @@ winget import "D:/winget-app.json"</code><br>
 	如：安装内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网:<code>winget install ZeroTier.ZeroTierOne</code><br>
 	如：安装赛风：<code>winget install Psiphon</code><br>
 	如：安装开源解压工具：<code>winget install 7-Zip</code><br>
-        如：安装开源卸载工具：<code>winget install BCUninstaller</code><br>
+        如：安装<strong>开源卸载工具</strong>：<code>winget install BCUninstaller</code><br>
         如：安装开源远程桌面软件：<code>winget install RustDesk</code><br>
         如：安装开源直播软件OBS：<code>winget install OBSProject.OBSStudio</code><br>
         如：安装 IDM 下载工具：<code>winget install Tonec.InternetDownloadManager</code><br>
