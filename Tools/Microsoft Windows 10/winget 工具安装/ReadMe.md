@@ -20,7 +20,7 @@ winget import "D:/winget-app.json"</code><br>
 	</details>
 	<details>
     <summary>
-	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install 微信 </code><br>
+	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install Tencent.WeChat</code> | 升级微信: <code>winget upgrade Tencent.WeChat</code><br>
 	     安装<strong>微软开发工具VSCode</strong>: <code>winget install Microsoft.VisualStudioCode </code><br>
 	     <a href="https://github.com/FastCopyLab/FastCopyDist2/raw/main/FastCopy5.4.3_installer.exe">安装</a><strong><a href="https://github.com/FastCopyLab/FastCopyDist2">FastCopy</a>(文件快速复制增强工具) Pro</strong>: <code>winget source update && winget install FastCopy.FastCopy</code><br>
 	    # 安装<strong>MSN 天气</strong>: <code>winget install Microsoft.BingWeather_8wekyb3d8bbwe</code><br> 
@@ -28,6 +28,10 @@ winget import "D:/winget-app.json"</code><br>
 		     <summary>安装<a href="https://1.1.1.1/">Cloudflare WARP</a>: <code>winget install Cloudflare.Warp</code><br> </summary>
 		     <strong>显示安装包</strong><a href="https://one.one.one.one/">Cloudflare WARP</a>: <code>winget show Cloudflare.warp</code>
 	            <br>
+		    #升级Cloudflare WARP: <code>winget upgrade Cloudflare.Warp</code>
+		     <br> 	
+		    #卸载Cloudflare WARP: <code>winget uninstall Cloudflare.Warp</code>
+		     <br> 	 
 		      t.me/warpplus 使用许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E<br></details>	   
 	     安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> 	    
 	</summary><br>
@@ -36,11 +40,22 @@ winget import "D:/winget-app.json"</code><br>
 	如：安装 Discord 游戏聊天应用与社区通讯工具:<code>winget install Discord.Discord</code><br>
 	如：查找【Skype】：<code>winget search skype</code><br>
                    安装（Skype）：<code>winget install Microsoft.Skype</code><br>
-	如：安装<strong>腾讯微信</strong>:<code>Tencent.WeChat</code><br>
+	如：安装<strong>腾讯微信</strong>:<code>winget install Tencent.WeChat</code>  | 升级微信: <code>winget upgrade Tencent.WeChat</code><br>
 	如：安装 <strong>企业微信 </strong>:<code>winget install 企业微信 </code>或者：<code>winget install Tencent.WeCom</code> | <code><s>Tencent.wechat-work</s></code><br>
+		升级<strong>企业微信 </strong>:<code>winget upgrade Tencent.WeCom</code><br>
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
 	如：安装 <strong>腾讯QQ </strong>：<code>winget install Tencent.QQ</code><br>
 	如：#查找和安装【迅雷】下载工具: <code>winget show Thunder.Thunder</code><br><code>winget install Thunder.Thunder</code><br>
+	如：#查找百度网盘: <code>winget show 百度网盘</code><br>
+		找到多个与输入条件匹配的程序包。请修改输入。<br>
+		名称     ID                 源<br>
+		-----------------------------------<br>
+		百度网盘 XP9CXM3N2B06J1     msstore<br>
+		百度网盘 Baidu.BaiduNetdisk winget<br>
+	如：#安装 百度网盘: <code>winget install Baidu.BaiduNetdisk</code><br>
+#安装 阿里云盘: <code>winget install Alibaba.aDrive</code><br>
+#安装 夸克网盘: <code>winget install Alibaba.QuarkCloudDrive</code><br>
+#安装 酷狗音乐 : <code>winget install KuGou.KGMusic</code><br>
 	如：查找【金山WPS】：<code>winget search Kingsoft.WPSOffice</code><br>
                    安装金山WPS（国际版）：<code>winget install Kingsoft.WPSOffice</code><br>
                    安装金山WPS（中国版）：<code>winget install Kingsoft.WPSOffice.CN</code><br>
