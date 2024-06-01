@@ -17,6 +17,7 @@
 ： <code>
 winget import "D:/winget-app.json"</code><br>
 <br>
+【下载与更新】临时存储文件夹路径： <code>%LOCALAPPDATA%\temp\WinGet</code><br>
 	</details>
 	<details>
     <summary>
