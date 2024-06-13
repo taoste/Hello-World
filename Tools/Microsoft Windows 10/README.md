@@ -23,6 +23,26 @@
 <li><a href="https://support.microsoft.com/zh-cn/rss-feed-picker">RSS/Feed 源选取器 - Microsoft 支持</a></li>
 <blockquote>view-source:<a href="https://ntp.msn.cn/edge/ntp?cm=zh-cn&segment=traffic&scenario=traffic&ocid=widgetonlockscreen">Edge·新标签页</a> edge://new-tab-page/<br>
 view-source:<a href="chrome://new-tab-page/">Chrome·新标签页</a> chrome://new-tab-page/</blockquote>
+-------------------------------------------------
+
+<li><a href="https://www.dians.net/thread-786.htm">安装 Windows 11 前重要一步！先把正版激活码保存下来</a></li>
+【命令提示符查看】
+<blockquote>产品密钥怎么找呢？我们可以用管理员身份运行「命令提示符」。<br>
+<br>
+执行以下命令：“wmic path softwarelicensingservice get OA3xOriginalProductKey”就能看到自己的「原始产品密钥」。<br>
+（不过这个命令只在许可证类型为 OEM 时才有效，一般来说就是购买的品牌笔记本或品牌机。）
+</blockquote>
+【注册表查看】
+<blockquote>安装 Windows 11 即便没有「原始产品密钥」，还有一个「备份产品密钥」，可以在注册表中查看。<br>
+<br>
+Win + R 运行 Regedit 打开注册表编辑器。找到：<br>
+<br>
+“HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform”<br>
+<br>
+右侧的 BackupProductKeyDefault 值就是你的「备份产品密钥」。
+</blockquote>
+需要注意的是，即便保存了产品密钥，安装 Windows 11 之后也不一定能够再次激活系统，因为一些密钥（破解器、激活码）是有使用次数限制的，这些情况就只能另寻办法激活系统了。<br>
+激活方法可以在「电手」公众号的菜单 - 使用码 - 系统必备 中查看。
 
 -------------------------------------------------
 <details>
