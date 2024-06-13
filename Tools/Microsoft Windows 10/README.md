@@ -18,6 +18,12 @@
 地址：https://www.microsoft.com/store/productId/9PL5G8NRZ3FZ
 </blockquote>
    
+<li><a href="https://support.microsoft.com/zh-cn/windows/%E8%AE%A9%E7%94%B5%E8%84%91%E5%85%A8%E6%96%B0%E5%90%AF%E5%8A%A8-0ef73740-b927-549b-b7c9-e6f2b48d275e">让电脑全新启动 - Microsoft 支持</a></li>
+<blockquote>ms-settings:recovery</blockquote>
+<li><a href="https://support.microsoft.com/zh-cn/rss-feed-picker">RSS/Feed 源选取器 - Microsoft 支持</a></li>
+<blockquote>view-source:<a href="https://ntp.msn.cn/edge/ntp?cm=zh-cn&segment=traffic&scenario=traffic&ocid=widgetonlockscreen">Edge·新标签页 edge://new-tab-page/</a><br>
+view-source:<a href="chrome://new-tab-page/">Chrome·新标签页</a> chrome://new-tab-page/</blockquote>
+
 -------------------------------------------------
 <details>
     <summary><a href="https://support.microsoft.com/zh-cn/topic/%E4%BD%BF%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5%E5%99%A8%E5%B7%A5%E5%85%B7%E4%BF%AE%E5%A4%8D%E4%B8%A2%E5%A4%B1%E6%88%96%E6%8D%9F%E5%9D%8F%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6-79aa86cb-ca52-166a-92a3-966e85d4094e">使用系统文件检查器工具修复丢失或损坏的系统文件 - Microsoft 支持</a></summary> 
