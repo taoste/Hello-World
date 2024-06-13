@@ -21,7 +21,7 @@
 <li><a href="https://support.microsoft.com/zh-cn/windows/%E8%AE%A9%E7%94%B5%E8%84%91%E5%85%A8%E6%96%B0%E5%90%AF%E5%8A%A8-0ef73740-b927-549b-b7c9-e6f2b48d275e">让电脑全新启动 - Microsoft 支持</a></li>
 <blockquote>ms-settings:recovery</blockquote>
 <li><a href="https://support.microsoft.com/zh-cn/rss-feed-picker">RSS/Feed 源选取器 - Microsoft 支持</a></li>
-<blockquote>view-source:<a href="https://ntp.msn.cn/edge/ntp?cm=zh-cn&segment=traffic&scenario=traffic&ocid=widgetonlockscreen">Edge·新标签页 edge://new-tab-page/</a><br>
+<blockquote>view-source:<a href="https://ntp.msn.cn/edge/ntp?cm=zh-cn&segment=traffic&scenario=traffic&ocid=widgetonlockscreen">Edge·新标签页</a>edge://new-tab-page/<br>
 view-source:<a href="chrome://new-tab-page/">Chrome·新标签页</a> chrome://new-tab-page/</blockquote>
 
 -------------------------------------------------
