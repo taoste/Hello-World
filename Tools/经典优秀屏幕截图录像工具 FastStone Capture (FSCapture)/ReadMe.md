@@ -1,5 +1,24 @@
 【[搜](https://www.upyunso.com/search.html?page=1&keyword=FastStone%20Capture)】经典优秀屏幕截图录像工具 FastStone Capture (FSCapture) 绿色汉化中文版
 
+<table>
+   <tbody>
+       <tr>
+         <td>FastStone.Capture+注册码 - 搜索</td>
+         <td>https://cn.bing.com/search?q=FastStone.Capture%2B注册码</td>
+      </tr>
+      <tr>
+         <td>FastStone Capture(FSCapture)注册码-百度开发者中心</td>
+         <td>https://developer.baidu.com/article/details/2715643</td>
+      </tr>
+   </tbody>
+  </table>
+  以下是一些可用的FastStone Capture注册码：<br>
+企业版序列号：用户名：bluman，注册码：VPISCJULXUFGDDXYAUYF<br>
+用户名：TEAM JiOO，注册码：CPCWXRVCZW30HMKE8KQQUXW<br>
+用户名:TEAM_BRAiGHTLiNG_2007，注册码：XPNMF-ISDYF-LCSED-BPATU 或 RPTME-IMDHD-MIEPX-VLXAW<br>
+用户名：1028，注册码：AXJQI-RWMDW-YBXZC-LOPHI
+
+
 ------------------------------------------------------------------------------------
 
 - 自用工具 | FastStone Capture中文汉化版V9.7 含注册码 - 乐云主机笔记
