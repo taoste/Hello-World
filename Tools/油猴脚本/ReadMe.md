@@ -104,6 +104,10 @@
 
 >> 很多时候，我们并不知道一些网站是否有用户提供用来优化页面的脚本，而**Userscript+** 就能帮你自动寻找适用的UserJS，并默认按照评分高低排序推荐给你,给你带来一种全新的`Tampermonkey`使用体验！
 
+- 《[**网页限制解除(改)**](https://greasyfork.org/zh-CN/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9#google_vignette)》
+
+>> 通杀大部分网站,可以解除禁止复制、剪切、选择文本、右键菜单的限制。原作者[**cat73**(https://github.com/Cat7373/remove-web-limits),因为[**和搜索跳转脚本冲突**](https://cat7373.github.io/remove-web-limits/),遂进行了改动。
+
 - 《[**18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键**](https://www.appinn.com/h5player-video-control-greasemonkey/)[[油猴脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)/[Github](https://github.com/xxxily/h5player)]》 - 小众软件
 
 >> 这是一款叫做 HTML5视频播放器增强脚本 的油猴脚本，可以为在线视频播放添加多达 18 项辅助功能，包括倍速、画中画、截图、亮度调节、逐帧播放、画面移动、播放进度保存等功能，全程快捷键操作，非常高能。@Appinn
