@@ -163,7 +163,10 @@ Tor Browser 更新日志：view-source:**about:tbupdate**
 > 
 > **2.电子邮件自动回复方式**
 > 发送电子邮件至 bridges@torproject.org，并且正文中需包含“get bridges” 这两个单词（如需获取 obfs3 网桥，请写“get transport obfs3”）。为了防止封锁者大量获取网桥地址，发送网桥请求邮件必须使用以下网站的电子邮箱 （按推荐度由高到低排列）。https://www.riseup.net ， https://mail.google.com 或者 https://mail.yahoo.com
-
+> 
+> **3.[来和我们现场交流！](https://support.torproject.org/zh-CN/get-in-touch/)**
+> 加入我们的 IRC 频道 [https://webchat.oftc.net/?channels=tor](https://webchat.oftc.net/?channels=tor)
+> 
 - [报告 Bug](https://trac.torproject.org/projects/tor/newticket?component=BridgeDB&keywords=bridgedb-reportbug&cc=isis&owner=isis)   ·    [源代码](https://gitweb.torproject.org/bridgedb.git)   ·    [更改日志](https://gitweb.torproject.org/bridgedb.git/tree/CHANGELOG)   ·    [联系方式](help@rt.torproject.org)   ·    [公共密匙](https://bridges.torproject.org/keys)
 
 ★ **暗网（the Dark Web） | 深网「the Deep Web 」**：
