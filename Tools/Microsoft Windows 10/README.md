@@ -224,14 +224,14 @@ C:\Windows\system32\dccw.exe
 -------------------------------------------------
 
 <li>要将<strong>“Win + G 打开的 Game Bar 性能小组件”</strong>设置为开机项，可能无法直接通过常规的设置实现。</li><br>
-<br>
 <blockquote>
-不过，您可以创建一个快捷方式来方便打开它。以下是创建快捷方式的步骤：<br>
+不过，您可以创建一个快捷方式来方便打开它。以下是创建快捷方式的步骤：<br><br>
 1.在桌面空白处右键单击，选择“新建”->“快捷方式”。<br>
-2.在“请键入对象的位置”框中，输入“explorer shell:AppsFolder\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App”，然后点击“下一步”。<br>
+2.在“请键入对象的位置”框中，输入“<strong>explorer shell:AppsFolder\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App</strong>”，然后点击“下一步”。<br>
 3.为快捷方式输入一个名称，例如“Game Bar 性能小组件”，点击“完成”。<br><br>
-这样，您就创建了一个快捷方式，双击它就可以打开 Game Bar 性能小组件。但这并非开机自动启动。<br>
+这样，您就创建了一个快捷方式，双击它就可以打开 Game Bar 性能小组件。但这并非开机自动启动。
 </blockquote>
+
 -------------------------------------------------
 
 - 旧机福音:[Win10极限精简版Tiny10发布:仅占C盘4.3GB](https://adersaytech.com/tech-event/tiny10-ltsc-review.html) (Windows系统硬盘ISO安装器：【WinNTSetup下载 中文版】WinNTSetup 5.2.6 @[ZOL软件下载](https://xiazai.zol.com.cn/detail/44/433178.shtml）)
