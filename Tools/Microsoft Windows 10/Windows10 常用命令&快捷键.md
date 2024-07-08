@@ -467,6 +467,23 @@
 </td>
 </tr>
 <tr style="height: 33px;">
+<td style="min-width: 90px; font-size: 14px; white-space: normal; overflow-wrap: break-word; border: 1px solid rgb(217, 217, 217); padding: 4px 8px; cursor: default;">
+<p data-lake-id="78d171a93d384da936ca83ffe9ff8ac9" style="font-size: 15px; color: rgb(64, 64, 64); line-height: 1.74; letter-spacing: 0.008em; outline-style: none; overflow-wrap: break-word; margin: 0px;">
+<span><strong>性能小组件</strong></span>
+</p>
+</td>
+<td style="min-width: 90px; font-size: 14px; white-space: normal; overflow-wrap: break-word; border: 1px solid rgb(217, 217, 217); padding: 4px 8px; cursor: default;">
+<p data-lake-id="20c7f044aaac9c920702187df479a0d7" style="font-size: 15px; color: rgb(64, 64, 64); line-height: 1.74; letter-spacing: 0.008em; outline-style: none; overflow-wrap: break-word; margin: 0px;">
+<span>explorer shell:AppsFolder\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App</span>
+</p>
+</td>
+<td style="min-width: 90px; font-size: 14px; white-space: normal; overflow-wrap: break-word; border: 1px solid rgb(217, 217, 217); padding: 4px 8px; cursor: default;">
+<p data-lake-id="6dd151ba1fb6069812a1c3047d7ea15a" style="font-size: 15px; color: rgb(64, 64, 64); line-height: 1.74; letter-spacing: 0.008em; outline-style: none; overflow-wrap: break-word; margin: 0px;">
+<strong>快捷键Win + G 打开 Game Bar</strong>
+</p>
+</td>
+</tr>
+<tr style="height: 33px;">
 <td style="background-color: rgb(255, 255, 255); vertical-align: top; min-width: 90px; font-size: 14px; white-space: normal; overflow-wrap: break-word; border: 1px solid rgb(217, 217, 217); padding: 4px 8px; cursor: default;">
 <p data-lake-id="987bb2c5f893e336a95b7ad1c0953fe3" style="font-size: 15px; color: rgb(64, 64, 64); line-height: 1.74; letter-spacing: 0.008em; outline-style: none; overflow-wrap: break-word; margin: 0px;">
 <span>声音</span>
