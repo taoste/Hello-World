@@ -25,3 +25,102 @@
 如果上述方法都不适用，可能需要考虑其他因素，例如 U 盘安装盘的制作是否正确、BIOS 设置是否存在其他问题等。<br>
 另外，不同电脑的 BIOS 界面和选项可能会有所差异，上述步骤中的某些操作可能需要根据实际情况进行调整。<br>
 若问题仍未解决，建议参考电脑制造商的文档或联系其技术支持人员以获取更准确的帮助。<br>
+<hr>
+
+[同意个人数据跨境传输]<br>
+aka.ms/refund<br>
+aka.ms/privacy<br>
+<br>
+<hr>
+
+七牛云 - 产品主页<br>
+https://portal.qiniu.com/home<br>
+<br>
+智能多媒体服务 - 七牛开发者中心<br>
+https://developer.qiniu.com/dora<br>
+<hr>
+
+
+具有英特尔® 傲腾™内存的英特尔® 快速存储技术驱动程序安装软件（第 11 代至第 13 代平台）<br>
+https://www.intel.cn/content/www/cn/zh/download/720755/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-11th-up-to-13th-gen-platforms.html<br>
+<hr>
+
+CSDN搜索<br>
+https://so.csdn.net/<br>
+<hr>
+
+Windows 11 安装媒体及英特尔快速存储技术（IRST）驱动程序 - 搜索<br>
+https://cn.bing.com/search?q=Windows+11+%E5%AE%89%E8%A3%85%E5%AA%92%E4%BD%93%E5%8F%8A%E8%8B%B1%E7%89%B9%E5%B0%94%E5%BF%AB%E9%80%9F%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF%EF%BC%88IRST%EF%BC%89%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F&qs=n&form=QBRE&sp=-1&lq=0&pq=windows+11+%E5%AE%89%E8%A3%85%E5%AA%92%E4%BD%93%E5%8F%8A%E8%8B%B1%E7%89%B9%E5%B0%94%E5%BF%AB%E9%80%9F%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF%EF%BC%88irst%EF%BC%89%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F&sc=9-35&sk=&cvid=C716314E92DF4D8DBAFF9951AA818EE6&ghsh=0&ghacc=0&ghpl=<br>
+<hr>
+
+[Notebook] 疑难解答 - 如何解决安装Windows 11/10时找不到磁盘驱动器 | 官方支持 | ASUS 中国<br>
+https://www.asus.com.cn/support/faq/1044458/<br>
+<hr>
+
+如何从网站下载英特尔® 快速存储技术<br>
+https://www.intel.cn/content/www/cn/zh/support/articles/000039489/technologies.html#:~:text=%E6%9F%A5%E6%89%BE%20%E8%8B%B1%E7%89%B9%E5%B0%94%C2%AE%20%E5%BF%AB%E9%80%9F%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF%20%E4%B8%8B%E8%BD%BD%20%EF%BC%88%E8%8B%B1%E7%89%B9%E5%B0%94%C2%AE%20RST%EF%BC%89%E3%80%82,%E9%80%89%E6%8B%A9%20%E4%B8%8B%E8%BD%BD%E7%B1%BB%E5%9E%8B%E3%80%82%20%E9%80%89%E6%8B%A9%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%82%20%E9%80%89%E6%8B%A9%20%E6%94%AF%E6%8C%81%E6%82%A8%E7%9A%84%E7%8E%AF%E5%A2%83%E7%9A%84%E6%9C%80%E6%96%B0%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F%E6%88%96%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E3%80%82<br>
+<hr>
+
+内存和存储支持<br>
+https://www.intel.cn/content/www/cn/zh/support/products/35125/memory-and-storage.html#80095<br>
+<hr>
+
+内存和存储支持<br>
+https://www.intel.cn/content/www/cn/zh/support/products/35125/memory-and-storage.html#80095<br>
+<hr>
+
+英特尔® 驱动程序和支持助理<br>
+https://www.intel.cn/content/www/cn/zh/support/detect.html<br>
+<hr>
+
+适用于 Windows 10 的 Intel® 快速儲存技術 （RST） 和适用于 Intel® NUC 9 极致笔记本电脑套件的 Windows® 11*<br>
+https://www.intel.cn/content/www/cn/zh/download/19651/29838/intel-rapid-storage-technology-rst-for-windows-10-windows-11-for-intel-nuc-9-extreme-laptop-kits.html<br>
+<hr>
+
+[Notebook] 疑难解答 - 如何解决安装Windows 11/10时找不到磁盘驱动器 | 官方支持 | ASUS 中国<br>
+https://www.asus.com.cn/support/faq/1044458/<br>
+<hr>
+
+[Windows 11/10] 如何建立及使用U盘的安装介质重新安装Windows 11/10 | 官方支持 | ASUS 中国<br>
+https://www.asus.com.cn/support/faq/1039507/<br>
+<hr>
+
+如何搜尋與下載驅動程式、工具程式、BIOS及使用手冊 | 官方支援 | ASUS 台灣<br>
+https://www.asus.com/tw/support/faq/1035376/<br>
+<hr>
+
+Network Connection Flow - 搜索<br>
+https://cn.bing.com/search?q=Network+Connection+Flow<br>
+<hr>
+
+技巧 | 新版Win11跳过联网安装 - 简书<br>
+https://www.jianshu.com/p/40d3a27102c0<br>
+<hr>
+
+OOBE\BYPASSNRO - 搜索<br>
+https://cn.bing.com/search?q=OOBE%5CBYPASSNRO<br>
+<hr>
+
+Windows 11 首次开机OOBE阶段跳过连接网络及登录微软账户，使用本地账号登录的方法_oobebypassnro-CSDN博客<br>
+https://blog.csdn.net/junson142099/article/details/124410039<br>
+<hr>
+
+[技巧] 微软禁止通过OOBE跳过Windows 11账户登录 下面是最新可用办法 – 蓝点网<br>
+https://www.landiannews.com/archives/96628.html<br>
+<hr>
+
+计算机首次开机如何跳过Microsoft 帐户登录，快速进入Windows桌面 | 华为官网<br>
+https://consumer.huawei.com/cn/support/content/zh-cn15898703/<br>
+<hr>
+
+Windows 11如何通过命令OOBE\BYPASSNRO创建本地账户 - 哔哩哔哩<br>
+https://www.bilibili.com/read/cv35068548/?jump_opus=1<br>
+<hr>
+
+Win11跳过联网激活的3种办法-CSDN博客<br>
+https://blog.csdn.net/qq_16171671/article/details/134779750<br>
+<hr>
+
+m.somode.com<br>
+https://m.somode.com/course/31035.html<br>
+<hr>
