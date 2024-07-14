@@ -54,9 +54,9 @@
 		百度网盘 XP9CXM3N2B06J1     msstore<br>
 		百度网盘 Baidu.BaiduNetdisk winget<br>
 	如：#安装 百度网盘: <code>winget install Baidu.BaiduNetdisk</code><br>
-#安装 阿里云盘: <code>winget install Alibaba.aDrive</code><br>
-#安装 夸克网盘: <code>winget install Alibaba.QuarkCloudDrive</code><br>
-#安装 酷狗音乐 : <code>winget install KuGou.KGMusic</code><br>
+            #安装 阿里云盘: <code>winget install Alibaba.aDrive</code><br>
+            #安装 夸克网盘: <code>winget install Alibaba.QuarkCloudDrive</code><br>
+            #安装 酷狗音乐 : <code>winget install KuGou.KGMusic</code><br>
 	如：查找【金山WPS】：<code>winget search Kingsoft.WPSOffice</code><br>
                    安装金山WPS（国际版）：<code>winget install Kingsoft.WPSOffice</code><br>
                    安装金山WPS（中国版）：<code>winget install Kingsoft.WPSOffice.CN</code><br>
@@ -78,7 +78,8 @@
 	如：安装开源SFTP文件传输工具:<code>winget install WinSCP.WinSCP</code><br>
 	如：安装内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网:<code>winget install ZeroTier.ZeroTierOne</code><br>
 	如：安装赛风：<code>winget install Psiphon</code><br>
-	如：安装开源解压工具：<code>winget install 7-Zip</code><br>
+	如：查找开源解压工具7-zip：<code>winget show 7-zip</code><br>
+        如：<strong>安装开源解压工具7-zip：<code>winget install 7zip.7zip --source winget</code>（指定winget源）</strong>strong><br>
         如：安装<strong>开源卸载工具</strong>：<code>winget install BCUninstaller</code><br>
         如：安装开源远程桌面软件：<code>winget install RustDesk</code><br>
         如：安装开源直播软件OBS：<code>winget install OBSProject.OBSStudio</code><br>
