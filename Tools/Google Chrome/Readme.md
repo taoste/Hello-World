@@ -79,9 +79,17 @@ chrome://settings/performance
 
 -------------------------------------------
 
-<li><a href="https://www.llq.info/edge/8912.html" target="_blank" title="Edge 浏览器隐藏功能一览：多线程下载、IE 模式、阻止视频自动播放等-浏览器资讯网:"/>多线程下载(chrome://flags/)</a>:</li>
+<li>
+ <a href="https://www.freedidi.com/2099.html" title="Chrome、Edge 等浏览器开启多线程下载的方法 – 零度解说">推荐</a> ：
+ <a href="https://www.llq.info/edge/8912.html" target="_blank" title="Edge 浏览器隐藏功能一览：多线程下载、IE 模式、阻止视频自动播放等-浏览器资讯网:"/>多线程下载(chrome://flags/)</a>:</li>
 <blockquote>在地址栏输入 chrome://flags/ 后进入到实验功能界面，找到“Parallel downloading”的选项，打开“Enable”即可。之后，Chrome 的下载速度就会有明显提升了。</blockquote>
-
+</blockquote><br>
+ <a href="https://www.freedidi.com/2099.html" title="Chrome、Edge 等浏览器开启多线程下载的方法 – 零度解说">快捷进入</a> ：<br>
+Chrome 浏览器，地址栏输入并回车：<br>
+<code>chrome://flags/#enable-parallel-downloading</code><br>
+Edge 新版浏览器，地址栏输入并回车：<br>
+ <code>edge://flags/#enable-parallel-downloading</code> <br>
+ </blockquote>
 - 设置 - Flash ( chrome://settings/content/flash )
 
 - ( chrome://net-internals/#hsts )
