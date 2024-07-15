@@ -90,6 +90,7 @@ Chrome 浏览器，地址栏输入并回车：<br>
 Edge 新版浏览器，地址栏输入并回车：<br>
  <code>edge://flags/#enable-parallel-downloading</code> <br>
  </blockquote>
+ <br>
 - 设置 - Flash ( chrome://settings/content/flash )
 
 - ( chrome://net-internals/#hsts )
