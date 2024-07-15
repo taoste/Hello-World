@@ -343,9 +343,19 @@ Windows 11 规格 - Microsoft ：&nbsp; (&nbsp;<a href="(https://www.microsoft.c
 - **[Tips](https://support.microsoft.com/zh-cn/family-safety)/[Microsoft Edge 中的家庭功能](https://account.microsoft.com/family/?ref=edge:%2F%2Fsettings%2FfamilySafety):[使用 Microsoft Edge 帮助你的家人提高安全性](https://family.microsoft.com/?ref=edge://settings/familySafety)** <br>
 （ 对于家庭组，每个人都可以更轻松地在线浏览。 edge://settings/familySafety ）
 
-<li><a href="https://www.llq.info/edge/8912.html" target="_blank" title="Edge 浏览器隐藏功能一览：多线程下载、IE 模式、阻止视频自动播放等-浏览器资讯网:"/>多线程下载(edge://flags)</a>:</li>
-<blockquote>在地址栏输入 edge://flags 后进入到实验功能界面，找到“Parallel downloading”的选项，打开“Enable”即可。之后，Edge 的下载速度就会有明显提升了。</blockquote>
-
+<li>
+	 <a href="https://www.freedidi.com/2099.html" title="Chrome、Edge 等浏览器开启多线程下载的方法 – 零度解说">推荐</a> ：
+	<a href="https://www.llq.info/edge/8912.html" target="_blank" title="Edge 浏览器隐藏功能一览：多线程下载、IE 模式、阻止视频自动播放等-浏览器资讯网:"/>多线程下载(edge://flags)</a>:</li>
+<blockquote>在地址栏输入 edge://flags 后进入到实验功能界面，找到“Parallel downloading”的选项，打开“Enable”即可。之后，Edge 的下载速度就会有明显提升了。</blockquote><br>
+<br>
+ <a href="https://www.freedidi.com/2099.html" title="Chrome、Edge 等浏览器开启多线程下载的方法 – 零度解说">快捷进入</a> ：<br>
+ <blockquote>
+Chrome 浏览器，地址栏输入并回车：<br>
+<code>chrome://flags/#enable-parallel-downloading</code><br>
+Edge 新版浏览器，地址栏输入并回车：<br>
+ <code>edge://flags/#enable-parallel-downloading</code> <br>
+ </blockquote>
+ <br>
 <details><summary><a href="edge://surf" title="surf是微软Edge的一款 HTML5 冲浪游戏，当断开网络或使用 edge://surf 可直接开始游戏，要求版本是 82+，可更新版；游戏类似于一款经典的滑雪游戏 SkiFree，这是微软于 1991 年作为 Windows Entertainment Pack 3 的一部分发布。">edge://surf</a> | <a href="chrome://dino" title="Chromium 的离线HTML5 冲浪游戏：小恐龙">chrome://dino</a> 离线版冲浪游戏<br>
   </summary> <br>
 <a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1860277" title="edge://surf | chrome://dino 在线版-远景论坛-微软极客社区">edge://surf | chrome://dino 在线版-远景论坛-微软极客社区</a>
