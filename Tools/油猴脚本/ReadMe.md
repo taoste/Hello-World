@@ -108,6 +108,15 @@
 
 >> 通杀大部分网站,可以解除禁止复制、剪切、选择文本、右键菜单的限制。原作者[**cat73**(https://github.com/Cat7373/remove-web-limits),因为[**和搜索跳转脚本冲突**](https://cat7373.github.io/remove-web-limits/),遂进行了改动。
 
+<li>《<a href="https://greasyfork.org/zh-TW/scripts/438684-pagetual" title="【自荐】东方永页机 - 适配互联网上90%网站的自动翻页脚本"><b>東方永頁機</b></a>》 -- 
+	<a href="https://meta.appinn.net/t/topic/29275" title="【自荐】东方永页机 - 适配互联网上90%网站的自动翻页脚本 - 讨论分享 - 小众软件官方论坛">小众软件官方论坛</a></li>
+
+>>點擊下方訂閲官方規則庫，並靜待更新完畢:
+>>>https://raw.githubusercontent.com/hoothin/UserScripts/master/Pagetual/pagetualRules.json
+
+>>請勿在此處反饋，如需反饋請至 [Github](https://github.com/hoothin/UserScripts/issues)
+
+
 - 《[**18 项功能，为网页视频播放添加倍速播放、画中画、截图、进度保存等，全程高能快捷键**](https://www.appinn.com/h5player-video-control-greasemonkey/)[[油猴脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)/[Github](https://github.com/xxxily/h5player)]》 - 小众软件
 
 >> 这是一款叫做 HTML5视频播放器增强脚本 的油猴脚本，可以为在线视频播放添加多达 18 项辅助功能，包括倍速、画中画、截图、亮度调节、逐帧播放、画面移动、播放进度保存等功能，全程快捷键操作，非常高能。@Appinn
