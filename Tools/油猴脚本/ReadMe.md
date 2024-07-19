@@ -104,6 +104,53 @@
 
 >> 很多时候，我们并不知道一些网站是否有用户提供用来优化页面的脚本，而**Userscript+** 就能帮你自动寻找适用的UserJS，并默认按照评分高低排序推荐给你,给你带来一种全新的`Tampermonkey`使用体验！
 
+<li><a href="https://greasyfork.org/zh-CN/scripts/461427-%E5%9B%BD%E9%99%85%E7%BD%91%E7%AB%99-%E4%BC%AA%E8%A3%85%E6%88%90-%E5%9B%BD%E5%86%85%E7%BD%91%E7%AB%99-%E6%B1%87%E6%80%BB"><b>国际网站 伪装成 国内网站(汇总)</b></a></li>
+>中国人就用中国网站
+ <p>国际网站 伪装成 国内网站(汇总).</p>
+
+<p>这样你就可以在(半)公共区域使用国际网站, 而不会被萌新在微信 / QQ 上问, "哇! 为什么你可以使用 Google / YouTube / ...? 浇浇我!"</p>
+
+<table><thead>
+<tr>
+<th>src</th>
+<th>dst</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>Google</td>
+<td>百度</td>
+</tr>
+<tr>
+<td>Wikipedia</td>
+<td>百度百科</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>哔哩哔哩</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td>码云 (Gitee)</td>
+</tr>
+<tr>
+<td>Steam</td>
+<td>蒸汽平台</td>
+</tr>
+<tr>
+<td>Twitter (X)</td>
+<td>微博</td>
+</tr>
+</tbody></table>
+
+<p>建议自行将 <code>@name</code> 修改为"网页美化", "超级下载器"等类似标题.</p>
+
+<p><a href="https://github.com/userElaina/this-is-the-China-website">GitHub</a></p>
+
+<p>欢迎通过 issue 或 PR, 提出 bug 或需求, 提供点子或代码.</p>
+
+<p><img src="https://raw.githubusercontent.com/userElaina/this-is-the-China-website/main/jing.png" alt="中国人就用中国网站"></p>
+
+
 - 《[**网页限制解除(改)**](https://greasyfork.org/zh-CN/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9#google_vignette)》
 
 >> 通杀大部分网站,可以解除禁止复制、剪切、选择文本、右键菜单的限制。原作者[**cat73**(https://github.com/Cat7373/remove-web-limits),因为[**和搜索跳转脚本冲突**](https://cat7373.github.io/remove-web-limits/),遂进行了改动。
