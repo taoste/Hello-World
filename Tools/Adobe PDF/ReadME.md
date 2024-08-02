@@ -1,5 +1,19 @@
 <li><a href="https://convertio.co/zh/">Convertio — 文件转换器</a></li>
 
+<li><a href="https://github.com/flytkgl/PDFQFZ/releases/tag/">PDF加盖骑缝章</a></li>
+
+PDFQFZ-是一款免费开源PDF加盖骑缝章的小工具，意思就是在盖多页合同时，把全部合同页的右侧边缝连在一起盖章，主要是防伪用。实用也非常简单，选择需要盖章的PDF文件或文件夹， 选择保存文件夹。 导入完整的印章图片，工具会根据PDF页数做随机分割。 设定印章大小、骑缝章位置、印章位置等，点盖章，稍等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+
+PDF加盖骑缝章界面
+
+什么是骑缝章
+
+骑缝章的意思就是在盖多页合同时，把全部合同页的右侧边缝连在一起盖章，这样盖的章有多页漏页一眼就能看出来，同理个人签订合同也能捺骑缝印。 骑缝章的最大作用是防止在合同内增减页码，如果有骑缝章，合同内容多页或少页就能够看得出来，防止别人造假，以保障签署各方的合法权益。
+
+PDF加盖骑缝章工具下载
+
+GitHub：https://github.com/flytkgl/PDFQFZ
+
 #【三简】3D视图效果插件
 ```
 链接：https://pan.baidu.com/s/1_wwEyMbcljQGVgUks7GyAg?pwd=vxt6
