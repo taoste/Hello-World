@@ -1,7 +1,7 @@
 - ☞ [【清单list-知识梳理】操作系统-Win10重装-必备软件(Re-install System)](https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Re-install%20System.md) ( [https://go.choong.net/win10/Re](https://go.choong.net/win10/Re/index.html) )
 >> [Note]Ⓜ️ [**微软 Microsoft 系列 · Issue #10**](https://github.com/taoste/taoste.github.io/issues/10) · taoste/taoste.github.io
 <li>
-<a href="https://support.microsoft.com/zh-CN/windows/system-configuration-tools-in-windows-f8a49657-b038-43b8-82d3-28bea0c5666b" title="Windows 中的系统配置工具 - Microsoft 支持">Windows 中的系统配置工具</a> | <a href="https://support.microsoft.com/zh-cn/rss-feed-picker" title="订阅 RSS 源选取器 - Microsoft 支持">订阅 RSS 源选取器</a>
+<a href="https://support.microsoft.com/zh-CN/windows/system-configuration-tools-in-windows-f8a49657-b038-43b8-82d3-28bea0c5666b" title="Windows 中的系统配置工具 - Microsoft 支持"><font color="#00A4EF">Windows 中的系统配置工具</font></a> | <a href="https://support.microsoft.com/zh-cn/rss-feed-picker" title="订阅 RSS 源选取器 - Microsoft 支持"><font color="#ff0000">订阅 RSS 源选取器</font></a>
  - <a href="https://support.microsoft.com/zh-CN/" title="Microsoft 支持">Microsoft 支持</a>
 </li>
 <H2><a href="https://www.catalog.update.microsoft.com/Home.aspx">Microsoft Update Catalog</a>:</H2>
