@@ -26,6 +26,9 @@
 3、在通用设置界面下，将【自动下载微信安装包】设置为【从不】。 <br>
 4、这样就不会总是提醒微信更新了。
 </blockquote></strong>
+<a href="https://qinyuanyang.com/post/419.html">
+微信3.7.6.45旧版本登录提示应用版本低，
+导致登录不了的解决办法-软件资源-天才小网管博客</a>
 <hr style="height:1px;width:35%;border:none;border-top:1px dashed #0066CC;" />
 <li>《<a href="https://www.cnbeta.com/articles/soft/897111.htm">史上最简单 1分钟教你在电脑上开启多个PC版微信</a>》 - Tencent WeChat 腾讯微信 - cnBeta.COM</li>  
 <blockquote> 
