@@ -2,6 +2,11 @@
 [🦊 Mozilla Firefox 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Mozilla%20Firefox)  / 
 [Microsoft Edge 系列](https://github.com/taoste/Hello-World/tree/master/Tools/Microsoft%20Windows%2010/Edge)**
 
+<li>
+ <a href="https://admx.help/?Category=Windows_11_2022&Language=zh-cn">Windows 11 and Windows Server 2022</a> | 
+ <a href="https://admx.help/?Category=Chrome&Language=zh-cn">Google Chrome</a>:
+<a href="https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::ProfilePickerOnStartupAvailability&Language=zh-cn">在 Chrome 启动时是否显示个人资料选择器</a>
+</li>
 ------------------------------------------------------------------------------------------------------------------
 
 [[Note](https://github.com/taoste/Hello-World/tree/master/Tools/Google%20Chrome)] 🚀 [谷歌 Google 系列 · Issue #9](https://github.com/taoste/taoste.github.io/issues/9) · [Go : taoste/Hello-World](http://go.choong.net/google)
