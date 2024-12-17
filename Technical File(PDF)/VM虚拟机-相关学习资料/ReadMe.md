@@ -23,6 +23,8 @@
 
 - [**虚拟机 - Microsoft Edge Developer**](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/) - <a href="https://developer.microsoft.com/zh-cn/windows/downloads/virtual-machines/">下载 Windows 虚拟机 - Windows 应用开发 | Microsoft Developer</a>
 
+> <a href="https://www.iplaysoft.com/win11-virtual-machines.html">微软官方免激活 Win11 企业版虚拟机镜像下载 (免费 VMWare / Virtualbox 测试环境) - 异次元软件世界</a> (默认解压密码为：www.iplaysoft.com，使用 BandiZip、WinRAR、7-ZIP 等解压工具均能打开。)
+>> Hyper-V 虚拟机镜像 https://aka.ms/windev_VM_hyperv
 >>> [Home 键](https://developer.microsoft.com/zh-cn/microsoft-edge/) \ [工具](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/) \ VM
 
 >>>> 虚拟机:使用本地下载和管理的免费 Windows 10 虚拟机测试 IE11 和旧版 Microsoft Edge
