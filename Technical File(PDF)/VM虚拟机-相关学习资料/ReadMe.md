@@ -28,7 +28,7 @@
 >> Hyper-V 虚拟机镜像 https://aka.ms/windev_VM_hyperv
 >>> [Home 键](https://developer.microsoft.com/zh-cn/microsoft-edge/) \ [工具](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/) \ VM
 
->>>> 虚拟机:使用本地下载和管理的免费 Windows 10 虚拟机测试 IE11 和旧版 Microsoft Edge
+> 虚拟机:使用本地下载和管理的免费 Windows 10 虚拟机测试 IE11 和旧版 Microsoft Edge
 
 >>>> 配有旧版 Microsoft Edge 和 Internet Explorer 11 的 Windows 10
 
