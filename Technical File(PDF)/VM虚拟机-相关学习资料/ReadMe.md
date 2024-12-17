@@ -21,7 +21,7 @@
 
 >>>   达人现身告知：[https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/windows/](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/)   官方提供的免费vm镜像，多种格式:
 
-- [**虚拟机 - Microsoft Edge Developer**](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/)
+- [**虚拟机 - Microsoft Edge Developer**](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/vms/) - <a href="https://developer.microsoft.com/zh-cn/windows/downloads/virtual-machines/">下载 Windows 虚拟机 - Windows 应用开发 | Microsoft Developer</a>
 
 >>> [Home 键](https://developer.microsoft.com/zh-cn/microsoft-edge/) \ [工具](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/) \ VM
 
