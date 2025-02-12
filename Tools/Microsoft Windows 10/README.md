@@ -26,6 +26,9 @@
 <blockquote>view-source:<a href="https://ntp.msn.cn/edge/ntp?cm=zh-cn&segment=traffic&scenario=traffic&ocid=widgetonlockscreen">Edge·新标签页</a> edge://new-tab-page/<br>
 view-source:<a href="chrome://new-tab-page/">Chrome·新标签页</a> chrome://new-tab-page/</blockquote>
 
+<li><a href="https://blog.csdn.net/no1xium/article/details/108331175">Windows恶意软件删除工具 MRT.EXE - CSDN博客</a></li>
+<blockquote>%windir%\system32\MRT.exe</blockquote>
+
 -------------------------------------------------
 
 <details>
