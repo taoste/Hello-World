@@ -81,7 +81,7 @@
 	如：查找开源解压工具7-zip：<code>winget show 7-zip</code><br>
         如：<strong>安装开源解压工具7-zip：<code>winget install 7zip.7zip --source winget</code>（指定winget源）</strong>strong><br>
         如：安装<strong>开源卸载工具</strong>：<code>winget install BCUninstaller</code><br>
-        如：安装开源远程桌面软件：<code>winget install RustDesk</code><br>
+        如：安装<a href="https://github.com/rustdesk/rustdesk/releases" title="Releases · rustdesk/rustdesk - Github">开源</a><a href="https://rustdesk.com/docs/zh-cn/" title="RustDesk文档 :: RustDesk文档">远程桌面软件</a><a href="https://rustdesk.com/zh-cn/" title="RustDesk：开源远程桌面与自建服务器解决方案">RustDesk</a>：<code>winget install RustDesk.RustDesk</code><br>
         如：安装开源直播软件OBS：<code>winget install OBSProject.OBSStudio</code><br>
         如：安装 IDM 下载工具：<code>winget install Tonec.InternetDownloadManager</code><br>
         如：安装文件搜索工具：<code>winget install voidtools.Everything</code><br>
