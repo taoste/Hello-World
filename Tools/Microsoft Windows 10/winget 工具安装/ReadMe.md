@@ -100,6 +100,8 @@
 	  查找比特币系列: <code>winget search Bitcoin</code> || 查找ChatGPT: <code>winget search OpenAI | ChatGPT</code> 
 	    <br>
 	</summary><br>
+	如：查询 | <a href="https://pcmanager.microsoft.com/zh-cn" 标题="电脑管家-微软电脑管家官方网站">微软电脑管家</a>命令：<code>winget search Microsoft.PCManager</code> || 安装 <code>winget install Microsoft.PCManager</code><br>
+		<br>
 	如：查询 | <a href="https://consumer.huawei.com/cn/support/pc-manager/" 标题="华为电脑管家官方下载-笔记本驱动更新 | 华为官网">华为电脑管家</a>命令：<code>winget search Huawei.PCManager</code><br>
 	<blockquote>华为电脑管家<a href="ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch" 标题="从 Microsoft Store 获取">S模式版</a>是华为公司自行研发的一款运行在Windows系统 S模式下的管家软件，提供玩机技巧、客户服务、FAQ等功能。仅支持华为电脑设备。<code>ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch</code> </blockquote>
 	如：查询 | edge浏览器命令：<code>winget search edge</code><br>
