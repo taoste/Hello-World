@@ -19,6 +19,8 @@
 	导入的话与导出类似，也是输入命令行并指定文件路径即可 ： <code>winget import "D:/winget-app.json"</code>
 	</blockquote>
 </details>
+<strong><a href="https://www.docker.com/">Docker Desktop</a></strong>熟悉的工作流程：更新机制与winget命令类似（ <strong><code>winget install –id=XP8CBJ40XLBWKX –source=msstore</code></strong> ），与其他企业软件管理保持一致。<br>
+开发人员可以从 Microsoft Store下载 <strong><a href="https://www.docker.com/">Docker Desktop</a></strong> 应用程序，<a href="https://apps.microsoft.com/detail/xp8cbj40xlbwkx?hl=en-US&gl=US">这里可以免费获取</a>。
 <details>
     <summary>
 	<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/install">【2.安装】install 命令 (winget)使用</a> | 安装微信: <code>winget install Tencent.WeChat</code> | 升级微信: <code>winget upgrade Tencent.WeChat</code><br>
@@ -35,12 +37,7 @@
 		     <br> 	 
 		      t.me/warpplus 使用许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E<br></details>	   
 	     安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> 	    
-	</summary><br>
-	
-	 <strong><a href="https://www.docker.com/">Docker Desktop</a></strong>熟悉的工作流程：更新机制与winget命令类似（ <strong><code>winget install –id=XP8CBJ40XLBWKX –source=msstore</code></strong> ），与其他企业软件管理保持一致。<br>
-	开发人员可以从 Microsoft Store下载 <strong><a href="https://www.docker.com/">Docker Desktop</a></strong> 应用程序，<a href="https://apps.microsoft.com/detail/xp8cbj40xlbwkx?hl=en-US&gl=US">这里可以免费获取</a>。
-	
-	
+	</summary><br> 
 	<code>winget install [[-q] \<query>] [\<选项>]</code><br><br>
 	如：安装 PikPak 网盘:<code>winget install PikPak</code><br>
 	如：安装 Discord 游戏聊天应用与社区通讯工具:<code>winget install Discord.Discord</code><br>
