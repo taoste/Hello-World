@@ -36,7 +36,8 @@
 		      t.me/warpplus 使用许可密钥(WARP+类型)：M2o650wi-N693X4JY-46GSc92E<br></details>	   
 	     安装<a href="https://www.zerotier.com/">内网穿透神器ZeroTierZeroTier One 加密的虚拟主干网</a>: <code>winget install ZeroTier.ZeroTierOne</code><br> 	    
 	</summary><br>
-	熟悉的工作流程：更新机制与winget命令类似（ <strong><code>winget install –id=XP8CBJ40XLBWKX –source=msstore</code>code></strong> ），与其他企业软件管理保持一致。<br>
+	
+	 <strong><a href="https://www.docker.com/">Docker Desktop</a></strong>熟悉的工作流程：更新机制与winget命令类似（ <strong><code>winget install –id=XP8CBJ40XLBWKX –source=msstore</code></strong> ），与其他企业软件管理保持一致。<br>
 	开发人员可以从 Microsoft Store下载 <strong><a href="https://www.docker.com/">Docker Desktop</a></strong> 应用程序，<a href="https://apps.microsoft.com/detail/xp8cbj40xlbwkx?hl=en-US&gl=US">这里可以免费获取</a>。
 	
 	
