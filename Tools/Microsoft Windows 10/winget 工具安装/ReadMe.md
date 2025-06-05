@@ -65,6 +65,7 @@
 	如：安装 <strong>剪映专业版 </strong>:<code>winget install ByteDance.JianyingPro</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
+	如：安装 <a href="https://www.mozilla.org/zh-CN/firefox/new/" title="官网下载由 Mozilla 开发的桌面版 Firefox"><b>Firefox 浏览器</b>b></a>命令：<code>winget install Mozilla.Firefox.zh-CN</code><br>
 	如：安装VMware虚拟机: <code>winget install VMware.WorkstationPro</code><br>
         如：安装微软官方开源效率工具： <code>winget install Microsoft.PowerToys</code><br>
 	如：安装开源虚拟机 VirtualBox:<code>winget search Oracle.VirtualBox</code><br>
@@ -108,6 +109,8 @@
 	<blockquote>华为电脑管家<a href="ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch" 标题="从 Microsoft Store 获取">S模式版</a>是华为公司自行研发的一款运行在Windows系统 S模式下的管家软件，提供玩机技巧、客户服务、FAQ等功能。仅支持华为电脑设备。<code>ms-windows-store://pdp/?ProductId=9PLJZJSSFCQV&referrer=bingwebsearch&ocid=bingwebsearch</code> </blockquote>
 	如：查询 | edge浏览器命令：<code>winget search edge</code><br>
 	如：查询 | chrome浏览器命令：<code>winget search google.chrome</code><br>
+	如：查询 | <a href="https://www.mozilla.org/zh-CN/firefox/new/" title="官网下载由 Mozilla 开发的桌面版 Firefox">Firefox浏览器</a>命令：<code>winget search Mozilla.Firefox.zh-CN</code><br>
+	如：升级 | <a href="https://www.mozilla.org/zh-CN/firefox/new/" title="官网下载由 Mozilla 开发的桌面版 Firefox">Firefox浏览器</a>命令：<code>winget upgrade Mozilla.Firefox.zh-CN</code><br>
 	如：升级 | edge浏览器命令：<code>winget upgrade edge</code><br>
 	如：升级 | Edge最新版本比如：v125.0.2535.51 ：<code>winget upgrade Microsoft.Edge --version 125.0.2535.51 </code><br> 
 	如：升级 | chrome浏览器命令：<code>winget upgrade google.chrome</code><br>
