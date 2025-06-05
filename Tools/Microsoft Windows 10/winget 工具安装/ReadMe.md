@@ -65,7 +65,7 @@
 	如：安装 <strong>剪映专业版 </strong>:<code>winget install ByteDance.JianyingPro</code><br>
 	如：安装 Tor 浏览器:<code>winget install TorProject.TorBrowser</code><br>
 	如：安装 OpenVPN:<code>winget install OpenVPNTechnologies.OpenVPNConnect</code><br>
-	如：安装 <a href="https://www.mozilla.org/zh-CN/firefox/new/" title="官网下载由 Mozilla 开发的桌面版 Firefox"><b>Firefox 浏览器</b>b></a>命令：<code>winget install Mozilla.Firefox.zh-CN</code><br>
+	如：安装 <a href="https://www.mozilla.org/zh-CN/firefox/new/" title="官网下载由 Mozilla 开发的桌面版 Firefox"><b>Firefox 浏览器</b></a>命令：<code>winget install Mozilla.Firefox.zh-CN</code><br>
 	如：安装VMware虚拟机: <code>winget install VMware.WorkstationPro</code><br>
         如：安装微软官方开源效率工具： <code>winget install Microsoft.PowerToys</code><br>
 	如：安装开源虚拟机 VirtualBox:<code>winget search Oracle.VirtualBox</code><br>
