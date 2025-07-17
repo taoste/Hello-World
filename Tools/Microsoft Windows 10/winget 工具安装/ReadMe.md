@@ -70,7 +70,9 @@
 		百度网盘 Baidu.BaiduNetdisk winget<br>
 <details>
 	<summary>问答：如何通过winget install 命令将百度网盘安装到指定D盘文件夹？</li>
+	<br>
 </summary>
+<br>
 <details>
 	<summary><a href="https://www.doubao.com/chat/12533976288417282">Winget 安装百度网盘到指定目录 - 抖音·豆包</a><br>
 根据提供的信息，百度网盘在winget上有两个可用的包：<code>XP9CXM3N2B06J1</code>（来自Microsoft Store）和<code>Baidu.BaiduNetdisk</code>（来自winget源）。<br>
@@ -79,6 +81,7 @@
 winget install --id Baidu.BaiduNetdisk --location "D:\Program Files\BaiduNetdisk"
 </code>
 </summary>
+<br>
 <li>说明：</li>
 1. <code>--id Baidu.BaiduNetdisk</code> 指定使用winget源的百度网盘包（非Microsoft Store版本）<br> 
 2. <code>--location</code> 参数用于指定安装目录（需确保路径存在且有写入权限）<br> 
@@ -91,6 +94,7 @@ winget install --id Baidu.BaiduNetdisk --location "D:\Program Files\BaiduNetdisk
 <br> 
 如果命令执行后仍安装到默认位置，可能是应用本身限制了安装路径，这种情况下需通过应用内置的设置选项更改保存文件的存储位置。
 </details>
+<br>
 <details>
   <summary><a href="https://yuanbao.tencent.com/chat/naQivTmsDa/74fe996e-7d6a-4a81-86d6-52f953a75b79">winget安装百度网盘路径设置 | 腾讯·元宝</a></summary>
 要使用 <code>winget</code> 将百度网盘安装到 D 盘指定文件夹，请按以下步骤操作：
@@ -124,10 +128,10 @@ winget install --id Baidu.BaiduNetdisk --override "/DIR=D:\Your\Custom\Path /SIL
 - <b>参数说明：</b><br> 
   - <code>/DIR=...</code>：指定安装路径（具体参数名需查阅百度网盘安装文档）。<br> 
   - <code>/SILENT</code>：静默安装（可选）。<br> 
-<br> 
 <li>总结</li>
 优先使用 <code>--location</code> 参数指定路径。若无效，尝试用 <code>--override</code> 传递安装参数，或直接下载离线安装包手动选择路径安装。
 </details>
+<br>
 </details>
  如：#安装 百度网盘: <code> winget install --id Baidu.BaiduNetdisk --location "D:\Program Files\BaiduNetdisk"</code>
 	<hr>
