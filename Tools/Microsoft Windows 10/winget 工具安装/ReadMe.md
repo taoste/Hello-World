@@ -1,6 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>winget 工具</title>
+	</head>
+	<body>
 <details>
-    <summary>
-	<h1><a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a></h1>
+    <summary>	
+	<span style="color:#808080;height:13px">
+	<a href="https://go.choong.net/cmd/" title="cmd ❤ 1024">CMD</a> ·
+						<a href="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/winget%20%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/ReadMe.md"
+							title="Hello-World/Tools/Microsoft Windows 10/winget 工具安装/ReadMe.md at master · taoste/Hello-World">推荐</a>：
+		<a href="https://learn.microsoft.com/zh-CN/windows/package-manager/winget/">使用 winget 工具安装和管理应用程序 | Microsoft Learn</a>
+	</span>
 	<blockquote>		
 		<p><B>摘要 | 注意 ：</B> <a href="https://apps.microsoft.com/store/detail/%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F/9NBLGGH4NNS1?hl=zh-cn&gl=cn">应用安装程序(winget) - Microsoft Store 应用程序</a> | <a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=zh-cn&gl=cn&rtc=1">窗口终端(Windows Terminal) - 微软应用</a></p>
 <P style="text-indent:2em;">winget 命令行工具仅在 Windows 10 1709（版本 16299）或更高版本上受支持。 在你首次以用户身份登录 Windows（这会触发 Microsoft Store 将 Windows 程序包管理器注册为异步进程的一部分）之前，winget 工具不可用。 如果最近已经以用户身份进行了首次登录，但发现 winget 尚不可用，则可以打开 PowerShell 并输入以下命令来请求此 winget 注册：<code>Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe</code>。<br><br>
@@ -49,13 +61,74 @@
 	如：安装微信开发者工具:<code>winget install Tencent.WeixinDevTools</code><br>
 	如：安装 <strong>腾讯QQ </strong>：<code>winget install Tencent.QQ</code><br>
 	如：#查找和安装【迅雷】下载工具: <code>winget show Thunder.Thunder</code><br><code>winget install Thunder.Thunder</code><br>
+	<hr>
 	如：#查找百度网盘: <code>winget show 百度网盘</code><br>
 		找到多个与输入条件匹配的程序包。请修改输入。<br>
 		名称     ID                 源<br>
 		-----------------------------------<br>
 		百度网盘 XP9CXM3N2B06J1     msstore<br>
 		百度网盘 Baidu.BaiduNetdisk winget<br>
-	如：#安装 百度网盘: <code>winget install Baidu.BaiduNetdisk</code><br>
+<details>
+	<summary>问答：如何通过winget install 命令将百度网盘安装到指定D盘文件夹？</li>
+</summary>
+<details>
+	<summary><a href="https://www.doubao.com/chat/12533976288417282">Winget 安装百度网盘到指定目录 - 抖音·豆包</a><br>
+根据提供的信息，百度网盘在winget上有两个可用的包：<code>XP9CXM3N2B06J1</code>（来自Microsoft Store）和<code>Baidu.BaiduNetdisk</code>（来自winget源）。<br>
+要安装到指定的D盘目录，可使用以下命令：
+<code>
+winget install --id Baidu.BaiduNetdisk --location "D:\Program Files\BaiduNetdisk"
+</code>
+</summary>
+<li>说明：</li>
+1. <code>--id Baidu.BaiduNetdisk</code> 指定使用winget源的百度网盘包（非Microsoft Store版本）
+2. <code>--location</code> 参数用于指定安装目录（需确保路径存在且有写入权限）
+3. 如果目录包含空格，需用引号包裹路径
+
+<li>注意事项：</li>
+- 部分应用可能不支持自定义安装位置，此时此参数会被忽略
+- 建议先创建目标文件夹（如 <code>D:\Program Files\BaiduNetdisk</code>）
+- 安装前请确保D盘有足够空间并关闭杀毒软件临时保护
+
+如果命令执行后仍安装到默认位置，可能是应用本身限制了安装路径，这种情况下需通过应用内置的设置选项更改保存文件的存储位置。
+</details>
+<details>
+				<summary><a href="https://yuanbao.tencent.com/chat/naQivTmsDa/74fe996e-7d6a-4a81-86d6-52f953a75b79">winget安装百度网盘路径设置 | 腾讯·元宝</a></summary>
+要使用 <code>winget</code> 将百度网盘安装到 D 盘指定文件夹，请按以下步骤操作：
+
+<li>1. 确认安装包 ID</li>
+根据你的查询结果，选择 <b>Winget 源</b>的版本（非 Microsoft Store 版本），其 ID 为 <code>Baidu.BaiduNetdisk</code>。
+
+<li>2. 使用 <code>--location</code> 参数指定安装路径</li>
+运行以下命令（替换 <code>D:\Your\Custom\Path</code> 为你的目标路径）：
+<code>
+winget install --id Baidu.BaiduNetdisk --location "D:\Your\Custom\Path"
+</code>
+<b>示例</b>（安装到 <code>D:\Programs\BaiduNetdisk</code>）：
+<code>
+  winget install --id Baidu.BaiduNetdisk --location "D:\Programs\BaiduNetdisk"
+</code>
+
+<li>3. 注意事项</li>
+- <b>路径格式</b>：路径必须用<b>英文双引号</b>包裹（尤其路径含空格时）。
+- <b>权限要求</b>：以<b>管理员身份</b>运行 PowerShell/CMD（否则可能无权限写入磁盘）。
+- <b>安装程序兼容性</b>：部分安装程序可能忽略 <code>--location</code> 参数（依赖软件自身支持）。
+如果安装后仍在默认路径（如 <code>C:\Program Files</code>），需手动检查或使用其他方法。
+
+<b>替代方案</b>（如 <code>--location</code> 无效）
+若上述命令无效，可尝试通过 `--override` 传递安装参数（需百度网盘安装程序支持）：
+<code>
+winget install --id Baidu.BaiduNetdisk --override "/DIR=D:\Your\Custom\Path /SILENT"
+</code>
+- <b>参数说明：</b>
+  - <code>/DIR=...</code>：指定安装路径（具体参数名需查阅百度网盘安装文档）。
+  - <code>/SILENT</code>：静默安装（可选）。
+
+<li>总结</li>
+优先使用 <code>--location</code> 参数指定路径。若无效，尝试用 <code>--override</code> 传递安装参数，或直接下载离线安装包手动选择路径安装。
+</details>
+</details>
+ 如：#安装 百度网盘: <code> winget install --id Baidu.BaiduNetdisk --location "D:\Program Files\BaiduNetdisk"</code>
+	<hr>
             #安装 阿里云盘: <code>winget install Alibaba.aDrive</code><br>
             #安装 夸克网盘: <code>winget install Alibaba.QuarkCloudDrive</code><br>
             #安装 酷狗音乐 : <code>winget install KuGou.KGMusic</code><br>
@@ -428,3 +501,7 @@ if %ERRORLEVEL% EQU 0 Echo Terminal installed successfully.   %ERRORLEVEL%
 </details>
 </details>
 <hr style="height:1px;width:35%;border:none;border-top:1px dashed #0066CC;" />
+
+		<hr style="height:1px;width:35%;border:none;border-top:1px dashed #0066CC;" />
+	</body>
+</html>
