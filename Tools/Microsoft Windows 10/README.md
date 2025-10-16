@@ -31,7 +31,7 @@ view-source:<a href="chrome://new-tab-page/">Chrome·新标签页</a> chrome://n
 
 
 
-**删除以前版本的 Windows (  [Windows.old - 国内版 Bing](https://cn.bing.com/search?q=Windows.old) )**
+- **删除以前版本的 Windows (  [Windows.old - 国内版 Bing](https://cn.bing.com/search?q=Windows.old) )**
 
 > 在升级到 Windows 10 十天后，以前版本的 Windows 将自动从电脑中删除。 不过，如果你需要释放磁盘空间，并且你确信文件和设置位于你希望它们在 Windows 10 中所处的位置，你可以自行将其安全删除。 请记住，你将删除 Windows.old 文件夹，该文件夹包含的文件可供你选择回退到以前版本的 Windows。 删除以前版本的 Windows 这一操作不可撤销。
 > 1.在任务栏上的搜索框中，键入“**设置**”，然后从结果列表中选择它。
@@ -2121,4 +2121,5 @@ Microsoft 承诺为 Windows 7 提供自其 2009 年 10 月 22 日发布以来为
 
 品牌电脑BIOS重启快捷键表:
 <img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E5%93%81%E7%89%8C%E7%94%B5%E8%84%91BIOS%E9%87%8D%E5%90%AF%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%A1%A8.jpg?raw=true" />
+
 
